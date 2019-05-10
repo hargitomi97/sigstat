@@ -7,6 +7,8 @@ h1 {
   margin-bottom: 10px;
 }
 
+
+
 .tooltipster-base.tooltipster-top,
 .tooltipster-base.tooltipster-bottom {
 padding-left :15px;
@@ -35,6 +37,17 @@ th {
   text-transform: uppercase;
   /*font-family: Arial;*/
   cursor: pointer;
+}
+
+th.rotate{
+  height: 120px;
+}
+
+th.rotate > div {
+  transform: 
+    translate(0px, -40px)
+    rotate(310deg);
+  font-size: 110%;
 }
 
 table.table-bordered{

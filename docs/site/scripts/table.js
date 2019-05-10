@@ -1,25 +1,23 @@
 $(function () {
   $.ajax({
     type: 'GET',
-    //url: 'https://api.myjson.com/bins/6o6l0',
     url: 'https://api.myjson.com/bins/16gc1g',
     dataType: 'json',
     success: function (data) {
       var length = Object.keys(data.databases).length;
-      var th = "<th class=\"align-middle\"";
+      var th = "<th class=\"rotate\">";
       var th_end = "</th>";
-      var rowspan2 = " rowspan=\"2\">";
-      //console.log(length);
+      //var rowspan2 = " rowspan=\"2\">";
 
-      $("#asd").append(th + rowspan2 + "Verifier's Name" + th_end);
+      $("#asd").append(th + "<div>" + "<span>" + "Verifier's Name" + "</div>"+ "</span>" + th_end);
       for (var i = 0; i < length; i++) {
-        $("#asd").append("<th colspan=\"3\">" + "<span>" + data.databases[i].Name + "</span>" + "</th>");
+        $("#asd").append(th + "<div>"+ "<span>" + data.databases[i].Name + "</div>"+"</span>" + th_end);
       }
-      for (var i = 0; i < length; i++) {
-        $("#asd2").append("<th><em>" + "AER" + "</em></th>");
-        $("#asd2").append("<th><em>" + "FAR" + "</em></th>");
-        $("#asd2").append("<th><em>" + "FRR" + "</em></th>");
-      }
+      //for (var i = 0; i < length; i++) {
+        //$("#asd2").append("<th><em>" + "AER" + "</em></th>");
+        //$("#asd2").append("<th><em>" + "FAR" + "</em></th>");
+        //$("#asd2").append("<th><em>" + "FRR" + "</em></th>");
+      //}
 
       var res_length = Object.keys(data.results).length;
       console.log(res_length);
@@ -32,9 +30,9 @@ $(function () {
       for (var i = 0; i < res_length; i++) {
         dynamic += "<tr>" + "<td>" + data.results[i].verifierName + "</td>"
         for (var j = 0; j < length; j++) {
-          dynamic += "<td>" + (data.results[i][databaseNames[j]].AER == null ? " " : data.results[i][databaseNames[j]].AER) + "</td>" +
-            "<td>" + (data.results[i][databaseNames[j]].FAR == null ? " " : data.results[i][databaseNames[j]].FAR) + "</td>" +
-            "<td>" + (data.results[i][databaseNames[j]].FRR == null ? " " : data.results[i][databaseNames[j]].FRR) + "</td>";
+          dynamic += "<td>" + (data.results[i][databaseNames[j]].AER == null ? " " : (data.results[i][databaseNames[j]].AER).toFixed(2)+"%") + "</td>";
+            //"<td>" + (data.results[i][databaseNames[j]].FAR == null ? " " : data.results[i][databaseNames[j]].FAR) + "</td>" +
+            //"<td>" + (data.results[i][databaseNames[j]].FRR == null ? " " : data.results[i][databaseNames[j]].FRR) + "</td>";
         }
         dynamic += "</tr>";
 
