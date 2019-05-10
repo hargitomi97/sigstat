@@ -24,14 +24,14 @@ padding-left :15px;
 }
 
 table tbody tr td:first-child{
-  font-style: italic;
+ font-style: italic;
 }
 
 th {
   padding: 20px 15px;
   background: #9e0b0f;
   text-align: center;
-  font-size: 12px;
+  font-size: 15px;
   font-weight: bold;
   color: whitesmoke;
   text-transform: uppercase;
@@ -47,7 +47,6 @@ th.rotate > div {
   transform: 
     translate(0px, -40px)
     rotate(310deg);
-  font-size: 110%;
 }
 
 table.table-bordered{

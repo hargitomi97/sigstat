@@ -1,7 +1,8 @@
 $(function () {
   $.ajax({
     type: 'GET',
-    url: 'https://api.myjson.com/bins/16gc1g',
+    url: 'https://api.myjson.com/bins/16gc1g', // - full
+    //url: 'https://api.myjson.com/bins/1f3pb2', // simplified
     dataType: 'json',
     success: function (data) {
       var length = Object.keys(data.databases).length;
@@ -9,14 +10,14 @@ $(function () {
       var th_end = "</th>";
       //var rowspan2 = " rowspan=\"2\">";
 
-      $("#asd").append(th + "<div>" + "<span>" + "Verifier's Name" + "</div>"+ "</span>" + th_end);
+      $("#asd").append("<th class=\"align-middle\">" + "Verifier's Name" + th_end);
       for (var i = 0; i < length; i++) {
-        $("#asd").append(th + "<div>"+ "<span>" + data.databases[i].Name + "</div>"+"</span>" + th_end);
+        $("#asd").append(th + "<div>" + "<span>" + data.databases[i].Name + "</div>" + "</span>" + th_end);
       }
       //for (var i = 0; i < length; i++) {
-        //$("#asd2").append("<th><em>" + "AER" + "</em></th>");
-        //$("#asd2").append("<th><em>" + "FAR" + "</em></th>");
-        //$("#asd2").append("<th><em>" + "FRR" + "</em></th>");
+      //$("#asd2").append("<th><em>" + "AER" + "</em></th>");
+      //$("#asd2").append("<th><em>" + "FAR" + "</em></th>");
+      //$("#asd2").append("<th><em>" + "FRR" + "</em></th>");
       //}
 
       var res_length = Object.keys(data.results).length;
@@ -30,9 +31,9 @@ $(function () {
       for (var i = 0; i < res_length; i++) {
         dynamic += "<tr>" + "<td>" + data.results[i].verifierName + "</td>"
         for (var j = 0; j < length; j++) {
-          dynamic += "<td>" + (data.results[i][databaseNames[j]].AER == null ? " " : (data.results[i][databaseNames[j]].AER).toFixed(2)+"%") + "</td>";
-            //"<td>" + (data.results[i][databaseNames[j]].FAR == null ? " " : data.results[i][databaseNames[j]].FAR) + "</td>" +
-            //"<td>" + (data.results[i][databaseNames[j]].FRR == null ? " " : data.results[i][databaseNames[j]].FRR) + "</td>";
+          dynamic += "<td>" + "<em>" + (data.results[i][databaseNames[j]].AER == null ? " " : (data.results[i][databaseNames[j]].AER).toFixed(2) + "%") + "</em>" + "</td>";
+          //"<td>" + (data.results[i][databaseNames[j]].FAR == null ? " " : data.results[i][databaseNames[j]].FAR) + "</td>" +
+          //"<td>" + (data.results[i][databaseNames[j]].FRR == null ? " " : data.results[i][databaseNames[j]].FRR) + "</td>";
         }
         dynamic += "</tr>";
 
@@ -60,7 +61,7 @@ $(function () {
           contentAsHTML: true,
           content: test,
           delay: 0,
-          theme: 'tooltipster-punk'
+          theme: 'tooltipster-light'
         });
 
         tooltipInstance.tooltipster('open');
@@ -82,29 +83,60 @@ $(function () {
           contentAsHTML: true,
           content: test,
           delay: 0,
-          theme: 'tooltipster-punk'
+          //theme: 'tooltipster-punk',
+          multiple: true
         })
         tooltipInstance.tooltipster('open');
       })
+
       $("body").on('mouseover', 'em:not(.tooltipstered)', function () {
-        var temp = ($(this).html());
+        var rowData = ($(this).parent().parent().find('td:first').text());
+        var currentColumnIndex = $(this).parent().index() - 1;
+        var db = data.databases[currentColumnIndex];
+        var final = db[Object.keys(db)[0]];
+        //console.log(rowData);
+        //console.log(final);
+
+        //var columnData = $(this).parent().parent().parent().parent().parent().parent().index();
+
+        //console.log(Object.keys(data["results"]));
+        var temp = data.results.find(asd => asd.verifierName === rowData);
+        var almost = temp[Object.keys(temp)[currentColumnIndex + 3]];
+        console.log(Object.keys(almost)[0] + ": " + almost[Object.keys(almost)[0]]);
+
+        /*var dictionary = [];
+        for (var i = 0; i < res_length; i++) {
+          for (var j = 0; j < length; j++) {
+              dictionary.push((data.databases[j].Name + "    " + (data.results[i][databaseNames[j]].AER).toFixed(2) + "%"));
+          }
+        }*/
+        //console.log(currentColumnIndex);
+        //console.log(dictionary);
+
         var tooltipInstance = null;
         var content = null;
 
-        if (temp == "AER") {
-          content = "Average Error Rate";
+        //console.log(columnData);
+
+        // get firstelement of row
+
+        var row = data.results.find(asd => asd.verifierName === rowData);
+        //var column = 
+        var test = "";
+
+        test += Object.keys(row)[0] + ": " + row[Object.keys(row)[0]] + "<br>";
+        test += "databaseName: " + final + "<br>";
+        for(var i = 0; i<=2; i++){
+          test += Object.keys(almost)[i] + ": " + almost[Object.keys(almost)[i]].toFixed(2) + "%" + "<br>";
         }
-        if (temp == "FAR") {
-          content = "False Acceptance Rate";
-        }
-        if (temp == "FRR") {
-          content = "False Rejection Rate";
-        }
+
+
         tooltipInstance = $(this).tooltipster({
           contentAsHTML: true,
-          content: content,
+          content: test,
           delay: 0,
-          theme: 'tooltipster-light'
+          theme: 'tooltipster-punk'
+
         })
         tooltipInstance.tooltipster('open');
 
