@@ -1,6 +1,6 @@
 # [SimpleRenderingTransformation](./SimpleRenderingTransformation.md)
 
-Namespace: [SigStat]() > [Common]()
+Namespace: [SigStat]() > [Common](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -20,6 +20,6 @@ Renders an image of the signature based on the available online information (X,Y
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./Signature.md) ) |  | 
+| void | Transform ( [`Signature`](./Signature.md) signature ) |  | 
 
 

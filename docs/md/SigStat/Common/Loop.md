@@ -1,6 +1,6 @@
 # [Loop](./Loop.md)
 
-Namespace: [SigStat]() > [Common]()
+Namespace: [SigStat]() > [Common](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -12,7 +12,7 @@ Represents a loop in a signature
 | Name | Summary | 
 | --- | --- | 
 | Loop (  ) | Creates a `SigStat.Common.Loop` instance | 
-| Loop ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single), [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) ) | Creates a `SigStat.Common.Loop` instance and initializes the `SigStat.Common.Loop.Center` property | 
+| Loop ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) centerX, [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) centerY ) | Creates a `SigStat.Common.Loop` instance and initializes the `SigStat.Common.Loop.Center` property | 
 
 
 ## Properties

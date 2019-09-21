@@ -1,6 +1,6 @@
 # [BasicMetadataExtraction](./BasicMetadataExtraction.md)
 
-Namespace: [SigStat]() > [Common]()
+Namespace: [SigStat]() > [Common](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -20,7 +20,7 @@ Extracts basic statistical signature (like `SigStat.Common.Features.Bounds` or `
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./Signature.md) ) |  | 
+| void | Transform ( [`Signature`](./Signature.md) signature ) |  | 
 
 
 ## Static Properties

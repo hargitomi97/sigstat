@@ -1,6 +1,6 @@
 # [ImageGenerator](./ImageGenerator.md)
 
-Namespace: [SigStat]() > [Common]() > [Transforms]()
+Namespace: [SigStat]() > [Common](./../README.md) > [Transforms](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -14,26 +14,25 @@ Generates an image feature out of a binary raster.  Optionally, saves the image 
 | Name | Summary | 
 | --- | --- | 
 | ImageGenerator (  ) | Initializes a new instance of the `SigStat.Common.Transforms.ImageGenerator` class with default settings: skip file writing, Blue ink on white paper. | 
-| ImageGenerator ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) ) | Initializes a new instance of the `SigStat.Common.Transforms.ImageGenerator` class with default settings. | 
-| ImageGenerator ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`Rgba32`](./ImageGenerator.md), [`Rgba32`](./ImageGenerator.md) ) | Initializes a new instance of the `SigStat.Common.Transforms.ImageGenerator` class with specified settings. | 
+| ImageGenerator ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) writeToFile ) | Initializes a new instance of the `SigStat.Common.Transforms.ImageGenerator` class with default settings. | 
+| ImageGenerator ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) writeToFile, [`Rgba32`](./ImageGenerator.md) foregroundColor, [`Rgba32`](./ImageGenerator.md) backgroundColor ) | Initializes a new instance of the `SigStat.Common.Transforms.ImageGenerator` class with specified settings. | 
 
 
 ## Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [Rgba32](./ImageGenerator.md) | BackgroundColor |  | 
-| [Rgba32](./ImageGenerator.md) | ForegroundColor |  | 
-| [FeatureDescriptor](./../FeatureDescriptor-1.md)\<[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]> | Input |  | 
-| [FeatureDescriptor](./../FeatureDescriptor-1.md)\<[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]> | Output |  | 
-| [FeatureDescriptor](./../FeatureDescriptor-1.md)\<[Image](./ImageGenerator.md)\<[Rgba32](./ImageGenerator.md)>> | OutputImage |  | 
-| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | WriteToFile |  | 
+| [Rgba32](./ImageGenerator.md) | BackgroundColor | Gets or sets the color of the backgroung used to render the signature | 
+| [Rgba32](./ImageGenerator.md) | ForegroundColor | Gets or sets the color of the foreground used to render the signature | 
+| [FeatureDescriptor](./../FeatureDescriptor-1.md)\<[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]> | Input | Input `SigStat.Common.FeatureDescriptor` for the binary image of a signature | 
+| [FeatureDescriptor](./../FeatureDescriptor-1.md)\<[Image](./ImageGenerator.md)\<[Rgba32](./ImageGenerator.md)>> | OutputImage | Input `SigStat.Common.FeatureDescriptor` for the binary image of a signature | 
+| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | WriteToFile | Gets or sets a value indicating whether the results should be saved to a file or not. | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../Signature.md) ) |  | 
+| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

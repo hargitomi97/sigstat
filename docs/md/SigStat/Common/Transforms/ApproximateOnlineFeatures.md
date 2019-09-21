@@ -1,6 +1,6 @@
 # [ApproximateOnlineFeatures](./ApproximateOnlineFeatures.md)
 
-Namespace: [SigStat]() > [Common]() > [Transforms]()
+Namespace: [SigStat]() > [Common](./../README.md) > [Transforms](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -20,6 +20,6 @@ init Pressure, Altitude, Azimuth features with default values.  <para>Default Pi
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../Signature.md) ) |  | 
+| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
 
 
