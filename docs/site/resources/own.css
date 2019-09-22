@@ -7,10 +7,8 @@ h1 {
   margin-bottom: 10px;
 }
 
-
-
 .tooltipster-base.tooltipster-top,
-.tooltipster-base.tooltipster-bottom {
+.tooltipster-base.tooltipster-bottom { /* have some space from the screen sides */
 padding-left :15px;
 padding-right: 15px;
 }
@@ -23,7 +21,6 @@ padding-right: 15px;
 padding-left :15px;
 }
 
-
 #myTable tbody tr td:first-child{
  font-style: italic;
 }
@@ -32,14 +29,14 @@ th {
   padding: 20px 15px;
   background: #9e0b0f;
   text-align: center;
-  font-size: 25px;
+  font-size: 30px;
   font-weight: bold;
   color: whitesmoke;
   text-transform: uppercase;
-  /*font-family: Arial;*/
   cursor: pointer;
 }
 
+/* rotate for column headers, to have vertical column header: rotate (270deg) needed */
 th.rotate{
   height: 128px;
   padding: 0;
@@ -55,11 +52,11 @@ th.rotate > div {
 
 .table-bordered{
   text-align: center;
-  table-layout: fixed;
+  /*table-layout: fixed;*/
   overflow-x: auto;
   white-space: nowrap;
   /*display: block;*/
-  width: 99%;
+  width: 100%;
   border-collapse: collapse;
 }
 
@@ -67,7 +64,7 @@ table:not(#under){
   border: 10px solid white;
 }
 
-table tr:nth-child(odd) td:not(#asd) {
+table tr:nth-child(odd) td:not(#underCell) {
   background: white;
   text-align: center;
   vertical-align: middle;
@@ -79,7 +76,7 @@ table tr:nth-child(odd) td:not(#asd) {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-table tr:nth-child(even) td:not(#asd) {
+table tr:nth-child(even) td:not(#underCell) {
   background: #D3D3D3;
   text-align: center;
   vertical-align: middle;
@@ -92,7 +89,7 @@ table tr:nth-child(even) td:not(#asd) {
 }
 
 p.summary{
-  font: bold 20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: bold 22px "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0px;
   vertical-align: middle;
 }

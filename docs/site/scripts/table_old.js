@@ -104,10 +104,12 @@ $(function () {
 
       $("body").on('mouseover', 'p:not(.tooltipstered)', function () {
         var rowData = ($(this).parent().parent().find('td:first').text());
+        console.log(rowData);
         var currentColumnIndex = $(this).parent().index();
 
 
         var temp = data.results.find(asd => asd.verifierName === rowData);
+        console.log(temp);
         var almost = "";
         if(currentColumnIndex === 1){
           almost = temp[Object.keys(temp)[Object.keys(temp).length-2]];
