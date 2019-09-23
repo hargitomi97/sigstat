@@ -2,12 +2,15 @@
 <img src="cooltext336462005790168.png">
 </p>
 
+# SigStat Open-source project
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/sigstat/sigstat/blob/master/LICENSE.md)
 [![Build status](https://ci.appveyor.com/api/projects/status/4om5obpqk6s57rq7/branch/master?svg=true)](https://ci.appveyor.com/project/BenceKovari/sigstat/branch/master)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9ef04a4d496c40eabb38e798930089e6)](https://www.codacy.com/app/SigStat/sigstat?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sigstat/sigstat&amp;utm_campaign=Badge_Grade)
 [![codecov](https://codecov.io/gh/sigstat/sigstat/branch/master/graph/badge.svg)](https://codecov.io/gh/sigstat/sigstat)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Follow SigStat on Twitter](https://img.shields.io/badge/twitter-@SigStatOrg-55acee.svg?style=flat-square)](https://twitter.com/sigstatorg)
+[![Known Vulnerabilities](https://snyk.io/test/github/{hargitomi97}/{sigstat}/badge.svg)](https://snyk.io/test/github/{hargitomi97}/{sigstat})
 
 # Introduction
 
