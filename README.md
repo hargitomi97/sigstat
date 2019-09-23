@@ -1,7 +1,7 @@
 # SigStat project
 
 <!--[![N|Solid](https://allaboutcloud.info/wp-content/uploads/2017/08/signature.png)](https://sigstat.org)-->
-[![](coollogo_com-118672687.gif)](https://sigstat.org)
+[![](coollogo_com-118672687.jpg)](https://sigstat.org)
 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/sigstat/sigstat/blob/master/LICENSE.md)
