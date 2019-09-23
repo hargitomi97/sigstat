@@ -1,6 +1,6 @@
-# SigStat project
-
-[![](cooltext336462005790168.png)](https://sigstat.org)
+<p align="center"> 
+<img src="cooltext336462005790168.png">
+</p>
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/sigstat/sigstat/blob/master/LICENSE.md)
 [![Build status](https://ci.appveyor.com/api/projects/status/4om5obpqk6s57rq7/branch/master?svg=true)](https://ci.appveyor.com/project/BenceKovari/sigstat/branch/master)
