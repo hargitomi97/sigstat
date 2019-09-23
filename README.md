@@ -10,7 +10,7 @@
 [![codecov](https://codecov.io/gh/sigstat/sigstat/branch/master/graph/badge.svg)](https://codecov.io/gh/sigstat/sigstat)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Follow SigStat on Twitter](https://img.shields.io/badge/twitter-@SigStatOrg-55acee.svg?style=flat-square)](https://twitter.com/sigstatorg)
-[![Known Vulnerabilities](https://snyk.io/test/github/{hargitomi97}/{sigstat}/badge.svg)](https://snyk.io/test/github/{hargitomi97}/{sigstat})
+[![Known Vulnerabilities](https://snyk.io/test/github/hargitomi97/sigstat/badge.svg)](https://snyk.io/test/github/hargitomi97/sigstat)
 
 # Introduction
 
