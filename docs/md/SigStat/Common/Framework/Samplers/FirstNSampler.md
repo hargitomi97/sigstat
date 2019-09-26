@@ -11,7 +11,7 @@ Selects the first N signatures for training
 
 | Name | Summary | 
 | --- | --- | 
-| FirstNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) n ) | Constructor | 
+| [FirstNSampler](./../../../../ctor/FirstNSampler-100664103.md) ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) n ) | Constructor | 
 
 
 ## Properties

@@ -13,7 +13,7 @@ Maps values of a feature to a specified range.  <para>Pipeline Input type: List{
 
 | Name | Summary | 
 | --- | --- | 
-| Map ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) minVal, [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) maxVal ) | Initializes a new instance of the `SigStat.Common.Transforms.Map` class with specified settings. | 
+| [Map](./../../../ctor/Map-100663622.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) minVal, [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) maxVal ) | Initializes a new instance of the `SigStat.Common.Transforms.Map` class with specified settings. | 
 
 
 ## Properties
@@ -28,6 +28,6 @@ Maps values of a feature to a specified range.  <para>Pipeline Input type: List{
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
+| void | [Transform](./Methods/Map-100663623.md) ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

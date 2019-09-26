@@ -13,8 +13,8 @@ Loads SVC2004-format database from .zip
 
 | Name | Summary | 
 | --- | --- | 
-| Svc2004Loader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Initializes a new instance of the `SigStat.Common.Loaders.Svc2004Loader` class with specified database. | 
-| Svc2004Loader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures, [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> signerFilter ) | Initializes a new instance of the `SigStat.Common.Loaders.Svc2004Loader` class with specified database. | 
+| [Svc2004Loader](./../../../ctor/Svc2004Loader-100663941.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Initializes a new instance of the `SigStat.Common.Loaders.Svc2004Loader` class with specified database. | 
+| [Svc2004Loader](./../../../ctor/Svc2004Loader-100663942.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures, [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> signerFilter ) | Initializes a new instance of the `SigStat.Common.Loaders.Svc2004Loader` class with specified database. | 
 
 
 ## Properties
@@ -30,14 +30,14 @@ Loads SVC2004-format database from .zip
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../Signer.md)> | EnumerateSigners ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> signerFilter ) |  | 
-| void | LoadSignature ( [`Signature`](./../Signature.md) signature, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Loads one signature from specified file path. | 
+| [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../Signer.md)> | [EnumerateSigners](./Methods/Svc2004Loader-100663943.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> signerFilter ) |  | 
+| void | [LoadSignature](./Methods/Svc2004Loader-100663944.md) ( [`Signature`](./../Signature.md) signature, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Loads one signature from specified file path. | 
 
 
 ## Static Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | LoadSignature ( [`Signature`](./../Signature.md) signature, [`Stream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.Stream) stream, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Loads one signature from specified stream. | 
+| void | [LoadSignature](./Methods/Svc2004Loader-100663945.md) ( [`Signature`](./../Signature.md) signature, [`Stream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.Stream) stream, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Loads one signature from specified stream. | 
 
 

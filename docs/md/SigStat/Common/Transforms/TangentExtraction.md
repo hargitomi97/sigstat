@@ -13,7 +13,7 @@ Extracts tangent values of the standard X, Y `SigStat.Common.Features`<para>Defa
 
 | Name | Summary | 
 | --- | --- | 
-| TangentExtraction (  ) |  | 
+| [TangentExtraction](./../../../ctor/TangentExtraction-100663597.md) (  ) |  | 
 
 
 ## Properties
@@ -29,6 +29,6 @@ Extracts tangent values of the standard X, Y `SigStat.Common.Features`<para>Defa
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
+| void | [Transform](./Methods/TangentExtraction-100663596.md) ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

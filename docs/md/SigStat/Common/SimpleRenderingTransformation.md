@@ -13,13 +13,13 @@ Renders an image of the signature based on the available online information (X,Y
 
 | Name | Summary | 
 | --- | --- | 
-| SimpleRenderingTransformation (  ) |  | 
+| [SimpleRenderingTransformation](./../../ctor/SimpleRenderingTransformation-100663460.md) (  ) |  | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./Signature.md) signature ) |  | 
+| void | [Transform](./Methods/SimpleRenderingTransformation-100663459.md) ( [`Signature`](./Signature.md) signature ) |  | 
 
 

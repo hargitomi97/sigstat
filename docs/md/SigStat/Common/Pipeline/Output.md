@@ -11,8 +11,8 @@ Annotates an output `SigStat.Common.FeatureDescriptor` in a transformation pipel
 
 | Name | Summary | 
 | --- | --- | 
-| Output ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) Default ) | Initializes a new instance of the `SigStat.Common.Pipeline.Output` class. | 
-| Output (  ) | Initializes a new instance of the `SigStat.Common.Pipeline.Output` class. | 
+| [Output](./../../../ctor/Output-100663480.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) Default ) | Initializes a new instance of the `SigStat.Common.Pipeline.Output` class. | 
+| [Output](./../../../ctor/Output-100663481.md) (  ) | Initializes a new instance of the `SigStat.Common.Pipeline.Output` class. | 
 
 
 ## Fields

@@ -13,7 +13,7 @@ Maps values of a feature to 0.0 - 1.0 range.  <para>Pipeline Input type: List{do
 
 | Name | Summary | 
 | --- | --- | 
-| Normalize (  ) |  | 
+| [Normalize](./../../../ctor/Normalize-100663635.md) (  ) |  | 
 
 
 ## Properties
@@ -28,6 +28,6 @@ Maps values of a feature to 0.0 - 1.0 range.  <para>Pipeline Input type: List{do
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
+| void | [Transform](./Methods/Normalize-100663634.md) ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

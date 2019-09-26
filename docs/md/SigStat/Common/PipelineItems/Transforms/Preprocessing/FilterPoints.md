@@ -13,7 +13,7 @@ Removes samples based on a criteria from online signature time series
 
 | Name | Summary | 
 | --- | --- | 
-| FilterPoints (  ) |  | 
+| [FilterPoints](./../../../../../ctor/FilterPoints-100663755.md) (  ) |  | 
 
 
 ## Properties
@@ -31,6 +31,6 @@ Removes samples based on a criteria from online signature time series
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../../../Signature.md) signature ) |  | 
+| void | [Transform](./Methods/FilterPoints-100663753.md) ( [`Signature`](./../../../Signature.md) signature ) |  | 
 
 

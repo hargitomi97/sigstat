@@ -13,13 +13,13 @@ Generates a realistic looking image of the Signature based on standard features.
 
 | Name | Summary | 
 | --- | --- | 
-| RealisticImageGenerator ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) resolutionX, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) resolutionY ) | Initializes a new instance of the `SigStat.Common.Transforms.RealisticImageGenerator` class with specified settings. | 
+| [RealisticImageGenerator](./../../../ctor/RealisticImageGenerator-100663698.md) ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) resolutionX, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) resolutionY ) | Initializes a new instance of the `SigStat.Common.Transforms.RealisticImageGenerator` class with specified settings. | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
+| void | [Transform](./Methods/RealisticImageGenerator-100663699.md) ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

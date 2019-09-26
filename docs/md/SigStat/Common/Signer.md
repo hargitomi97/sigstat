@@ -11,7 +11,7 @@ Represents a person as a `SigStat.Common.Signer.ID` and a list of `SigStat.Commo
 
 | Name | Summary | 
 | --- | --- | 
-| Signer (  ) |  | 
+| [Signer](./../../ctor/Signer-100663453.md) (  ) |  | 
 
 
 ## Properties
@@ -26,6 +26,6 @@ Represents a person as a `SigStat.Common.Signer.ID` and a list of `SigStat.Commo
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | ToString (  ) | Returns a string representation of a Signer | 
+| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | [ToString](./Methods/Signer-100663452.md) (  ) | Returns a string representation of a Signer | 
 
 

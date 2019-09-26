@@ -13,7 +13,7 @@ Represents a trained model for `SigStat.Common.PipelineItems.Classifiers.DtwClas
 
 | Name | Summary | 
 | --- | --- | 
-| DtwSignerModel (  ) |  | 
+| [DtwSignerModel](./../../../../ctor/DtwSignerModel-100663847.md) (  ) |  | 
 
 
 ## Fields

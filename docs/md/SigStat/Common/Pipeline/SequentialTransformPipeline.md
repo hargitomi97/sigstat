@@ -13,7 +13,7 @@ Runs pipeline items in a sequence.  <para>Default Pipeline Output: Output of the
 
 | Name | Summary | 
 | --- | --- | 
-| SequentialTransformPipeline (  ) |  | 
+| [SequentialTransformPipeline](./../../../ctor/SequentialTransformPipeline-100663510.md) (  ) |  | 
 
 
 ## Fields
@@ -35,8 +35,8 @@ Runs pipeline items in a sequence.  <para>Default Pipeline Output: Output of the
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Add ( [`ITransformation`](./../ITransformation.md) newItem ) | Add new transform to the list. | 
-| [IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerator) | GetEnumerator (  ) |  | 
-| void | Transform ( [`Signature`](./../Signature.md) signature ) | Executes transform `SigStat.Common.Pipeline.SequentialTransformPipeline.Items` in sequence.  Passes input features for each.  Output is the output of the last Item in the sequence. | 
+| void | [Add](./Methods/SequentialTransformPipeline-100663508.md) ( [`ITransformation`](./../ITransformation.md) newItem ) | Add new transform to the list. | 
+| [IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerator) | [GetEnumerator](./Methods/SequentialTransformPipeline-100663507.md) (  ) |  | 
+| void | [Transform](./Methods/SequentialTransformPipeline-100663509.md) ( [`Signature`](./../Signature.md) signature ) | Executes transform `SigStat.Common.Pipeline.SequentialTransformPipeline.Items` in sequence.  Passes input features for each.  Output is the output of the last Item in the sequence. | 
 
 

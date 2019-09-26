@@ -11,14 +11,14 @@ Binary 3x3 pattern matcher with rotating option.
 
 | Name | Summary | 
 | --- | --- | 
-| PatternMatching3x3 ( [`Nullable`](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)[]\<[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)> pattern ) | Initializes a new instance of the `SigStat.Common.Algorithms.PatternMatching3x3` class with given pattern. | 
+| [PatternMatching3x3](./../../../ctor/PatternMatching3x3-100664142.md) ( [`Nullable`](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)[]\<[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)> pattern ) | Initializes a new instance of the `SigStat.Common.Algorithms.PatternMatching3x3` class with given pattern. | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | Match ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] input ) | Match the 3x3 input with the 3x3 pattern. | 
-| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | RotMatch ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] input ) | Match the 3x3 input with the 3x3 pattern from all 4 directions. | 
+| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | [Match](./Methods/PatternMatching3x3-100664143.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] input ) | Match the 3x3 input with the 3x3 pattern. | 
+| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | [RotMatch](./Methods/PatternMatching3x3-100664144.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] input ) | Match the 3x3 input with the 3x3 pattern from all 4 directions. | 
 
 

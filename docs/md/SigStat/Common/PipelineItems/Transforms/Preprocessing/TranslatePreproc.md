@@ -13,8 +13,8 @@ This transformations can be used to translate the coordinates of an online signa
 
 | Name | Summary | 
 | --- | --- | 
-| TranslatePreproc (  ) | Initializes a new instance of the `SigStat.Common.PipelineItems.Transforms.Preprocessing.TranslatePreproc` class. | 
-| TranslatePreproc ( [`OriginType`](./OriginType.md) goalOrigin ) | Initializes a new instance of the `SigStat.Common.PipelineItems.Transforms.Preprocessing.TranslatePreproc` class. | 
+| [TranslatePreproc](./../../../../../ctor/TranslatePreproc-100663823.md) (  ) | Initializes a new instance of the `SigStat.Common.PipelineItems.Transforms.Preprocessing.TranslatePreproc` class. | 
+| [TranslatePreproc](./../../../../../ctor/TranslatePreproc-100663824.md) ( [`OriginType`](./OriginType.md) goalOrigin ) | Initializes a new instance of the `SigStat.Common.PipelineItems.Transforms.Preprocessing.TranslatePreproc` class. | 
 
 
 ## Properties
@@ -31,6 +31,6 @@ This transformations can be used to translate the coordinates of an online signa
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../../../Signature.md) signature ) |  | 
+| void | [Transform](./Methods/TranslatePreproc-100663825.md) ( [`Signature`](./../../../Signature.md) signature ) |  | 
 
 

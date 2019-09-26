@@ -13,7 +13,7 @@ Resamples an online signature to a specific sample count using the specified `Si
 
 | Name | Summary | 
 | --- | --- | 
-| ResampleSamplesCountBased (  ) |  | 
+| [ResampleSamplesCountBased](./../../../../../ctor/ResampleSamplesCountBased-100663804.md) (  ) |  | 
 
 
 ## Properties
@@ -32,6 +32,6 @@ Resamples an online signature to a specific sample count using the specified `Si
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../../../Signature.md) signature ) |  | 
+| void | [Transform](./Methods/ResampleSamplesCountBased-100663801.md) ( [`Signature`](./../../../Signature.md) signature ) |  | 
 
 

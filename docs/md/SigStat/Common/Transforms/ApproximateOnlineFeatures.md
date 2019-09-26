@@ -13,13 +13,13 @@ init Pressure, Altitude, Azimuth features with default values.  <para>Default Pi
 
 | Name | Summary | 
 | --- | --- | 
-| ApproximateOnlineFeatures (  ) |  | 
+| [ApproximateOnlineFeatures](./../../../ctor/ApproximateOnlineFeatures-100663549.md) (  ) |  | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
+| void | [Transform](./Methods/ApproximateOnlineFeatures-100663548.md) ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

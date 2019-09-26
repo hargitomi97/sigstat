@@ -13,7 +13,7 @@ Maps values of a feature to a specific range.  <para>InputFeature: feature to be
 
 | Name | Summary | 
 | --- | --- | 
-| Scale (  ) |  | 
+| [Scale](./../../../../../ctor/Scale-100663814.md) (  ) |  | 
 
 
 ## Properties
@@ -30,6 +30,6 @@ Maps values of a feature to a specific range.  <para>InputFeature: feature to be
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../../../Signature.md) signature ) |  | 
+| void | [Transform](./Methods/Scale-100663813.md) ( [`Signature`](./../../../Signature.md) signature ) |  | 
 
 

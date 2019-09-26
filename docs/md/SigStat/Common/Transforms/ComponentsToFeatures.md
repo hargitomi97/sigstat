@@ -13,7 +13,7 @@ Extracts standard `SigStat.Common.Features` from sorted Components.  <para>Defau
 
 | Name | Summary | 
 | --- | --- | 
-| ComponentsToFeatures (  ) |  | 
+| [ComponentsToFeatures](./../../../ctor/ComponentsToFeatures-100663581.md) (  ) |  | 
 
 
 ## Properties
@@ -30,6 +30,6 @@ Extracts standard `SigStat.Common.Features` from sorted Components.  <para>Defau
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
+| void | [Transform](./Methods/ComponentsToFeatures-100663580.md) ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

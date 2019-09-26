@@ -13,7 +13,7 @@ This transformation will fill "holes" in the "Time" feature by interpolating the
 
 | Name | Summary | 
 | --- | --- | 
-| FillPenUpDurations (  ) |  | 
+| [FillPenUpDurations](./../../../../../ctor/FillPenUpDurations-100663742.md) (  ) |  | 
 
 
 ## Properties
@@ -31,6 +31,6 @@ This transformation will fill "holes" in the "Time" feature by interpolating the
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../../../Signature.md) signature ) |  | 
+| void | [Transform](./Methods/FillPenUpDurations-100663739.md) ( [`Signature`](./../../../Signature.md) signature ) |  | 
 
 

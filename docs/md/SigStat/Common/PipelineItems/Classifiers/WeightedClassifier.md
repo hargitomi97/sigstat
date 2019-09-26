@@ -13,7 +13,7 @@ Classifies Signatures by weighing other Classifier results.
 
 | Name | Summary | 
 | --- | --- | 
-| WeightedClassifier (  ) |  | 
+| [WeightedClassifier](./../../../../ctor/WeightedClassifier-100663872.md) (  ) |  | 
 
 
 ## Fields
@@ -27,9 +27,9 @@ Classifies Signatures by weighing other Classifier results.
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Add ( [`ValueTuple`](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[`IClassifier`](./../../Pipeline/IClassifier.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> newItem ) | Add a new classifier with given weight to the list of items. | 
-| [IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerator) | GetEnumerator (  ) |  | 
-| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | Test ( [`ISignerModel`](./../../Pipeline/ISignerModel.md) model, [`Signature`](./../../Signature.md) signature ) |  | 
-| [ISignerModel](./../../Pipeline/ISignerModel.md) | Train ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> signatures ) |  | 
+| void | [Add](./Methods/WeightedClassifier-100663869.md) ( [`ValueTuple`](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[`IClassifier`](./../../Pipeline/IClassifier.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> newItem ) | Add a new classifier with given weight to the list of items. | 
+| [IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerator) | [GetEnumerator](./Methods/WeightedClassifier-100663868.md) (  ) |  | 
+| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | [Test](./Methods/WeightedClassifier-100663871.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md) model, [`Signature`](./../../Signature.md) signature ) |  | 
+| [ISignerModel](./../../Pipeline/ISignerModel.md) | [Train](./Methods/WeightedClassifier-100663870.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> signatures ) |  | 
 
 

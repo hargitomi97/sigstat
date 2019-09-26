@@ -13,8 +13,8 @@ Classifies Signatures with the `SigStat.Common.Algorithms.Dtw` algorithm.
 
 | Name | Summary | 
 | --- | --- | 
-| DtwClassifier (  ) | Initializes a new instance of the `SigStat.Common.PipelineItems.Classifiers.DtwClassifier` class with the default Manhattan distance method. | 
-| DtwClassifier ( [`Func`](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> distanceMethod ) | Initializes a new instance of the `SigStat.Common.PipelineItems.Classifiers.DtwClassifier` class with a specified distance method. | 
+| [DtwClassifier](./../../../../ctor/DtwClassifier-100663854.md) (  ) | Initializes a new instance of the `SigStat.Common.PipelineItems.Classifiers.DtwClassifier` class with the default Manhattan distance method. | 
+| [DtwClassifier](./../../../../ctor/DtwClassifier-100663855.md) ( [`Func`](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> distanceMethod ) | Initializes a new instance of the `SigStat.Common.PipelineItems.Classifiers.DtwClassifier` class with a specified distance method. | 
 
 
 ## Properties
@@ -30,7 +30,7 @@ Classifies Signatures with the `SigStat.Common.Algorithms.Dtw` algorithm.
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | Test ( [`ISignerModel`](./../../Pipeline/ISignerModel.md) model, [`Signature`](./../../Signature.md) signature ) |  | 
-| [ISignerModel](./../../Pipeline/ISignerModel.md) | Train ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> signatures ) |  | 
+| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | [Test](./Methods/DtwClassifier-100663857.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md) model, [`Signature`](./../../Signature.md) signature ) |  | 
+| [ISignerModel](./../../Pipeline/ISignerModel.md) | [Train](./Methods/DtwClassifier-100663856.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> signatures ) |  | 
 
 

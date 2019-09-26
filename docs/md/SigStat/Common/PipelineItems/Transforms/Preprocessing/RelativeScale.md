@@ -13,7 +13,7 @@ Maps values of a feature to a specific range.  <para>InputFeature: feature to be
 
 | Name | Summary | 
 | --- | --- | 
-| RelativeScale (  ) |  | 
+| [RelativeScale](./../../../../../ctor/RelativeScale-100663788.md) (  ) |  | 
 
 
 ## Properties
@@ -29,6 +29,6 @@ Maps values of a feature to a specific range.  <para>InputFeature: feature to be
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../../../Signature.md) signature ) |  | 
+| void | [Transform](./Methods/RelativeScale-100663787.md) ( [`Signature`](./../../../Signature.md) signature ) |  | 
 
 

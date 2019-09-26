@@ -11,7 +11,7 @@ SerializationContext for serializing SigStat objects
 
 | Name | Summary | 
 | --- | --- | 
-| FeatureStreamingContextState (  ) | Constructor | 
+| [FeatureStreamingContextState](./../../../../ctor/FeatureStreamingContextState-100664055.md) (  ) | Constructor | 
 
 
 ## Properties

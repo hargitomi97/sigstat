@@ -13,7 +13,7 @@ Extracts the Centroid (aka. Center Of Gravity) of the input features.  <para> De
 
 | Name | Summary | 
 | --- | --- | 
-| CentroidExtraction (  ) |  | 
+| [CentroidExtraction](./../../../ctor/CentroidExtraction-100663555.md) (  ) |  | 
 
 
 ## Properties
@@ -28,6 +28,6 @@ Extracts the Centroid (aka. Center Of Gravity) of the input features.  <para> De
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
+| void | [Transform](./Methods/CentroidExtraction-100663554.md) ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

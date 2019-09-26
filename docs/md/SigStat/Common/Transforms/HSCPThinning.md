@@ -13,7 +13,7 @@ Iteratively thins the input binary raster with the `SigStat.Common.Algorithms.HS
 
 | Name | Summary | 
 | --- | --- | 
-| HSCPThinning (  ) |  | 
+| [HSCPThinning](./../../../ctor/HSCPThinning-100663663.md) (  ) |  | 
 
 
 ## Properties
@@ -28,6 +28,6 @@ Iteratively thins the input binary raster with the `SigStat.Common.Algorithms.HS
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
+| void | [Transform](./Methods/HSCPThinning-100663662.md) ( [`Signature`](./../Signature.md) signature ) |  | 
 
 
