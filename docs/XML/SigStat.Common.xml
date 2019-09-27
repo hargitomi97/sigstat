@@ -10,15 +10,6 @@
         <member name="F:SigStat.Common.Result.Signer">
             <summary>Identifier of the <see cref="F:SigStat.Common.Result.Signer"/></summary>
         </member>
-        <member name="F:SigStat.Common.Result.Frr">
-            <summary>False Rejection Rate</summary>
-        </member>
-        <member name="F:SigStat.Common.Result.Far">
-            <summary>False Acceptance Rate</summary>
-        </member>
-        <member name="F:SigStat.Common.Result.Aer">
-            <summary>Average Error Rate</summary>
-        </member>
         <member name="T:SigStat.Common.BenchmarkResults">
             <summary>Contains the benchmark results of every  and the summarized final results.</summary>
         </member>
