@@ -50,5 +50,5 @@
 - [`StrokeInterval`](./StrokeInterval.md)
 	- Represents a stroke in an online signature
 - [`VerifierBenchmark`](./VerifierBenchmark.md)
-	- Benchmarking class to test error rates of a [SigStat.Common.Model.Verifier]()
+	- Benchmarking class to test error rates of a [SigStat.Common.Model.Verifier](../Verifier.md)
 

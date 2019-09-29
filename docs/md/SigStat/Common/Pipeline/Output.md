@@ -11,8 +11,8 @@ Annotates an output [SigStat.Common.FeatureDescriptor](./FeatureDescriptor.md) i
 
 | Name | Summary | 
 | --- | --- | 
-| [Output](./../../../ctor/Output-100663480.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) Default ) | Initializes a new instance of the [SigStat.Common.Pipeline.Output]() class. | 
-| [Output](./../../../ctor/Output-100663481.md) (  ) | Initializes a new instance of the [SigStat.Common.Pipeline.Output]() class. | 
+| [Output](./../../../ctor/Output-100663480.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) Default ) | Initializes a new instance of the [SigStat.Common.Pipeline.Output](../Output.md) class. | 
+| [Output](./../../../ctor/Output-100663481.md) (  ) | Initializes a new instance of the [SigStat.Common.Pipeline.Output](../Output.md) class. | 
 
 
 ## Fields

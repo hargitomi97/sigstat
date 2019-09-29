@@ -13,9 +13,9 @@ Generates an image feature out of a binary raster.  Optionally, saves the image 
 
 | Name | Summary | 
 | --- | --- | 
-| [ImageGenerator](./../../../ctor/ImageGenerator-100663674.md) (  ) | Initializes a new instance of the [SigStat.Common.Transforms.ImageGenerator]() class with default settings: skip file writing, Blue ink on white paper. | 
-| [ImageGenerator](./../../../ctor/ImageGenerator-100663675.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) writeToFile ) | Initializes a new instance of the [SigStat.Common.Transforms.ImageGenerator]() class with default settings. | 
-| [ImageGenerator](./../../../ctor/ImageGenerator-100663676.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) writeToFile, [`Rgba32`](./ImageGenerator.md) foregroundColor, [`Rgba32`](./ImageGenerator.md) backgroundColor ) | Initializes a new instance of the [SigStat.Common.Transforms.ImageGenerator]() class with specified settings. | 
+| [ImageGenerator](./../../../ctor/ImageGenerator-100663674.md) (  ) | Initializes a new instance of the [SigStat.Common.Transforms.ImageGenerator](../ImageGenerator.md) class with default settings: skip file writing, Blue ink on white paper. | 
+| [ImageGenerator](./../../../ctor/ImageGenerator-100663675.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) writeToFile ) | Initializes a new instance of the [SigStat.Common.Transforms.ImageGenerator](../ImageGenerator.md) class with default settings. | 
+| [ImageGenerator](./../../../ctor/ImageGenerator-100663676.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) writeToFile, [`Rgba32`](./ImageGenerator.md) foregroundColor, [`Rgba32`](./ImageGenerator.md) backgroundColor ) | Initializes a new instance of the [SigStat.Common.Transforms.ImageGenerator](../ImageGenerator.md) class with specified settings. | 
 
 
 ## Properties

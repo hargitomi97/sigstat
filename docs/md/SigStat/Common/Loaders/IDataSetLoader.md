@@ -5,7 +5,7 @@ Namespace: [SigStat]() > [Common](./../README.md) > [Loaders](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Exposes a function to enable loading collections of [SigStat.Common.Signer](./Signer.md)s.  Base abstract class: [SigStat.Common.Loaders.DataSetLoader]().
+Exposes a function to enable loading collections of [SigStat.Common.Signer](./Signer.md)s.  Base abstract class: [SigStat.Common.Loaders.DataSetLoader](../DataSetLoader.md).
 
 ## Methods
 

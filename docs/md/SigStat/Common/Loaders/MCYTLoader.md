@@ -7,13 +7,13 @@ Assembly: SigStat.Common.dll
 Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerObject.md)
 
 ## Summary
-[SigStat.Common.Loaders.DataSetLoader]() for the MCYT dataset
+[SigStat.Common.Loaders.DataSetLoader](../DataSetLoader.md) for the MCYT dataset
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| [MCYTLoader](./../../../ctor/MCYTLoader-100663887.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Initializes a new instance of the [SigStat.Common.Loaders.MCYTLoader]() class. | 
+| [MCYTLoader](./../../../ctor/MCYTLoader-100663887.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Initializes a new instance of the [SigStat.Common.Loaders.MCYTLoader](../MCYTLoader.md) class. | 
 
 
 ## Properties

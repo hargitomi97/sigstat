@@ -7,13 +7,13 @@ Assembly: SigStat.Common.dll
 Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerObject.md)
 
 ## Summary
-[SigStat.Common.Loaders.DataSetLoader]() for the SigComp15German dataset
+[SigStat.Common.Loaders.DataSetLoader](../DataSetLoader.md) for the SigComp15German dataset
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| [SigComp15GermanLoader](./../../../ctor/SigComp15GermanLoader-100663918.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Initializes a new instance of the [SigStat.Common.Loaders.SigComp15GermanLoader]() class. | 
+| [SigComp15GermanLoader](./../../../ctor/SigComp15GermanLoader-100663918.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Initializes a new instance of the [SigStat.Common.Loaders.SigComp15GermanLoader](../SigComp15GermanLoader.md) class. | 
 
 
 ## Properties
