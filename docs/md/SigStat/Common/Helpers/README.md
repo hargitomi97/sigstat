@@ -5,9 +5,9 @@
 - [`ExcelHelper`](./ExcelHelper.md)
 	- Extension methods for common EPPlus tasks
 - [`FeatureDescriptorJsonConverter`](./FeatureDescriptorJsonConverter.md)
-	- Custom serializer for [SigStat.Common.FeatureDescriptor](./SigStat/Common/FeatureDescriptor.md) objects
+	- Custom serializer for [SigStat.Common.FeatureDescriptor](https://github.com/hargitomi97/sigstat/tree/master/docs/md/SigStat/Common/FeatureDescriptor.md) objects
 - [`FeatureDescriptorTJsonConverter`](./FeatureDescriptorTJsonConverter.md)
-	- Custom serializer for [SigStat.Common.FeatureDescriptor`1](./SigStat/Common/FeatureDescriptor`1.md) objects
+	- Custom serializer for [SigStat.Common.FeatureDescriptor`1](https://github.com/hargitomi97/sigstat/tree/master/docs/md/SigStat/Common/FeatureDescriptor`1.md) objects
 - [`HierarchyElement`](./HierarchyElement.md)
 	- Hierarchical structure to store object
 - [`IProgress`](./IProgress.md)

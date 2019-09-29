@@ -3,7 +3,7 @@
 ## Types
 
 - [`DtwClassifier`](./DtwClassifier.md)
-	- Classifies Signatures with the [SigStat.Common.Algorithms.Dtw](./SigStat/Common/Algorithms/Dtw.md) algorithm.
+	- Classifies Signatures with the [SigStat.Common.Algorithms.Dtw](https://github.com/hargitomi97/sigstat/tree/master/docs/md/SigStat/Common/Algorithms/Dtw.md) algorithm.
 - [`DtwSignerModel`](./DtwSignerModel.md)
 	- Represents a trained model for [SigStat.Common.PipelineItems.Classifiers.DtwClassifier]()
 - [`OptimalDtwClassifier`](./OptimalDtwClassifier.md)
