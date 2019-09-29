@@ -5,7 +5,7 @@ Namespace: [SigStat]() > [Common](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Represents a person as a `SigStat.Common.Signer.ID` and a list of `SigStat.Common.Signer.Signatures`.
+Represents a person as a [SigStat.Common.Signer.ID](./Signature.md) and a list of [SigStat.Common.Signer.Signatures](./Signature.md).
 
 ## Constructors
 

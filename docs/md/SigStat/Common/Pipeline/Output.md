@@ -5,14 +5,14 @@ Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Annotates an output `SigStat.Common.FeatureDescriptor` in a transformation pipeline
+Annotates an output [SigStat.Common.FeatureDescriptor](./Signature.md) in a transformation pipeline
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| [Output](./../../../ctor/Output-100663480.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) Default ) | Initializes a new instance of the `SigStat.Common.Pipeline.Output` class. | 
-| [Output](./../../../ctor/Output-100663481.md) (  ) | Initializes a new instance of the `SigStat.Common.Pipeline.Output` class. | 
+| [Output](./../../../ctor/Output-100663480.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) Default ) | Initializes a new instance of the [SigStat.Common.Pipeline.Output](./Signature.md) class. | 
+| [Output](./../../../ctor/Output-100663481.md) (  ) | Initializes a new instance of the [SigStat.Common.Pipeline.Output](./Signature.md) class. | 
 
 
 ## Fields

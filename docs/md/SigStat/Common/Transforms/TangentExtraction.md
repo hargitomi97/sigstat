@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Extracts tangent values of the standard X, Y `SigStat.Common.Features`<br>Default Pipeline Input: X, Y `SigStat.Common.Features`<br>Default Pipeline Output: (List{double})  Tangent
+Extracts tangent values of the standard X, Y [SigStat.Common.Features](./Signature.md)<br>Default Pipeline Input: X, Y [SigStat.Common.Features](./Signature.md)<br>Default Pipeline Output: (List{double})  Tangent
 
 ## Constructors
 

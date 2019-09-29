@@ -11,8 +11,8 @@ Represents a loop in a signature
 
 | Name | Summary | 
 | --- | --- | 
-| [Loop](./../../ctor/Loop-100663340.md) (  ) | Creates a `SigStat.Common.Loop` instance | 
-| [Loop](./../../ctor/Loop-100663341.md) ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) centerX, [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) centerY ) | Creates a `SigStat.Common.Loop` instance and initializes the `SigStat.Common.Loop.Center` property | 
+| [Loop](./../../ctor/Loop-100663340.md) (  ) | Creates a [SigStat.Common.Loop](./Signature.md) instance | 
+| [Loop](./../../ctor/Loop-100663341.md) ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) centerX, [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) centerY ) | Creates a [SigStat.Common.Loop](./Signature.md) instance and initializes the [SigStat.Common.Loop.Center](./Signature.md) property | 
 
 
 ## Properties

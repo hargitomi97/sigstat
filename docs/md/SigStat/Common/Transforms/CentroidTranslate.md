@@ -7,13 +7,13 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerable), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Sequential pipeline to translate X and Y `SigStat.Common.Features` to Centroid.  The following Transforms are called: `SigStat.Common.Transforms.CentroidExtraction`, `SigStat.Common.Transforms.Multiply`(-1), `SigStat.Common.Transforms.Translate`<br>Default Pipeline Input: `SigStat.Common.Features.X`, `SigStat.Common.Features.Y`<br>Default Pipeline Output: (List{double}) Centroid
+Sequential pipeline to translate X and Y [SigStat.Common.Features](./Signature.md) to Centroid.  The following Transforms are called: [SigStat.Common.Transforms.CentroidExtraction](./Signature.md), [SigStat.Common.Transforms.Multiply](./Signature.md)(-1), [SigStat.Common.Transforms.Translate](./Signature.md)<br>Default Pipeline Input: [SigStat.Common.Features.X](./Signature.md), [SigStat.Common.Features.Y](./Signature.md)<br>Default Pipeline Output: (List{double}) Centroid
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| [CentroidTranslate](./../../../ctor/CentroidTranslate-100663526.md) (  ) | Initializes a new instance of the `SigStat.Common.Transforms.CentroidTranslate` class. | 
+| [CentroidTranslate](./../../../ctor/CentroidTranslate-100663526.md) (  ) | Initializes a new instance of the [SigStat.Common.Transforms.CentroidTranslate](./Signature.md) class. | 
 
 
 ## Properties

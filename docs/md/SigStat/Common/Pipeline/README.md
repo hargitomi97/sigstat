@@ -7,19 +7,19 @@
 - [`IDistanceClassifier`](./IDistanceClassifier.md)
 	- Trains classification models based on reference signatures, by calculating the distances between signature pairs
 - [`Input`](./Input.md)
-	- Annotates an input `SigStat.Common.FeatureDescriptor` in a transformation pipeline
+	- Annotates an input [SigStat.Common.FeatureDescriptor](./Signature.md) in a transformation pipeline
 - [`IPipelineIO`](./IPipelineIO.md)
-	- Supports the definition of `SigStat.Common.Pipeline.PipelineInput` and `SigStat.Common.Pipeline.PipelineOutput`
+	- Supports the definition of [SigStat.Common.Pipeline.PipelineInput](./Signature.md) and [SigStat.Common.Pipeline.PipelineOutput](./Signature.md)
 - [`ISignerModel`](./ISignerModel.md)
 	- Analyzes signatures based on their similiarity to the trained model
 - [`Output`](./Output.md)
-	- Annotates an output `SigStat.Common.FeatureDescriptor` in a transformation pipeline
+	- Annotates an output [SigStat.Common.FeatureDescriptor](./Signature.md) in a transformation pipeline
 - [`ParallelTransformPipeline`](./ParallelTransformPipeline.md)
 	- Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the Item outputs.
 - [`PipelineInput`](./PipelineInput.md)
-	- Represents an input for a `SigStat.Common.Pipeline.PipelineInput.PipelineItem`
+	- Represents an input for a [SigStat.Common.Pipeline.PipelineInput.PipelineItem](./Signature.md)
 - [`PipelineOutput`](./PipelineOutput.md)
-	- Represents an output for a `SigStat.Common.Pipeline.PipelineOutput.PipelineItem`
+	- Represents an output for a [SigStat.Common.Pipeline.PipelineOutput.PipelineItem](./Signature.md)
 - [`SequentialTransformPipeline`](./SequentialTransformPipeline.md)
 	- Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the last Item in the sequence.
 

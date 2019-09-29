@@ -37,6 +37,6 @@ Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the 
 | --- | --- | --- | 
 | void | [Add](./Methods/ParallelTransformPipeline-100663502.md) ( [`ITransformation`](./../ITransformation.md) newItem ) | Add new transform to the list. | 
 | [IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerator) | [GetEnumerator](./Methods/ParallelTransformPipeline-100663501.md) (  ) |  | 
-| void | [Transform](./Methods/ParallelTransformPipeline-100663503.md) ( [`Signature`](./../Signature.md) signature ) | Executes transform `SigStat.Common.Pipeline.ParallelTransformPipeline.Items` parallel.  Passes input features for each.  Output is a range of all the Item outputs. | 
+| void | [Transform](./Methods/ParallelTransformPipeline-100663503.md) ( [`Signature`](./../Signature.md) signature ) | Executes transform [SigStat.Common.Pipeline.ParallelTransformPipeline.Items](./Signature.md) parallel.  Passes input features for each.  Output is a range of all the Item outputs. | 
 
 
