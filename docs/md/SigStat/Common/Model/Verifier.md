@@ -13,9 +13,9 @@ Uses pipelines to transform, train on, and classify [SigStat.Common.Signature](.
 
 | Name | Summary | 
 | --- | --- | 
-| [Verifier](./../../../ctor/Verifier-100664091.md) ( [`ILogger`](./Verifier.md) logger ) | Initializes a new instance of the [SigStat.Common.Model.Verifier](../Verifier.md) class | 
-| [Verifier](./../../../ctor/Verifier-100664092.md) (  ) | Initializes a new instance of the [SigStat.Common.Model.Verifier](../Verifier.md) class. | 
-| [Verifier](./../../../ctor/Verifier-100664093.md) ( [`Verifier`](./Verifier.md) baseVerifier ) | Initializes a new instance of the [SigStat.Common.Model.Verifier](../Verifier.md) class based on another Verifier instance | 
+| [Verifier](./../../../ctor/Verifier-100664091.md) ( [`ILogger`](./Verifier.md) logger ) | Initializes a new instance of the [SigStat.Common.Model.Verifier](../Model/Verifier.md) class | 
+| [Verifier](./../../../ctor/Verifier-100664092.md) (  ) | Initializes a new instance of the [SigStat.Common.Model.Verifier](../Model/Verifier.md) class. | 
+| [Verifier](./../../../ctor/Verifier-100664093.md) ( [`Verifier`](./Verifier.md) baseVerifier ) | Initializes a new instance of the [SigStat.Common.Model.Verifier](../Model/Verifier.md) class based on another Verifier instance | 
 
 
 ## Properties

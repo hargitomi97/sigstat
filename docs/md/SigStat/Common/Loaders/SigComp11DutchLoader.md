@@ -7,13 +7,13 @@ Assembly: SigStat.Common.dll
 Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerObject.md)
 
 ## Summary
-[SigStat.Common.Loaders.DataSetLoader](../DataSetLoader.md) for the SigComp11Dutch dataset
+[SigStat.Common.Loaders.DataSetLoader](../Loaders/DataSetLoader.md) for the SigComp11Dutch dataset
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| [SigComp11DutchLoader](./../../../ctor/SigComp11DutchLoader-100663902.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Initializes a new instance of the [SigStat.Common.Loaders.SigComp11DutchLoader](../SigComp11DutchLoader.md) class. | 
+| [SigComp11DutchLoader](./../../../ctor/SigComp11DutchLoader-100663902.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Initializes a new instance of the [SigStat.Common.Loaders.SigComp11DutchLoader](../Loaders/SigComp11DutchLoader.md) class. | 
 
 
 ## Properties

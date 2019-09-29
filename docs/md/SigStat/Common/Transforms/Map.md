@@ -13,7 +13,7 @@ Maps values of a feature to a specified range.  <br>Pipeline Input type: List{do
 
 | Name | Summary | 
 | --- | --- | 
-| [Map](./../../../ctor/Map-100663622.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) minVal, [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) maxVal ) | Initializes a new instance of the [SigStat.Common.Transforms.Map](../Map.md) class with specified settings. | 
+| [Map](./../../../ctor/Map-100663622.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) minVal, [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) maxVal ) | Initializes a new instance of the [SigStat.Common.Transforms.Map](../Transforms/Map.md) class with specified settings. | 
 
 
 ## Properties

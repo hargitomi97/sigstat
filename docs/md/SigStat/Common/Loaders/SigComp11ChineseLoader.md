@@ -7,13 +7,13 @@ Assembly: SigStat.Common.dll
 Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerObject.md)
 
 ## Summary
-[SigStat.Common.Loaders.DataSetLoader](../DataSetLoader.md) for the SigComp11Chinese dataset
+[SigStat.Common.Loaders.DataSetLoader](../Loaders/DataSetLoader.md) for the SigComp11Chinese dataset
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| [SigComp11ChineseLoader](./../../../ctor/SigComp11ChineseLoader-100663894.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Initializes a new instance of the [SigStat.Common.Loaders.SigComp11ChineseLoader](../SigComp11ChineseLoader.md) class. | 
+| [SigComp11ChineseLoader](./../../../ctor/SigComp11ChineseLoader-100663894.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Initializes a new instance of the [SigStat.Common.Loaders.SigComp11ChineseLoader](../Loaders/SigComp11ChineseLoader.md) class. | 
 
 
 ## Properties

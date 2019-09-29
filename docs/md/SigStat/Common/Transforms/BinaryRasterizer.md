@@ -13,7 +13,7 @@ Converts standard features to a binary raster.  <br>Default Pipeline Input: Stan
 
 | Name | Summary | 
 | --- | --- | 
-| [BinaryRasterizer](./../../../ctor/BinaryRasterizer-100663653.md) ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) resolutionX, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) resolutionY, [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) penWidth ) | Initializes a new instance of the [SigStat.Common.Transforms.BinaryRasterizer](../BinaryRasterizer.md) class with specified raster size and pen width. | 
+| [BinaryRasterizer](./../../../ctor/BinaryRasterizer-100663653.md) ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) resolutionX, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) resolutionY, [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) penWidth ) | Initializes a new instance of the [SigStat.Common.Transforms.BinaryRasterizer](../Transforms/BinaryRasterizer.md) class with specified raster size and pen width. | 
 
 
 ## Properties

@@ -7,13 +7,13 @@ Assembly: SigStat.Common.dll
 Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerObject.md)
 
 ## Summary
-[SigStat.Common.Loaders.DataSetLoader](../DataSetLoader.md) for the SigComp19 dataset
+[SigStat.Common.Loaders.DataSetLoader](../Loaders/DataSetLoader.md) for the SigComp19 dataset
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| [SigComp19OnlineLoader](./../../../ctor/SigComp19OnlineLoader-100663926.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Initializes a new instance of the [SigStat.Common.Loaders.SigComp19OnlineLoader](../SigComp19OnlineLoader.md) class. | 
+| [SigComp19OnlineLoader](./../../../ctor/SigComp19OnlineLoader-100663926.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Initializes a new instance of the [SigStat.Common.Loaders.SigComp19OnlineLoader](../Loaders/SigComp19OnlineLoader.md) class. | 
 
 
 ## Properties
