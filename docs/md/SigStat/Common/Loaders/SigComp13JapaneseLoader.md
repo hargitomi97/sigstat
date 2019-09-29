@@ -7,13 +7,13 @@ Assembly: SigStat.Common.dll
 Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerObject.md)
 
 ## Summary
-[SigStat.Common.Loaders.DataSetLoader](./Signature.md) for the SigComp13Japanese dataset
+[SigStat.Common.Loaders.DataSetLoader](./DataSetLoader.md) for the SigComp13Japanese dataset
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| [SigComp13JapaneseLoader](./../../../ctor/SigComp13JapaneseLoader-100663910.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Initializes a new instance of the [SigStat.Common.Loaders.SigComp13JapaneseLoader](./Signature.md) class. | 
+| [SigComp13JapaneseLoader](./../../../ctor/SigComp13JapaneseLoader-100663910.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Initializes a new instance of the [SigStat.Common.Loaders.SigComp13JapaneseLoader](./SigComp13JapaneseLoader.md) class. | 
 
 
 ## Properties
@@ -21,7 +21,7 @@ Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerOb
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | DatabasePath | Gets or sets the database path. | 
-| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | StandardFeatures | Gets or sets a value indicating whether features are also loaded as [SigStat.Common.Features](./Signature.md) | 
+| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | StandardFeatures | Gets or sets a value indicating whether features are also loaded as [SigStat.Common.Features](./Features.md) | 
 
 
 ## Methods

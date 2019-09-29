@@ -9,7 +9,7 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 | --- | --- | 
-| [Palette](./../../../../ctor/Palette-100664077.md) ( [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) main, [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) dark, [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) light ) | Initializes a new instance of the [SigStat.Common.Helpers.Excel.Palette](./Signature.md) class. | 
+| [Palette](./../../../../ctor/Palette-100664077.md) ( [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) main, [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) dark, [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) light ) | Initializes a new instance of the [SigStat.Common.Helpers.Excel.Palette](./Palette.md) class. | 
 
 
 ## Properties

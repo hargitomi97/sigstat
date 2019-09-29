@@ -5,13 +5,13 @@ Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Represents an input for a [SigStat.Common.Pipeline.PipelineInput.PipelineItem](./Signature.md)
+Represents an input for a [SigStat.Common.Pipeline.PipelineInput.PipelineItem]()
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| [PipelineInput](./../../../ctor/PipelineInput-100663490.md) ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) PipelineItem, [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) PI ) | Initializes a new instance of the [SigStat.Common.Pipeline.PipelineInput](./Signature.md) class. | 
+| [PipelineInput](./../../../ctor/PipelineInput-100663490.md) ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) PipelineItem, [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) PI ) | Initializes a new instance of the [SigStat.Common.Pipeline.PipelineInput](./PipelineInput.md) class. | 
 
 
 ## Properties

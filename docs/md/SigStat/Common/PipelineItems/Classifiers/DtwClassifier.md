@@ -7,14 +7,14 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../../ILoggerObject.md), [IProgress](./../../Helpers/IProgress.md), [IPipelineIO](./../../Pipeline/IPipelineIO.md), [IDistanceClassifier](./../../Pipeline/IDistanceClassifier.md), [IClassifier](./../../Pipeline/IClassifier.md)
 
 ## Summary
-Classifies Signatures with the [SigStat.Common.Algorithms.Dtw](./Signature.md) algorithm.
+Classifies Signatures with the [SigStat.Common.Algorithms.Dtw](./Dtw.md) algorithm.
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| [DtwClassifier](./../../../../ctor/DtwClassifier-100663854.md) (  ) | Initializes a new instance of the [SigStat.Common.PipelineItems.Classifiers.DtwClassifier](./Signature.md) class with the default Manhattan distance method. | 
-| [DtwClassifier](./../../../../ctor/DtwClassifier-100663855.md) ( [`Func`](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> distanceMethod ) | Initializes a new instance of the [SigStat.Common.PipelineItems.Classifiers.DtwClassifier](./Signature.md) class with a specified distance method. | 
+| [DtwClassifier](./../../../../ctor/DtwClassifier-100663854.md) (  ) | Initializes a new instance of the [SigStat.Common.PipelineItems.Classifiers.DtwClassifier](./DtwClassifier.md) class with the default Manhattan distance method. | 
+| [DtwClassifier](./../../../../ctor/DtwClassifier-100663855.md) ( [`Func`](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> distanceMethod ) | Initializes a new instance of the [SigStat.Common.PipelineItems.Classifiers.DtwClassifier](./DtwClassifier.md) class with a specified distance method. | 
 
 
 ## Properties

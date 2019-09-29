@@ -5,7 +5,7 @@ Namespace: [SigStat]() > [Common](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Contains the benchmark results of a single [SigStat.Common.Signer](./Signature.md)
+Contains the benchmark results of a single [SigStat.Common.Signer](./Signer.md)
 
 ## Fields
 
@@ -15,6 +15,6 @@ Contains the benchmark results of a single [SigStat.Common.Signer](./Signature.m
 | [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | Far | False Acceptance Rate | 
 | [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | Frr | False Rejection Rate | 
 | [ISignerModel](./Pipeline/ISignerModel.md) | Model |  | 
-| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | Signer | Identifier of the [SigStat.Common.Result.Signer](./Signature.md) | 
+| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | Signer | Identifier of the [SigStat.Common.Result.Signer](./Signer.md) | 
 
 

@@ -5,13 +5,13 @@ Namespace: [SigStat]() > [Common](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Takes samples from a set of [SigStat.Common.Signature](./Signature.md)s by given sampling strategies.  Use this to fine-tune the [SigStat.Common.VerifierBenchmark](./Signature.md)
+Takes samples from a set of [SigStat.Common.Signature](./Signature.md)s by given sampling strategies.  Use this to fine-tune the [SigStat.Common.VerifierBenchmark](./VerifierBenchmark.md)
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| [Sampler](./../../ctor/Sampler-100663359.md) ( [`Func`](https://docs.microsoft.com/en-us/dotnet/api/System.Func-2)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)>, [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)>> references, [`Func`](https://docs.microsoft.com/en-us/dotnet/api/System.Func-2)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)>, [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)>> genuineTests, [`Func`](https://docs.microsoft.com/en-us/dotnet/api/System.Func-2)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)>, [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)>> forgeryTests ) | Initialize a new instance of the [SigStat.Common.Sampler](./Signature.md) class by given sampling strategies. | 
+| [Sampler](./../../ctor/Sampler-100663359.md) ( [`Func`](https://docs.microsoft.com/en-us/dotnet/api/System.Func-2)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)>, [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)>> references, [`Func`](https://docs.microsoft.com/en-us/dotnet/api/System.Func-2)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)>, [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)>> genuineTests, [`Func`](https://docs.microsoft.com/en-us/dotnet/api/System.Func-2)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)>, [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)>> forgeryTests ) | Initialize a new instance of the [SigStat.Common.Sampler](./Sampler.md) class by given sampling strategies. | 
 
 
 ## Properties
