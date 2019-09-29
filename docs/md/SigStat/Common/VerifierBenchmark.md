@@ -9,7 +9,6 @@ Implements [ILoggerObject](./ILoggerObject.md)
 ## Summary
 Benchmarking class to test error rates of a [SigStat.Common.Model.Verifier](../Verifier.md)
 
-
 ## Constructors
 
 | Name | Summary | 
