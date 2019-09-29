@@ -13,14 +13,14 @@ Extracts basic statistical signature (like [SigStat.Common.Features.Bounds]() or
 
 | Name | Summary | 
 | --- | --- | 
-| [BasicMetadataExtraction](./../../ctor/BasicMetadataExtraction-100663457.md) (  ) |  | 
+| BasicMetadataExtraction (  ) |  | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | [Transform](./Methods/BasicMetadataExtraction-100663456.md) ( [`Signature`](./Signature.md) signature ) |  | 
+| void | Transform ( [`Signature`](./Signature.md) signature ) |  | 
 
 
 ## Static Properties

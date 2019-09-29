@@ -13,7 +13,7 @@ Iteratively thins the input binary raster with the [SigStat.Common.Algorithms.On
 
 | Name | Summary | 
 | --- | --- | 
-| [OnePixelThinning](./../../../ctor/OnePixelThinning-100663683.md) (  ) |  | 
+| OnePixelThinning (  ) |  | 
 
 
 ## Properties
@@ -28,6 +28,6 @@ Iteratively thins the input binary raster with the [SigStat.Common.Algorithms.On
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | [Transform](./Methods/OnePixelThinning-100663682.md) ( [`Signature`](./../Signature.md) signature ) |  | 
+| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

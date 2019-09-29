@@ -13,13 +13,13 @@ Extracts minimum and maximum values of given feature.  <br>Default Pipeline Outp
 
 | Name | Summary | 
 | --- | --- | 
-| [Extrema](./../../../ctor/Extrema-100663617.md) (  ) |  | 
+| Extrema (  ) |  | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | [Transform](./Methods/Extrema-100663616.md) ( [`Signature`](./../Signature.md) signature ) |  | 
+| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

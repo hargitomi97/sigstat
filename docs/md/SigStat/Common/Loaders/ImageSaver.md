@@ -11,6 +11,6 @@ Get the [SigStat.Common.Features.Image]() of a [SigStat.Common.Signature](./../S
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | [Save](./Methods/ImageSaver-100663886.md) ( [`Signature`](./../Signature.md) signature, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path ) | Saves a png image file to the specified ``. | 
+| void | Save ( [`Signature`](./../Signature.md) signature, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path ) | Saves a png image file to the specified ``. | 
 
 

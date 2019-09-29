@@ -13,7 +13,7 @@ Maps values of a feature to 0.0 - 1.0 range.  <br>Pipeline Input type: List{doub
 
 | Name | Summary | 
 | --- | --- | 
-| [Normalize](./../../../ctor/Normalize-100663635.md) (  ) |  | 
+| Normalize (  ) |  | 
 
 
 ## Properties
@@ -28,6 +28,6 @@ Maps values of a feature to 0.0 - 1.0 range.  <br>Pipeline Input type: List{doub
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | [Transform](./Methods/Normalize-100663634.md) ( [`Signature`](./../Signature.md) signature ) |  | 
+| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

@@ -13,7 +13,7 @@ Multiplies the values of a feature with a given constant.  <br>Pipeline Input ty
 
 | Name | Summary | 
 | --- | --- | 
-| [Multiply](./../../../ctor/Multiply-100663628.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) byConst ) | Initializes a new instance of the [SigStat.Common.Transforms.Multiply](./../Transforms/Multiply.md) class with specified settings. | 
+| Multiply ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) byConst ) | Initializes a new instance of the [SigStat.Common.Transforms.Multiply](./../Transforms/Multiply.md) class with specified settings. | 
 
 
 ## Properties
@@ -28,6 +28,6 @@ Multiplies the values of a feature with a given constant.  <br>Pipeline Input ty
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | [Transform](./Methods/Multiply-100663629.md) ( [`Signature`](./../Signature.md) signature ) |  | 
+| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

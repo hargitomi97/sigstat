@@ -11,7 +11,7 @@ A Sparse Matrix representation of a distance graph.
 
 | Name | Summary | 
 | --- | --- | 
-| [DistanceMatrix](./../../ctor/DistanceMatrix`3-100663397.md) (  ) |  | 
+| DistanceMatrix (  ) |  | 
 
 
 ## Properties
@@ -25,7 +25,7 @@ A Sparse Matrix representation of a distance graph.
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | [ContainsKey](./Methods/DistanceMatrix`3-100663394.md) ( [`TRowKey`](./DistanceMatrix-3.md) row, [`TColumnKey`](./DistanceMatrix-3.md) column ) |  | 
-| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | [TryGetValue](./Methods/DistanceMatrix`3-100663393.md) ( [`TRowKey`](./DistanceMatrix-3.md) row, [`TColumnKey`](./DistanceMatrix-3.md) column, out [`TValue`](./DistanceMatrix-3.md) value ) |  | 
+| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | ContainsKey ( [`TRowKey`](./DistanceMatrix-3.md) row, [`TColumnKey`](./DistanceMatrix-3.md) column ) |  | 
+| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | TryGetValue ( [`TRowKey`](./DistanceMatrix-3.md) row, [`TColumnKey`](./DistanceMatrix-3.md) column, out [`TValue`](./DistanceMatrix-3.md) value ) |  | 
 
 

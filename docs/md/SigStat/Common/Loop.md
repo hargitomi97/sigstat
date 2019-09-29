@@ -11,8 +11,8 @@ Represents a loop in a signature
 
 | Name | Summary | 
 | --- | --- | 
-| [Loop](./../../ctor/Loop-100663340.md) (  ) | Creates a [SigStat.Common.Loop](./../Loop.md) instance | 
-| [Loop](./../../ctor/Loop-100663341.md) ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) centerX, [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) centerY ) | Creates a [SigStat.Common.Loop](./../Loop.md) instance and initializes the [SigStat.Common.Loop.Center]() property | 
+| Loop (  ) | Creates a [SigStat.Common.Loop](./../Loop.md) instance | 
+| Loop ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) centerX, [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) centerY ) | Creates a [SigStat.Common.Loop](./../Loop.md) instance and initializes the [SigStat.Common.Loop.Center]() property | 
 
 
 ## Properties
@@ -28,6 +28,6 @@ Represents a loop in a signature
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | [ToString](./Methods/Loop-100663342.md) (  ) | Returns a string representation of the loop | 
+| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | ToString (  ) | Returns a string representation of the loop | 
 
 

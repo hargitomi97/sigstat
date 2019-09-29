@@ -13,7 +13,7 @@ Extracts EndPoints and CrossingPoints from Skeleton.  <br>Default Pipeline Input
 
 | Name | Summary | 
 | --- | --- | 
-| [EndpointExtraction](./../../../ctor/EndpointExtraction-100663589.md) (  ) |  | 
+| EndpointExtraction (  ) |  | 
 
 
 ## Properties
@@ -29,6 +29,6 @@ Extracts EndPoints and CrossingPoints from Skeleton.  <br>Default Pipeline Input
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | [Transform](./Methods/EndpointExtraction-100663588.md) ( [`Signature`](./../Signature.md) signature ) |  | 
+| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

@@ -13,7 +13,7 @@ Resizes the image to a specified width and height
 
 | Name | Summary | 
 | --- | --- | 
-| [Resize](./../../../ctor/Resize-100663716.md) (  ) |  | 
+| Resize (  ) |  | 
 
 
 ## Properties
@@ -31,6 +31,6 @@ Resizes the image to a specified width and height
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | [Transform](./Methods/Resize-100663714.md) ( [`Signature`](./../Signature.md) signature ) |  | 
+| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

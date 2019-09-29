@@ -11,7 +11,7 @@ Selects a given number of signatures for training and testing
 
 | Name | Summary | 
 | --- | --- | 
-| [UniversalSampler](./../../../../ctor/UniversalSampler-100664120.md) ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) trainingCount, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) testCount ) | Constructor | 
+| UniversalSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) trainingCount, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) testCount ) | Constructor | 
 
 
 ## Properties

@@ -13,7 +13,7 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 | Name | Summary | 
 | --- | --- | 
-| [UniformScale](./../../../../../ctor/UniformScale-100663844.md) (  ) |  | 
+| UniformScale (  ) |  | 
 
 
 ## Properties
@@ -33,6 +33,6 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | [Transform](./Methods/UniformScale-100663843.md) ( [`Signature`](./../../../Signature.md) signature ) |  | 
+| void | Transform ( [`Signature`](./../../../Signature.md) signature ) |  | 
 
 

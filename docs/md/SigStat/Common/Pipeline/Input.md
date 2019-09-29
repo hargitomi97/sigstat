@@ -11,7 +11,7 @@ Annotates an input [SigStat.Common.FeatureDescriptor](./../FeatureDescriptor.md)
 
 | Name | Summary | 
 | --- | --- | 
-| [Input](./../../../ctor/Input-100663479.md) ( [`AutoSetMode`](./AutoSetMode.md) AutoSetMode ) | Initializes a new instance of the [SigStat.Common.Pipeline.Input](./../Pipeline/Input.md) class. | 
+| Input ( [`AutoSetMode`](./AutoSetMode.md) AutoSetMode ) | Initializes a new instance of the [SigStat.Common.Pipeline.Input](./../Pipeline/Input.md) class. | 
 
 
 ## Fields

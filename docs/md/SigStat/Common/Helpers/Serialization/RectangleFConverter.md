@@ -11,15 +11,15 @@ Custom serializer for [System.Drawing.RectangleF]() objects
 
 | Name | Summary | 
 | --- | --- | 
-| [RectangleFConverter](./../../../../ctor/RectangleFConverter-100664061.md) (  ) |  | 
+| RectangleFConverter (  ) |  | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | [CanConvert](./Methods/RectangleFConverter-100664058.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType ) | Tells if the current object is of the correct type | 
-| [Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object) | [ReadJson](./Methods/RectangleFConverter-100664059.md) ( [`JsonReader`](./RectangleFConverter.md) reader, [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) existingValue, [`JsonSerializer`](./RectangleFConverter.md) serializer ) |  | 
-| void | [WriteJson](./Methods/RectangleFConverter-100664060.md) ( [`JsonWriter`](./RectangleFConverter.md) writer, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) value, [`JsonSerializer`](./RectangleFConverter.md) serializer ) |  | 
+| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | CanConvert ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType ) | Tells if the current object is of the correct type | 
+| [Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object) | ReadJson ( [`JsonReader`](./RectangleFConverter.md) reader, [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) existingValue, [`JsonSerializer`](./RectangleFConverter.md) serializer ) |  | 
+| void | WriteJson ( [`JsonWriter`](./RectangleFConverter.md) writer, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) value, [`JsonSerializer`](./RectangleFConverter.md) serializer ) |  | 
 
 

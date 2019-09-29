@@ -13,7 +13,7 @@ Adds a constant value to a feature. Works with collection features too.  <br>Def
 
 | Name | Summary | 
 | --- | --- | 
-| [AddConst](./../../../ctor/AddConst-100663602.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) value ) | Initializes a new instance of the [SigStat.Common.Transforms.AddConst](./../Transforms/AddConst.md) class with specified settings. | 
+| AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) value ) | Initializes a new instance of the [SigStat.Common.Transforms.AddConst](./../Transforms/AddConst.md) class with specified settings. | 
 
 
 ## Properties
@@ -28,6 +28,6 @@ Adds a constant value to a feature. Works with collection features too.  <br>Def
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | [Transform](./Methods/AddConst-100663603.md) ( [`Signature`](./../Signature.md) signature ) |  | 
+| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

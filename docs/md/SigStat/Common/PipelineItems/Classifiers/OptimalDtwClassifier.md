@@ -13,7 +13,7 @@ This [SigStat.Common.Pipeline.IDistanceClassifier]() implementation will conside
 
 | Name | Summary | 
 | --- | --- | 
-| [OptimalDtwClassifier](./../../../../ctor/OptimalDtwClassifier-100663864.md) ( [`Func`](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> distanceFunction ) | Initializes a new instance of the [SigStat.Common.PipelineItems.Classifiers.OptimalDtwClassifier]() class. | 
+| OptimalDtwClassifier ( [`Func`](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> distanceFunction ) | Initializes a new instance of the [SigStat.Common.PipelineItems.Classifiers.OptimalDtwClassifier]() class. | 
 
 
 ## Properties
@@ -29,7 +29,7 @@ This [SigStat.Common.Pipeline.IDistanceClassifier]() implementation will conside
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | [Test](./Methods/OptimalDtwClassifier-100663867.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md) signerModel, [`Signature`](./../../Signature.md) signature ) |  | 
-| [ISignerModel](./../../Pipeline/ISignerModel.md) | [Train](./Methods/OptimalDtwClassifier-100663865.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> signatures ) |  | 
+| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | Test ( [`ISignerModel`](./../../Pipeline/ISignerModel.md) signerModel, [`Signature`](./../../Signature.md) signature ) |  | 
+| [ISignerModel](./../../Pipeline/ISignerModel.md) | Train ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> signatures ) |  | 
 
 

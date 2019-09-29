@@ -9,8 +9,8 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 | --- | --- | 
-| [Baseline](./../../ctor/Baseline-100663330.md) (  ) | Initializes a Baseline instance | 
-| [Baseline](./../../ctor/Baseline-100663331.md) ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) x1, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) y1, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) x2, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) y2 ) | Initializes a Baseline instance with the given startpoint and endpoint | 
+| Baseline (  ) | Initializes a Baseline instance | 
+| Baseline ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) x1, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) y1, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) x2, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) y2 ) | Initializes a Baseline instance with the given startpoint and endpoint | 
 
 
 ## Properties
@@ -25,6 +25,6 @@ Assembly: SigStat.Common.dll
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | [ToString](./Methods/Baseline-100663332.md) (  ) | Returns a string representation of the baseline | 
+| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | ToString (  ) | Returns a string representation of the baseline | 
 
 

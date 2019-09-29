@@ -13,7 +13,7 @@ Sorts Component order by comparing each starting X value, and finding nearest co
 
 | Name | Summary | 
 | --- | --- | 
-| [ComponentSorter](./../../../ctor/ComponentSorter-100663517.md) (  ) |  | 
+| ComponentSorter (  ) |  | 
 
 
 ## Properties
@@ -28,6 +28,6 @@ Sorts Component order by comparing each starting X value, and finding nearest co
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | [Transform](./Methods/ComponentSorter-100663515.md) ( [`Signature`](./../Signature.md) signature ) |  | 
+| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

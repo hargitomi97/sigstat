@@ -13,7 +13,7 @@ Performs rotation normalization on the online signature
 
 | Name | Summary | 
 | --- | --- | 
-| [NormalizeRotation](./../../../../../ctor/NormalizeRotation-100663780.md) (  ) |  | 
+| NormalizeRotation (  ) |  | 
 
 
 ## Properties
@@ -31,6 +31,6 @@ Performs rotation normalization on the online signature
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | [Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) signature ) |  | 
+| void | Transform ( [`Signature`](./../../../Signature.md) signature ) |  | 
 
 

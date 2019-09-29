@@ -11,7 +11,7 @@ Selects the first N signatures with even index for training
 
 | Name | Summary | 
 | --- | --- | 
-| [EvenNSampler](./../../../../ctor/EvenNSampler-100664098.md) ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) n ) | Constructor | 
+| EvenNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) n ) | Constructor | 
 
 
 ## Properties

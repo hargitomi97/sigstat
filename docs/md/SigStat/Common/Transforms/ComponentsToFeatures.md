@@ -13,7 +13,7 @@ Extracts standard [SigStat.Common.Features](./../Features.md) from sorted Compon
 
 | Name | Summary | 
 | --- | --- | 
-| [ComponentsToFeatures](./../../../ctor/ComponentsToFeatures-100663581.md) (  ) |  | 
+| ComponentsToFeatures (  ) |  | 
 
 
 ## Properties
@@ -30,6 +30,6 @@ Extracts standard [SigStat.Common.Features](./../Features.md) from sorted Compon
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | [Transform](./Methods/ComponentsToFeatures-100663580.md) ( [`Signature`](./../Signature.md) signature ) |  | 
+| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

@@ -13,9 +13,9 @@ Uses pipelines to transform, train on, and classify [SigStat.Common.Signature](.
 
 | Name | Summary | 
 | --- | --- | 
-| [Verifier](./../../../ctor/Verifier-100664091.md) ( [`ILogger`](./Verifier.md) logger ) | Initializes a new instance of the [SigStat.Common.Model.Verifier](./../Model/Verifier.md) class | 
-| [Verifier](./../../../ctor/Verifier-100664092.md) (  ) | Initializes a new instance of the [SigStat.Common.Model.Verifier](./../Model/Verifier.md) class. | 
-| [Verifier](./../../../ctor/Verifier-100664093.md) ( [`Verifier`](./Verifier.md) baseVerifier ) | Initializes a new instance of the [SigStat.Common.Model.Verifier](./../Model/Verifier.md) class based on another Verifier instance | 
+| Verifier ( [`ILogger`](./Verifier.md) logger ) | Initializes a new instance of the [SigStat.Common.Model.Verifier](./../Model/Verifier.md) class | 
+| Verifier (  ) | Initializes a new instance of the [SigStat.Common.Model.Verifier](./../Model/Verifier.md) class. | 
+| Verifier ( [`Verifier`](./Verifier.md) baseVerifier ) | Initializes a new instance of the [SigStat.Common.Model.Verifier](./../Model/Verifier.md) class based on another Verifier instance | 
 
 
 ## Properties
@@ -33,7 +33,7 @@ Uses pipelines to transform, train on, and classify [SigStat.Common.Signature](.
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | [Test](./Methods/Verifier-100664095.md) ( [`Signature`](./../Signature.md) signature ) | Verifies the genuinity of ``. | 
-| void | [Train](./Methods/Verifier-100664094.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> signatures ) | Trains the verifier with a list of signatures. Uses the [SigStat.Common.Model.Verifier.Pipeline]() to extract features,  and [SigStat.Common.Model.Verifier.Classifier]() to find an optimized limit. | 
+| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | Test ( [`Signature`](./../Signature.md) signature ) | Verifies the genuinity of ``. | 
+| void | Train ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> signatures ) | Trains the verifier with a list of signatures. Uses the [SigStat.Common.Model.Verifier.Pipeline]() to extract features,  and [SigStat.Common.Model.Verifier.Classifier]() to find an optimized limit. | 
 
 
