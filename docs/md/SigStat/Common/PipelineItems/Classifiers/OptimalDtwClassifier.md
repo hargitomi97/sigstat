@@ -13,7 +13,7 @@ This [SigStat.Common.Pipeline.IDistanceClassifier]() implementation will conside
 
 | Name | Summary | 
 | --- | --- | 
-| [OptimalDtwClassifier](./../../../../ctor/OptimalDtwClassifier-100663864.md) ( [`Func`](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> distanceFunction ) | Initializes a new instance of the [SigStat.Common.PipelineItems.Classifiers.OptimalDtwClassifier](./OptimalDtwClassifier.md) class. | 
+| [OptimalDtwClassifier](./../../../../ctor/OptimalDtwClassifier-100663864.md) ( [`Func`](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> distanceFunction ) | Initializes a new instance of the [SigStat.Common.PipelineItems.Classifiers.OptimalDtwClassifier]() class. | 
 
 
 ## Properties

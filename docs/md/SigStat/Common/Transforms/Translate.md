@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerable), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Sequential pipeline to translate X and Y [SigStat.Common.Features](./Features.md) by specified vector (constant or feature).  The following Transforms are called: [SigStat.Common.Transforms.AddConst](./AddConst.md) twice, or [SigStat.Common.Transforms.AddVector](./AddVector.md).  <br>Default Pipeline Input: [SigStat.Common.Features.X](), [SigStat.Common.Features.Y]()<br>Default Pipeline Output: [SigStat.Common.Features.X](), [SigStat.Common.Features.Y]()
+Sequential pipeline to translate X and Y [SigStat.Common.Features](./Features.md) by specified vector (constant or feature).  The following Transforms are called: [SigStat.Common.Transforms.AddConst]() twice, or [SigStat.Common.Transforms.AddVector]().  <br>Default Pipeline Input: [SigStat.Common.Features.X](), [SigStat.Common.Features.Y]()<br>Default Pipeline Output: [SigStat.Common.Features.X](), [SigStat.Common.Features.Y]()
 
 ## Constructors
 

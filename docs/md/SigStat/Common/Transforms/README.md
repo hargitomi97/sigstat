@@ -15,7 +15,7 @@
 - [`CentroidExtraction`](./CentroidExtraction.md)
 	- Extracts the Centroid (aka. Center Of Gravity) of the input features.  <br> Default Pipeline Output: (List{double}) Centroid.
 - [`CentroidTranslate`](./CentroidTranslate.md)
-	- Sequential pipeline to translate X and Y [SigStat.Common.Features](./Features.md) to Centroid.  The following Transforms are called: [SigStat.Common.Transforms.CentroidExtraction](./CentroidExtraction.md), [SigStat.Common.Transforms.Multiply](./Multiply.md)(-1), [SigStat.Common.Transforms.Translate](./Translate.md)<br>Default Pipeline Input: [SigStat.Common.Features.X](), [SigStat.Common.Features.Y]()<br>Default Pipeline Output: (List{double}) Centroid
+	- Sequential pipeline to translate X and Y [SigStat.Common.Features](./Features.md) to Centroid.  The following Transforms are called: [SigStat.Common.Transforms.CentroidExtraction](), [SigStat.Common.Transforms.Multiply]()(-1), [SigStat.Common.Transforms.Translate]()<br>Default Pipeline Input: [SigStat.Common.Features.X](), [SigStat.Common.Features.Y]()<br>Default Pipeline Output: (List{double}) Centroid
 - [`ComponentExtraction`](./ComponentExtraction.md)
 	- Extracts unsorted components by tracing through the binary Skeleton raster.  <br>Default Pipeline Input: (bool[,]) Skeleton, (List{Point}) EndPoints, (List{Point}) CrossingPoints<br>Default Pipeline Output: (List{List{PointF}}) Components
 - [`ComponentSorter`](./ComponentSorter.md)
@@ -27,7 +27,7 @@
 - [`Extrema`](./Extrema.md)
 	- Extracts minimum and maximum values of given feature.  <br>Default Pipeline Output: (List{double}) Min, (List{double}) Max
 - [`HSCPThinning`](./HSCPThinning.md)
-	- Iteratively thins the input binary raster with the [SigStat.Common.Algorithms.HSCPThinningStep](./HSCPThinningStep.md) algorithm.  <br>Pipeline Input type: bool[,]<br>Default Pipeline Output: (bool[,]) HSCPThinningResult
+	- Iteratively thins the input binary raster with the [SigStat.Common.Algorithms.HSCPThinningStep]() algorithm.  <br>Pipeline Input type: bool[,]<br>Default Pipeline Output: (bool[,]) HSCPThinningResult
 - [`ImageGenerator`](./ImageGenerator.md)
 	- Generates an image feature out of a binary raster.  Optionally, saves the image to a png file.  Useful for debugging pipeline steps.  <br>Pipeline Input type: bool[,]<br>Default Pipeline Output: (bool[,]) Input, (Image{Rgba32}) InputImage
 - [`Map`](./Map.md)
@@ -37,7 +37,7 @@
 - [`Normalize`](./Normalize.md)
 	- Maps values of a feature to 0.0 - 1.0 range.  <br>Pipeline Input type: List{double}<br>Default Pipeline Output: (List{double}) NormalizationResult
 - [`OnePixelThinning`](./OnePixelThinning.md)
-	- Iteratively thins the input binary raster with the [SigStat.Common.Algorithms.OnePixelThinningStep](./OnePixelThinningStep.md) algorithm.  <br>Pipeline Input type: bool[,]<br>Default Pipeline Output: (bool[,]) OnePixelThinningResult
+	- Iteratively thins the input binary raster with the [SigStat.Common.Algorithms.OnePixelThinningStep]() algorithm.  <br>Pipeline Input type: bool[,]<br>Default Pipeline Output: (bool[,]) OnePixelThinningResult
 - [`RealisticImageGenerator`](./RealisticImageGenerator.md)
 	- Generates a realistic looking image of the Signature based on standard features. Uses blue ink and white paper. It does NOT save the image to file.  <br>Default Pipeline Input: X, Y, Button, Pressure, Azimuth, Altitude [SigStat.Common.Features](./Features.md)<br>Default Pipeline Output: [SigStat.Common.Features.Image]()
 - [`Resize`](./Resize.md)
@@ -47,7 +47,7 @@
 - [`TimeReset`](./TimeReset.md)
 	- Sequential pipeline to reset time values to begin at 0.  The following Transforms are called: Extrema, Multiply, AddVector.  <br>Default Pipeline Input: [SigStat.Common.Features.T]()<br>Default Pipeline Output: [SigStat.Common.Features.T]()
 - [`Translate`](./Translate.md)
-	- Sequential pipeline to translate X and Y [SigStat.Common.Features](./Features.md) by specified vector (constant or feature).  The following Transforms are called: [SigStat.Common.Transforms.AddConst](./AddConst.md) twice, or [SigStat.Common.Transforms.AddVector](./AddVector.md).  <br>Default Pipeline Input: [SigStat.Common.Features.X](), [SigStat.Common.Features.Y]()<br>Default Pipeline Output: [SigStat.Common.Features.X](), [SigStat.Common.Features.Y]()
+	- Sequential pipeline to translate X and Y [SigStat.Common.Features](./Features.md) by specified vector (constant or feature).  The following Transforms are called: [SigStat.Common.Transforms.AddConst]() twice, or [SigStat.Common.Transforms.AddVector]().  <br>Default Pipeline Input: [SigStat.Common.Features.X](), [SigStat.Common.Features.Y]()<br>Default Pipeline Output: [SigStat.Common.Features.X](), [SigStat.Common.Features.Y]()
 - [`Trim`](./Trim.md)
 	- Trims unnecessary empty space from a binary raster.  <br>Pipeline Input type: bool[,]<br>Default Pipeline Output: (bool[,]) Trimmed
 

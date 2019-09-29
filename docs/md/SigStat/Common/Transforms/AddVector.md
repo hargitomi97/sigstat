@@ -13,7 +13,7 @@ Adds a vector feature's elements to other features.  <br>Default Pipeline Output
 
 | Name | Summary | 
 | --- | --- | 
-| [AddVector](./../../../ctor/AddVector-100663608.md) ( [`FeatureDescriptor`](./../FeatureDescriptor-1.md)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> vectorFeature ) | Initializes a new instance of the [SigStat.Common.Transforms.AddVector](./AddVector.md) class with a vector feature.  Don't forget to add as many Inputs as the vector's dimension. | 
+| [AddVector](./../../../ctor/AddVector-100663608.md) ( [`FeatureDescriptor`](./../FeatureDescriptor-1.md)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> vectorFeature ) | Initializes a new instance of the [SigStat.Common.Transforms.AddVector]() class with a vector feature.  Don't forget to add as many Inputs as the vector's dimension. | 
 
 
 ## Properties

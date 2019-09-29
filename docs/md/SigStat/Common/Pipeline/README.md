@@ -9,7 +9,7 @@
 - [`Input`](./Input.md)
 	- Annotates an input [SigStat.Common.FeatureDescriptor](./FeatureDescriptor.md) in a transformation pipeline
 - [`IPipelineIO`](./IPipelineIO.md)
-	- Supports the definition of [SigStat.Common.Pipeline.PipelineInput](./PipelineInput.md) and [SigStat.Common.Pipeline.PipelineOutput](./PipelineOutput.md)
+	- Supports the definition of [SigStat.Common.Pipeline.PipelineInput]() and [SigStat.Common.Pipeline.PipelineOutput]()
 - [`ISignerModel`](./ISignerModel.md)
 	- Analyzes signatures based on their similiarity to the trained model
 - [`Output`](./Output.md)

@@ -13,8 +13,8 @@ Loads SVC2004-format database from .zip
 
 | Name | Summary | 
 | --- | --- | 
-| [Svc2004Loader](./../../../ctor/Svc2004Loader-100663941.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Initializes a new instance of the [SigStat.Common.Loaders.Svc2004Loader](./Svc2004Loader.md) class with specified database. | 
-| [Svc2004Loader](./../../../ctor/Svc2004Loader-100663942.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures, [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> signerFilter ) | Initializes a new instance of the [SigStat.Common.Loaders.Svc2004Loader](./Svc2004Loader.md) class with specified database. | 
+| [Svc2004Loader](./../../../ctor/Svc2004Loader-100663941.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Initializes a new instance of the [SigStat.Common.Loaders.Svc2004Loader]() class with specified database. | 
+| [Svc2004Loader](./../../../ctor/Svc2004Loader-100663942.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures, [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> signerFilter ) | Initializes a new instance of the [SigStat.Common.Loaders.Svc2004Loader]() class with specified database. | 
 
 
 ## Properties

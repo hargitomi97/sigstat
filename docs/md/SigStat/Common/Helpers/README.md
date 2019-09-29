@@ -13,7 +13,7 @@
 - [`IProgress`](./IProgress.md)
 	- Enables progress tracking by expsoing the [SigStat.Common.Helpers.IProgress.Progress]() property and the [SigStat.Common.Helpers.IProgress.ProgressChanged]() event.
 - [`SerializationHelper`](./SerializationHelper.md)
-	- Json serialization and deserialization using the custom resolver  [SigStat.Common.Helpers.Serialization.VerifierResolver](./VerifierResolver.md)
+	- Json serialization and deserialization using the custom resolver  [SigStat.Common.Helpers.Serialization.VerifierResolver]()
 - [`SimpleConsoleLogger`](./SimpleConsoleLogger.md)
 	- A easy-to-use class to log pipeline messages, complete with filtering levels and multi-thread support.
 
