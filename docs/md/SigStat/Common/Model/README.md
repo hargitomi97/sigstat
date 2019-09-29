@@ -3,5 +3,5 @@
 ## Types
 
 - [`Verifier`](./Verifier.md)
-	- Uses pipelines to transform, train on, and classify [SigStat.Common.Signature](./Common/../Signature.md) objects.
+	- Uses pipelines to transform, train on, and classify [SigStat.Common.Signature](./SigStat/Common/Signature.md) objects.
 
