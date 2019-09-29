@@ -11,7 +11,7 @@ Standard set of features.
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [IReadOnlyList](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IReadOnlyList-1)\<[FeatureDescriptor](./FeatureDescriptor.md)> | All | Returns a readonly list of all [SigStat.Common.FeatureDescriptor](./../FeatureDescriptor.md)s defined in [SigStat.Common.Features](./../Features.md) | 
+| [IReadOnlyList](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IReadOnlyList-1)\<[FeatureDescriptor](./FeatureDescriptor.md)> | All | Returns a readonly list of all [SigStat.Common.FeatureDescriptor](./Common/../FeatureDescriptor.md)s defined in [SigStat.Common.Features](./Common/../Features.md) | 
 | [FeatureDescriptor](./FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | Altitude | Altitude of an online signature as a function of [SigStat.Common.Features.T]() | 
 | [FeatureDescriptor](./FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | Azimuth | Azimuth of an online signature as a function of [SigStat.Common.Features.T]() | 
 | [FeatureDescriptor](./FeatureDescriptor-1.md)\<[RectangleF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.RectangleF)> | Bounds | Actual bounds of the signature | 
@@ -21,7 +21,7 @@ Standard set of features.
 | [FeatureDescriptor](./FeatureDescriptor-1.md)\<[Image](./Features.md)\<[Rgba32](./Features.md)>> | Image | The visaul representation of a signature | 
 | [FeatureDescriptor](./FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | Pressure | Pressure of an online signature as a function of [SigStat.Common.Features.T]() | 
 | [FeatureDescriptor](./FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | T | Timestamps for online signatures | 
-| [FeatureDescriptor](./FeatureDescriptor-1.md)\<[Rectangle](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Rectangle)> | TrimmedBounds | Represents the main body of the signature [SigStat.Common.BasicMetadataExtraction](./../BasicMetadataExtraction.md) | 
+| [FeatureDescriptor](./FeatureDescriptor-1.md)\<[Rectangle](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Rectangle)> | TrimmedBounds | Represents the main body of the signature [SigStat.Common.BasicMetadataExtraction](./Common/../BasicMetadataExtraction.md) | 
 | [FeatureDescriptor](./FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | X | X coordinates of an online signature as a function of [SigStat.Common.Features.T]() | 
 | [FeatureDescriptor](./FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | Y | Y coordinates of an online signature as a function of [SigStat.Common.Features.T]() | 
 
