@@ -7,14 +7,13 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./ILoggerObject.md)
 
 ## Summary
-
-Benchmarking class to test error rates of a [SigStat.Common.Model.Verifier](./Model/Verifier.md)
+Benchmarking class to test error rates of a [SigStat.Common.Model.Verifier](./../Model/Verifier.md)
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| [VerifierBenchmark](./../../ctor/VerifierBenchmark-100663381.md) (  ) | Initializes a new instance of the [SigStat.Common.VerifierBenchmark](./VerifierBenchmark.md) class.  Sets the [SigStat.Common.Sampler](./Sampler.md) to the default [SigStat.Common.Framework.Samplers.FirstNSampler](). | 
+| [VerifierBenchmark](./../../ctor/VerifierBenchmark-100663381.md) (  ) | Initializes a new instance of the [SigStat.Common.VerifierBenchmark](./../VerifierBenchmark.md) class.  Sets the [SigStat.Common.Sampler](./../Sampler.md) to the default [SigStat.Common.Framework.Samplers.FirstNSampler](). | 
 
 
 ## Properties
@@ -25,8 +24,8 @@ Benchmarking class to test error rates of a [SigStat.Common.Model.Verifier](./Mo
 | [ILogger](./VerifierBenchmark.md) | Logger | Gets or sets the attached [Microsoft.Extensions.Logging.ILogger]() object used to log messages. Hands it over to the verifier. | 
 | [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[KeyValuePair](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.KeyValuePair-2)\<[String](https://docs.microsoft.com/en-us/dotnet/api/System.String), [String](https://docs.microsoft.com/en-us/dotnet/api/System.String)>> | Parameters | A key value store that can be used to store custom information about the benchmark | 
 | [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | Progress |  | 
-| [Sampler](./Sampler.md) | Sampler | The [SigStat.Common.Sampler](./Sampler.md) to be used for benchmarking | 
-| [Verifier](./Model/Verifier.md) | Verifier | Gets or sets the [SigStat.Common.Model.Verifier](../Model/Verifier.md) to be benchmarked. | 
+| [Sampler](./Sampler.md) | Sampler | The [SigStat.Common.Sampler](./../Sampler.md) to be used for benchmarking | 
+| [Verifier](./Model/Verifier.md) | Verifier | Gets or sets the [SigStat.Common.Model.Verifier](./../Model/Verifier.md) to be benchmarked. | 
 
 
 ## Methods

@@ -11,7 +11,7 @@ Binary 3x3 pattern matcher with rotating option.
 
 | Name | Summary | 
 | --- | --- | 
-| [PatternMatching3x3](./../../../ctor/PatternMatching3x3-100664142.md) ( [`Nullable`](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)[]\<[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)> pattern ) | Initializes a new instance of the [SigStat.Common.Algorithms.PatternMatching3x3](../Algorithms/PatternMatching3x3.md) class with given pattern. | 
+| [PatternMatching3x3](./../../../ctor/PatternMatching3x3-100664142.md) ( [`Nullable`](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)[]\<[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)> pattern ) | Initializes a new instance of the [SigStat.Common.Algorithms.PatternMatching3x3](./../Algorithms/PatternMatching3x3.md) class with given pattern. | 
 
 
 ## Methods

@@ -8,7 +8,7 @@
 - [`BasicMetadataExtraction`](./BasicMetadataExtraction.md)
 	- Extracts basic statistical signature (like [SigStat.Common.Features.Bounds]() or [SigStat.Common.Features.Cog]()) information from an Image
 - [`BenchmarkResults`](./BenchmarkResults.md)
-	- Contains the benchmark results of every [SigStat.Common.Signer](./Signer.md) and the summarized final results.
+	- Contains the benchmark results of every [SigStat.Common.Signer](./../Signer.md) and the summarized final results.
 - [`DistanceMatrix`](./DistanceMatrix-3.md)\<[`TRowKey`](./README.md), [`TColumnKey`](./README.md), [`TValue`](./README.md)>
 	- A Sparse Matrix representation of a distance graph.
 - [`ErrorRate`](./ErrorRate.md)
@@ -34,9 +34,9 @@
 - [`PipelineBase`](./PipelineBase.md)
 	- TODO: Ideiglenes osztaly, C# 8.0 ban ezt atalakitani default implementacios interface be.  ILoggerObject, IProgress, IPipelineIO default implementacioja.
 - [`Result`](./Result.md)
-	- Contains the benchmark results of a single [SigStat.Common.Signer](./Signer.md)
+	- Contains the benchmark results of a single [SigStat.Common.Signer](./../Signer.md)
 - [`Sampler`](./Sampler.md)
-	- Takes samples from a set of [SigStat.Common.Signature](./Signature.md)s by given sampling strategies.  Use this to fine-tune the [SigStat.Common.VerifierBenchmark](./VerifierBenchmark.md)
+	- Takes samples from a set of [SigStat.Common.Signature](./../Signature.md)s by given sampling strategies.  Use this to fine-tune the [SigStat.Common.VerifierBenchmark](./../VerifierBenchmark.md)
 - [`Signature`](./Signature.md)
 	- Represents a signature as a collection of features, containing the data that flows in the pipeline.
 - [`Signer`](./Signer.md)
@@ -50,5 +50,5 @@
 - [`StrokeInterval`](./StrokeInterval.md)
 	- Represents a stroke in an online signature
 - [`VerifierBenchmark`](./VerifierBenchmark.md)
-	- Benchmarking class to test error rates of a [SigStat.Common.Model.Verifier](../Model/Verifier.md)
+	- Benchmarking class to test error rates of a [SigStat.Common.Model.Verifier](./../Model/Verifier.md)
 
