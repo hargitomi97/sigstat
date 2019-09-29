@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./ILoggerObject.md)
 
 ## Summary
-Benchmarking class to test error rates of a [SigStat.Common.Model.Verifier](/Model/.Verifier.md)
+Benchmarking class to test error rates of a [SigStat.Common.Model.Verifier](SigStat/Common/Model/Verifier.md)
 
 ## Constructors
 
