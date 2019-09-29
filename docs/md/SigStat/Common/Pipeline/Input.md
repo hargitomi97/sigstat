@@ -5,7 +5,7 @@ Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Annotates an input [SigStat.Common.FeatureDescriptor](./FeatureDescriptor.md) in a transformation pipeline
+Annotates an input [SigStat.Common.FeatureDescriptor](../FeatureDescriptor.md) in a transformation pipeline
 
 ## Constructors
 
