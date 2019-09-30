@@ -89,6 +89,10 @@
     background-color: white;
 }
 
+#foot td{
+    text-align: left;
+}
+
 ul {
     height: 70px;
     width: 100%;
