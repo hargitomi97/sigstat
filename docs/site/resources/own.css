@@ -29,7 +29,7 @@ th {
   padding: 20px 15px;
   background: #9e0b0f;
   text-align: center;
-  font-size: 30px;
+  font-size: 15px;
   font-weight: bold;
   color: whitesmoke;
   text-transform: uppercase;
@@ -51,19 +51,18 @@ th.rotate > div {
 
 
 .table-bordered{
+	width: 100%;
   text-align: center;
   /*table-layout: fixed;*/
   overflow-x: auto;
   white-space: nowrap;
-  /*display: block;*/
-  width: 100%;
+  display: table;
   border-collapse: collapse;
 }
 
 table:not(#under){
   border: 10px solid white;
 }
-
 table tr:nth-child(odd) td:not(#underCell) {
   background: white;
   text-align: center;
