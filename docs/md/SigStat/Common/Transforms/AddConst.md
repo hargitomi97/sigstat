@@ -7,13 +7,13 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Adds a constant value to a feature. Works with collection features too.  <para>Default Pipeline Output: Pipeline Input</para>
+Adds a constant value to a feature. Works with collection features too.  <br>Default Pipeline Output: Pipeline Input
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) value ) | Initializes a new instance of the `SigStat.Common.Transforms.AddConst` class with specified settings. | 
+| AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) value ) | Initializes a new instance of the [SigStat.Common.Transforms.AddConst](https://github.com/hargitomi97/sigstat/tree/master/docs/md/SigStat/Common/Transforms/AddConst.md) class with specified settings. | 
 
 
 ## Properties

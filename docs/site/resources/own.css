@@ -60,7 +60,7 @@ th.rotate > div {
   border-collapse: collapse;
 }
 
-table:not(#under){
+#myTable{
   border: 10px solid white;
 }
 table tr:nth-child(odd) td:not(#underCell) {

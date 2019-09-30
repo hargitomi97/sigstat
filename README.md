@@ -1,8 +1,8 @@
-# SigStat project
+<p align="center"> 
+<img src="cooltext336462005790168.png">
+</p>
 
-<!--[![N|Solid](https://allaboutcloud.info/wp-content/uploads/2017/08/signature.png)](https://sigstat.org)-->
-[![](sigstat.gif)](https://sigstat.org)
-
+# SigStat Open-source project
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/sigstat/sigstat/blob/master/LICENSE.md)
 [![Build status](https://ci.appveyor.com/api/projects/status/4om5obpqk6s57rq7/branch/master?svg=true)](https://ci.appveyor.com/project/BenceKovari/sigstat/branch/master)
@@ -10,6 +10,7 @@
 [![codecov](https://codecov.io/gh/sigstat/sigstat/branch/master/graph/badge.svg)](https://codecov.io/gh/sigstat/sigstat)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Follow SigStat on Twitter](https://img.shields.io/badge/twitter-@SigStatOrg-55acee.svg?style=flat-square)](https://twitter.com/sigstatorg)
+[![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg?style=flat-square)](https://github.com/standard/semistandard)
 
 # Introduction
 
