@@ -45,7 +45,7 @@ This is the root summary
 - [`Signature`](./SigStat/Common/Signature.md)
 	- Represents a signature as a collection of features, containing the data that flows in the pipeline.
 - [`Signer`](./SigStat/Common/Signer.md)
-	- Represents a person as a [SigStat.Common.Signer.ID](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) and a list of [SigStat.Common.Signer.Signatures](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md).
+	- Represents a person as an [SigStat.Common.Signer.ID](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) and a list of [SigStat.Common.Signer.Signatures](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md).
 - [`SigStatEvents`](./SigStat/Common/SigStatEvents.md)
 	- Standard event identifiers used by the SigStat system
 - [`SimpleRenderingTransformation`](./SigStat/Common/SimpleRenderingTransformation.md)
@@ -143,15 +143,15 @@ This is the root summary
 - [`NormalizeRotation`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/NormalizeRotation.md)
 	- Performs rotation normalization on the online signature
 - [`RelativeScale`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/RelativeScale.md)
-	- Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled.<br>OutputFeature: output feature for scaled InputFeature&gt;
+	- Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled.<br>OutputFeature: output feature for scaled InputFeature
 - [`ResampleSamplesCountBased`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/ResampleSamplesCountBased.md)
 	- Resamples an online signature to a specific sample count using the specified [SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) algorithm
 - [`Scale`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/Scale.md)
-	- Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled.<br>OutputFeature: output feature for scaled InputFeature&gt;
+	- Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled.<br>OutputFeature: output feature for scaled InputFeature
 - [`TranslatePreproc`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/TranslatePreproc.md)
 	- This transformations can be used to translate the coordinates of an online signature
 - [`UniformScale`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/UniformScale.md)
-	- Maps values of a feature to a specific range and another proportional.  <br>BaseDimension: feature modelled the base dimension of the scaling. <br>ProportionalDimension: feature modelled the dimension scaled proportionally to the base dimension. <br>BaseDimensionOutput: output feature for scaled BaseDimension&gt;<br>ProportionalDimensionOutput: output feature for scaled ProportionalDimension&gt;
+	- Maps values of a feature to a specific range and another proportional.  <br>BaseDimension: feature modelled the base dimension of the scaling. <br>ProportionalDimension: feature modelled the dimension scaled proportionally to the base dimension. <br>BaseDimensionOutput: output feature for scaled BaseDimension<br>ProportionalDimensionOutput: output feature for scaled ProportionalDimension
 ### [SigStat.Common.PipelineItems.Classifiers](./SigStat/Common/PipelineItems/Classifiers/README.md)
 
 - [`DtwClassifier`](./SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md)
@@ -212,6 +212,12 @@ This is the root summary
 	- SerializationContext for serializing SigStat objects
 - [`RectangleFConverter`](./SigStat/Common/Helpers/Serialization/RectangleFConverter.md)
 	- Custom serializer for [System.Drawing.RectangleF](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) objects
+### [SigStat.Common.Helpers.NetCoreSerialization](./SigStat/Common/Helpers/NetCoreSerialization/README.md)
+
+- [`NetCoreFeatureDescriptorConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreFeatureDescriptorConverter.md)
+- [`NetCoreFeatureDescriptorDictionaryConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreFeatureDescriptorDictionaryConverter.md)
+- [`NetCoreFeatureDescriptorTConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreFeatureDescriptorTConverter.md)
+- [`NetCoreSerializationHelper`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreSerializationHelper.md)
 ### [SigStat.Common.Helpers.Excel](./SigStat/Common/Helpers/Excel/README.md)
 
 - [`Palette`](./SigStat/Common/Helpers/Excel/Palette.md)
