@@ -5,7 +5,7 @@ Namespace: [SigStat]() > [Common](./../README.md) > [Helpers](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Enables progress tracking by expsoing the [SigStat.Common.Helpers.IProgress.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/IProgress.md) property and the [SigStat.Common.Helpers.IProgress.ProgressChanged](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) event.
+Enables progress tracking by expsoing the [SigStat.Common.Helpers.IProgress.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/IProgress.md) property and the [SigStat.Common.Helpers.IProgress.ProgressChanged](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/IProgress.md) event.
 
 ## Properties
 
