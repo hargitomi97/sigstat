@@ -21,7 +21,7 @@ This is the root summary
 - [`FeatureDescriptor`](./SigStat/Common/FeatureDescriptor.md)
 	- Represents a feature with name and type.
 - [`FeatureDescriptor`](./SigStat/Common/FeatureDescriptor-1.md)\<[`T`](./README.md)>
-	- Represents a feature with the type `type`
+	- Represents a feature with the type `T`
 - [`Features`](./SigStat/Common/Features.md)
 	- Standard set of features.
 - [`ILoggerObject`](./SigStat/Common/ILoggerObject.md)

@@ -16,7 +16,7 @@
 - [`FeatureDescriptor`](./FeatureDescriptor.md)
 	- Represents a feature with name and type.
 - [`FeatureDescriptor`](./FeatureDescriptor-1.md)\<[`T`](./README.md)>
-	- Represents a feature with the type `type`
+	- Represents a feature with the type `T`
 - [`Features`](./Features.md)
 	- Standard set of features.
 - [`ILoggerObject`](./ILoggerObject.md)
