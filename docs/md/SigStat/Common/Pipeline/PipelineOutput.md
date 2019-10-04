@@ -5,13 +5,13 @@ Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Represents an output for a [PipelineItem](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.Pipeline.PipelineOutput.PipelineItem.md)
+Represents an output for a [SigStat.Common.Pipeline.PipelineOutput.PipelineItem]()
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) PipelineItem, [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) PI ) | Initializes a new instance of the [PipelineOutput](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.Pipeline.PipelineOutput.md) class. | 
+| PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) PipelineItem, [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) PI ) | Initializes a new instance of the [SigStat.Common.Pipeline.PipelineOutput](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Pipeline/PipelineOutput.md) class. | 
 
 
 ## Properties

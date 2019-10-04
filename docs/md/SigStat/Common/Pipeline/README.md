@@ -7,19 +7,19 @@
 - [`IDistanceClassifier`](./IDistanceClassifier.md)
 	- Trains classification models based on reference signatures, by calculating the distances between signature pairs
 - [`Input`](./Input.md)
-	- Annotates an input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.FeatureDescriptor.md) in a transformation pipeline
+	- Annotates an input [SigStat.Common.FeatureDescriptor](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/FeatureDescriptor.md) in a transformation pipeline
 - [`IPipelineIO`](./IPipelineIO.md)
-	- Supports the definition of [PipelineInput](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.Pipeline.PipelineInput.md) and [PipelineOutput](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.Pipeline.PipelineOutput.md)
+	- Supports the definition of [SigStat.Common.Pipeline.PipelineInput](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Pipeline/PipelineInput.md) and [SigStat.Common.Pipeline.PipelineOutput](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Pipeline/PipelineOutput.md)
 - [`ISignerModel`](./ISignerModel.md)
 	- Analyzes signatures based on their similiarity to the trained model
 - [`Output`](./Output.md)
-	- Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.FeatureDescriptor.md) in a transformation pipeline
+	- Annotates an output [SigStat.Common.FeatureDescriptor](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/FeatureDescriptor.md) in a transformation pipeline
 - [`ParallelTransformPipeline`](./ParallelTransformPipeline.md)
 	- Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the Item outputs.
 - [`PipelineInput`](./PipelineInput.md)
-	- Represents an input for a [PipelineItem](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.Pipeline.PipelineInput.PipelineItem.md)
+	- Represents an input for a [SigStat.Common.Pipeline.PipelineInput.PipelineItem]()
 - [`PipelineOutput`](./PipelineOutput.md)
-	- Represents an output for a [PipelineItem](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.Pipeline.PipelineOutput.PipelineItem.md)
+	- Represents an output for a [SigStat.Common.Pipeline.PipelineOutput.PipelineItem]()
 - [`SequentialTransformPipeline`](./SequentialTransformPipeline.md)
 	- Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the last Item in the sequence.
 

@@ -13,7 +13,7 @@ DataSetLoader for Image type databases.  Similar format to Svc2004Loader, but fi
 
 | Name | Summary | 
 | --- | --- | 
-| ImageLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath ) | Initializes a new instance of the [ImageLoader](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.Loaders.ImageLoader.md) class with specified database. | 
+| ImageLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath ) | Initializes a new instance of the [SigStat.Common.Loaders.ImageLoader](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Loaders/ImageLoader.md) class with specified database. | 
 
 
 ## Methods
