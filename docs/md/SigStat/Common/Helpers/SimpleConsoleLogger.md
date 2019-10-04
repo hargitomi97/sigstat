@@ -30,7 +30,7 @@ A easy-to-use class to log pipeline messages, complete with filtering levels and
 | --- | --- | --- | 
 | [IDisposable](https://docs.microsoft.com/en-us/dotnet/api/System.IDisposable) | BeginScope ( [`TState`](./SimpleConsoleLogger.md) state ) |  | 
 | [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | IsEnabled ( [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel) logLevel ) |  | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/system.void) | Log ( [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel) logLevel, [`EventId`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.EventId) eventId, [`TState`](./SimpleConsoleLogger.md) state, [`Exception`](https://docs.microsoft.com/en-us/dotnet/api/System.Exception) exception, [`Func`](./SimpleConsoleLogger.md)\<[`TState`](./SimpleConsoleLogger.md), [`Exception`](https://docs.microsoft.com/en-us/dotnet/api/System.Exception), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)> formatter ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | Log ( [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel) logLevel, [`EventId`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.EventId) eventId, [`TState`](./SimpleConsoleLogger.md) state, [`Exception`](https://docs.microsoft.com/en-us/dotnet/api/System.Exception) exception, [`Func`](./SimpleConsoleLogger.md)\<[`TState`](./SimpleConsoleLogger.md), [`Exception`](https://docs.microsoft.com/en-us/dotnet/api/System.Exception), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)> formatter ) |  | 
 
 
 ## Events

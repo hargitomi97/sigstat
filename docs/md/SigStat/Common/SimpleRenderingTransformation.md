@@ -20,6 +20,6 @@ Renders an image of the signature based on the available online information (X,Y
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/system.void) | Transform ( [`Signature`](./Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | Transform ( [`Signature`](./Signature.md) signature ) |  | 
 
 

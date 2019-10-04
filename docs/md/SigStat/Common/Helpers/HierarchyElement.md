@@ -29,7 +29,7 @@ Hierarchical structure to store object
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/system.void) | Add ( [`HierarchyElement`](./HierarchyElement.md) child ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | Add ( [`HierarchyElement`](./HierarchyElement.md) child ) |  | 
 | [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | GetCount (  ) | Returns number of elements under this node and itself | 
 | [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | GetDepth (  ) | Return the hierarchy's depth from this node | 
 | [IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerator-1)\<[HierarchyElement](./HierarchyElement.md)> | GetEnumerator (  ) | Returns an enumerator that iterates through the collection. | 

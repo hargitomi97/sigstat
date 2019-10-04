@@ -20,6 +20,6 @@ Custom serializer for [SigStat.Common.FeatureDescriptor](https://github.com/harg
 | --- | --- | --- | 
 | [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | CanConvert ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType ) | Tells if the current object is of the correct type | 
 | [Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object) | ReadJson ( [`JsonReader`](./FeatureDescriptorJsonConverter.md) reader, [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) existingValue, [`JsonSerializer`](./FeatureDescriptorJsonConverter.md) serializer ) |  | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/system.void) | WriteJson ( [`JsonWriter`](./FeatureDescriptorJsonConverter.md) writer, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) value, [`JsonSerializer`](./FeatureDescriptorJsonConverter.md) serializer ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | WriteJson ( [`JsonWriter`](./FeatureDescriptorJsonConverter.md) writer, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) value, [`JsonSerializer`](./FeatureDescriptorJsonConverter.md) serializer ) |  | 
 
 

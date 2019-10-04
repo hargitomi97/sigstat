@@ -20,6 +20,6 @@ Helper class for serializing distance functions
 | --- | --- | --- | 
 | [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | CanConvert ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType ) |  | 
 | [Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object) | ReadJson ( [`JsonReader`](./DistanceFunctionJsonConverter.md) reader, [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) existingValue, [`JsonSerializer`](./DistanceFunctionJsonConverter.md) serializer ) |  | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/system.void) | WriteJson ( [`JsonWriter`](./DistanceFunctionJsonConverter.md) writer, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) value, [`JsonSerializer`](./DistanceFunctionJsonConverter.md) serializer ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | WriteJson ( [`JsonWriter`](./DistanceFunctionJsonConverter.md) writer, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) value, [`JsonSerializer`](./DistanceFunctionJsonConverter.md) serializer ) |  | 
 
 

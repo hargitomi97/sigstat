@@ -32,7 +32,7 @@ Benchmarking class to test error rates of a [SigStat.Common.Model.Verifier](http
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/system.void) | Dump ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) filename, [`IEnumerable`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[`KeyValuePair`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.KeyValuePair-2)\<[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)>> parameters ) | Dumps the results of the benchmark in a file. | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | Dump ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) filename, [`IEnumerable`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[`KeyValuePair`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.KeyValuePair-2)\<[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)>> parameters ) | Dumps the results of the benchmark in a file. | 
 | [BenchmarkResults](./BenchmarkResults.md) | Execute ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) ParallelMode ) | Execute the benchmarking process. | 
 | [BenchmarkResults](./BenchmarkResults.md) | Execute ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) degreeOfParallelism ) | Execute the benchmarking process with a degree of parallelism. | 
 

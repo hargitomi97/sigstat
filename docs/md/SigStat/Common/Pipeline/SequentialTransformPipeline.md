@@ -35,8 +35,8 @@ Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the l
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/system.void) | Add ( [`ITransformation`](./../ITransformation.md) newItem ) | Add new transform to the list. | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | Add ( [`ITransformation`](./../ITransformation.md) newItem ) | Add new transform to the list. | 
 | [IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerator) | GetEnumerator (  ) |  | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/system.void) | Transform ( [`Signature`](./../Signature.md) signature ) | Executes transform [SigStat.Common.Pipeline.SequentialTransformPipeline.Items](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/SequentialTransformPipeline.md) in sequence.  Passes input features for each.  Output is the output of the last Item in the sequence. | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | Transform ( [`Signature`](./../Signature.md) signature ) | Executes transform [SigStat.Common.Pipeline.SequentialTransformPipeline.Items](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/SequentialTransformPipeline.md) in sequence.  Passes input features for each.  Output is the output of the last Item in the sequence. | 
 
 

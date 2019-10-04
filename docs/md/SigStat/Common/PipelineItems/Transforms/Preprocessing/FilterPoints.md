@@ -31,6 +31,6 @@ Removes samples based on a criteria from online signature time series
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/system.void) | Transform ( [`Signature`](./../../../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | Transform ( [`Signature`](./../../../Signature.md) signature ) |  | 
 
 
