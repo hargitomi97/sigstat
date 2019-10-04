@@ -6,7 +6,7 @@
 	- Helper methods for processing arrays
 - [`Baseline`](./Baseline.md)
 - [`BasicMetadataExtraction`](./BasicMetadataExtraction.md)
-	- Extracts basic statistical signature (like [SigStat.Common.Features.Bounds](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) or [SigStat.Common.Features.Cog](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md)) information from an Image
+	- Extracts basic statistical signature (like [SigStat.Common.Features.Bounds](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) or [SigStat.Common.Features.Cog](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)) information from an Image
 - [`BenchmarkResults`](./BenchmarkResults.md)
 	- Contains the benchmark results of every [SigStat.Common.Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md) and the summarized final results.
 - [`DistanceMatrix`](./DistanceMatrix-3.md)\<[`TRowKey`](./README.md), [`TColumnKey`](./README.md), [`TValue`](./README.md)>

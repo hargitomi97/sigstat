@@ -20,6 +20,6 @@ Represents a stroke in an online signature
 | --- | --- | --- | 
 | [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | EndIndex | The index of the last element | 
 | [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | StartIndex | The index of the firs element | 
-| [StrokeType](./StrokeType.md) | StrokeType | The [SigStat.Common.StrokeInterval.StrokeType](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) of the stroke. | 
+| [StrokeType](./StrokeType.md) | StrokeType | The [SigStat.Common.StrokeInterval.StrokeType](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) of the stroke. | 
 
 

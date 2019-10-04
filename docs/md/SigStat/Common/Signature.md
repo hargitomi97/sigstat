@@ -24,7 +24,7 @@ Represents a signature as a collection of features, containing the data that flo
 | [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | ID | An identifier for the Signature. Keep it unique to be useful for logs. | 
 | [Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object) | Item [ [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) featureKey ] | Gets or sets the specified feature. | 
 | [Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object) | Item [ [`FeatureDescriptor`](./FeatureDescriptor.md) featureDescriptor ] | Gets or sets the specified feature. | 
-| [Origin](./Origin.md) | Origin | Represents our knowledge on the origin of the signature. [SigStat.Common.Origin.Unknown](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) may be used in practice before it is verified. | 
+| [Origin](./Origin.md) | Origin | Represents our knowledge on the origin of the signature. [SigStat.Common.Origin.Unknown](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Origin.md) may be used in practice before it is verified. | 
 | [Signer](./Signer.md) | Signer | A reference to the [SigStat.Common.Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md) who this signature belongs to. (The origin is not constrained to be genuine.) | 
 
 
