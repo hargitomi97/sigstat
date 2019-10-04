@@ -13,14 +13,14 @@ TODO: Ideiglenes osztaly, C# 8.0 ban ezt atalakitani default implementacios inte
 
 | Name | Summary | 
 | --- | --- | 
-| PipelineBase (  ) | Initializes a new instance of the [SigStat.Common.PipelineBase](https://github.com/hargitomi97/sigstat/tree/master/docs/md/SigStat/Common/PipelineBase.md) class. | 
+| PipelineBase (  ) | Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.PipelineBase.md) class. | 
 
 
 ## Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [ILogger](./PipelineBase.md) | Logger |  | 
+| [ILogger](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger) | Logger |  | 
 | [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[PipelineInput](./Pipeline/PipelineInput.md)> | PipelineInputs | A collection of inputs for the pipeline elements | 
 | [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[PipelineOutput](./Pipeline/PipelineOutput.md)> | PipelineOutputs | A collection of outputs for the pipeline elements | 
 | [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | Progress |  | 
@@ -30,6 +30,6 @@ TODO: Ideiglenes osztaly, C# 8.0 ban ezt atalakitani default implementacios inte
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [EventHandler](https://docs.microsoft.com/en-us/dotnet/api/System.EventHandler-1)\<[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)> | ProgressChanged | The event is raised whenever the value of [SigStat.Common.PipelineBase.Progress]() changes | 
+| [EventHandler](https://docs.microsoft.com/en-us/dotnet/api/System.EventHandler-1)\<[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)> | ProgressChanged | The event is raised whenever the value of [Progress](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.PipelineBase.Progress.md) changes | 
 
 

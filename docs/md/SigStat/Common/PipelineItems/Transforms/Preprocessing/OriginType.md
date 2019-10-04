@@ -4,7 +4,7 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [PipelineItems]() > [T
 Assembly: SigStat.Common.dll
 
 
-Origin specification for [SigStat.Common.PipelineItems.Transforms.Preprocessing.TranslatePreproc]()
+Origin specification for [TranslatePreproc](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.PipelineItems.Transforms.Preprocessing.TranslatePreproc.md)
 
 ##	Enum
 

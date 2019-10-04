@@ -5,7 +5,7 @@ Namespace: [SigStat]() > [Common](./../README.md) > [Helpers](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Json serialization and deserialization using the custom resolver  [SigStat.Common.Helpers.Serialization.VerifierResolver]()
+Json serialization and deserialization using the custom resolver  [VerifierResolver](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.Helpers.Serialization.VerifierResolver.md)
 
 ## Constructors
 

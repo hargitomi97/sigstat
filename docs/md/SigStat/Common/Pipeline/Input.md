@@ -5,13 +5,13 @@ Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Annotates an input [SigStat.Common.FeatureDescriptor](https://github.com/hargitomi97/sigstat/tree/master/docs/md/SigStat/Common/FeatureDescriptor.md) in a transformation pipeline
+Annotates an input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.FeatureDescriptor.md) in a transformation pipeline
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| Input ( [`AutoSetMode`](./AutoSetMode.md) AutoSetMode ) | Initializes a new instance of the [SigStat.Common.Pipeline.Input](https://github.com/hargitomi97/sigstat/tree/master/docs/md/SigStat/Common/Pipeline/Input.md) class. | 
+| Input ( [`AutoSetMode`](./AutoSetMode.md) AutoSetMode ) | Initializes a new instance of the [Input](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.Pipeline.Input.md) class. | 
 
 
 ## Fields

@@ -7,15 +7,15 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md)
 
 ## Summary
-Uses pipelines to transform, train on, and classify [SigStat.Common.Signature](https://github.com/hargitomi97/sigstat/tree/master/docs/md/SigStat/Common/Signature.md) objects.
+Uses pipelines to transform, train on, and classify [Signature](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.Signature.md) objects.
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| Verifier ( [`ILogger`](./Verifier.md) logger ) | Initializes a new instance of the [SigStat.Common.Model.Verifier](https://github.com/hargitomi97/sigstat/tree/master/docs/md/SigStat/Common/Model/Verifier.md) class | 
-| Verifier (  ) | Initializes a new instance of the [SigStat.Common.Model.Verifier](https://github.com/hargitomi97/sigstat/tree/master/docs/md/SigStat/Common/Model/Verifier.md) class. | 
-| Verifier ( [`Verifier`](./Verifier.md) baseVerifier ) | Initializes a new instance of the [SigStat.Common.Model.Verifier](https://github.com/hargitomi97/sigstat/tree/master/docs/md/SigStat/Common/Model/Verifier.md) class based on another Verifier instance | 
+| Verifier ( [`ILogger`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger) logger ) | Initializes a new instance of the [Verifier](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.Model.Verifier.md) class | 
+| Verifier (  ) | Initializes a new instance of the [Verifier](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.Model.Verifier.md) class. | 
+| Verifier ( [`Verifier`](./Verifier.md) baseVerifier ) | Initializes a new instance of the [Verifier](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.Model.Verifier.md) class based on another Verifier instance | 
 
 
 ## Properties
@@ -24,7 +24,7 @@ Uses pipelines to transform, train on, and classify [SigStat.Common.Signature](h
 | --- | --- | --- | 
 | [Dictionary](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.Dictionary-2)\<[String](https://docs.microsoft.com/en-us/dotnet/api/System.String), [FeatureDescriptor](./../FeatureDescriptor.md)> | AllFeatures | This property is used by the Serializer to access a list of all FeatureDescriptors | 
 | [IClassifier](./../Pipeline/IClassifier.md) | Classifier | Gets or sets the classifier pipeline. Hands over the Logger object. | 
-| [ILogger](./Verifier.md) | Logger | Gets or sets the class responsible for logging | 
+| [ILogger](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger) | Logger | Gets or sets the class responsible for logging | 
 | [SequentialTransformPipeline](./../Pipeline/SequentialTransformPipeline.md) | Pipeline | Gets or sets the transform pipeline. Hands over the Logger object. | 
 | [ISignerModel](./../Pipeline/ISignerModel.md) | SignerModel | Gets or sets the signer model. | 
 
@@ -34,6 +34,6 @@ Uses pipelines to transform, train on, and classify [SigStat.Common.Signature](h
 | Return | Name | Summary | 
 | --- | --- | --- | 
 | [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | Test ( [`Signature`](./../Signature.md) signature ) | Verifies the genuinity of ``. | 
-| void | Train ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> signatures ) | Trains the verifier with a list of signatures. Uses the [SigStat.Common.Model.Verifier.Pipeline]() to extract features,  and [SigStat.Common.Model.Verifier.Classifier]() to find an optimized limit. | 
+| void | Train ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> signatures ) | Trains the verifier with a list of signatures. Uses the [Pipeline](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.Model.Verifier.Pipeline.md) to extract features,  and [Classifier](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.Model.Verifier.Classifier.md) to find an optimized limit. | 
 
 

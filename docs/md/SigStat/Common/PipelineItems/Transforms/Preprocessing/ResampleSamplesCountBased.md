@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../../../ILoggerObject.md), [IProgress](./../../../Helpers/IProgress.md), [IPipelineIO](./../../../Pipeline/IPipelineIO.md), [ITransformation](./../../../ITransformation.md)
 
 ## Summary
-Resamples an online signature to a specific sample count using the specified [SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation]() algorithm
+Resamples an online signature to a specific sample count using the specified [IInterpolation](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation.md) algorithm
 
 ## Constructors
 

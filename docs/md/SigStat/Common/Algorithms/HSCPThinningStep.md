@@ -18,7 +18,7 @@ HSCP thinning algorithm  http://www.ppgia.pucpr.br/~facon/Afinamento/1987holt.pd
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [Nullable](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)\<[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)> | ResultChanged | Gets whether the last [SigStat.Common.Algorithms.HSCPThinningStep.Scan(System.Boolean[0:,0:])]() call was effective. | 
+| [Nullable](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)\<[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)> | ResultChanged | Gets whether the last [Boolean[0:,0:])](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/SigStat.Common.Algorithms.HSCPThinningStep.Scan(System.Boolean[0:,0:]).md) call was effective. | 
 
 
 ## Methods
