@@ -195,7 +195,7 @@ This is the root summary
 - [`FeatureDescriptorJsonConverter`](./SigStat/Common/Helpers/FeatureDescriptorJsonConverter.md)
 	- Custom serializer for [SigStat.Common.FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) objects
 - [`FeatureDescriptorTJsonConverter`](./SigStat/Common/Helpers/FeatureDescriptorTJsonConverter.md)
-	- Custom serializer for [SigStat.Common.FeatureDescriptor`1](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor`1.md) objects
+	- Custom serializer for [SigStat.Common.FeatureDescriptor`1](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor-1.md) objects
 - [`HierarchyElement`](./SigStat/Common/Helpers/HierarchyElement.md)
 	- Hierarchical structure to store object
 - [`IProgress`](./SigStat/Common/Helpers/IProgress.md)
