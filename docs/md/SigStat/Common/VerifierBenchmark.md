@@ -7,13 +7,13 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./ILoggerObject.md)
 
 ## Summary
-Benchmarking class to test error rates of a [SigStat.Common.Model.Verifier](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Model/Verifier)
+Benchmarking class to test error rates of a [SigStat.Common.Model.Verifier](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Model/Verifier.md)
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| VerifierBenchmark (  ) | Initializes a new instance of the [SigStat.Common.VerifierBenchmark](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/VerifierBenchmark) class.  Sets the [SigStat.Common.Sampler](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Sampler) to the default [SigStat.Common.Framework.Samplers.FirstNSampler](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Framework/Samplers/FirstNSampler). | 
+| VerifierBenchmark (  ) | Initializes a new instance of the [SigStat.Common.VerifierBenchmark](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/VerifierBenchmark.md) class.  Sets the [SigStat.Common.Sampler](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Sampler.md) to the default [SigStat.Common.Framework.Samplers.FirstNSampler](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Framework/Samplers/FirstNSampler.md). | 
 
 
 ## Properties
@@ -21,11 +21,11 @@ Benchmarking class to test error rates of a [SigStat.Common.Model.Verifier](http
 | Type | Name | Summary | 
 | --- | --- | --- | 
 | [IDataSetLoader](./Loaders/IDataSetLoader.md) | Loader | The loader that will provide the database for benchmarking | 
-| [ILogger](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger) | Logger | Gets or sets the attached [Microsoft.Extensions.Logging.ILogger](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/) object used to log messages. Hands it over to the verifier. | 
+| [ILogger](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger) | Logger | Gets or sets the attached [Microsoft.Extensions.Logging.ILogger](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/.md) object used to log messages. Hands it over to the verifier. | 
 | [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[KeyValuePair](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.KeyValuePair-2)\<[String](https://docs.microsoft.com/en-us/dotnet/api/System.String), [String](https://docs.microsoft.com/en-us/dotnet/api/System.String)>> | Parameters | A key value store that can be used to store custom information about the benchmark | 
 | [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | Progress |  | 
-| [Sampler](./Sampler.md) | Sampler | The [SigStat.Common.Sampler](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Sampler) to be used for benchmarking | 
-| [Verifier](./Model/Verifier.md) | Verifier | Gets or sets the [SigStat.Common.Model.Verifier](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Model/Verifier) to be benchmarked. | 
+| [Sampler](./Sampler.md) | Sampler | The [SigStat.Common.Sampler](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Sampler.md) to be used for benchmarking | 
+| [Verifier](./Model/Verifier.md) | Verifier | Gets or sets the [SigStat.Common.Model.Verifier](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Model/Verifier.md) to be benchmarked. | 
 
 
 ## Methods
