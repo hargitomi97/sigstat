@@ -11,9 +11,9 @@ This is the root summary
 	- Helper methods for processing arrays
 - [`Baseline`](./SigStat/Common/Baseline.md)
 - [`BasicMetadataExtraction`](./SigStat/Common/BasicMetadataExtraction.md)
-	- Extracts basic statistical signature (like [SigStat.Common.Features.Bounds]() or [SigStat.Common.Features.Cog]()) information from an Image
+	- Extracts basic statistical signature (like [SigStat.Common.Features.Bounds](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/) or [SigStat.Common.Features.Cog](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/)) information from an Image
 - [`BenchmarkResults`](./SigStat/Common/BenchmarkResults.md)
-	- Contains the benchmark results of every [SigStat.Common.Signer](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Signer.md) and the summarized final results.
+	- Contains the benchmark results of every [SigStat.Common.Signer](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Signer) and the summarized final results.
 - [`DistanceMatrix`](./SigStat/Common/DistanceMatrix-3.md)\<[`TRowKey`](./README.md), [`TColumnKey`](./README.md), [`TValue`](./README.md)>
 	- A Sparse Matrix representation of a distance graph.
 - [`ErrorRate`](./SigStat/Common/ErrorRate.md)
@@ -39,13 +39,13 @@ This is the root summary
 - [`PipelineBase`](./SigStat/Common/PipelineBase.md)
 	- TODO: Ideiglenes osztaly, C# 8.0 ban ezt atalakitani default implementacios interface be.  ILoggerObject, IProgress, IPipelineIO default implementacioja.
 - [`Result`](./SigStat/Common/Result.md)
-	- Contains the benchmark results of a single [SigStat.Common.Signer](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Signer.md)
+	- Contains the benchmark results of a single [SigStat.Common.Signer](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Signer)
 - [`Sampler`](./SigStat/Common/Sampler.md)
-	- Takes samples from a set of [SigStat.Common.Signature](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Signature.md)s by given sampling strategies.  Use this to fine-tune the [SigStat.Common.VerifierBenchmark](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/VerifierBenchmark.md)
+	- Takes samples from a set of [SigStat.Common.Signature](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Signature)s by given sampling strategies.  Use this to fine-tune the [SigStat.Common.VerifierBenchmark](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/VerifierBenchmark)
 - [`Signature`](./SigStat/Common/Signature.md)
 	- Represents a signature as a collection of features, containing the data that flows in the pipeline.
 - [`Signer`](./SigStat/Common/Signer.md)
-	- Represents a person as a [SigStat.Common.Signer.ID](https://github.com/sigstat/sigstat/tree/develop/docs/md/SigStat/Common/String.md) and a list of [SigStat.Common.Signer.Signatures]().
+	- Represents a person as a [SigStat.Common.Signer.ID](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/) and a list of [SigStat.Common.Signer.Signatures](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/).
 - [`SigStatEvents`](./SigStat/Common/SigStatEvents.md)
 	- Standard event identifiers used by the SigStat system
 - [`SimpleRenderingTransformation`](./SigStat/Common/SimpleRenderingTransformation.md)
@@ -55,7 +55,7 @@ This is the root summary
 - [`StrokeInterval`](./SigStat/Common/StrokeInterval.md)
 	- Represents a stroke in an online signature
 - [`VerifierBenchmark`](./SigStat/Common/VerifierBenchmark.md)
-	- Benchmarking class to test error rates of a [SigStat.Common.Model.Verifier](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Model/Verifier.md)
+	- Benchmarking class to test error rates of a [SigStat.Common.Model.Verifier](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Model/Verifier)
 ### [SigStat.Common.Pipeline](./SigStat/Common/Pipeline/README.md)
 
 - [`IClassifier`](./SigStat/Common/Pipeline/IClassifier.md)
@@ -63,19 +63,19 @@ This is the root summary
 - [`IDistanceClassifier`](./SigStat/Common/Pipeline/IDistanceClassifier.md)
 	- Trains classification models based on reference signatures, by calculating the distances between signature pairs
 - [`Input`](./SigStat/Common/Pipeline/Input.md)
-	- Annotates an input [SigStat.Common.FeatureDescriptor](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/FeatureDescriptor.md) in a transformation pipeline
+	- Annotates an input [SigStat.Common.FeatureDescriptor](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/FeatureDescriptor) in a transformation pipeline
 - [`IPipelineIO`](./SigStat/Common/Pipeline/IPipelineIO.md)
-	- Supports the definition of [SigStat.Common.Pipeline.PipelineInput](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Pipeline/PipelineInput.md) and [SigStat.Common.Pipeline.PipelineOutput](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Pipeline/PipelineOutput.md)
+	- Supports the definition of [SigStat.Common.Pipeline.PipelineInput](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Pipeline/PipelineInput) and [SigStat.Common.Pipeline.PipelineOutput](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Pipeline/PipelineOutput)
 - [`ISignerModel`](./SigStat/Common/Pipeline/ISignerModel.md)
 	- Analyzes signatures based on their similiarity to the trained model
 - [`Output`](./SigStat/Common/Pipeline/Output.md)
-	- Annotates an output [SigStat.Common.FeatureDescriptor](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/FeatureDescriptor.md) in a transformation pipeline
+	- Annotates an output [SigStat.Common.FeatureDescriptor](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/FeatureDescriptor) in a transformation pipeline
 - [`ParallelTransformPipeline`](./SigStat/Common/Pipeline/ParallelTransformPipeline.md)
 	- Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the Item outputs.
 - [`PipelineInput`](./SigStat/Common/Pipeline/PipelineInput.md)
-	- Represents an input for a [SigStat.Common.Pipeline.PipelineInput.PipelineItem]()
+	- Represents an input for a [SigStat.Common.Pipeline.PipelineInput.PipelineItem](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/)
 - [`PipelineOutput`](./SigStat/Common/Pipeline/PipelineOutput.md)
-	- Represents an output for a [SigStat.Common.Pipeline.PipelineOutput.PipelineItem]()
+	- Represents an output for a [SigStat.Common.Pipeline.PipelineOutput.PipelineItem](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/)
 - [`SequentialTransformPipeline`](./SigStat/Common/Pipeline/SequentialTransformPipeline.md)
 	- Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the last Item in the sequence.
 ### [SigStat.Common.Transforms](./SigStat/Common/Transforms/README.md)
@@ -89,23 +89,23 @@ This is the root summary
 - [`Binarization`](./SigStat/Common/Transforms/Binarization.md)
 	- Generates a binary raster version of the input image with the iterative threshold method.  <br>Pipeline Input type: Image{Rgba32}<br>Default Pipeline Output: (bool[,]) Binarized
 - [`BinaryRasterizer`](./SigStat/Common/Transforms/BinaryRasterizer.md)
-	- Converts standard features to a binary raster.  <br>Default Pipeline Input: Standard [SigStat.Common.Features](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Features.md)<br>Default Pipeline Output: (bool[,]) Binarized
+	- Converts standard features to a binary raster.  <br>Default Pipeline Input: Standard [SigStat.Common.Features](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Features)<br>Default Pipeline Output: (bool[,]) Binarized
 - [`CentroidExtraction`](./SigStat/Common/Transforms/CentroidExtraction.md)
 	- Extracts the Centroid (aka. Center Of Gravity) of the input features.  <br> Default Pipeline Output: (List{double}) Centroid.
 - [`CentroidTranslate`](./SigStat/Common/Transforms/CentroidTranslate.md)
-	- Sequential pipeline to translate X and Y [SigStat.Common.Features](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Features.md) to Centroid.  The following Transforms are called: [SigStat.Common.Transforms.CentroidExtraction](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Transforms/CentroidExtraction.md), [SigStat.Common.Transforms.Multiply](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Transforms/Multiply.md)(-1), [SigStat.Common.Transforms.Translate](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Transforms/Translate.md)<br>Default Pipeline Input: [SigStat.Common.Features.X](https://github.com/sigstat/sigstat/tree/develop/docs/md/SigStat/Common/FeatureDescriptor-1.md), [SigStat.Common.Features.Y](https://github.com/sigstat/sigstat/tree/develop/docs/md/SigStat/Common/FeatureDescriptor-1.md)<br>Default Pipeline Output: (List{double}) Centroid
+	- Sequential pipeline to translate X and Y [SigStat.Common.Features](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Features) to Centroid.  The following Transforms are called: [SigStat.Common.Transforms.CentroidExtraction](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Transforms/CentroidExtraction), [SigStat.Common.Transforms.Multiply](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Transforms/Multiply)(-1), [SigStat.Common.Transforms.Translate](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Transforms/Translate)<br>Default Pipeline Input: [SigStat.Common.Features.X](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/), [SigStat.Common.Features.Y](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/)<br>Default Pipeline Output: (List{double}) Centroid
 - [`ComponentExtraction`](./SigStat/Common/Transforms/ComponentExtraction.md)
 	- Extracts unsorted components by tracing through the binary Skeleton raster.  <br>Default Pipeline Input: (bool[,]) Skeleton, (List{Point}) EndPoints, (List{Point}) CrossingPoints<br>Default Pipeline Output: (List{List{PointF}}) Components
 - [`ComponentSorter`](./SigStat/Common/Transforms/ComponentSorter.md)
 	- Sorts Component order by comparing each starting X value, and finding nearest components.  <br>Default Pipeline Input: (bool[,]) Components<br>Default Pipeline Output: (bool[,]) Components
 - [`ComponentsToFeatures`](./SigStat/Common/Transforms/ComponentsToFeatures.md)
-	- Extracts standard [SigStat.Common.Features](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Features.md) from sorted Components.  <br>Default Pipeline Input: (List{List{PointF}}) Components<br>Default Pipeline Output: X, Y, Button [SigStat.Common.Features](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Features.md)
+	- Extracts standard [SigStat.Common.Features](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Features) from sorted Components.  <br>Default Pipeline Input: (List{List{PointF}}) Components<br>Default Pipeline Output: X, Y, Button [SigStat.Common.Features](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Features)
 - [`EndpointExtraction`](./SigStat/Common/Transforms/EndpointExtraction.md)
 	- Extracts EndPoints and CrossingPoints from Skeleton.  <br>Default Pipeline Input: (bool[,]) Skeleton<br>Default Pipeline Output: (List{Point}) EndPoints, (List{Point}) CrossingPoints
 - [`Extrema`](./SigStat/Common/Transforms/Extrema.md)
 	- Extracts minimum and maximum values of given feature.  <br>Default Pipeline Output: (List{double}) Min, (List{double}) Max
 - [`HSCPThinning`](./SigStat/Common/Transforms/HSCPThinning.md)
-	- Iteratively thins the input binary raster with the [SigStat.Common.Algorithms.HSCPThinningStep](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Algorithms/HSCPThinningStep.md) algorithm.  <br>Pipeline Input type: bool[,]<br>Default Pipeline Output: (bool[,]) HSCPThinningResult
+	- Iteratively thins the input binary raster with the [SigStat.Common.Algorithms.HSCPThinningStep](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Algorithms/HSCPThinningStep) algorithm.  <br>Pipeline Input type: bool[,]<br>Default Pipeline Output: (bool[,]) HSCPThinningResult
 - [`ImageGenerator`](./SigStat/Common/Transforms/ImageGenerator.md)
 	- Generates an image feature out of a binary raster.  Optionally, saves the image to a png file.  Useful for debugging pipeline steps.  <br>Pipeline Input type: bool[,]<br>Default Pipeline Output: (bool[,]) Input, (Image{Rgba32}) InputImage
 - [`Map`](./SigStat/Common/Transforms/Map.md)
@@ -115,17 +115,17 @@ This is the root summary
 - [`Normalize`](./SigStat/Common/Transforms/Normalize.md)
 	- Maps values of a feature to 0.0 - 1.0 range.  <br>Pipeline Input type: List{double}<br>Default Pipeline Output: (List{double}) NormalizationResult
 - [`OnePixelThinning`](./SigStat/Common/Transforms/OnePixelThinning.md)
-	- Iteratively thins the input binary raster with the [SigStat.Common.Algorithms.OnePixelThinningStep](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Algorithms/OnePixelThinningStep.md) algorithm.  <br>Pipeline Input type: bool[,]<br>Default Pipeline Output: (bool[,]) OnePixelThinningResult
+	- Iteratively thins the input binary raster with the [SigStat.Common.Algorithms.OnePixelThinningStep](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Algorithms/OnePixelThinningStep) algorithm.  <br>Pipeline Input type: bool[,]<br>Default Pipeline Output: (bool[,]) OnePixelThinningResult
 - [`RealisticImageGenerator`](./SigStat/Common/Transforms/RealisticImageGenerator.md)
-	- Generates a realistic looking image of the Signature based on standard features. Uses blue ink and white paper. It does NOT save the image to file.  <br>Default Pipeline Input: X, Y, Button, Pressure, Azimuth, Altitude [SigStat.Common.Features](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Features.md)<br>Default Pipeline Output: [SigStat.Common.Features.Image]()
+	- Generates a realistic looking image of the Signature based on standard features. Uses blue ink and white paper. It does NOT save the image to file.  <br>Default Pipeline Input: X, Y, Button, Pressure, Azimuth, Altitude [SigStat.Common.Features](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Features)<br>Default Pipeline Output: [SigStat.Common.Features.Image](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/)
 - [`Resize`](./SigStat/Common/Transforms/Resize.md)
 	- Resizes the image to a specified width and height
 - [`TangentExtraction`](./SigStat/Common/Transforms/TangentExtraction.md)
-	- Extracts tangent values of the standard X, Y [SigStat.Common.Features](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Features.md)<br>Default Pipeline Input: X, Y [SigStat.Common.Features](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Features.md)<br>Default Pipeline Output: (List{double})  Tangent
+	- Extracts tangent values of the standard X, Y [SigStat.Common.Features](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Features)<br>Default Pipeline Input: X, Y [SigStat.Common.Features](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Features)<br>Default Pipeline Output: (List{double})  Tangent
 - [`TimeReset`](./SigStat/Common/Transforms/TimeReset.md)
-	- Sequential pipeline to reset time values to begin at 0.  The following Transforms are called: Extrema, Multiply, AddVector.  <br>Default Pipeline Input: [SigStat.Common.Features.T](https://github.com/sigstat/sigstat/tree/develop/docs/md/SigStat/Common/FeatureDescriptor-1.md)<br>Default Pipeline Output: [SigStat.Common.Features.T](https://github.com/sigstat/sigstat/tree/develop/docs/md/SigStat/Common/FeatureDescriptor-1.md)
+	- Sequential pipeline to reset time values to begin at 0.  The following Transforms are called: Extrema, Multiply, AddVector.  <br>Default Pipeline Input: [SigStat.Common.Features.T](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/)<br>Default Pipeline Output: [SigStat.Common.Features.T](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/)
 - [`Translate`](./SigStat/Common/Transforms/Translate.md)
-	- Sequential pipeline to translate X and Y [SigStat.Common.Features](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Features.md) by specified vector (constant or feature).  The following Transforms are called: [SigStat.Common.Transforms.AddConst](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Transforms/AddConst.md) twice, or [SigStat.Common.Transforms.AddVector](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Transforms/AddVector.md).  <br>Default Pipeline Input: [SigStat.Common.Features.X](https://github.com/sigstat/sigstat/tree/develop/docs/md/SigStat/Common/FeatureDescriptor-1.md), [SigStat.Common.Features.Y](https://github.com/sigstat/sigstat/tree/develop/docs/md/SigStat/Common/FeatureDescriptor-1.md)<br>Default Pipeline Output: [SigStat.Common.Features.X](https://github.com/sigstat/sigstat/tree/develop/docs/md/SigStat/Common/FeatureDescriptor-1.md), [SigStat.Common.Features.Y](https://github.com/sigstat/sigstat/tree/develop/docs/md/SigStat/Common/FeatureDescriptor-1.md)
+	- Sequential pipeline to translate X and Y [SigStat.Common.Features](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Features) by specified vector (constant or feature).  The following Transforms are called: [SigStat.Common.Transforms.AddConst](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Transforms/AddConst) twice, or [SigStat.Common.Transforms.AddVector](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Transforms/AddVector).  <br>Default Pipeline Input: [SigStat.Common.Features.X](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/), [SigStat.Common.Features.Y](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/)<br>Default Pipeline Output: [SigStat.Common.Features.X](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/), [SigStat.Common.Features.Y](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/)
 - [`Trim`](./SigStat/Common/Transforms/Trim.md)
 	- Trims unnecessary empty space from a binary raster.  <br>Pipeline Input type: bool[,]<br>Default Pipeline Output: (bool[,]) Trimmed
 ### [SigStat.Common.PipelineItems.Transforms.Preprocessing](./SigStat/Common/PipelineItems/Transforms/Preprocessing/README.md)
@@ -145,7 +145,7 @@ This is the root summary
 - [`RelativeScale`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/RelativeScale.md)
 	- Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled.<br>OutputFeature: output feature for scaled InputFeature&gt;
 - [`ResampleSamplesCountBased`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/ResampleSamplesCountBased.md)
-	- Resamples an online signature to a specific sample count using the specified [SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation]() algorithm
+	- Resamples an online signature to a specific sample count using the specified [SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/) algorithm
 - [`Scale`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/Scale.md)
 	- Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled.<br>OutputFeature: output feature for scaled InputFeature&gt;
 - [`TranslatePreproc`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/TranslatePreproc.md)
@@ -155,11 +155,11 @@ This is the root summary
 ### [SigStat.Common.PipelineItems.Classifiers](./SigStat/Common/PipelineItems/Classifiers/README.md)
 
 - [`DtwClassifier`](./SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md)
-	- Classifies Signatures with the [SigStat.Common.Algorithms.Dtw](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Algorithms/Dtw.md) algorithm.
+	- Classifies Signatures with the [SigStat.Common.Algorithms.Dtw](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Algorithms/Dtw) algorithm.
 - [`DtwSignerModel`](./SigStat/Common/PipelineItems/Classifiers/DtwSignerModel.md)
-	- Represents a trained model for [SigStat.Common.PipelineItems.Classifiers.DtwClassifier]()
+	- Represents a trained model for [SigStat.Common.PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier)
 - [`OptimalDtwClassifier`](./SigStat/Common/PipelineItems/Classifiers/OptimalDtwClassifier.md)
-	- This [SigStat.Common.Pipeline.IDistanceClassifier]() implementation will consider both test and  training samples and claculate the threshold to separate the original and forged  signatures to approximate EER. Note that this classifier is not applicable for  real world scenarios. It was developed to test the theoratical boundaries of  threshold based classification
+	- This [SigStat.Common.Pipeline.IDistanceClassifier](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/) implementation will consider both test and  training samples and claculate the threshold to separate the original and forged  signatures to approximate EER. Note that this classifier is not applicable for  real world scenarios. It was developed to test the theoratical boundaries of  threshold based classification
 - [`WeightedClassifier`](./SigStat/Common/PipelineItems/Classifiers/WeightedClassifier.md)
 	- Classifies Signatures by weighing other Classifier results.
 ### [SigStat.Common.Loaders](./SigStat/Common/Loaders/README.md)
@@ -167,23 +167,23 @@ This is the root summary
 - [`DataSetLoader`](./SigStat/Common/Loaders/DataSetLoader.md)
 	- Abstract loader class to inherit from. Implements ILogger.
 - [`IDataSetLoader`](./SigStat/Common/Loaders/IDataSetLoader.md)
-	- Exposes a function to enable loading collections of [SigStat.Common.Signer](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Signer.md)s.  Base abstract class: [SigStat.Common.Loaders.DataSetLoader](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Loaders/DataSetLoader.md).
+	- Exposes a function to enable loading collections of [SigStat.Common.Signer](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Signer)s.  Base abstract class: [SigStat.Common.Loaders.DataSetLoader](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Loaders/DataSetLoader).
 - [`ImageLoader`](./SigStat/Common/Loaders/ImageLoader.md)
 	- DataSetLoader for Image type databases.  Similar format to Svc2004Loader, but finds png images.
 - [`ImageSaver`](./SigStat/Common/Loaders/ImageSaver.md)
-	- Get the [SigStat.Common.Features.Image]() of a [SigStat.Common.Signature](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Signature.md) and save it as png file.
+	- Get the [SigStat.Common.Features.Image](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/) of a [SigStat.Common.Signature](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Signature) and save it as png file.
 - [`MCYTLoader`](./SigStat/Common/Loaders/MCYTLoader.md)
-	- [SigStat.Common.Loaders.DataSetLoader](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Loaders/DataSetLoader.md) for the MCYT dataset
+	- [SigStat.Common.Loaders.DataSetLoader](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Loaders/DataSetLoader) for the MCYT dataset
 - [`SigComp11ChineseLoader`](./SigStat/Common/Loaders/SigComp11ChineseLoader.md)
-	- [SigStat.Common.Loaders.DataSetLoader](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Loaders/DataSetLoader.md) for the SigComp11Chinese dataset
+	- [SigStat.Common.Loaders.DataSetLoader](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Loaders/DataSetLoader) for the SigComp11Chinese dataset
 - [`SigComp11DutchLoader`](./SigStat/Common/Loaders/SigComp11DutchLoader.md)
-	- [SigStat.Common.Loaders.DataSetLoader](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Loaders/DataSetLoader.md) for the SigComp11Dutch dataset
+	- [SigStat.Common.Loaders.DataSetLoader](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Loaders/DataSetLoader) for the SigComp11Dutch dataset
 - [`SigComp13JapaneseLoader`](./SigStat/Common/Loaders/SigComp13JapaneseLoader.md)
-	- [SigStat.Common.Loaders.DataSetLoader](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Loaders/DataSetLoader.md) for the SigComp13Japanese dataset
+	- [SigStat.Common.Loaders.DataSetLoader](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Loaders/DataSetLoader) for the SigComp13Japanese dataset
 - [`SigComp15GermanLoader`](./SigStat/Common/Loaders/SigComp15GermanLoader.md)
-	- [SigStat.Common.Loaders.DataSetLoader](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Loaders/DataSetLoader.md) for the SigComp15German dataset
+	- [SigStat.Common.Loaders.DataSetLoader](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Loaders/DataSetLoader) for the SigComp15German dataset
 - [`SigComp19OnlineLoader`](./SigStat/Common/Loaders/SigComp19OnlineLoader.md)
-	- [SigStat.Common.Loaders.DataSetLoader](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Loaders/DataSetLoader.md) for the SigComp19 dataset
+	- [SigStat.Common.Loaders.DataSetLoader](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Loaders/DataSetLoader) for the SigComp19 dataset
 - [`Svc2004`](./SigStat/Common/Loaders/Svc2004.md)
 	- Set of features containing raw data loaded from SVC2004-format database.
 - [`Svc2004Loader`](./SigStat/Common/Loaders/Svc2004Loader.md)
@@ -193,15 +193,15 @@ This is the root summary
 - [`ExcelHelper`](./SigStat/Common/Helpers/ExcelHelper.md)
 	- Extension methods for common EPPlus tasks
 - [`FeatureDescriptorJsonConverter`](./SigStat/Common/Helpers/FeatureDescriptorJsonConverter.md)
-	- Custom serializer for [SigStat.Common.FeatureDescriptor](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/FeatureDescriptor.md) objects
+	- Custom serializer for [SigStat.Common.FeatureDescriptor](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/FeatureDescriptor) objects
 - [`FeatureDescriptorTJsonConverter`](./SigStat/Common/Helpers/FeatureDescriptorTJsonConverter.md)
-	- Custom serializer for [SigStat.Common.FeatureDescriptor`1](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/FeatureDescriptor`1.md) objects
+	- Custom serializer for [SigStat.Common.FeatureDescriptor`1](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/) objects
 - [`HierarchyElement`](./SigStat/Common/Helpers/HierarchyElement.md)
 	- Hierarchical structure to store object
 - [`IProgress`](./SigStat/Common/Helpers/IProgress.md)
-	- Enables progress tracking by expsoing the [SigStat.Common.Helpers.IProgress.Progress]() property and the [SigStat.Common.Helpers.IProgress.ProgressChanged]() event.
+	- Enables progress tracking by expsoing the [SigStat.Common.Helpers.IProgress.Progress](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/) property and the [SigStat.Common.Helpers.IProgress.ProgressChanged](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/) event.
 - [`SerializationHelper`](./SigStat/Common/Helpers/SerializationHelper.md)
-	- Json serialization and deserialization using the custom resolver  [SigStat.Common.Helpers.Serialization.VerifierResolver]()
+	- Json serialization and deserialization using the custom resolver  [SigStat.Common.Helpers.Serialization.VerifierResolver](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Helpers/Serialization/VerifierResolver)
 - [`SimpleConsoleLogger`](./SigStat/Common/Helpers/SimpleConsoleLogger.md)
 	- A easy-to-use class to log pipeline messages, complete with filtering levels and multi-thread support.
 ### [SigStat.Common.Helpers.Serialization](./SigStat/Common/Helpers/Serialization/README.md)
@@ -211,14 +211,14 @@ This is the root summary
 - [`FeatureStreamingContextState`](./SigStat/Common/Helpers/Serialization/FeatureStreamingContextState.md)
 	- SerializationContext for serializing SigStat objects
 - [`RectangleFConverter`](./SigStat/Common/Helpers/Serialization/RectangleFConverter.md)
-	- Custom serializer for [System.Drawing.RectangleF]() objects
+	- Custom serializer for [System.Drawing.RectangleF](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/) objects
 ### [SigStat.Common.Helpers.Excel](./SigStat/Common/Helpers/Excel/README.md)
 
 - [`Palette`](./SigStat/Common/Helpers/Excel/Palette.md)
 ### [SigStat.Common.Model](./SigStat/Common/Model/README.md)
 
 - [`Verifier`](./SigStat/Common/Model/Verifier.md)
-	- Uses pipelines to transform, train on, and classify [SigStat.Common.Signature](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Signature.md) objects.
+	- Uses pipelines to transform, train on, and classify [SigStat.Common.Signature](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Signature) objects.
 ### [SigStat.Common.Framework.Samplers](./SigStat/Common/Framework/Samplers/README.md)
 
 - [`EvenNSampler`](./SigStat/Common/Framework/Samplers/EvenNSampler.md)

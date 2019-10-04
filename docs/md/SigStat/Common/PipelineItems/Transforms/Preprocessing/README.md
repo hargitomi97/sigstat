@@ -17,7 +17,7 @@
 - [`RelativeScale`](./RelativeScale.md)
 	- Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled.<br>OutputFeature: output feature for scaled InputFeature&gt;
 - [`ResampleSamplesCountBased`](./ResampleSamplesCountBased.md)
-	- Resamples an online signature to a specific sample count using the specified [SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation]() algorithm
+	- Resamples an online signature to a specific sample count using the specified [SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/) algorithm
 - [`Scale`](./Scale.md)
 	- Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled.<br>OutputFeature: output feature for scaled InputFeature&gt;
 - [`TranslatePreproc`](./TranslatePreproc.md)

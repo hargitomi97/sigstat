@@ -7,14 +7,14 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../../ILoggerObject.md), [IProgress](./../../Helpers/IProgress.md), [IPipelineIO](./../../Pipeline/IPipelineIO.md), [IDistanceClassifier](./../../Pipeline/IDistanceClassifier.md), [IClassifier](./../../Pipeline/IClassifier.md)
 
 ## Summary
-Classifies Signatures with the [SigStat.Common.Algorithms.Dtw](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Algorithms/Dtw.md) algorithm.
+Classifies Signatures with the [SigStat.Common.Algorithms.Dtw](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/Algorithms/Dtw) algorithm.
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| DtwClassifier (  ) | Initializes a new instance of the [SigStat.Common.PipelineItems.Classifiers.DtwClassifier]() class with the default Manhattan distance method. | 
-| DtwClassifier ( [`Func`](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> distanceMethod ) | Initializes a new instance of the [SigStat.Common.PipelineItems.Classifiers.DtwClassifier]() class with a specified distance method. | 
+| DtwClassifier (  ) | Initializes a new instance of the [SigStat.Common.PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier) class with the default Manhattan distance method. | 
+| DtwClassifier ( [`Func`](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> distanceMethod ) | Initializes a new instance of the [SigStat.Common.PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/tree/develop/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier) class with a specified distance method. | 
 
 
 ## Properties
