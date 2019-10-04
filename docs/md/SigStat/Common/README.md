@@ -40,7 +40,7 @@
 - [`Signature`](./Signature.md)
 	- Represents a signature as a collection of features, containing the data that flows in the pipeline.
 - [`Signer`](./Signer.md)
-	- Represents a person as an [SigStat.Common.Signer.ID](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) and a list of [SigStat.Common.Signer.Signatures](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md).
+	- Represents a person as an [SigStat.Common.Signer.ID](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md) and a list of [SigStat.Common.Signer.Signatures](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md).
 - [`SigStatEvents`](./SigStatEvents.md)
 	- Standard event identifiers used by the SigStat system
 - [`SimpleRenderingTransformation`](./SimpleRenderingTransformation.md)

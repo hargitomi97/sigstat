@@ -45,7 +45,7 @@ This is the root summary
 - [`Signature`](./SigStat/Common/Signature.md)
 	- Represents a signature as a collection of features, containing the data that flows in the pipeline.
 - [`Signer`](./SigStat/Common/Signer.md)
-	- Represents a person as an [SigStat.Common.Signer.ID](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) and a list of [SigStat.Common.Signer.Signatures](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md).
+	- Represents a person as an [SigStat.Common.Signer.ID](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md) and a list of [SigStat.Common.Signer.Signatures](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md).
 - [`SigStatEvents`](./SigStat/Common/SigStatEvents.md)
 	- Standard event identifiers used by the SigStat system
 - [`SimpleRenderingTransformation`](./SigStat/Common/SimpleRenderingTransformation.md)
@@ -199,7 +199,7 @@ This is the root summary
 - [`HierarchyElement`](./SigStat/Common/Helpers/HierarchyElement.md)
 	- Hierarchical structure to store object
 - [`IProgress`](./SigStat/Common/Helpers/IProgress.md)
-	- Enables progress tracking by expsoing the [SigStat.Common.Helpers.IProgress.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) property and the [SigStat.Common.Helpers.IProgress.ProgressChanged](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) event.
+	- Enables progress tracking by expsoing the [SigStat.Common.Helpers.IProgress.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/IProgress.md) property and the [SigStat.Common.Helpers.IProgress.ProgressChanged](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) event.
 - [`SerializationHelper`](./SigStat/Common/Helpers/SerializationHelper.md)
 	- Json serialization and deserialization using the custom resolver  [SigStat.Common.Helpers.Serialization.VerifierResolver](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/Serialization/VerifierResolver.md)
 - [`SimpleConsoleLogger`](./SigStat/Common/Helpers/SimpleConsoleLogger.md)
