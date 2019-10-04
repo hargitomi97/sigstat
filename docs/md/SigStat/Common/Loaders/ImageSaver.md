@@ -11,6 +11,6 @@ Get the [SigStat.Common.Features.Image](https://github.com/hargitomi97/sigstat/b
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Save ( [`Signature`](./../Signature.md) signature, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path ) | Saves a png image file to the specified ``. | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/system.void) | Save ( [`Signature`](./../Signature.md) signature, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path ) | Saves a png image file to the specified ``. | 
 
 

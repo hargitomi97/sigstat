@@ -20,6 +20,6 @@ Extracts minimum and maximum values of given feature.  <br>Default Pipeline Outp
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/system.void) | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

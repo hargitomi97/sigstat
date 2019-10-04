@@ -28,6 +28,6 @@ Trims unnecessary empty space from a binary raster.  <br>Pipeline Input type: bo
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/system.void) | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

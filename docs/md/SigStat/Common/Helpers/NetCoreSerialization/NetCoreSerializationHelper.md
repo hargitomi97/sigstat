@@ -20,6 +20,6 @@ Assembly: SigStat.Common.dll
 | [T](./NetCoreSerializationHelper.md) | DeserializeFromFile ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path ) |  | 
 | [JsonSerializerOptions](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) | GetSettings (  ) |  | 
 | [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | Serialize ( [`T`](./NetCoreSerializationHelper.md) o ) |  | 
-| void | SerializeToFile ( [`T`](./NetCoreSerializationHelper.md) o, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/system.void) | SerializeToFile ( [`T`](./NetCoreSerializationHelper.md) o, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path ) |  | 
 
 

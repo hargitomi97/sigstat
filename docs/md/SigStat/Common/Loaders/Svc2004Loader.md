@@ -31,13 +31,13 @@ Loads SVC2004-format database from .zip
 | Return | Name | Summary | 
 | --- | --- | --- | 
 | [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../Signer.md)> | EnumerateSigners ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> signerFilter ) |  | 
-| void | LoadSignature ( [`Signature`](./../Signature.md) signature, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Loads one signature from specified file path. | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/system.void) | LoadSignature ( [`Signature`](./../Signature.md) signature, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Loads one signature from specified file path. | 
 
 
 ## Static Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | LoadSignature ( [`Signature`](./../Signature.md) signature, [`Stream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.Stream) stream, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Loads one signature from specified stream. | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/system.void) | LoadSignature ( [`Signature`](./../Signature.md) signature, [`Stream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.Stream) stream, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Loads one signature from specified stream. | 
 
 

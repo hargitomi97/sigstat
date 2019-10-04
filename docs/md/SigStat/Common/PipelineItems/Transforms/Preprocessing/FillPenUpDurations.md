@@ -31,6 +31,6 @@ This transformation will fill "holes" in the "Time" feature by interpolating the
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| void | Transform ( [`Signature`](./../../../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/system.void) | Transform ( [`Signature`](./../../../Signature.md) signature ) |  | 
 
 

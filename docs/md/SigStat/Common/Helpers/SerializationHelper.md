@@ -22,6 +22,6 @@ Json serialization and deserialization using the custom resolver  [SigStat.Commo
 | [T](./SerializationHelper.md) | DeserializeFromFile ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path ) | Constructs object from file given by a path | 
 | [JsonSerializerSettings](./SerializationHelper.md) | GetSettings (  ) | Settings used for the serialization methods | 
 | [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | JsonSerialize ( [`T`](./SerializationHelper.md) o ) | Creates json string from object | 
-| void | JsonSerializeToFile ( [`T`](./SerializationHelper.md) o, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path ) | Writes object to file to the given by path in json format | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/system.void) | JsonSerializeToFile ( [`T`](./SerializationHelper.md) o, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path ) | Writes object to file to the given by path in json format | 
 
 
