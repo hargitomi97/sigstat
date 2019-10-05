@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
-[CanConvert](./RectangleFConverter-100664058.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType )              Tells if the current object is of the correct type
+<sub>[CanConvert](./RectangleFConverter-100664058.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType )</sub>              <sub>Tells if the current object is of the correct type</sub>

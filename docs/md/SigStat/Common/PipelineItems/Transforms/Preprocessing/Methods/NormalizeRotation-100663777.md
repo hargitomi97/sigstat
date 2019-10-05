@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../../README.md) > [PipelineItems]() >
 
 Assembly: SigStat.Common.dll
 
-[Transform](./NormalizeRotation-100663777.md) ( [`Signature`](./../../../../Signature.md) signature )              
+<sub>[Transform](./NormalizeRotation-100663777.md) ( [`Signature`](./../../../../Signature.md) signature )</sub>              <sub></sub>

@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [PipelineItems]() > [C
 
 Assembly: SigStat.Common.dll
 
-[GetEnumerator](./WeightedClassifier-100663868.md) (  )              
+<sub>[GetEnumerator](./WeightedClassifier-100663868.md) (  )</sub>              <sub></sub>

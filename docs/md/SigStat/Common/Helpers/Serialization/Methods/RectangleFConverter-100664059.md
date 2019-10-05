@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
-[ReadJson](./RectangleFConverter-100664059.md) ( [`JsonReader`](./RectangleFConverter-100664059.md) reader, [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) existingValue, [`JsonSerializer`](./RectangleFConverter-100664059.md) serializer )              
+<sub>[ReadJson](./RectangleFConverter-100664059.md) ( [`JsonReader`](./RectangleFConverter-100664059.md) reader, [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) existingValue, [`JsonSerializer`](./RectangleFConverter-100664059.md) serializer )</sub>              <sub></sub>

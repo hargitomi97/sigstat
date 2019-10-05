@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-[GetAll](./FeatureDescriptor-100663416.md) (  )              Gets a dictionary of all registered feature descriptors
+<sub>[GetAll](./FeatureDescriptor-100663416.md) (  )</sub>              <sub>Gets a dictionary of all registered feature descriptors</sub>

@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../../README.md) > [PipelineItems]() >
 
 Assembly: SigStat.Common.dll
 
-[Transform](./FillPenUpDurations-100663739.md) ( [`Signature`](./../../../../Signature.md) signature )              
+<sub>[Transform](./FillPenUpDurations-100663739.md) ( [`Signature`](./../../../../Signature.md) signature )</sub>              <sub></sub>
