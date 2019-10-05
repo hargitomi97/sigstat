@@ -6,9 +6,9 @@
 	- Helper methods for processing arrays
 - [`Baseline`](./Baseline.md)
 - [`BasicMetadataExtraction`](./BasicMetadataExtraction.md)
-	- Extracts basic statistical signature (like [SigStat.Common.Features.Bounds](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) or [SigStat.Common.Features.Cog](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)) information from an Image
+	- Extracts basic statistical signature (like [Features.Bounds](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) or [Features.Cog](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)) information from an Image
 - [`BenchmarkResults`](./BenchmarkResults.md)
-	- Contains the benchmark results of every [SigStat.Common.Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md) and the summarized final results.
+	- Contains the benchmark results of every [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md) and the summarized final results.
 - [`DistanceMatrix`](./DistanceMatrix-3.md)\<[`TRowKey`](./README.md), [`TColumnKey`](./README.md), [`TValue`](./README.md)>
 	- A Sparse Matrix representation of a distance graph.
 - [`ErrorRate`](./ErrorRate.md)
@@ -34,13 +34,13 @@
 - [`PipelineBase`](./PipelineBase.md)
 	- TODO: Ideiglenes osztaly, C# 8.0 ban ezt atalakitani default implementacios interface be.  ILoggerObject, IProgress, IPipelineIO default implementacioja.
 - [`Result`](./Result.md)
-	- Contains the benchmark results of a single [SigStat.Common.Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md)
+	- Contains the benchmark results of a single [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md)
 - [`Sampler`](./Sampler.md)
-	- Takes samples from a set of [SigStat.Common.Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)s by given sampling strategies.  Use this to fine-tune the [SigStat.Common.VerifierBenchmark](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/VerifierBenchmark.md)
+	- Takes samples from a set of [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)s by given sampling strategies.  Use this to fine-tune the [VerifierBenchmark](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/VerifierBenchmark.md)
 - [`Signature`](./Signature.md)
 	- Represents a signature as a collection of features, containing the data that flows in the pipeline.
 - [`Signer`](./Signer.md)
-	- Represents a person as an [SigStat.Common.Signer.ID](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md) and a list of [SigStat.Common.Signer.Signatures](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md).
+	- Represents a person as an [Signer.ID](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md) and a list of [Signer.Signatures](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md).
 - [`SigStatEvents`](./SigStatEvents.md)
 	- Standard event identifiers used by the SigStat system
 - [`SimpleRenderingTransformation`](./SimpleRenderingTransformation.md)
@@ -50,5 +50,5 @@
 - [`StrokeInterval`](./StrokeInterval.md)
 	- Represents a stroke in an online signature
 - [`VerifierBenchmark`](./VerifierBenchmark.md)
-	- Benchmarking class to test error rates of a [SigStat.Common.Model.Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md)
+	- Benchmarking class to test error rates of a [Model.Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md)
 
