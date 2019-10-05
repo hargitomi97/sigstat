@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Loaders](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-<sub>[EnumerateSigners](./IDataSetLoader-100663880.md) (  )         <div style = "text-align: right" >Enumerates all signers of the database</div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[EnumerateSigners](./IDataSetLoader-100663880.md) (  )</sub> | <img width=225/><sub>Enumerates all signers of the database</sub>

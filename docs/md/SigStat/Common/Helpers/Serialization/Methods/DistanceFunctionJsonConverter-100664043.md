@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
-<sub>[ReadJson](./DistanceFunctionJsonConverter-100664043.md) ( [`JsonReader`](./DistanceFunctionJsonConverter-100664043.md) reader, [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) existingValue, [`JsonSerializer`](./DistanceFunctionJsonConverter-100664043.md) serializer )         <div style = "text-align: right" ></div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[ReadJson](./DistanceFunctionJsonConverter-100664043.md) ( [`JsonReader`](./DistanceFunctionJsonConverter-100664043.md) reader, [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) existingValue, [`JsonSerializer`](./DistanceFunctionJsonConverter-100664043.md) serializer )</sub> | <img width=225/><sub></sub>

@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-<sub>[Execute](./VerifierBenchmark-100663382.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) ParallelMode )         <div style = "text-align: right" >Execute the benchmarking process.</div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[Execute](./VerifierBenchmark-100663382.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) ParallelMode )</sub> | <img width=225/><sub>Execute the benchmarking process.</sub>

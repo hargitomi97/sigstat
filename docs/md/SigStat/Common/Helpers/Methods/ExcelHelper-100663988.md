@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-<sub>[FormatAsTableWithTitle](./ExcelHelper-100663988.md) ( [`ExcelRange`](./ExcelHelper-100663988.md) range, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) title, [`ExcelColor`](./../Excel/ExcelColor.md) color, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) showColumnHeader, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) showRowHeader )         <div style = "text-align: right" >Format cells in the range into a table with possible title</div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[FormatAsTableWithTitle](./ExcelHelper-100663988.md) ( [`ExcelRange`](./ExcelHelper-100663988.md) range, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) title, [`ExcelColor`](./../Excel/ExcelColor.md) color, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) showColumnHeader, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) showRowHeader )</sub> | <img width=225/><sub>Format cells in the range into a table with possible title</sub>

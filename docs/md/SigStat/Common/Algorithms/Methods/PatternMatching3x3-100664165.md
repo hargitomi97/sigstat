@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Algorithms](./../README.
 
 Assembly: SigStat.Common.dll
 
-<sub>[Match](./PatternMatching3x3-100664165.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] input )         <div style = "text-align: right" >Match the 3x3 input with the 3x3 pattern.</div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[Match](./PatternMatching3x3-100664165.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] input )</sub> | <img width=225/><sub>Match the 3x3 input with the 3x3 pattern.</sub>

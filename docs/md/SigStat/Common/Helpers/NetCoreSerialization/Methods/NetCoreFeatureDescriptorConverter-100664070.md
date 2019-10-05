@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
-<sub>[Write](./NetCoreFeatureDescriptorConverter-100664070.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter) writer, [`FeatureDescriptor`](./../../../FeatureDescriptor.md) value, [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) options )         <div style = "text-align: right" ></div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[Write](./NetCoreFeatureDescriptorConverter-100664070.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter) writer, [`FeatureDescriptor`](./../../../FeatureDescriptor.md) value, [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) options )</sub> | <img width=225/><sub></sub>

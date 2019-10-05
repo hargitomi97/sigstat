@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Transforms](./../README.
 
 Assembly: SigStat.Common.dll
 
-<sub>[Transform](./BinaryRasterizer-100663654.md) ( [`Signature`](./../../Signature.md) signature )         <div style = "text-align: right" ></div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[Transform](./BinaryRasterizer-100663654.md) ( [`Signature`](./../../Signature.md) signature )</sub> | <img width=225/><sub></sub>

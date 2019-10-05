@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
-<sub>[CanConvert](./NetCoreFeatureDescriptorTConverter-100664076.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) typeToConvert )         <div style = "text-align: right" ></div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[CanConvert](./NetCoreFeatureDescriptorTConverter-100664076.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) typeToConvert )</sub> | <img width=225/><sub></sub>

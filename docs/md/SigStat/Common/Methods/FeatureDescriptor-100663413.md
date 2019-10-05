@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-<sub>[IsRegistered](./FeatureDescriptor-100663413.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) featureKey )         <div style = "text-align: right" >Returns true, if there is a FeatureDescriptor registered with the given key</div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[IsRegistered](./FeatureDescriptor-100663413.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) featureKey )</sub> | <img width=225/><sub>Returns true, if there is a FeatureDescriptor registered with the given key</sub>

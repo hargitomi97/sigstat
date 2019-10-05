@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Loaders](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-<sub>[Save](./ImageSaver-100663886.md) ( [`Signature`](./../../Signature.md) signature, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path )         <div style = "text-align: right" >Saves a png image file to the specified `path`.</div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[Save](./ImageSaver-100663886.md) ( [`Signature`](./../../Signature.md) signature, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path )</sub> | <img width=225/><sub>Saves a png image file to the specified `path`.</sub>

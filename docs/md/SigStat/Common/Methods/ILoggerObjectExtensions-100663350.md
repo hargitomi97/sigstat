@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-<sub>[LogTrace](./ILoggerObjectExtensions-100663350.md) ( [`ILoggerObject`](./../ILoggerObject.md) obj, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) message, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[] args )         <div style = "text-align: right" >Formats and writes a trace log message.</div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[LogTrace](./ILoggerObjectExtensions-100663350.md) ( [`ILoggerObject`](./../ILoggerObject.md) obj, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) message, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[] args )</sub> | <img width=225/><sub>Formats and writes a trace log message.</sub>

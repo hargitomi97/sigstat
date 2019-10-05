@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../../../README.md) > [PipelineItems]() >
 
 Assembly: SigStat.Common.dll
 
-<sub>[GetValue](./CubicInterpolation-100663727.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) timestamp )         <div style = "text-align: right" >Gets the value.</div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[GetValue](./CubicInterpolation-100663727.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) timestamp )</sub> | <img width=225/><sub>Gets the value.</sub>

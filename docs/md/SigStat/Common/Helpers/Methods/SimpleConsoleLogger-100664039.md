@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-<sub>[BeginScope](./SimpleConsoleLogger-100664039.md) ( [`TState`](./SimpleConsoleLogger-100664039.md) state )         <div style = "text-align: right" ></div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[BeginScope](./SimpleConsoleLogger-100664039.md) ( [`TState`](./SimpleConsoleLogger-100664039.md) state )</sub> | <img width=225/><sub></sub>

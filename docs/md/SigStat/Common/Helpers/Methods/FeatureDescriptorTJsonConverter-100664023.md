@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-<sub>[CanConvert](./FeatureDescriptorTJsonConverter-100664023.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType )         <div style = "text-align: right" >Tells if the current object is of the correct type</div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[CanConvert](./FeatureDescriptorTJsonConverter-100664023.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType )</sub> | <img width=225/><sub>Tells if the current object is of the correct type</sub>

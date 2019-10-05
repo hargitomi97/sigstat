@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
-<sub>[Serialize](./NetCoreSerializationHelper-100664082.md) ( [`T`](./NetCoreSerializationHelper-100664082.md) o )         <div style = "text-align: right" ></div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[Serialize](./NetCoreSerializationHelper-100664082.md) ( [`T`](./NetCoreSerializationHelper-100664082.md) o )</sub> | <img width=225/><sub></sub>

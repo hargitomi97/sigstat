@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../../../README.md) > [PipelineItems]() >
 
 Assembly: SigStat.Common.dll
 
-<sub>[Transform](./FilterPoints-100663753.md) ( [`Signature`](./../../../../Signature.md) signature )         <div style = "text-align: right" ></div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[Transform](./FilterPoints-100663753.md) ( [`Signature`](./../../../../Signature.md) signature )</sub> | <img width=225/><sub></sub>

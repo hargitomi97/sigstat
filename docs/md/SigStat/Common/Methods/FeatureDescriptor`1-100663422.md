@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-<sub>[Get](./FeatureDescriptor`1-100663422.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) key )         <div style = "text-align: right" ></div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[Get](./FeatureDescriptor`1-100663422.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) key )</sub> | <img width=225/><sub></sub>

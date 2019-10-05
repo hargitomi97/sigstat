@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
-<sub>[CanConvert](./DistanceFunctionJsonConverter-100664042.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType )         <div style = "text-align: right" ></div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[CanConvert](./DistanceFunctionJsonConverter-100664042.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType )</sub> | <img width=225/><sub></sub>

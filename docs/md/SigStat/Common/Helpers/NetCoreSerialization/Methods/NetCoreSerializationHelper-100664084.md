@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
-<sub>[DeserializeFromFile](./NetCoreSerializationHelper-100664084.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path )         <div style = "text-align: right" ></div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[DeserializeFromFile](./NetCoreSerializationHelper-100664084.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path )</sub> | <img width=225/><sub></sub>

@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [PipelineItems]() > [C
 
 Assembly: SigStat.Common.dll
 
-<sub>[Add](./WeightedClassifier-100663869.md) ( [`ValueTuple`](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[`IClassifier`](./../../../Pipeline/IClassifier.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> newItem )         <div style = "text-align: right" >Add a new classifier with given weight to the list of items.</div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[Add](./WeightedClassifier-100663869.md) ( [`ValueTuple`](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[`IClassifier`](./../../../Pipeline/IClassifier.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> newItem )</sub> | <img width=225/><sub>Add a new classifier with given weight to the list of items.</sub>

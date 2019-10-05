@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-<sub>[GetDepth](./HierarchyElement-100664011.md) (  )         <div style = "text-align: right" >Return the hierarchy's depth from this node</div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[GetDepth](./HierarchyElement-100664011.md) (  )</sub> | <img width=225/><sub>Return the hierarchy's depth from this node</sub>

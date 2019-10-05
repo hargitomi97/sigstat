@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [PipelineItems]() > [C
 
 Assembly: SigStat.Common.dll
 
-<sub>[Test](./OptimalDtwClassifier-100663867.md) ( [`ISignerModel`](./../../../Pipeline/ISignerModel.md) signerModel, [`Signature`](./../../../Signature.md) signature )         <div style = "text-align: right" ></div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[Test](./OptimalDtwClassifier-100663867.md) ( [`ISignerModel`](./../../../Pipeline/ISignerModel.md) signerModel, [`Signature`](./../../../Signature.md) signature )</sub> | <img width=225/><sub></sub>

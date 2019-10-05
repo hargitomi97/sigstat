@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-<sub>[ToString](./HierarchyElement-100664013.md) (  )         <div style = "text-align: right" >Converts to string.</div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[ToString](./HierarchyElement-100664013.md) (  )</sub> | <img width=225/><sub>Converts to string.</sub>

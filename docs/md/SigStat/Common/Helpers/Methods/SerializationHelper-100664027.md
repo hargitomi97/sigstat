@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-<sub>[GetSettings](./SerializationHelper-100664027.md) (  )         <div style = "text-align: right" >Settings used for the serialization methods</div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[GetSettings](./SerializationHelper-100664027.md) (  )</sub> | <img width=225/><sub>Settings used for the serialization methods</sub>

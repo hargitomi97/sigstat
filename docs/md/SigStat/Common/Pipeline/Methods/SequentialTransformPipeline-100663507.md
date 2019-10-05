@@ -4,4 +4,6 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Pipeline](./../README.md
 
 Assembly: SigStat.Common.dll
 
-<sub>[GetEnumerator](./SequentialTransformPipeline-100663507.md) (  )         <div style = "text-align: right" ></div></sub>
+| Name | Summary  |
+| ------| -----------:|
+| <sub>[GetEnumerator](./SequentialTransformPipeline-100663507.md) (  )</sub> | <img width=225/><sub></sub>
