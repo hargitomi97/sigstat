@@ -13,13 +13,13 @@ Extracts minimum and maximum values of given feature.  <br>Default Pipeline Outp
 
 | Name | Summary | 
 | --- | --- | 
-| Extrema (  ) |  | 
+| Extrema (  ) | <sub></sub> | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/Extrema-100663616.md) ( [`Signature`](./../Signature.md) ) | <sub></sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | <sub>[Transform](./Methods/Extrema-100663616.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 
 

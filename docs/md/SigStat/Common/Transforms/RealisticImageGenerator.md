@@ -13,13 +13,13 @@ Generates a realistic looking image of the Signature based on standard features.
 
 | Name | Summary | 
 | --- | --- | 
-| RealisticImageGenerator ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) ) | Initializes a new instance of the [Transforms.RealisticImageGenerator](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/RealisticImageGenerator.md) class with specified settings. | 
+| RealisticImageGenerator ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) ) | <sub>Initializes a new instance of the [Transforms.RealisticImageGenerator](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/RealisticImageGenerator.md) class with specified settings.</sub> | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/RealisticImageGenerator-100663699.md) ( [`Signature`](./../Signature.md) ) | <sub></sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | <sub>[Transform](./Methods/RealisticImageGenerator-100663699.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 
 

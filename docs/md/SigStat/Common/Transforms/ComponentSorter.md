@@ -13,21 +13,21 @@ Sorts Component order by comparing each starting X value, and finding nearest co
 
 | Name | Summary | 
 | --- | --- | 
-| ComponentSorter (  ) |  | 
+| ComponentSorter (  ) | <sub></sub> | 
 
 
 ## Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[PointF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.PointF)>>> | Input | <sub>Gets or sets the input.</sub> | 
-| [FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[PointF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.PointF)>>> | Output | <sub>Gets or sets the output.</sub> | 
+| [FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[PointF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.PointF)>>> | <sub>Input</sub> | <sub>Gets or sets the input.</sub> | 
+| [FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[PointF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.PointF)>>> | <sub>Output</sub> | <sub>Gets or sets the output.</sub> | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/ComponentSorter-100663515.md) ( [`Signature`](./../Signature.md) ) | <sub></sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | <sub>[Transform](./Methods/ComponentSorter-100663515.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 
 

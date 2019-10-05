@@ -13,23 +13,23 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 
 | Name | Summary | 
 | --- | --- | 
-| Scale (  ) |  | 
+| Scale (  ) | <sub></sub> | 
 
 
 ## Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | InputFeature | <sub>Gets or sets the input feature.</sub> | 
-| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | NewMaxValue | <sub><br>NewMaxValue: upper bound of the interval, in which the input feature will be scaled</sub> | 
-| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | NewMinValue | <sub><br>NewMinValue: lower bound of the interval, in which the input feature will be scaled</sub> | 
-| [FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | OutputFeature | <sub>Gets or sets the output feature.</sub> | 
+| [FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | <sub>InputFeature</sub> | <sub>Gets or sets the input feature.</sub> | 
+| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | <sub>NewMaxValue</sub> | <sub><br>NewMaxValue: upper bound of the interval, in which the input feature will be scaled</sub> | 
+| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | <sub>NewMinValue</sub> | <sub><br>NewMinValue: lower bound of the interval, in which the input feature will be scaled</sub> | 
+| [FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | <sub>OutputFeature</sub> | <sub>Gets or sets the output feature.</sub> | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/Scale-100663813.md) ( [`Signature`](./../../../Signature.md) ) | <sub></sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | <sub>[Transform](./Methods/Scale-100663813.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | 
 
 

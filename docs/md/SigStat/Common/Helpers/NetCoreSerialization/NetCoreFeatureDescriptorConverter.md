@@ -9,15 +9,15 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 | --- | --- | 
-| NetCoreFeatureDescriptorConverter (  ) |  | 
+| NetCoreFeatureDescriptorConverter (  ) | <sub></sub> | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | [CanConvert](./Methods/NetCoreFeatureDescriptorConverter-100664068.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) ) | <sub></sub> | 
-| [FeatureDescriptor](./../../FeatureDescriptor.md) | [Read](./Methods/NetCoreFeatureDescriptorConverter-100664069.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) ) | <sub></sub> | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Write](./Methods/NetCoreFeatureDescriptorConverter-100664070.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`FeatureDescriptor`](./../../FeatureDescriptor.md), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) ) | <sub></sub> | 
+| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | <sub>[CanConvert](./Methods/NetCoreFeatureDescriptorConverter-100664068.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub> | <sub></sub> | 
+| [FeatureDescriptor](./../../FeatureDescriptor.md) | <sub>[Read](./Methods/NetCoreFeatureDescriptorConverter-100664069.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub> | <sub></sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | <sub>[Write](./Methods/NetCoreFeatureDescriptorConverter-100664070.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`FeatureDescriptor`](./../../FeatureDescriptor.md), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub> | <sub></sub> | 
 
 

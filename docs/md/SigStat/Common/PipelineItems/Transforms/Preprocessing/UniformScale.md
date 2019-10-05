@@ -13,26 +13,26 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 | Name | Summary | 
 | --- | --- | 
-| UniformScale (  ) |  | 
+| UniformScale (  ) | <sub></sub> | 
 
 
 ## Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | BaseDimension | <sub>Gets or sets the base dimension.</sub> | 
-| [FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | BaseDimensionOutput | <sub>Gets or sets the output base dimension output.</sub> | 
-| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | NewMaxBaseValue | <sub>Upper bound of the interval, in which the base dimension will be scaled</sub> | 
-| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | NewMinBaseValue | <sub>Lower bound of the interval, in which the base dimension will be scaled</sub> | 
-| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | NewMinProportionalValue | <sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub> | 
-| [FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | ProportionalDimension | <sub>Gets or sets the ProportionalDimension.</sub> | 
-| [FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | ProportionalDimensionOutput | <sub>Gets or sets the output proportional dimension output.</sub> | 
+| [FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | <sub>BaseDimension</sub> | <sub>Gets or sets the base dimension.</sub> | 
+| [FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | <sub>BaseDimensionOutput</sub> | <sub>Gets or sets the output base dimension output.</sub> | 
+| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | <sub>NewMaxBaseValue</sub> | <sub>Upper bound of the interval, in which the base dimension will be scaled</sub> | 
+| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | <sub>NewMinBaseValue</sub> | <sub>Lower bound of the interval, in which the base dimension will be scaled</sub> | 
+| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | <sub>NewMinProportionalValue</sub> | <sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub> | 
+| [FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | <sub>ProportionalDimension</sub> | <sub>Gets or sets the ProportionalDimension.</sub> | 
+| [FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> | <sub>ProportionalDimensionOutput</sub> | <sub>Gets or sets the output proportional dimension output.</sub> | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/UniformScale-100663843.md) ( [`Signature`](./../../../Signature.md) ) | <sub></sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | <sub>[Transform](./Methods/UniformScale-100663843.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | 
 
 

@@ -13,21 +13,21 @@ Performs linear interpolation on the input
 
 | Name | Summary | 
 | --- | --- | 
-| LinearInterpolation (  ) |  | 
+| LinearInterpolation (  ) | <sub></sub> | 
 
 
 ## Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> | FeatureValues | <sub></sub> | 
-| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> | TimeValues | <sub></sub> | 
+| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> | <sub>FeatureValues</sub> | <sub></sub> | 
+| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> | <sub>TimeValues</sub> | <sub></sub> | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | [GetValue](./Methods/LinearInterpolation-100663765.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) ) | <sub>Gets the interpolated value at a given timestamp</sub> | 
+| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | <sub>[GetValue](./Methods/LinearInterpolation-100663765.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub> | <sub>Gets the interpolated value at a given timestamp</sub> | 
 
 

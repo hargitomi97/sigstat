@@ -11,7 +11,7 @@ Supports the definition of [Pipeline.PipelineInput](https://github.com/hargitomi
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[PipelineInput](./PipelineInput.md)> | PipelineInputs | <sub>A collection of inputs for the pipeline elements</sub> | 
-| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[PipelineOutput](./PipelineOutput.md)> | PipelineOutputs | <sub>A collection of outputs for the pipeline elements</sub> | 
+| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[PipelineInput](./PipelineInput.md)> | <sub>PipelineInputs</sub> | <sub>A collection of inputs for the pipeline elements</sub> | 
+| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[PipelineOutput](./PipelineOutput.md)> | <sub>PipelineOutputs</sub> | <sub>A collection of outputs for the pipeline elements</sub> | 
 
 
