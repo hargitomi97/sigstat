@@ -29,6 +29,6 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/RelativeScale-100663787.md) ( [`Signature`](./../../../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/RelativeScale-100663787.md) ( [`Signature`](./../../../Signature.md) ) |  | 
 
 

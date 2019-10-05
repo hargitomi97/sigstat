@@ -13,7 +13,7 @@ Converts standard features to a binary raster.  <br>Default Pipeline Input: Stan
 
 | Name | Summary | 
 | --- | --- | 
-| BinaryRasterizer ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) resolutionX, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) resolutionY, [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) penWidth ) | Initializes a new instance of the [Transforms.BinaryRasterizer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/BinaryRasterizer.md) class with specified raster size and pen width. | 
+| BinaryRasterizer ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) ) | Initializes a new instance of the [Transforms.BinaryRasterizer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/BinaryRasterizer.md) class with specified raster size and pen width. | 
 
 
 ## Properties
@@ -30,6 +30,6 @@ Converts standard features to a binary raster.  <br>Default Pipeline Input: Stan
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/BinaryRasterizer-100663654.md) ( [`Signature`](./../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/BinaryRasterizer-100663654.md) ( [`Signature`](./../Signature.md) ) |  | 
 
 

@@ -13,20 +13,20 @@ DataSetLoader for Image type databases.  Similar format to Svc2004Loader, but fi
 
 | Name | Summary | 
 | --- | --- | 
-| ImageLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) databasePath ) | Initializes a new instance of the [Loaders.ImageLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/ImageLoader.md) class with specified database. | 
+| ImageLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ) | Initializes a new instance of the [Loaders.ImageLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/ImageLoader.md) class with specified database. | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../Signer.md)> | [EnumerateSigners](./Methods/ImageLoader-100663883.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> signerFilter ) |  | 
+| [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../Signer.md)> | [EnumerateSigners](./Methods/ImageLoader-100663883.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> ) |  | 
 
 
 ## Static Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Signature](./../Signature.md) | [LoadSignature](./Methods/ImageLoader-100663884.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) file ) |  | 
+| [Signature](./../Signature.md) | [LoadSignature](./Methods/ImageLoader-100663884.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ) |  | 
 
 

@@ -29,6 +29,6 @@ Extracts tangent values of the standard X, Y [Features](https://github.com/hargi
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/TangentExtraction-100663596.md) ( [`Signature`](./../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/TangentExtraction-100663596.md) ( [`Signature`](./../Signature.md) ) |  | 
 
 

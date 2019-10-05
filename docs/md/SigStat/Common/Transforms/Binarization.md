@@ -14,7 +14,7 @@ Generates a binary raster version of the input image with the iterative threshol
 | Name | Summary | 
 | --- | --- | 
 | Binarization (  ) | Initializes a new instance of the [Transforms.Binarization](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Binarization.md) class with default settings: Iterative threshold and [Transforms.Binarization.ForegroundType.Dark](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md). | 
-| Binarization ( [`ForegroundType`](./Binarization.md) foregroundType, [`Nullable`](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> binThreshold ) |  | 
+| Binarization ( [`ForegroundType`](./Binarization.md), [`Nullable`](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> ) |  | 
 
 
 ## Properties
@@ -29,6 +29,6 @@ Generates a binary raster version of the input image with the iterative threshol
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/Binarization-100663642.md) ( [`Signature`](./../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/Binarization-100663642.md) ( [`Signature`](./../Signature.md) ) |  | 
 
 

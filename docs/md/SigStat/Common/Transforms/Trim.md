@@ -13,7 +13,7 @@ Trims unnecessary empty space from a binary raster.  <br>Pipeline Input type: bo
 
 | Name | Summary | 
 | --- | --- | 
-| Trim ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) framewidth ) |  | 
+| Trim ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) ) |  | 
 
 
 ## Properties
@@ -28,6 +28,6 @@ Trims unnecessary empty space from a binary raster.  <br>Pipeline Input type: bo
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/Trim-100663722.md) ( [`Signature`](./../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/Trim-100663722.md) ( [`Signature`](./../Signature.md) ) |  | 
 
 

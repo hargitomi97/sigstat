@@ -35,8 +35,8 @@ Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the 
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Add](./Methods/ParallelTransformPipeline-100663502.md) ( [`ITransformation`](./../ITransformation.md) newItem ) | Add new transform to the list. | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Add](./Methods/ParallelTransformPipeline-100663502.md) ( [`ITransformation`](./../ITransformation.md) ) | Add new transform to the list. | 
 | [IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerator) | [GetEnumerator](./Methods/ParallelTransformPipeline-100663501.md) (  ) |  | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/ParallelTransformPipeline-100663503.md) ( [`Signature`](./../Signature.md) signature ) | Executes transform [Pipeline.ParallelTransformPipeline.Items](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) parallel.  Passes input features for each.  Output is a range of all the Item outputs. | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/ParallelTransformPipeline-100663503.md) ( [`Signature`](./../Signature.md) ) | Executes transform [Pipeline.ParallelTransformPipeline.Items](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) parallel.  Passes input features for each.  Output is a range of all the Item outputs. | 
 
 

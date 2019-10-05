@@ -30,6 +30,6 @@ Extracts standard [Features](https://github.com/hargitomi97/sigstat/blob/master/
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/ComponentsToFeatures-100663580.md) ( [`Signature`](./../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/ComponentsToFeatures-100663580.md) ( [`Signature`](./../Signature.md) ) |  | 
 
 

@@ -11,7 +11,7 @@ Annotates an input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/bl
 
 | Name | Summary | 
 | --- | --- | 
-| Input ( [`AutoSetMode`](./AutoSetMode.md) AutoSetMode ) | Initializes a new instance of the [Pipeline.Input](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Input.md) class. | 
+| Input ( [`AutoSetMode`](./AutoSetMode.md) ) | Initializes a new instance of the [Pipeline.Input](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Input.md) class. | 
 
 
 ## Fields

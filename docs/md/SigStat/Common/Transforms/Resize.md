@@ -31,6 +31,6 @@ Resizes the image to a specified width and height
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/Resize-100663714.md) ( [`Signature`](./../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/Resize-100663714.md) ( [`Signature`](./../Signature.md) ) |  | 
 
 

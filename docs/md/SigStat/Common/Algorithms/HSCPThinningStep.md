@@ -25,6 +25,6 @@ HSCP thinning algorithm  http://www.ppgia.pucpr.br/~facon/Afinamento/1987holt.pd
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] | [Scan](./Methods/HSCPThinningStep-100664156.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] b ) | Does one step of the thinning. Call it iteratively while ResultChanged. | 
+| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] | [Scan](./Methods/HSCPThinningStep-100664156.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] ) | Does one step of the thinning. Call it iteratively while ResultChanged. | 
 
 

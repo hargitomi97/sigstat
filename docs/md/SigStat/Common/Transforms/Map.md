@@ -13,7 +13,7 @@ Maps values of a feature to a specified range.  <br>Pipeline Input type: List{do
 
 | Name | Summary | 
 | --- | --- | 
-| Map ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) minVal, [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) maxVal ) | Initializes a new instance of the [Transforms.Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings. | 
+| Map ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) ) | Initializes a new instance of the [Transforms.Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings. | 
 
 
 ## Properties
@@ -28,6 +28,6 @@ Maps values of a feature to a specified range.  <br>Pipeline Input type: List{do
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/Map-100663623.md) ( [`Signature`](./../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/Map-100663623.md) ( [`Signature`](./../Signature.md) ) |  | 
 
 

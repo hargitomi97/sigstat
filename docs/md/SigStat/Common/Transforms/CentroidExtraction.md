@@ -28,6 +28,6 @@ Extracts the Centroid (aka. Center Of Gravity) of the input features.  <br> Defa
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/CentroidExtraction-100663554.md) ( [`Signature`](./../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/CentroidExtraction-100663554.md) ( [`Signature`](./../Signature.md) ) |  | 
 
 

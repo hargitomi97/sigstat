@@ -31,6 +31,6 @@ Performs rotation normalization on the online signature
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) ) |  | 
 
 
