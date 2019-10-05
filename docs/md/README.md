@@ -199,7 +199,7 @@ This is the root summary
 - [`HierarchyElement`](./SigStat/Common/Helpers/HierarchyElement.md)
 	- Hierarchical structure to store object
 - [`IProgress`](./SigStat/Common/Helpers/IProgress.md)
-	- Enables progress tracking by expsoing the [Helpers.IProgress.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/IProgress.md) property and the [Helpers.IProgress.ProgressChanged](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) event.
+	- Enables progress tracking by expsoing the [Helpers.IProgress.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/IProgress.md) property and the [Helpers.IProgress.ProgressChanged](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/IProgress.md) event.
 - [`SerializationHelper`](./SigStat/Common/Helpers/SerializationHelper.md)
 	- Json serialization and deserialization using the custom resolver  [Helpers.Serialization.VerifierResolver](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/Serialization/VerifierResolver.md)
 - [`SimpleConsoleLogger`](./SigStat/Common/Helpers/SimpleConsoleLogger.md)
