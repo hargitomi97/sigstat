@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Transforms](./../README.
 
 Assembly: SigStat.Common.dll
 
-System.Void   Transform    
+[Transform](./EndpointExtraction-100663588.md) ( [`Signature`](./../../Signature.md) signature )

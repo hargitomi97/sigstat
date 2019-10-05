@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../../README.md) > [PipelineItems]() >
 
 Assembly: SigStat.Common.dll
 
-System.Void   Transform    
+[Transform](./ResampleSamplesCountBased-100663801.md) ( [`Signature`](./../../../../Signature.md) signature )

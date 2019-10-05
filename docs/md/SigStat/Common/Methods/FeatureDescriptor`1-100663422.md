@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-SigStat.Common.FeatureDescriptor`1[T]   Get    
+[Get](./FeatureDescriptor`1-100663422.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) key )

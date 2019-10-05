@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-SigStat.Common.BenchmarkResults   Execute    Execute the benchmarking process.
+[Execute](./VerifierBenchmark-100663382.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) ParallelMode )

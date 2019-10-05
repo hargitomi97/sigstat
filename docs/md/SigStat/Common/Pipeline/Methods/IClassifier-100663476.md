@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Pipeline](./../README.md
 
 Assembly: SigStat.Common.dll
 
-SigStat.Common.Pipeline.ISignerModel   Train    Trains a model based on the signatures and returns the trained model
+[Train](./IClassifier-100663476.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> signatures )

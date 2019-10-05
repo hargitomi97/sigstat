@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
-System.Text.Json.JsonSerializerOptions   GetSettings    
+[GetSettings](./NetCoreSerializationHelper-100664080.md) (  )

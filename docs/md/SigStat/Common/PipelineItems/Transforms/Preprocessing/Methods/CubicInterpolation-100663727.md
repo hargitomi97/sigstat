@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../../README.md) > [PipelineItems]() >
 
 Assembly: SigStat.Common.dll
 
-System.Double   GetValue    Gets the value.
+[GetValue](./CubicInterpolation-100663727.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) timestamp )

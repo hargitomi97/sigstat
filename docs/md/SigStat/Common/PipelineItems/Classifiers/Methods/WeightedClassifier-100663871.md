@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [PipelineItems]() > [C
 
 Assembly: SigStat.Common.dll
 
-System.Double   Test    
+[Test](./WeightedClassifier-100663871.md) ( [`ISignerModel`](./../../../Pipeline/ISignerModel.md) model, [`Signature`](./../../../Signature.md) signature )

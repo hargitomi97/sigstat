@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [PipelineItems]() > [C
 
 Assembly: SigStat.Common.dll
 
-System.Double   Test    
+[Test](./OptimalDtwClassifier-100663867.md) ( [`ISignerModel`](./../../../Pipeline/ISignerModel.md) signerModel, [`Signature`](./../../../Signature.md) signature )
