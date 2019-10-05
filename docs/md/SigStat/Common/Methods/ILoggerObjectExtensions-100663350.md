@@ -4,3 +4,4 @@ Namespace: [SigStat]() > [Common](./../README.md)
 
 Assembly: SigStat.Common.dll
 
+System.Void   LogTrace    Formats and writes a trace log message.

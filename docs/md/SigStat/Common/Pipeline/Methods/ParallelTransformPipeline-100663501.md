@@ -4,3 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Pipeline](./../README.md
 
 Assembly: SigStat.Common.dll
 
+System.Collections.IEnumerator   GetEnumerator    

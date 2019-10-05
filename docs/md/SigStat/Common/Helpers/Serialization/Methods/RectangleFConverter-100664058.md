@@ -4,3 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
+System.Boolean   CanConvert    Tells if the current object is of the correct type

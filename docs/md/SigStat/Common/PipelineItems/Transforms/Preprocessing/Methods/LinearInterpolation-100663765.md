@@ -4,3 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../../README.md) > [PipelineItems]() >
 
 Assembly: SigStat.Common.dll
 
+System.Double   GetValue    Gets the interpolated value at a given timestamp

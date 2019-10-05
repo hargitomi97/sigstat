@@ -4,3 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Algorithms](./../README.
 
 Assembly: SigStat.Common.dll
 
+System.Boolean   RotMatch    Match the 3x3 input with the 3x3 pattern from all 4 directions.

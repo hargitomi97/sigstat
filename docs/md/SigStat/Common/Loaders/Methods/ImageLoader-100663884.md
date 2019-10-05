@@ -4,3 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Loaders](./../README.md)
 
 Assembly: SigStat.Common.dll
 
+SigStat.Common.Signature   LoadSignature    

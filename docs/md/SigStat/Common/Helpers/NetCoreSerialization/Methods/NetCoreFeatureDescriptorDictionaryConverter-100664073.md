@@ -4,3 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
+System.Collections.Generic.Dictionary`2[System.String,SigStat.Common.FeatureDescriptor]   Read    
