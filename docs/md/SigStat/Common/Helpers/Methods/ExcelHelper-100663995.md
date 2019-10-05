@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-<sub>[InsertLegend](./ExcelHelper-100663995.md) ( [`ExcelRange`](./ExcelHelper-100663995.md) range, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) text, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) title, [`ExcelColor`](./../Excel/ExcelColor.md) color )</sub>              <sub>Insert legend</sub>
+<sub>[InsertLegend](./ExcelHelper-100663995.md) ( [`ExcelRange`](./ExcelHelper-100663995.md) range, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) text, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) title, [`ExcelColor`](./../Excel/ExcelColor.md) color )</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Insert legend</sub>

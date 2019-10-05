@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Transforms](./../README.
 
 Assembly: SigStat.Common.dll
 
-<sub>[Transform](./OnePixelThinning-100663682.md) ( [`Signature`](./../../Signature.md) signature )</sub>              <sub></sub>
+<sub>[Transform](./OnePixelThinning-100663682.md) ( [`Signature`](./../../Signature.md) signature )</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub></sub>
