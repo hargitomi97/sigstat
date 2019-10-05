@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [GetAll](./FeatureDescriptor-100663416.md) (  ) | <img width=225/>Gets a dictionary of all registered feature descriptors
+| [GetAll](./FeatureDescriptor-100663416.md) (  ) | Gets a dictionary of all registered feature descriptors

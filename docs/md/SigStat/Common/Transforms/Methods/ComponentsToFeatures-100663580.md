@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [Transform](./ComponentsToFeatures-100663580.md) ( [`Signature`](./../../Signature.md) signature ) | <img width=225/>
+| [Transform](./ComponentsToFeatures-100663580.md) ( [`Signature`](./../../Signature.md) signature ) | 

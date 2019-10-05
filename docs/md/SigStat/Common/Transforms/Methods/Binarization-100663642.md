@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [Transform](./Binarization-100663642.md) ( [`Signature`](./../../Signature.md) signature ) | <img width=225/>
+| [Transform](./Binarization-100663642.md) ( [`Signature`](./../../Signature.md) signature ) | 

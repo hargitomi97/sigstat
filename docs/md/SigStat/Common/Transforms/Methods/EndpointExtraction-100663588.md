@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [Transform](./EndpointExtraction-100663588.md) ( [`Signature`](./../../Signature.md) signature ) | <img width=225/>
+| [Transform](./EndpointExtraction-100663588.md) ( [`Signature`](./../../Signature.md) signature ) | 

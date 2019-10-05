@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [Transform](./ImageGenerator-100663677.md) ( [`Signature`](./../../Signature.md) signature ) | <img width=225/>
+| [Transform](./ImageGenerator-100663677.md) ( [`Signature`](./../../Signature.md) signature ) | 

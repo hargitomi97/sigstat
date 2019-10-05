@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [Transform](./CentroidExtraction-100663554.md) ( [`Signature`](./../../Signature.md) signature ) | <img width=225/>
+| [Transform](./CentroidExtraction-100663554.md) ( [`Signature`](./../../Signature.md) signature ) | 

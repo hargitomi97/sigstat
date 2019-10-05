@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [Add](./HierarchyElement-100664010.md) ( [`HierarchyElement`](./../HierarchyElement.md) child ) | <img width=225/>
+| [Add](./HierarchyElement-100664010.md) ( [`HierarchyElement`](./../HierarchyElement.md) child ) | 

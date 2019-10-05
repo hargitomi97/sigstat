@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [Transform](./ApproximateOnlineFeatures-100663548.md) ( [`Signature`](./../../Signature.md) signature ) | <img width=225/>
+| [Transform](./ApproximateOnlineFeatures-100663548.md) ( [`Signature`](./../../Signature.md) signature ) | 

@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [Test](./IClassifier-100663477.md) ( [`ISignerModel`](./../ISignerModel.md) model, [`Signature`](./../../Signature.md) signature ) | <img width=225/>
+| [Test](./IClassifier-100663477.md) ( [`ISignerModel`](./../ISignerModel.md) model, [`Signature`](./../../Signature.md) signature ) | 

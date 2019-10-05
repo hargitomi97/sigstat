@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [WriteJson](./RectangleFConverter-100664060.md) ( [`JsonWriter`](./RectangleFConverter-100664060.md) writer, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) value, [`JsonSerializer`](./RectangleFConverter-100664060.md) serializer ) | <img width=225/>
+| [WriteJson](./RectangleFConverter-100664060.md) ( [`JsonWriter`](./RectangleFConverter-100664060.md) writer, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) value, [`JsonSerializer`](./RectangleFConverter-100664060.md) serializer ) | 

@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [Transform](./RelativeScale-100663787.md) ( [`Signature`](./../../../../Signature.md) signature ) | <img width=225/>
+| [Transform](./RelativeScale-100663787.md) ( [`Signature`](./../../../../Signature.md) signature ) | 

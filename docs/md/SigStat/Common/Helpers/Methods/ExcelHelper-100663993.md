@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [InsertHierarchicalList](./ExcelHelper-100663993.md) ( [`ExcelWorksheet`](./ExcelHelper-100663993.md) ws, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) row, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) col, [`HierarchyElement`](./../HierarchyElement.md) root, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) title, [`ExcelColor`](./../Excel/ExcelColor.md) color ) | <img width=225/>Insert a hierarchical list in tree style into the worksheet
+| [InsertHierarchicalList](./ExcelHelper-100663993.md) ( [`ExcelWorksheet`](./ExcelHelper-100663993.md) ws, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) row, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) col, [`HierarchyElement`](./../HierarchyElement.md) root, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) title, [`ExcelColor`](./../Excel/ExcelColor.md) color ) | Insert a hierarchical list in tree style into the worksheet

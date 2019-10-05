@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [GetValues](./ArrayExtension-100663385.md) ( [`T`](./ArrayExtension-100663385.md)[] array ) | <img width=225/>Enumerates all values in a two dimensional array
+| [GetValues](./ArrayExtension-100663385.md) ( [`T`](./ArrayExtension-100663385.md)[] array ) | Enumerates all values in a two dimensional array

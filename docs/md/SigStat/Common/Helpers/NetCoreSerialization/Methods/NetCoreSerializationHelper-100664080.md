@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [GetSettings](./NetCoreSerializationHelper-100664080.md) (  ) | <img width=225/>
+| [GetSettings](./NetCoreSerializationHelper-100664080.md) (  ) | 

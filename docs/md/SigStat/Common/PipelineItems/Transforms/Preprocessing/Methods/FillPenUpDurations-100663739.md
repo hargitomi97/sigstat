@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [Transform](./FillPenUpDurations-100663739.md) ( [`Signature`](./../../../../Signature.md) signature ) | <img width=225/>
+| [Transform](./FillPenUpDurations-100663739.md) ( [`Signature`](./../../../../Signature.md) signature ) | 

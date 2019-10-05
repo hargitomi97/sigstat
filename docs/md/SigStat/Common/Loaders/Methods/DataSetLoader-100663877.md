@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [EnumerateSigners](./DataSetLoader-100663877.md) (  ) | <img width=225/>
+| [EnumerateSigners](./DataSetLoader-100663877.md) (  ) | 

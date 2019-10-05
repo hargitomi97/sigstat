@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [Transform](./ResampleSamplesCountBased-100663801.md) ( [`Signature`](./../../../../Signature.md) signature ) | <img width=225/>
+| [Transform](./ResampleSamplesCountBased-100663801.md) ( [`Signature`](./../../../../Signature.md) signature ) | 

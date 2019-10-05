@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [InsertLink](./ExcelHelper-100663996.md) ( [`ExcelRange`](./ExcelHelper-100663996.md) range, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) sheet ) | <img width=225/>Creates a link to given sheet
+| [InsertLink](./ExcelHelper-100663996.md) ( [`ExcelRange`](./ExcelHelper-100663996.md) range, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) sheet ) | Creates a link to given sheet

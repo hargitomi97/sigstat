@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [Transform](./HSCPThinning-100663662.md) ( [`Signature`](./../../Signature.md) signature ) | <img width=225/>
+| [Transform](./HSCPThinning-100663662.md) ( [`Signature`](./../../Signature.md) signature ) | 

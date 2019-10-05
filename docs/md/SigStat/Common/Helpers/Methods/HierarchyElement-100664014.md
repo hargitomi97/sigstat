@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [GetEnumerator](./HierarchyElement-100664014.md) (  ) | <img width=225/>Returns an enumerator that iterates through the collection.
+| [GetEnumerator](./HierarchyElement-100664014.md) (  ) | Returns an enumerator that iterates through the collection.

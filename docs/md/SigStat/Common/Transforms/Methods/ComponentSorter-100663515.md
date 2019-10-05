@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [Transform](./ComponentSorter-100663515.md) ( [`Signature`](./../../Signature.md) signature ) | <img width=225/>
+| [Transform](./ComponentSorter-100663515.md) ( [`Signature`](./../../Signature.md) signature ) | 

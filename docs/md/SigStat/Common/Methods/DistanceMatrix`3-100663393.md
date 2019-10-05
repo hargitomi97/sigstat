@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [TryGetValue](./DistanceMatrix`3-100663393.md) ( [`TRowKey`](./DistanceMatrix`3-100663393.md) row, [`TColumnKey`](./DistanceMatrix`3-100663393.md) column, out [`TValue`](./DistanceMatrix`3-100663393.md) value ) | <img width=225/>
+| [TryGetValue](./DistanceMatrix`3-100663393.md) ( [`TRowKey`](./DistanceMatrix`3-100663393.md) row, [`TColumnKey`](./DistanceMatrix`3-100663393.md) column, out [`TValue`](./DistanceMatrix`3-100663393.md) value ) | 

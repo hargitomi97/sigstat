@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [Transform](./ITransformation-100663461.md) ( [`Signature`](./../Signature.md) signature ) | <img width=225/>Executes the transform on the `signature` parameter.  This function gets called by the pipeline.
+| [Transform](./ITransformation-100663461.md) ( [`Signature`](./../Signature.md) signature ) | Executes the transform on the `signature` parameter.  This function gets called by the pipeline.

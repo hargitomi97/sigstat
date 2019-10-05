@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [Transform](./NormalizeRotation-100663777.md) ( [`Signature`](./../../../../Signature.md) signature ) | <img width=225/>
+| [Transform](./NormalizeRotation-100663777.md) ( [`Signature`](./../../../../Signature.md) signature ) | 

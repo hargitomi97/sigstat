@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [Deserialize](./SerializationHelper-100664028.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) s ) | <img width=225/>Constructs object from strings that were serialized previously
+| [Deserialize](./SerializationHelper-100664028.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) s ) | Constructs object from strings that were serialized previously

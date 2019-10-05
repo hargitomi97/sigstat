@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [JsonSerialize](./SerializationHelper-100664031.md) ( [`T`](./SerializationHelper-100664031.md) o ) | <img width=225/>Creates json string from object
+| [JsonSerialize](./SerializationHelper-100664031.md) ( [`T`](./SerializationHelper-100664031.md) o ) | Creates json string from object

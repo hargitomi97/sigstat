@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [ToString](./HierarchyElement-100664013.md) (  ) | <img width=225/>Converts to string.
+| [ToString](./HierarchyElement-100664013.md) (  ) | Converts to string.
