@@ -5,19 +5,19 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Framework]() > [Samplers
 Assembly: SigStat.Common.dll
 
 ## Summary
-<sub>Selects the first N signatures with odd index for training</sub>
+Selects the first N signatures with odd index for training
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| OddNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) ) | <sub>Constructor</sub> | 
+| OddNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) ) | Constructor | 
 
 
 ## Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | N | <sub>Count of signatures used for training</sub> | 
+| [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | N | Count of signatures used for training | 
 
 

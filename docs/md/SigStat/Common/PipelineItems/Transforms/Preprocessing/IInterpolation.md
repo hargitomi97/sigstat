@@ -5,20 +5,20 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [PipelineItems]() > [T
 Assembly: SigStat.Common.dll
 
 ## Summary
-<sub>Represents an interploation algorithm</sub>
+Represents an interploation algorithm
 
 ## Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> | FeatureValues | <sub>Gets or sets the feature values.</sub> | 
-| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> | TimeValues | <sub>Timestamps</sub> | 
+| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> | FeatureValues | Gets or sets the feature values. | 
+| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> | TimeValues | Timestamps | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | [GetValue](./Methods/IInterpolation-100663760.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) ) | <sub>Gets the interpolated value at a given timestamp</sub> | 
+| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | [GetValue](./Methods/IInterpolation-100663760.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) ) | Gets the interpolated value at a given timestamp | 
 
 

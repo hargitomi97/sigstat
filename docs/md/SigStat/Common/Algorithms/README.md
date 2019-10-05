@@ -3,11 +3,11 @@
 ## Types
 
 - [`Dtw`](./Dtw.md)
-	- <sub>Dynamic Time Warping algorithm</sub>
+	- Dynamic Time Warping algorithm
 - [`DtwPy`](./DtwPy.md)
-	- <sub>A simple implementation of the DTW algorithm.</sub>
+	- A simple implementation of the DTW algorithm.
 - [`HSCPThinningStep`](./HSCPThinningStep.md)
-	- <sub>HSCP thinning algorithm  http://www.ppgia.pucpr.br/~facon/Afinamento/1987holt.pdf</sub>
+	- HSCP thinning algorithm  http://www.ppgia.pucpr.br/~facon/Afinamento/1987holt.pdf
 - [`PatternMatching3x3`](./PatternMatching3x3.md)
-	- <sub>Binary 3x3 pattern matcher with rotating option.</sub>
+	- Binary 3x3 pattern matcher with rotating option.
 

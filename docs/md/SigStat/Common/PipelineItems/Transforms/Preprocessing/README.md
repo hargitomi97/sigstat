@@ -3,25 +3,25 @@
 ## Types
 
 - [`CubicInterpolation`](./CubicInterpolation.md)
-	- <sub>Cubic interpolation algorithm</sub>
+	- Cubic interpolation algorithm
 - [`FillPenUpDurations`](./FillPenUpDurations.md)
-	- <sub>This transformation will fill "holes" in the "Time" feature by interpolating the last known  feature values.</sub>
+	- This transformation will fill "holes" in the "Time" feature by interpolating the last known  feature values.
 - [`FilterPoints`](./FilterPoints.md)
-	- <sub>Removes samples based on a criteria from online signature time series</sub>
+	- Removes samples based on a criteria from online signature time series
 - [`IInterpolation`](./IInterpolation.md)
-	- <sub>Represents an interploation algorithm</sub>
+	- Represents an interploation algorithm
 - [`LinearInterpolation`](./LinearInterpolation.md)
-	- <sub>Performs linear interpolation on the input</sub>
+	- Performs linear interpolation on the input
 - [`NormalizeRotation`](./NormalizeRotation.md)
-	- <sub>Performs rotation normalization on the online signature</sub>
+	- Performs rotation normalization on the online signature
 - [`RelativeScale`](./RelativeScale.md)
-	- <sub>Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled.<br>OutputFeature: output feature for scaled InputFeature</sub>
+	- Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled.<br>OutputFeature: output feature for scaled InputFeature
 - [`ResampleSamplesCountBased`](./ResampleSamplesCountBased.md)
-	- <sub>Resamples an online signature to a specific sample count using the specified [PipelineItems.Transforms.Preprocessing.IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md) algorithm</sub>
+	- Resamples an online signature to a specific sample count using the specified [PipelineItems.Transforms.Preprocessing.IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md) algorithm
 - [`Scale`](./Scale.md)
-	- <sub>Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled.<br>OutputFeature: output feature for scaled InputFeature</sub>
+	- Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled.<br>OutputFeature: output feature for scaled InputFeature
 - [`TranslatePreproc`](./TranslatePreproc.md)
-	- <sub>This transformations can be used to translate the coordinates of an online signature</sub>
+	- This transformations can be used to translate the coordinates of an online signature
 - [`UniformScale`](./UniformScale.md)
-	- <sub>Maps values of a feature to a specific range and another proportional.  <br>BaseDimension: feature modelled the base dimension of the scaling. <br>ProportionalDimension: feature modelled the dimension scaled proportionally to the base dimension. <br>BaseDimensionOutput: output feature for scaled BaseDimension<br>ProportionalDimensionOutput: output feature for scaled ProportionalDimension</sub>
+	- Maps values of a feature to a specific range and another proportional.  <br>BaseDimension: feature modelled the base dimension of the scaling. <br>ProportionalDimension: feature modelled the dimension scaled proportionally to the base dimension. <br>BaseDimensionOutput: output feature for scaled BaseDimension<br>ProportionalDimensionOutput: output feature for scaled ProportionalDimension
 

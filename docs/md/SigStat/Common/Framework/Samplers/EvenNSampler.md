@@ -5,19 +5,19 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Framework]() > [Samplers
 Assembly: SigStat.Common.dll
 
 ## Summary
-<sub>Selects the first N signatures with even index for training</sub>
+Selects the first N signatures with even index for training
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| EvenNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) ) | <sub>Constructor</sub> | 
+| EvenNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) ) | Constructor | 
 
 
 ## Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | N | <sub>Count of signatures used for training</sub> | 
+| [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | N | Count of signatures used for training | 
 
 

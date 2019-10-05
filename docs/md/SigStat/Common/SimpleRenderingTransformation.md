@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./ILoggerObject.md), [IProgress](./Helpers/IProgress.md), [IPipelineIO](./Pipeline/IPipelineIO.md), [ITransformation](./ITransformation.md)
 
 ## Summary
-<sub>Renders an image of the signature based on the available online information (X,Y,Dpi)</sub>
+Renders an image of the signature based on the available online information (X,Y,Dpi)
 
 ## Constructors
 

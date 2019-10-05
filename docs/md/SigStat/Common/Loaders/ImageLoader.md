@@ -7,13 +7,13 @@ Assembly: SigStat.Common.dll
 Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerObject.md)
 
 ## Summary
-<sub>DataSetLoader for Image type databases.  Similar format to Svc2004Loader, but finds png images.</sub>
+DataSetLoader for Image type databases.  Similar format to Svc2004Loader, but finds png images.
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| ImageLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ) | <sub>Initializes a new instance of the [Loaders.ImageLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/ImageLoader.md) class with specified database.</sub> | 
+| ImageLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ) | Initializes a new instance of the [Loaders.ImageLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/ImageLoader.md) class with specified database. | 
 
 
 ## Methods
@@ -27,6 +27,6 @@ Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerOb
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Signature](./../Signature.md) | [LoadSignature](./Methods/ImageLoader-100663884.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ) | <sub></sub> | 
+| [Signature](./../Signature.md) | [LoadSignature](./Methods/ImageLoader-100663884.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ) |  | 
 
 

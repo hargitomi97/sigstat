@@ -4,18 +4,18 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md)
 Assembly: SigStat.Common.dll
 
 
-<sub>Predefined color schemes for Excel</sub>
+Predefined color schemes for Excel
 
 ##	Enum
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0 | Primary | <sub>Primary color</sub> | 
-| 1 | Secondary | <sub>Secondary color</sub> | 
-| 2 | Succes | <sub>Succes color</sub> | 
-| 3 | Danger | <sub>Danger color</sub> | 
-| 4 | Warning | <sub>Warning color</sub> | 
-| 5 | Info | <sub>Info color</sub> | 
-| 6 | Transparent | <sub>Transparent color</sub> | 
+| 0 | Primary | Primary color | 
+| 1 | Secondary | Secondary color | 
+| 2 | Succes | Succes color | 
+| 3 | Danger | Danger color | 
+| 4 | Warning | Warning color | 
+| 5 | Info | Info color | 
+| 6 | Transparent | Transparent color | 
 
 

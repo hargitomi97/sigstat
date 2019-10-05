@@ -7,12 +7,12 @@ Assembly: SigStat.Common.dll
 Implements [IPipelineIO](./Pipeline/IPipelineIO.md)
 
 ## Summary
-<sub>Allows implementing a pipeline transform item capable of logging, progress tracking and IO rewiring.</sub>
+Allows implementing a pipeline transform item capable of logging, progress tracking and IO rewiring.
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/ITransformation-100663461.md) ( [`Signature`](./Signature.md) ) | <sub>Executes the transform on the `signature` parameter.  This function gets called by the pipeline.</sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/ITransformation-100663461.md) ( [`Signature`](./Signature.md) ) | Executes the transform on the `signature` parameter.  This function gets called by the pipeline. | 
 
 

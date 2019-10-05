@@ -5,7 +5,7 @@ Namespace: [SigStat]() > [Common](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-<sub>Represents a feature with the type `T`</sub>
+Represents a feature with the type `T`
 
 ## Static Methods
 

@@ -5,7 +5,7 @@ Namespace: [SigStat]() > [Common](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-<sub>Represents a person as an [Signer.ID](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md) and a list of [Signer.Signatures](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md).</sub>
+Represents a person as an [Signer.ID](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md) and a list of [Signer.Signatures](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md).
 
 ## Constructors
 
@@ -18,14 +18,14 @@ Assembly: SigStat.Common.dll
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | ID | <sub>An identifier for the Signer. Keep it unique to be useful for logs.</sub> | 
-| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Signature](./Signature.md)> | Signatures | <sub>List of signatures that belong to the signer.  (Their origin is not constrained to be genuine.)</sub> | 
+| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | ID | An identifier for the Signer. Keep it unique to be useful for logs. | 
+| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Signature](./Signature.md)> | Signatures | List of signatures that belong to the signer.  (Their origin is not constrained to be genuine.) | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | [ToString](./Methods/Signer-100663452.md) (  ) | <sub>Returns a string representation of a Signer</sub> | 
+| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | [ToString](./Methods/Signer-100663452.md) (  ) | Returns a string representation of a Signer | 
 
 

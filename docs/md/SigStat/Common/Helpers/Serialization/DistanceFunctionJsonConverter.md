@@ -5,7 +5,7 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-<sub>Helper class for serializing distance functions</sub>
+Helper class for serializing distance functions
 
 ## Constructors
 

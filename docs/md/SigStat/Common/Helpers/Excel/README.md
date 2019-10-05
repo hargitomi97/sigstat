@@ -3,5 +3,4 @@
 ## Types
 
 - [`Palette`](./Palette.md)
-	- <sub></sub>
 
