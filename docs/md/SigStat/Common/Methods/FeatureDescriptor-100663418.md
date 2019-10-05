@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[ToString](./FeatureDescriptor-100663418.md) (  )</sub> | <img width=225/><sub>Returns a string represenatation of the FeatureDescriptor</sub>
+| [ToString](./FeatureDescriptor-100663418.md) (  ) | <img width=225/>Returns a string represenatation of the FeatureDescriptor

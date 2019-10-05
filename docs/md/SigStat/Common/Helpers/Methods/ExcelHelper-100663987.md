@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[FormatAsTable](./ExcelHelper-100663987.md) ( [`ExcelRange`](./ExcelHelper-100663987.md) range, [`ExcelColor`](./../Excel/ExcelColor.md) color, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) showColumnHeader, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) showRowHeader )</sub> | <img width=225/><sub>Format cells in the range into a table</sub>
+| [FormatAsTable](./ExcelHelper-100663987.md) ( [`ExcelRange`](./ExcelHelper-100663987.md) range, [`ExcelColor`](./../Excel/ExcelColor.md) color, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) showColumnHeader, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) showRowHeader ) | <img width=225/>Format cells in the range into a table

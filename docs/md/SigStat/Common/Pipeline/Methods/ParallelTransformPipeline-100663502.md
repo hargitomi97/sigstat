@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[Add](./ParallelTransformPipeline-100663502.md) ( [`ITransformation`](./../../ITransformation.md) newItem )</sub> | <img width=225/><sub>Add new transform to the list.</sub>
+| [Add](./ParallelTransformPipeline-100663502.md) ( [`ITransformation`](./../../ITransformation.md) newItem ) | <img width=225/>Add new transform to the list.

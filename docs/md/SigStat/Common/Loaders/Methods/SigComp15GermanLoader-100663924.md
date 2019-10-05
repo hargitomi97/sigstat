@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[LoadSignature](./SigComp15GermanLoader-100663924.md) ( [`Signature`](./../../Signature.md) signature, [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream) stream, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures )</sub> | <img width=225/><sub>Loads one signature from specified stream.</sub>
+| [LoadSignature](./SigComp15GermanLoader-100663924.md) ( [`Signature`](./../../Signature.md) signature, [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream) stream, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | <img width=225/>Loads one signature from specified stream.

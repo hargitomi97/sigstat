@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[Execute](./VerifierBenchmark-100663383.md) ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) degreeOfParallelism )</sub> | <img width=225/><sub>Execute the benchmarking process with a degree of parallelism.</sub>
+| [Execute](./VerifierBenchmark-100663383.md) ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) degreeOfParallelism ) | <img width=225/>Execute the benchmarking process with a degree of parallelism.

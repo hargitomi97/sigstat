@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[SerializeToFile](./NetCoreSerializationHelper-100664083.md) ( [`T`](./NetCoreSerializationHelper-100664083.md) o, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path )</sub> | <img width=225/><sub></sub>
+| [SerializeToFile](./NetCoreSerializationHelper-100664083.md) ( [`T`](./NetCoreSerializationHelper-100664083.md) o, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path ) | <img width=225/>

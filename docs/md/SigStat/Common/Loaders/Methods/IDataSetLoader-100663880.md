@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[EnumerateSigners](./IDataSetLoader-100663880.md) (  )</sub> | <img width=225/><sub>Enumerates all signers of the database</sub>
+| [EnumerateSigners](./IDataSetLoader-100663880.md) (  ) | <img width=225/>Enumerates all signers of the database

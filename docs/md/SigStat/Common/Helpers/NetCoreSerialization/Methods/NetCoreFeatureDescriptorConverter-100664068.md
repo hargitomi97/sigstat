@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[CanConvert](./NetCoreFeatureDescriptorConverter-100664068.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) typeToConvert )</sub> | <img width=225/><sub></sub>
+| [CanConvert](./NetCoreFeatureDescriptorConverter-100664068.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) typeToConvert ) | <img width=225/>

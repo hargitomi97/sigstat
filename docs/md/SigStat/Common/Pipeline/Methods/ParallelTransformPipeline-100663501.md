@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[GetEnumerator](./ParallelTransformPipeline-100663501.md) (  )</sub> | <img width=225/><sub></sub>
+| [GetEnumerator](./ParallelTransformPipeline-100663501.md) (  ) | <img width=225/>

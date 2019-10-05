@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[Get](./FeatureDescriptor`1-100663422.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) key )</sub> | <img width=225/><sub></sub>
+| [Get](./FeatureDescriptor`1-100663422.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) key ) | <img width=225/>

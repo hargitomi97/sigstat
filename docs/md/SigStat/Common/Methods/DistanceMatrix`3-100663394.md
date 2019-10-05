@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[ContainsKey](./DistanceMatrix`3-100663394.md) ( [`TRowKey`](./DistanceMatrix`3-100663394.md) row, [`TColumnKey`](./DistanceMatrix`3-100663394.md) column )</sub> | <img width=225/><sub></sub>
+| [ContainsKey](./DistanceMatrix`3-100663394.md) ( [`TRowKey`](./DistanceMatrix`3-100663394.md) row, [`TColumnKey`](./DistanceMatrix`3-100663394.md) column ) | <img width=225/>

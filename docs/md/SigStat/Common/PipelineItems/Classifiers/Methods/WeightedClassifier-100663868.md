@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[GetEnumerator](./WeightedClassifier-100663868.md) (  )</sub> | <img width=225/><sub></sub>
+| [GetEnumerator](./WeightedClassifier-100663868.md) (  ) | <img width=225/>

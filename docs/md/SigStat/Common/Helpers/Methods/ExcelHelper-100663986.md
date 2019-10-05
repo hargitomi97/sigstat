@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[Merge](./ExcelHelper-100663986.md) ( [`ExcelRangeBase`](./ExcelHelper-100663986.md) range )</sub> | <img width=225/><sub>Merge all cells into one in the range.</sub>
+| [Merge](./ExcelHelper-100663986.md) ( [`ExcelRangeBase`](./ExcelHelper-100663986.md) range ) | <img width=225/>Merge all cells into one in the range.

@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[GetSettings](./SerializationHelper-100664027.md) (  )</sub> | <img width=225/><sub>Settings used for the serialization methods</sub>
+| [GetSettings](./SerializationHelper-100664027.md) (  ) | <img width=225/>Settings used for the serialization methods

@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[BeginScope](./SimpleConsoleLogger-100664039.md) ( [`TState`](./SimpleConsoleLogger-100664039.md) state )</sub> | <img width=225/><sub></sub>
+| [BeginScope](./SimpleConsoleLogger-100664039.md) ( [`TState`](./SimpleConsoleLogger-100664039.md) state ) | <img width=225/>

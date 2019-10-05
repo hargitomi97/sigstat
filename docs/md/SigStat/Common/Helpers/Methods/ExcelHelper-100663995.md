@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[InsertLegend](./ExcelHelper-100663995.md) ( [`ExcelRange`](./ExcelHelper-100663995.md) range, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) text, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) title, [`ExcelColor`](./../Excel/ExcelColor.md) color )</sub> | <img width=225/><sub>Insert legend</sub>
+| [InsertLegend](./ExcelHelper-100663995.md) ( [`ExcelRange`](./ExcelHelper-100663995.md) range, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) text, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) title, [`ExcelColor`](./../Excel/ExcelColor.md) color ) | <img width=225/>Insert legend

@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[GetStrokes](./StrokeHelper-100663402.md) ( [`Signature`](./../Signature.md) signature )</sub> | <img width=225/><sub>Gets the strokes from an online signature with standard features. Note that  the signature has to contain [Features.T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) and [Features.Pressure](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub>
+| [GetStrokes](./StrokeHelper-100663402.md) ( [`Signature`](./../Signature.md) signature ) | <img width=225/>Gets the strokes from an online signature with standard features. Note that  the signature has to contain [Features.T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) and [Features.Pressure](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)

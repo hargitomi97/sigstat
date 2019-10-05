@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| <sub>[CanConvert](./FeatureDescriptorJsonConverter-100664019.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType )</sub> | <img width=225/><sub>Tells if the current object is of the correct type</sub>
+| [CanConvert](./FeatureDescriptorJsonConverter-100664019.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType ) | <img width=225/>Tells if the current object is of the correct type
