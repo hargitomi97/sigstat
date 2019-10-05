@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Transforms](./../README.
 
 Assembly: SigStat.Common.dll
 
-<sub>[Transform](./EndpointExtraction-100663588.md) ( [`Signature`](./../../Signature.md) signature )         </sub>
+<sub>[Transform](./EndpointExtraction-100663588.md) ( [`Signature`](./../../Signature.md) signature )         <div style = "text-align: right" ></div></sub>

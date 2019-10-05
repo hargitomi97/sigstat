@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Pipeline](./../README.md
 
 Assembly: SigStat.Common.dll
 
-<sub>[Add](./ParallelTransformPipeline-100663502.md) ( [`ITransformation`](./../../ITransformation.md) newItem )         Add new transform to the list.</sub>
+<sub>[Add](./ParallelTransformPipeline-100663502.md) ( [`ITransformation`](./../../ITransformation.md) newItem )         <div style = "text-align: right" >Add new transform to the list.</div></sub>

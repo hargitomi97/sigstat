@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Loaders](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-<sub>[LoadSignature](./SigComp11ChineseLoader-100663900.md) ( [`Signature`](./../../Signature.md) signature, [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream) stream, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures )         Loads one signature from specified stream.</sub>
+<sub>[LoadSignature](./SigComp11ChineseLoader-100663900.md) ( [`Signature`](./../../Signature.md) signature, [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream) stream, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures )         <div style = "text-align: right" >Loads one signature from specified stream.</div></sub>

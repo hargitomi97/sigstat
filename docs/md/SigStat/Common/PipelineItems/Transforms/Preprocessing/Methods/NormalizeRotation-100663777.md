@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../../README.md) > [PipelineItems]() >
 
 Assembly: SigStat.Common.dll
 
-<sub>[Transform](./NormalizeRotation-100663777.md) ( [`Signature`](./../../../../Signature.md) signature )         </sub>
+<sub>[Transform](./NormalizeRotation-100663777.md) ( [`Signature`](./../../../../Signature.md) signature )         <div style = "text-align: right" ></div></sub>

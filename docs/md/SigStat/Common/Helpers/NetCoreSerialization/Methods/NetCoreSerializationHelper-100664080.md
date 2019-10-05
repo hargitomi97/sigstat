@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
-<sub>[GetSettings](./NetCoreSerializationHelper-100664080.md) (  )         </sub>
+<sub>[GetSettings](./NetCoreSerializationHelper-100664080.md) (  )         <div style = "text-align: right" ></div></sub>

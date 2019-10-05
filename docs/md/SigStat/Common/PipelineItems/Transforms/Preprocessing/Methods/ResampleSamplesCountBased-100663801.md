@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../../README.md) > [PipelineItems]() >
 
 Assembly: SigStat.Common.dll
 
-<sub>[Transform](./ResampleSamplesCountBased-100663801.md) ( [`Signature`](./../../../../Signature.md) signature )         </sub>
+<sub>[Transform](./ResampleSamplesCountBased-100663801.md) ( [`Signature`](./../../../../Signature.md) signature )         <div style = "text-align: right" ></div></sub>
