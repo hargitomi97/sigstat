@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
-[Serialize](./NetCoreSerializationHelper-100664082.md) ( [`T`](./NetCoreSerializationHelper-100664082.md) o )	
+<sub>[Serialize](./NetCoreSerializationHelper-100664082.md) ( [`T`](./NetCoreSerializationHelper-100664082.md) o )         </sub>

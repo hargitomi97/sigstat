@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-[Merge](./ExcelHelper-100663986.md) ( [`ExcelRangeBase`](./ExcelHelper-100663986.md) range )	Merge all cells into one in the range.
+<sub>[Merge](./ExcelHelper-100663986.md) ( [`ExcelRangeBase`](./ExcelHelper-100663986.md) range )         Merge all cells into one in the range.</sub>

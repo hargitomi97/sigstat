@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Transforms](./../README.
 
 Assembly: SigStat.Common.dll
 
-[Transform](./HSCPThinning-100663662.md) ( [`Signature`](./../../Signature.md) signature )	
+<sub>[Transform](./HSCPThinning-100663662.md) ( [`Signature`](./../../Signature.md) signature )         </sub>

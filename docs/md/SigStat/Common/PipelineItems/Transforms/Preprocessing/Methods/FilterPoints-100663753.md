@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../../README.md) > [PipelineItems]() >
 
 Assembly: SigStat.Common.dll
 
-[Transform](./FilterPoints-100663753.md) ( [`Signature`](./../../../../Signature.md) signature )	
+<sub>[Transform](./FilterPoints-100663753.md) ( [`Signature`](./../../../../Signature.md) signature )         </sub>

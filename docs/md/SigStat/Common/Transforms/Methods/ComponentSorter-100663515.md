@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Transforms](./../README.
 
 Assembly: SigStat.Common.dll
 
-[Transform](./ComponentSorter-100663515.md) ( [`Signature`](./../../Signature.md) signature )	
+<sub>[Transform](./ComponentSorter-100663515.md) ( [`Signature`](./../../Signature.md) signature )         </sub>
