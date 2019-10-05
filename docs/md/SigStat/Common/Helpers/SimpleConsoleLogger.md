@@ -7,21 +7,21 @@ Assembly: SigStat.Common.dll
 Implements [ILogger](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger)
 
 ## Summary
-A easy-to-use class to log pipeline messages, complete with filtering levels and multi-thread support.
+<sub>A easy-to-use class to log pipeline messages, complete with filtering levels and multi-thread support.</sub>
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| SimpleConsoleLogger (  ) | Initializes a SimpleConsoleLogger instance with LogLevel set to LogLevel.Information | 
-| SimpleConsoleLogger ( [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel) ) | Initializes an instance of SimpleConsoleLogger with a custom LogLevel | 
+| SimpleConsoleLogger (  ) | <sub>Initializes a SimpleConsoleLogger instance with LogLevel set to LogLevel.Information</sub> | 
+| SimpleConsoleLogger ( [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel) ) | <sub>Initializes an instance of SimpleConsoleLogger with a custom LogLevel</sub> | 
 
 
 ## Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [LogLevel](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel) | LogLevel | All events below this level will be filtered | 
+| [LogLevel](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel) | LogLevel | <sub>All events below this level will be filtered</sub> | 
 
 
 ## Methods
@@ -37,6 +37,6 @@ A easy-to-use class to log pipeline messages, complete with filtering levels and
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [ErrorEventHandler](./SimpleConsoleLogger.md) | Logged | Occurs when an error is logged | 
+| [ErrorEventHandler](./SimpleConsoleLogger.md) | Logged | <sub>Occurs when an error is logged</sub> | 
 
 

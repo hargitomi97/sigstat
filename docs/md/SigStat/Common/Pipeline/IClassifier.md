@@ -5,13 +5,13 @@ Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Trains classification models based on reference signatures
+<sub>Trains classification models based on reference signatures</sub>
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
 | [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | [Test](./Methods/IClassifier-100663477.md) ( [`ISignerModel`](./ISignerModel.md), [`Signature`](./../Signature.md) ) |  | 
-| [ISignerModel](./ISignerModel.md) | [Train](./Methods/IClassifier-100663476.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> ) | Trains a model based on the signatures and returns the trained model | 
+| [ISignerModel](./ISignerModel.md) | [Train](./Methods/IClassifier-100663476.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> ) | <sub>Trains a model based on the signatures and returns the trained model</sub> | 
 
 

@@ -5,14 +5,14 @@ Namespace: [SigStat]() > [Common](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Helper methods for processing arrays
+<sub>Helper methods for processing arrays</sub>
 
 ## Static Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [ValueTuple](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)> | [GetCog](./Methods/ArrayExtension-100663390.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] ) | Calculates the center of gravity, assuming that each cell contains  a weight value | 
-| [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[T](./ArrayExtension.md)> | [GetValues](./Methods/ArrayExtension-100663385.md) ( [`T`](./ArrayExtension.md)[] ) | Enumerates all values in a two dimensional array | 
-| [T](./ArrayExtension.md)[] | [SetValues](./Methods/ArrayExtension-100663386.md) ( [`T`](./ArrayExtension.md)[], [`T`](./ArrayExtension.md) ) | Sets all values in a two dimensional array to `value` | 
+| [ValueTuple](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)> | [GetCog](./Methods/ArrayExtension-100663390.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] ) | <sub>Calculates the center of gravity, assuming that each cell contains  a weight value</sub> | 
+| [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[T](./ArrayExtension.md)> | [GetValues](./Methods/ArrayExtension-100663385.md) ( [`T`](./ArrayExtension.md)[] ) | <sub>Enumerates all values in a two dimensional array</sub> | 
+| [T](./ArrayExtension.md)[] | [SetValues](./Methods/ArrayExtension-100663386.md) ( [`T`](./ArrayExtension.md)[], [`T`](./ArrayExtension.md) ) | <sub>Sets all values in a two dimensional array to `value`</sub> | 
 
 

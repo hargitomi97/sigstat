@@ -5,19 +5,19 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Framework]() > [Samplers
 Assembly: SigStat.Common.dll
 
 ## Summary
-Selects the first N signatures for training
+<sub>Selects the first N signatures for training</sub>
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| FirstNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) ) | Constructor | 
+| FirstNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) ) | <sub>Constructor</sub> | 
 
 
 ## Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | N | Count of signatures used for training | 
+| [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | N | <sub>Count of signatures used for training</sub> | 
 
 

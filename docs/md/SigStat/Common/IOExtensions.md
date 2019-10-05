@@ -5,12 +5,12 @@ Namespace: [SigStat]() > [Common](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Extension methods for common IO operations
+<sub>Extension methods for common IO operations</sub>
 
 ## Static Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | [GetPath](./Methods/IOExtensions-100663399.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ) | Gets the given relative or absolute path in a platform neutral form | 
+| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | [GetPath](./Methods/IOExtensions-100663399.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ) | <sub>Gets the given relative or absolute path in a platform neutral form</sub> | 
 
 

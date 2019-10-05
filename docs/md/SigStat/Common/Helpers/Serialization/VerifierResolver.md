@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [IContractResolver](./VerifierResolver.md)
 
 ## Summary
-Custom resolver for customizing the json serialization
+<sub>Custom resolver for customizing the json serialization</sub>
 
 ## Constructors
 

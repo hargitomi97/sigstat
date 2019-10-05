@@ -3,23 +3,23 @@
 ## Types
 
 - [`IClassifier`](./IClassifier.md)
-	- Trains classification models based on reference signatures
+	- <sub>Trains classification models based on reference signatures</sub>
 - [`IDistanceClassifier`](./IDistanceClassifier.md)
-	- Trains classification models based on reference signatures, by calculating the distances between signature pairs
+	- <sub>Trains classification models based on reference signatures, by calculating the distances between signature pairs</sub>
 - [`Input`](./Input.md)
-	- Annotates an input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) in a transformation pipeline
+	- <sub>Annotates an input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) in a transformation pipeline</sub>
 - [`IPipelineIO`](./IPipelineIO.md)
-	- Supports the definition of [Pipeline.PipelineInput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineInput.md) and [Pipeline.PipelineOutput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineOutput.md)
+	- <sub>Supports the definition of [Pipeline.PipelineInput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineInput.md) and [Pipeline.PipelineOutput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineOutput.md)</sub>
 - [`ISignerModel`](./ISignerModel.md)
-	- Analyzes signatures based on their similiarity to the trained model
+	- <sub>Analyzes signatures based on their similiarity to the trained model</sub>
 - [`Output`](./Output.md)
-	- Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) in a transformation pipeline
+	- <sub>Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) in a transformation pipeline</sub>
 - [`ParallelTransformPipeline`](./ParallelTransformPipeline.md)
-	- Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the Item outputs.
+	- <sub>Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the Item outputs.</sub>
 - [`PipelineInput`](./PipelineInput.md)
-	- Represents an input for a [Pipeline.PipelineInput.PipelineItem](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md)
+	- <sub>Represents an input for a [Pipeline.PipelineInput.PipelineItem](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md)</sub>
 - [`PipelineOutput`](./PipelineOutput.md)
-	- Represents an output for a [Pipeline.PipelineOutput.PipelineItem](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md)
+	- <sub>Represents an output for a [Pipeline.PipelineOutput.PipelineItem](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md)</sub>
 - [`SequentialTransformPipeline`](./SequentialTransformPipeline.md)
-	- Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the last Item in the sequence.
+	- <sub>Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the last Item in the sequence.</sub>
 

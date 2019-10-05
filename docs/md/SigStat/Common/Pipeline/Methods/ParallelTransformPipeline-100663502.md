@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Pipeline](./../README.md
 
 Assembly: SigStat.Common.dll
 
-<sub>[Add](./ParallelTransformPipeline-100663502.md) ( [`ITransformation`](./../../ITransformation.md) newItem )</sub>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub>Add new transform to the list.</sub>
+<sub>[Add](./ParallelTransformPipeline-100663502.md) ( [`ITransformation`](./../../ITransformation.md) newItem )</sub>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub><sub>Add new transform to the list.</sub></sub>

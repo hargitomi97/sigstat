@@ -3,11 +3,11 @@
 ## Types
 
 - [`DistanceFunctionJsonConverter`](./DistanceFunctionJsonConverter.md)
-	- Helper class for serializing distance functions
+	- <sub>Helper class for serializing distance functions</sub>
 - [`FeatureStreamingContextState`](./FeatureStreamingContextState.md)
-	- SerializationContext for serializing SigStat objects
+	- <sub>SerializationContext for serializing SigStat objects</sub>
 - [`RectangleFConverter`](./RectangleFConverter.md)
-	- Custom serializer for [System.Drawing.RectangleF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.RectangleF) objects
+	- <sub>Custom serializer for [System.Drawing.RectangleF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.RectangleF) objects</sub>
 - [`VerifierResolver`](./VerifierResolver.md)
-	- Custom resolver for customizing the json serialization
+	- <sub>Custom resolver for customizing the json serialization</sub>
 

@@ -4,16 +4,16 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md)
 Assembly: SigStat.Common.dll
 
 
-Paragraph style setting
+<sub>Paragraph style setting</sub>
 
 ##	Enum
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0 | Title | Main title | 
-| 1 | Heading1 | Level 1 heading | 
-| 2 | Heading2 | Level 2 heading | 
-| 3 | Heading3 | Level 3 heading | 
-| 4 | Normal | Normal document body style | 
+| 0 | Title | <sub>Main title</sub> | 
+| 1 | Heading1 | <sub>Level 1 heading</sub> | 
+| 2 | Heading2 | <sub>Level 2 heading</sub> | 
+| 3 | Heading3 | <sub>Level 3 heading</sub> | 
+| 4 | Normal | <sub>Normal document body style</sub> | 
 
 
