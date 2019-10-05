@@ -6,4 +6,4 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary  |
 | ------| -----------:|
-| [GetCog](./ArrayExtension-100663390.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] weightMartix ) | <img width=225/>Calculates the center of gravity, assuming that each cell contains  a weight value
+| [GetCog](./ArrayExtension-100663390.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] weightMartix ) | <img width=10/>Calculates the center of gravity, assuming that each cell contains  a weight value
