@@ -7,7 +7,7 @@
 - [`FeatureStreamingContextState`](./FeatureStreamingContextState.md)
 	- SerializationContext for serializing SigStat objects
 - [`RectangleFConverter`](./RectangleFConverter.md)
-	- Custom serializer for [g.RectangleF](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) objects
+	- Custom serializer for [RectangleF](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) objects
 - [`VerifierResolver`](./VerifierResolver.md)
 	- Custom resolver for customizing the json serialization
 

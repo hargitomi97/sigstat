@@ -5,7 +5,7 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Custom serializer for [g.RectangleF](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) objects
+Custom serializer for [RectangleF](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) objects
 
 ## Constructors
 
