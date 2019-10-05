@@ -28,6 +28,6 @@ Multiplies the values of a feature with a given constant.  <br>Pipeline Input ty
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/Multiply-100663629.md) ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

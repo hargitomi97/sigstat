@@ -30,14 +30,14 @@ Loads SVC2004-format database from .zip
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../Signer.md)> | EnumerateSigners ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> signerFilter ) |  | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | LoadSignature ( [`Signature`](./../Signature.md) signature, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Loads one signature from specified file path. | 
+| [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../Signer.md)> | [EnumerateSigners](./Methods/Svc2004Loader-100663943.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> signerFilter ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [LoadSignature](./Methods/Svc2004Loader-100663944.md) ( [`Signature`](./../Signature.md) signature, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Loads one signature from specified file path. | 
 
 
 ## Static Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | LoadSignature ( [`Signature`](./../Signature.md) signature, [`Stream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.Stream) stream, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Loads one signature from specified stream. | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [LoadSignature](./Methods/Svc2004Loader-100663945.md) ( [`Signature`](./../Signature.md) signature, [`Stream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.Stream) stream, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | Loads one signature from specified stream. | 
 
 

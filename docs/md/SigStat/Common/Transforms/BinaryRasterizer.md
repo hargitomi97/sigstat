@@ -30,6 +30,6 @@ Converts standard features to a binary raster.  <br>Default Pipeline Input: Stan
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/BinaryRasterizer-100663654.md) ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

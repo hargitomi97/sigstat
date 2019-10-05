@@ -25,6 +25,6 @@ Assembly: SigStat.Common.dll
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | ToString (  ) | Returns a string representation of the baseline | 
+| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | [ToString](./Methods/Baseline-100663332.md) (  ) | Returns a string representation of the baseline | 
 
 

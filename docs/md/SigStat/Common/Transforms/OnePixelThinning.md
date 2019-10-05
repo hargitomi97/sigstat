@@ -28,6 +28,6 @@ Iteratively thins the input binary raster with the [Algorithms.OnePixelThinningS
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/OnePixelThinning-100663682.md) ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

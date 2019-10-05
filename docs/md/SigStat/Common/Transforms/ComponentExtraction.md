@@ -30,6 +30,6 @@ Extracts unsorted components by tracing through the binary Skeleton raster.  <br
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/ComponentExtraction-100663565.md) ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

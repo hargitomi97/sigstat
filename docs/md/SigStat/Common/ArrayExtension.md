@@ -11,8 +11,8 @@ Helper methods for processing arrays
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [ValueTuple](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)> | GetCog ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] weightMartix ) | Calculates the center of gravity, assuming that each cell contains  a weight value | 
-| [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[T](./ArrayExtension.md)> | GetValues ( [`T`](./ArrayExtension.md)[] array ) | Enumerates all values in a two dimensional array | 
-| [T](./ArrayExtension.md)[] | SetValues ( [`T`](./ArrayExtension.md)[] array, [`T`](./ArrayExtension.md) value ) | Sets all values in a two dimensional array to `value` | 
+| [ValueTuple](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)> | [GetCog](./Methods/ArrayExtension-100663390.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] weightMartix ) | Calculates the center of gravity, assuming that each cell contains  a weight value | 
+| [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[T](./ArrayExtension.md)> | [GetValues](./Methods/ArrayExtension-100663385.md) ( [`T`](./ArrayExtension.md)[] array ) | Enumerates all values in a two dimensional array | 
+| [T](./ArrayExtension.md)[] | [SetValues](./Methods/ArrayExtension-100663386.md) ( [`T`](./ArrayExtension.md)[] array, [`T`](./ArrayExtension.md) value ) | Sets all values in a two dimensional array to `value` | 
 
 

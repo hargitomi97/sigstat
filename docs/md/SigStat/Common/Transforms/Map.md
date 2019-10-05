@@ -28,6 +28,6 @@ Maps values of a feature to a specified range.  <br>Pipeline Input type: List{do
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/Map-100663623.md) ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

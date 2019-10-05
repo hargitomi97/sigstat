@@ -28,6 +28,6 @@ Represents a loop in a signature
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | ToString (  ) | Returns a string representation of the loop | 
+| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | [ToString](./Methods/Loop-100663342.md) (  ) | Returns a string representation of the loop | 
 
 

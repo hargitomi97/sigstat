@@ -18,7 +18,7 @@ Binary 3x3 pattern matcher with rotating option.
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | Match ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] input ) | Match the 3x3 input with the 3x3 pattern. | 
-| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | RotMatch ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] input ) | Match the 3x3 input with the 3x3 pattern from all 4 directions. | 
+| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | [Match](./Methods/PatternMatching3x3-100664165.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] input ) | Match the 3x3 input with the 3x3 pattern. | 
+| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | [RotMatch](./Methods/PatternMatching3x3-100664166.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] input ) | Match the 3x3 input with the 3x3 pattern from all 4 directions. | 
 
 

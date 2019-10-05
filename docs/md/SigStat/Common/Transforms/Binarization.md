@@ -29,6 +29,6 @@ Generates a binary raster version of the input image with the iterative threshol
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/Binarization-100663642.md) ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

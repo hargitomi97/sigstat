@@ -31,6 +31,6 @@ This transformations can be used to translate the coordinates of an online signa
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | Transform ( [`Signature`](./../../../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/TranslatePreproc-100663825.md) ( [`Signature`](./../../../Signature.md) signature ) |  | 
 
 

@@ -33,6 +33,6 @@ Generates an image feature out of a binary raster.  Optionally, saves the image 
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | Transform ( [`Signature`](./../Signature.md) signature ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/ImageGenerator-100663677.md) ( [`Signature`](./../Signature.md) signature ) |  | 
 
 

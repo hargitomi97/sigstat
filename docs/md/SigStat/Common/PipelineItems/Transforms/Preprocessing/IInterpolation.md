@@ -19,6 +19,6 @@ Represents an interploation algorithm
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | GetValue ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) timestamp ) | Gets the interpolated value at a given timestamp | 
+| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | [GetValue](./Methods/IInterpolation-100663760.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) timestamp ) | Gets the interpolated value at a given timestamp | 
 
 
