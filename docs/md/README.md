@@ -211,7 +211,7 @@ This is the root summary
 - [`FeatureStreamingContextState`](./SigStat/Common/Helpers/Serialization/FeatureStreamingContextState.md)
 	- SerializationContext for serializing SigStat objects
 - [`RectangleFConverter`](./SigStat/Common/Helpers/Serialization/RectangleFConverter.md)
-	- Custom serializer for [RectangleF](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) objects
+	- Custom serializer for [System.Drawing.RectangleF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.RectangleF) objects
 - [`VerifierResolver`](./SigStat/Common/Helpers/Serialization/VerifierResolver.md)
 	- Custom resolver for customizing the json serialization
 ### [SigStat.Common.Helpers.NetCoreSerialization](./SigStat/Common/Helpers/NetCoreSerialization/README.md)
