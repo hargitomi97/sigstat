@@ -4,6 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../../README.md) > [PipelineItems]() >
 
 Assembly: SigStat.Common.dll
 
-| Name | Summary  |
-| ------| -----------:|
-| [Transform](./UniformScale-100663843.md) ( [`Signature`](./../../../../Signature.md) signature ) | 
+[Transform](./UniformScale-100663843.md) ( [`Signature`](./../../../../Signature.md) signature )              

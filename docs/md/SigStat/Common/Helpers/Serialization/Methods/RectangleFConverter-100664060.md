@@ -4,6 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
-| Name | Summary  |
-| ------| -----------:|
-| [WriteJson](./RectangleFConverter-100664060.md) ( [`JsonWriter`](./RectangleFConverter-100664060.md) writer, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) value, [`JsonSerializer`](./RectangleFConverter-100664060.md) serializer ) | 
+[WriteJson](./RectangleFConverter-100664060.md) ( [`JsonWriter`](./RectangleFConverter-100664060.md) writer, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) value, [`JsonSerializer`](./RectangleFConverter-100664060.md) serializer )              

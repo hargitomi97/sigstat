@@ -4,6 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Transforms](./../README.
 
 Assembly: SigStat.Common.dll
 
-| Name | Summary  |
-| ------| -----------:|
-| [Transform](./OnePixelThinning-100663682.md) ( [`Signature`](./../../Signature.md) signature ) | 
+[Transform](./OnePixelThinning-100663682.md) ( [`Signature`](./../../Signature.md) signature )              

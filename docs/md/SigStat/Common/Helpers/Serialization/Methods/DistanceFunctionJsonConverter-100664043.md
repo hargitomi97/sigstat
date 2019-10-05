@@ -4,6 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
-| Name | Summary  |
-| ------| -----------:|
-| [ReadJson](./DistanceFunctionJsonConverter-100664043.md) ( [`JsonReader`](./DistanceFunctionJsonConverter-100664043.md) reader, [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) existingValue, [`JsonSerializer`](./DistanceFunctionJsonConverter-100664043.md) serializer ) | 
+[ReadJson](./DistanceFunctionJsonConverter-100664043.md) ( [`JsonReader`](./DistanceFunctionJsonConverter-100664043.md) reader, [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) existingValue, [`JsonSerializer`](./DistanceFunctionJsonConverter-100664043.md) serializer )              

@@ -4,6 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Loaders](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-| Name | Summary  |
-| ------| -----------:|
-| [LoadSignature](./ImageLoader-100663884.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) file ) | 
+[LoadSignature](./ImageLoader-100663884.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) file )              

@@ -4,6 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
-| Name | Summary  |
-| ------| -----------:|
-| [SerializeToFile](./NetCoreSerializationHelper-100664083.md) ( [`T`](./NetCoreSerializationHelper-100664083.md) o, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path ) | 
+[SerializeToFile](./NetCoreSerializationHelper-100664083.md) ( [`T`](./NetCoreSerializationHelper-100664083.md) o, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path )              

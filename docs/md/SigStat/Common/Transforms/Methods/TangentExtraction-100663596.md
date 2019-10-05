@@ -4,6 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Transforms](./../README.
 
 Assembly: SigStat.Common.dll
 
-| Name | Summary  |
-| ------| -----------:|
-| [Transform](./TangentExtraction-100663596.md) ( [`Signature`](./../../Signature.md) signature ) | 
+[Transform](./TangentExtraction-100663596.md) ( [`Signature`](./../../Signature.md) signature )              

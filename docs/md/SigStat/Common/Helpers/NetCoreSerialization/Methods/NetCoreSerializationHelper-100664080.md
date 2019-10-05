@@ -4,6 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
-| Name | Summary  |
-| ------| -----------:|
-| [GetSettings](./NetCoreSerializationHelper-100664080.md) (  ) | 
+[GetSettings](./NetCoreSerializationHelper-100664080.md) (  )              
