@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Pipeline](./../README.md
 
 Assembly: SigStat.Common.dll
 
-[GetEnumerator](./SequentialTransformPipeline-100663507.md) (  )
+[GetEnumerator](./SequentialTransformPipeline-100663507.md) (  )	
