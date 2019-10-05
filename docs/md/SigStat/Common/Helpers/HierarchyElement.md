@@ -21,18 +21,18 @@ Hierarchical structure to store object
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[HierarchyElement](./HierarchyElement.md)> | Children | Gets the children. | 
-| [Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object) | Content | Gets or sets the content. | 
+| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[HierarchyElement](./HierarchyElement.md)> | Children | <sub>Gets the children.</sub> | 
+| [Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object) | Content | <sub>Gets or sets the content.</sub> | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Add](./Methods/HierarchyElement-100664010.md) ( [`HierarchyElement`](./HierarchyElement.md) ) |  | 
-| [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | [GetCount](./Methods/HierarchyElement-100664012.md) (  ) | Returns number of elements under this node and itself | 
-| [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | [GetDepth](./Methods/HierarchyElement-100664011.md) (  ) | Return the hierarchy's depth from this node | 
-| [IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerator-1)\<[HierarchyElement](./HierarchyElement.md)> | [GetEnumerator](./Methods/HierarchyElement-100664014.md) (  ) | Returns an enumerator that iterates through the collection. | 
-| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | [ToString](./Methods/HierarchyElement-100664013.md) (  ) | Converts to string. | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Add](./Methods/HierarchyElement-100664010.md) ( [`HierarchyElement`](./HierarchyElement.md) ) | <sub></sub> | 
+| [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | [GetCount](./Methods/HierarchyElement-100664012.md) (  ) | <sub>Returns number of elements under this node and itself</sub> | 
+| [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | [GetDepth](./Methods/HierarchyElement-100664011.md) (  ) | <sub>Return the hierarchy's depth from this node</sub> | 
+| [IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerator-1)\<[HierarchyElement](./HierarchyElement.md)> | [GetEnumerator](./Methods/HierarchyElement-100664014.md) (  ) | <sub>Returns an enumerator that iterates through the collection.</sub> | 
+| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | [ToString](./Methods/HierarchyElement-100664013.md) (  ) | <sub>Converts to string.</sub> | 
 
 

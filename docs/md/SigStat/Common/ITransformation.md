@@ -13,6 +13,6 @@ Allows implementing a pipeline transform item capable of logging, progress track
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/ITransformation-100663461.md) ( [`Signature`](./Signature.md) ) | Executes the transform on the `signature` parameter.  This function gets called by the pipeline. | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/ITransformation-100663461.md) ( [`Signature`](./Signature.md) ) | <sub>Executes the transform on the `signature` parameter.  This function gets called by the pipeline.</sub> | 
 
 

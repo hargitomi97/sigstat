@@ -18,6 +18,6 @@ Annotates an input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/bl
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [AutoSetMode](./AutoSetMode.md) | AutoSetMode | The automatic set mode | 
+| [AutoSetMode](./AutoSetMode.md) | AutoSetMode | <sub>The automatic set mode</sub> | 
 
 

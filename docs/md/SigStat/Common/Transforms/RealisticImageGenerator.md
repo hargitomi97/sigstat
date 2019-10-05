@@ -20,6 +20,6 @@ Generates a realistic looking image of the Signature based on standard features.
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/RealisticImageGenerator-100663699.md) ( [`Signature`](./../Signature.md) ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/RealisticImageGenerator-100663699.md) ( [`Signature`](./../Signature.md) ) | <sub></sub> | 
 
 

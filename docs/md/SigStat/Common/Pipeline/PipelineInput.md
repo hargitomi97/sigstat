@@ -18,10 +18,10 @@ Represents an input for a [Pipeline.PipelineInput.PipelineItem](https://github.c
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [AutoSetMode](./AutoSetMode.md) | AutoSetMode | Gets the AutoSetMode | 
-| [Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object) | FD | Gets or sets the fd. | 
-| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | IsCollectionOfFeatureDescriptors | Gets a value indicating whether this instance is collection of feature descriptors. | 
-| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | PropName | Gets the name of the property. | 
-| [Type](https://docs.microsoft.com/en-us/dotnet/api/System.Type) | Type | Gets the type of the property | 
+| [AutoSetMode](./AutoSetMode.md) | AutoSetMode | <sub>Gets the AutoSetMode</sub> | 
+| [Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object) | FD | <sub>Gets or sets the fd.</sub> | 
+| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | IsCollectionOfFeatureDescriptors | <sub>Gets a value indicating whether this instance is collection of feature descriptors.</sub> | 
+| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | PropName | <sub>Gets the name of the property.</sub> | 
+| [Type](https://docs.microsoft.com/en-us/dotnet/api/System.Type) | Type | <sub>Gets the type of the property</sub> | 
 
 

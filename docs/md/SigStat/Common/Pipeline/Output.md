@@ -19,6 +19,6 @@ Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/b
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | Default | The default value for the property | 
+| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | Default | <sub>The default value for the property</sub> | 
 
 

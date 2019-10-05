@@ -21,22 +21,22 @@ A easy-to-use class to log pipeline messages, complete with filtering levels and
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [LogLevel](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel) | LogLevel | All events below this level will be filtered | 
+| [LogLevel](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel) | LogLevel | <sub>All events below this level will be filtered</sub> | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [IDisposable](https://docs.microsoft.com/en-us/dotnet/api/System.IDisposable) | [BeginScope](./Methods/SimpleConsoleLogger-100664039.md) ( [`TState`](./SimpleConsoleLogger.md) ) |  | 
-| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | [IsEnabled](./Methods/SimpleConsoleLogger-100664040.md) ( [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel) ) |  | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Log](./Methods/SimpleConsoleLogger-100664041.md) ( [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel), [`EventId`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.EventId), [`TState`](./SimpleConsoleLogger.md), [`Exception`](https://docs.microsoft.com/en-us/dotnet/api/System.Exception), [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`TState`](./SimpleConsoleLogger.md), [`Exception`](https://docs.microsoft.com/en-us/dotnet/api/System.Exception), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)> ) |  | 
+| [IDisposable](https://docs.microsoft.com/en-us/dotnet/api/System.IDisposable) | [BeginScope](./Methods/SimpleConsoleLogger-100664039.md) ( [`TState`](./SimpleConsoleLogger.md) ) | <sub></sub> | 
+| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | [IsEnabled](./Methods/SimpleConsoleLogger-100664040.md) ( [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel) ) | <sub></sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Log](./Methods/SimpleConsoleLogger-100664041.md) ( [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel), [`EventId`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.EventId), [`TState`](./SimpleConsoleLogger.md), [`Exception`](https://docs.microsoft.com/en-us/dotnet/api/System.Exception), [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`TState`](./SimpleConsoleLogger.md), [`Exception`](https://docs.microsoft.com/en-us/dotnet/api/System.Exception), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)> ) | <sub></sub> | 
 
 
 ## Events
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [ErrorEventHandler](./SimpleConsoleLogger.md) | Logged | Occurs when an error is logged | 
+| [ErrorEventHandler](./SimpleConsoleLogger.md) | Logged | <sub>Occurs when an error is logged</sub> | 
 
 

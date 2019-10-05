@@ -19,15 +19,15 @@ Represents a loop in a signature
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [RectangleF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.RectangleF) | Bounds | The bounding rectangle of the loop | 
-| [PointF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.PointF) | Center | The geometrical center of the looop | 
-| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[PointF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.PointF)> | Points | A list of defining points of the loop | 
+| [RectangleF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.RectangleF) | Bounds | <sub>The bounding rectangle of the loop</sub> | 
+| [PointF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.PointF) | Center | <sub>The geometrical center of the looop</sub> | 
+| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[PointF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.PointF)> | Points | <sub>A list of defining points of the loop</sub> | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | [ToString](./Methods/Loop-100663342.md) (  ) | Returns a string representation of the loop | 
+| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | [ToString](./Methods/Loop-100663342.md) (  ) | <sub>Returns a string representation of the loop</sub> | 
 
 

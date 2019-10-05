@@ -22,17 +22,17 @@ Generates an image feature out of a binary raster.  Optionally, saves the image 
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [Rgba32](./ImageGenerator.md) | BackgroundColor | Gets or sets the color of the backgroung used to render the signature | 
-| [Rgba32](./ImageGenerator.md) | ForegroundColor | Gets or sets the color of the foreground used to render the signature | 
-| [FeatureDescriptor](./../FeatureDescriptor-1.md)\<[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]> | Input | Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of a signature | 
-| [FeatureDescriptor](./../FeatureDescriptor-1.md)\<[Image](./ImageGenerator.md)\<[Rgba32](./ImageGenerator.md)>> | OutputImage | Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of a signature | 
-| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | WriteToFile | Gets or sets a value indicating whether the results should be saved to a file or not. | 
+| [Rgba32](./ImageGenerator.md) | BackgroundColor | <sub>Gets or sets the color of the backgroung used to render the signature</sub> | 
+| [Rgba32](./ImageGenerator.md) | ForegroundColor | <sub>Gets or sets the color of the foreground used to render the signature</sub> | 
+| [FeatureDescriptor](./../FeatureDescriptor-1.md)\<[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]> | Input | <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of a signature</sub> | 
+| [FeatureDescriptor](./../FeatureDescriptor-1.md)\<[Image](./ImageGenerator.md)\<[Rgba32](./ImageGenerator.md)>> | OutputImage | <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of a signature</sub> | 
+| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | WriteToFile | <sub>Gets or sets a value indicating whether the results should be saved to a file or not.</sub> | 
 
 
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/ImageGenerator-100663677.md) ( [`Signature`](./../Signature.md) ) |  | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./Methods/ImageGenerator-100663677.md) ( [`Signature`](./../Signature.md) ) | <sub></sub> | 
 
 

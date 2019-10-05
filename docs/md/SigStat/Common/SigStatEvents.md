@@ -11,7 +11,7 @@ Standard event identifiers used by the SigStat system
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [EventId](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.EventId) | BenchmarkEvent | Events originating from a benchmark | 
-| [EventId](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.EventId) | VerifierEvent | Events originating from a verifier | 
+| [EventId](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.EventId) | BenchmarkEvent | <sub>Events originating from a benchmark</sub> | 
+| [EventId](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.EventId) | VerifierEvent | <sub>Events originating from a verifier</sub> | 
 
 

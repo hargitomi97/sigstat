@@ -16,8 +16,8 @@ Assembly: SigStat.Common.dll
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| [Color](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) | DarkColor | Gets or sets the color for rendering darker elements | 
-| [Color](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) | LightColor | Gets or sets the color for rendering bright elements | 
-| [Color](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) | MainColor | Gets or sets the main color used in the palette | 
+| [Color](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) | DarkColor | <sub>Gets or sets the color for rendering darker elements</sub> | 
+| [Color](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) | LightColor | <sub>Gets or sets the color for rendering bright elements</sub> | 
+| [Color](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) | MainColor | <sub>Gets or sets the main color used in the palette</sub> | 
 
 
