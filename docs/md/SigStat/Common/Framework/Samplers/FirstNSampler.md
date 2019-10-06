@@ -11,7 +11,7 @@ Selects the first N signatures for training
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Constructor</sub><img width=200/>  | <sub>Constructor</sub><img width=200/>  | <br>
+| <sub>FirstNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><img width=200/>  | <sub>Constructor</sub><img width=200/>  | <br>
 
 
 ## Properties

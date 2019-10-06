@@ -11,7 +11,7 @@ Selects a given number of signatures for training and testing
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Constructor</sub><img width=200/>  | <sub>Constructor</sub><img width=200/>  | <br>
+| <sub>UniversalSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><img width=200/>  | <sub>Constructor</sub><img width=200/>  | <br>
 
 
 ## Properties

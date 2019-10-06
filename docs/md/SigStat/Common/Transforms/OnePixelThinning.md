@@ -13,7 +13,7 @@ Iteratively thins the input binary raster with the [Algorithms.OnePixelThinningS
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>OnePixelThinning (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Properties

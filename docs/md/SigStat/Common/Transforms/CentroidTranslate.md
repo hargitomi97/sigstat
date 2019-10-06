@@ -13,7 +13,7 @@ Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Initializes a new instance of the [Transforms.CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub><img width=200/>  | <sub>Initializes a new instance of the [Transforms.CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub><img width=200/>  | <br>
+| <sub>CentroidTranslate (  )</sub><img width=200/>  | <sub>Initializes a new instance of the [Transforms.CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub><img width=200/>  | <br>
 
 
 ## Properties

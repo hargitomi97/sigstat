@@ -11,7 +11,7 @@ Custom serializer for [FeatureDescriptor-1](https://github.com/hargitomi97/sigst
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>FeatureDescriptorTJsonConverter (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Methods

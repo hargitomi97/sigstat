@@ -11,7 +11,7 @@ Custom serializer for [System.Drawing.RectangleF](https://docs.microsoft.com/en-
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>RectangleFConverter (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Methods

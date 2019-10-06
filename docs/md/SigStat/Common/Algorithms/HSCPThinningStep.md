@@ -11,7 +11,7 @@ HSCP thinning algorithm  http://www.ppgia.pucpr.br/~facon/Afinamento/1987holt.pd
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>HSCPThinningStep (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Properties

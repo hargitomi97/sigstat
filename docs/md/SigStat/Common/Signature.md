@@ -13,8 +13,8 @@ Represents a signature as a collection of features, containing the data that flo
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Initializes a signature instance</sub><img width=200/>  | <sub>Initializes a signature instance</sub><img width=200/>  | <br>
-| <sub>Initializes a signature instance with the given properties</sub><img width=200/>  | <sub>Initializes a signature instance with the given properties</sub><img width=200/>  | <br>
+| <sub>Signature (  )</sub><img width=200/>  | <sub>Initializes a signature instance</sub><img width=200/>  | <br>
+| <sub>Signature ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Origin`](./Origin.md), [`Signer`](./Signer.md) )</sub><img width=200/>  | <sub>Initializes a signature instance with the given properties</sub><img width=200/>  | <br>
 
 
 ## Properties

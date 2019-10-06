@@ -13,7 +13,7 @@ Iteratively thins the input binary raster with the [Algorithms.HSCPThinningStep]
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>HSCPThinning (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Properties

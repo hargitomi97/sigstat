@@ -13,7 +13,7 @@ Extracts minimum and maximum values of given feature.  <br>Default Pipeline Outp
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>Extrema (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Methods

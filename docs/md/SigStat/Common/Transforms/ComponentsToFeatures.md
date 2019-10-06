@@ -13,7 +13,7 @@ Extracts standard [Features](https://github.com/hargitomi97/sigstat/blob/master/
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>ComponentsToFeatures (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Properties

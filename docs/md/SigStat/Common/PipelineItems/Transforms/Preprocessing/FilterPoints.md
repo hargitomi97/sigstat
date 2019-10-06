@@ -13,7 +13,7 @@ Removes samples based on a criteria from online signature time series
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>FilterPoints (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Properties

@@ -13,7 +13,7 @@ init Pressure, Altitude, Azimuth features with default values.  <br>Default Pipe
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>ApproximateOnlineFeatures (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Methods

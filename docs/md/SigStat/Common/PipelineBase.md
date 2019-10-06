@@ -13,7 +13,7 @@ TODO: Ideiglenes osztaly, C# 8.0 ban ezt atalakitani default implementacios inte
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.</sub><img width=200/>  | <sub>Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.</sub><img width=200/>  | <br>
+| <sub>PipelineBase (  )</sub><img width=200/>  | <sub>Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.</sub><img width=200/>  | <br>
 
 
 ## Properties

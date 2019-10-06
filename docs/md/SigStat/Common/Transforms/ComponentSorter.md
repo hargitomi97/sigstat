@@ -13,7 +13,7 @@ Sorts Component order by comparing each starting X value, and finding nearest co
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>ComponentSorter (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Properties

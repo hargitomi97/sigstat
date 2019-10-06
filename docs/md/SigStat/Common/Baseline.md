@@ -9,8 +9,8 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Initializes a Baseline instance</sub><img width=200/>  | <sub>Initializes a Baseline instance</sub><img width=200/>  | <br>
-| <sub>Initializes a Baseline instance with the given startpoint and endpoint</sub><img width=200/>  | <sub>Initializes a Baseline instance with the given startpoint and endpoint</sub><img width=200/>  | <br>
+| <sub>Baseline (  )</sub><img width=200/>  | <sub>Initializes a Baseline instance</sub><img width=200/>  | <br>
+| <sub>Baseline ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><img width=200/>  | <sub>Initializes a Baseline instance with the given startpoint and endpoint</sub><img width=200/>  | <br>
 
 
 ## Properties

@@ -11,7 +11,7 @@ Json serialization and deserialization using the custom resolver  [Helpers.Seria
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>SerializationHelper (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Static Methods

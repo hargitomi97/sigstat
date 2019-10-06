@@ -13,7 +13,7 @@ Renders an image of the signature based on the available online information (X,Y
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>SimpleRenderingTransformation (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Methods

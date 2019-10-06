@@ -13,7 +13,7 @@ Extracts basic statistical signature (like [Features.Bounds](https://github.com/
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>BasicMetadataExtraction (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Methods

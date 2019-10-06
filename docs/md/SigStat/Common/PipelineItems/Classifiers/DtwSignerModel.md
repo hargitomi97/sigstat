@@ -13,7 +13,7 @@ Represents a trained model for [PipelineItems.Classifiers.DtwClassifier](https:/
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>DtwSignerModel (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Fields

@@ -13,8 +13,8 @@ Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>Translate ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>Translate ( [`FeatureDescriptor`](./../FeatureDescriptor-1.md)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Properties

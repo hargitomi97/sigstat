@@ -13,7 +13,7 @@ Extracts the Centroid (aka. Center Of Gravity) of the input features.  <br> Defa
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>CentroidExtraction (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Properties

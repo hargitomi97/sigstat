@@ -11,8 +11,8 @@ Dynamic Time Warping algorithm
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Initialize the DTW algorithm with the default Euclidean distance method.</sub><img width=200/>  | <sub>Initialize the DTW algorithm with the default Euclidean distance method.</sub><img width=200/>  | <br>
-| <sub>Initialize the DTW algorithm with given distance method.</sub><img width=200/>  | <sub>Initialize the DTW algorithm with given distance method.</sub><img width=200/>  | <br>
+| <sub>Dtw (  )</sub><img width=200/>  | <sub>Initialize the DTW algorithm with the default Euclidean distance method.</sub><img width=200/>  | <br>
+| <sub>Dtw ( [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub><img width=200/>  | <sub>Initialize the DTW algorithm with given distance method.</sub><img width=200/>  | <br>
 
 
 ## Properties

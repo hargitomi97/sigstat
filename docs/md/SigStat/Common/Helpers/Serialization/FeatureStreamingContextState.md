@@ -11,7 +11,7 @@ SerializationContext for serializing SigStat objects
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Constructor</sub><img width=200/>  | <sub>Constructor</sub><img width=200/>  | <br>
+| <sub>FeatureStreamingContextState (  )</sub><img width=200/>  | <sub>Constructor</sub><img width=200/>  | <br>
 
 
 ## Properties

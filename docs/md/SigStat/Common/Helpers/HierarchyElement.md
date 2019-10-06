@@ -13,8 +13,8 @@ Hierarchical structure to store object
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Create an emty element</sub><img width=200/>  | <sub>Create an emty element</sub><img width=200/>  | <br>
-| <sub>Create a new element with content</sub><img width=200/>  | <sub>Create a new element with content</sub><img width=200/>  | <br>
+| <sub>HierarchyElement (  )</sub><img width=200/>  | <sub>Create an emty element</sub><img width=200/>  | <br>
+| <sub>HierarchyElement ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) )</sub><img width=200/>  | <sub>Create a new element with content</sub><img width=200/>  | <br>
 
 
 ## Properties

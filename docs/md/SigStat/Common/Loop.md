@@ -11,8 +11,8 @@ Represents a loop in a signature
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance</sub><img width=200/>  | <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance</sub><img width=200/>  | <br>
-| <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance and initializes the [Loop.Center](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) property</sub><img width=200/>  | <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance and initializes the [Loop.Center](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) property</sub><img width=200/>  | <br>
+| <sub>Loop (  )</sub><img width=200/>  | <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance</sub><img width=200/>  | <br>
+| <sub>Loop ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single), [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) )</sub><img width=200/>  | <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance and initializes the [Loop.Center](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) property</sub><img width=200/>  | <br>
 
 
 ## Properties

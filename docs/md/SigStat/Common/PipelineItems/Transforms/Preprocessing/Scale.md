@@ -13,7 +13,7 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>Scale (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Properties

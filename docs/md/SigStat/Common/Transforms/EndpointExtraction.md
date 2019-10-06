@@ -13,7 +13,7 @@ Extracts EndPoints and CrossingPoints from Skeleton.  <br>Default Pipeline Input
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>EndpointExtraction (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Properties

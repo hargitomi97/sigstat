@@ -11,7 +11,7 @@ Represents a person as an [Signer.ID](https://github.com/hargitomi97/sigstat/blo
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>Signer (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Properties

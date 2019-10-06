@@ -13,7 +13,7 @@ Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerOb
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Initializes a new instance of the [Loaders.SigComp15GermanLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp15GermanLoader.md) class.</sub><img width=200/>  | <sub>Initializes a new instance of the [Loaders.SigComp15GermanLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp15GermanLoader.md) class.</sub><img width=200/>  | <br>
+| <sub>SigComp15GermanLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub><img width=200/>  | <sub>Initializes a new instance of the [Loaders.SigComp15GermanLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp15GermanLoader.md) class.</sub><img width=200/>  | <br>
 
 
 ## Properties

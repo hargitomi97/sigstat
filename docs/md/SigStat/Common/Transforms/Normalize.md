@@ -13,7 +13,7 @@ Maps values of a feature to 0.0 - 1.0 range.  <br>Pipeline Input type: List{doub
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>Normalize (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Properties

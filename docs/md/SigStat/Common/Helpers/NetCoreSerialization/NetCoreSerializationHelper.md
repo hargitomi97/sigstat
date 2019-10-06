@@ -9,7 +9,7 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>NetCoreSerializationHelper (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Static Methods

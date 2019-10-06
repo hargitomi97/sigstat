@@ -13,7 +13,7 @@ Resamples an online signature to a specific sample count using the specified [Pi
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>ResampleSamplesCountBased (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Properties
