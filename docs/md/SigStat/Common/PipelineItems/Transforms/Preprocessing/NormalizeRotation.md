@@ -13,24 +13,24 @@ Performs rotation normalization on the online signature
 
 | Name | Summary | 
 | --- | --- | 
-| NormalizeRotation (  )<div style="width: 200px">| <div style="width: 200px">| <br>
+| NormalizeRotation (  )<div style="width: 300px">| <div style="width: 300px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| InputT<div style="width: 200px">| Gets or sets the input feature representing the timestamps of an online signature<div style="width: 200px">| <br>
-| InputX<div style="width: 200px">| Gets or sets the input feature representing the X coordinates of an online signature<div style="width: 200px">| <br>
-| InputY<div style="width: 200px">| Gets or sets the input feature representing the Y coordinates of an online signature<div style="width: 200px">| <br>
-| OutputX<div style="width: 200px">| Gets or sets the output feature representing the X coordinates of an online signature<div style="width: 200px">| <br>
-| OutputY<div style="width: 200px">| Gets or sets the input feature representing the Y coordinates of an online signature<div style="width: 200px">| <br>
+| InputT<div style="width: 300px">| Gets or sets the input feature representing the timestamps of an online signature<div style="width: 300px">| <br>
+| InputX<div style="width: 300px">| Gets or sets the input feature representing the X coordinates of an online signature<div style="width: 300px">| <br>
+| InputY<div style="width: 300px">| Gets or sets the input feature representing the Y coordinates of an online signature<div style="width: 300px">| <br>
+| OutputX<div style="width: 300px">| Gets or sets the output feature representing the X coordinates of an online signature<div style="width: 300px">| <br>
+| OutputY<div style="width: 300px">| Gets or sets the input feature representing the Y coordinates of an online signature<div style="width: 300px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )<div style="width: 200px">| <div style="width: 200px">| <br>
+| [Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )<div style="width: 300px">| <div style="width: 300px">| <br>
 
 

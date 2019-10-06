@@ -13,30 +13,30 @@ Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the l
 
 | Name | Summary | 
 | --- | --- | 
-| SequentialTransformPipeline (  )<div style="width: 200px">| <div style="width: 200px">| <br>
+| SequentialTransformPipeline (  )<div style="width: 300px">| <div style="width: 300px">| <br>
 
 
 ## Fields
 
 | Name | Summary | 
 | --- | --- | 
-| Items<div style="width: 200px">| List of transforms to be run in sequence.<div style="width: 200px">| <br>
+| Items<div style="width: 300px">| List of transforms to be run in sequence.<div style="width: 300px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| PipelineInputs<div style="width: 200px">| Gets the pipeline inputs.<div style="width: 200px">| <br>
-| PipelineOutputs<div style="width: 200px">| Gets the pipeline outputs.<div style="width: 200px">| <br>
+| PipelineInputs<div style="width: 300px">| Gets the pipeline inputs.<div style="width: 300px">| <br>
+| PipelineOutputs<div style="width: 300px">| Gets the pipeline outputs.<div style="width: 300px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [Add](./Methods/SequentialTransformPipeline-100663508.md) ( [`ITransformation`](./../ITransformation.md) )<div style="width: 200px">| Add new transform to the list.<div style="width: 200px">| <br>
-| [GetEnumerator](./Methods/SequentialTransformPipeline-100663507.md) (  )<div style="width: 200px">| <div style="width: 200px">| <br>
-| [Transform](./Methods/SequentialTransformPipeline-100663509.md) ( [`Signature`](./../Signature.md) )<div style="width: 200px">| Executes transform [Pipeline.SequentialTransformPipeline.Items](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) in sequence.  Passes input features for each.  Output is the output of the last Item in the sequence.<div style="width: 200px">| <br>
+| [Add](./Methods/SequentialTransformPipeline-100663508.md) ( [`ITransformation`](./../ITransformation.md) )<div style="width: 300px">| Add new transform to the list.<div style="width: 300px">| <br>
+| [GetEnumerator](./Methods/SequentialTransformPipeline-100663507.md) (  )<div style="width: 300px">| <div style="width: 300px">| <br>
+| [Transform](./Methods/SequentialTransformPipeline-100663509.md) ( [`Signature`](./../Signature.md) )<div style="width: 300px">| Executes transform [Pipeline.SequentialTransformPipeline.Items](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) in sequence.  Passes input features for each.  Output is the output of the last Item in the sequence.<div style="width: 300px">| <br>
 
 

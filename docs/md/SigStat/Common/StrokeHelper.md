@@ -11,6 +11,6 @@ Helper class for locating and manipulating strokes in an online signature
 
 | Name | Summary | 
 | --- | --- | 
-| [GetStrokes](./Methods/StrokeHelper-100663402.md) ( [`Signature`](./Signature.md) )<div style="width: 200px">| Gets the strokes from an online signature with standard features. Note that  the signature has to contain [Features.T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) and [Features.Pressure](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)<div style="width: 200px">| <br>
+| [GetStrokes](./Methods/StrokeHelper-100663402.md) ( [`Signature`](./Signature.md) )<div style="width: 300px">| Gets the strokes from an online signature with standard features. Note that  the signature has to contain [Features.T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) and [Features.Pressure](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)<div style="width: 300px">| <br>
 
 

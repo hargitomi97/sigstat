@@ -13,23 +13,23 @@ TODO: Ideiglenes osztaly, C# 8.0 ban ezt atalakitani default implementacios inte
 
 | Name | Summary | 
 | --- | --- | 
-| PipelineBase (  )<div style="width: 200px">| Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.<div style="width: 200px">| <br>
+| PipelineBase (  )<div style="width: 300px">| Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.<div style="width: 300px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| Logger<div style="width: 200px">| <div style="width: 200px">| <br>
-| PipelineInputs<div style="width: 200px">| A collection of inputs for the pipeline elements<div style="width: 200px">| <br>
-| PipelineOutputs<div style="width: 200px">| A collection of outputs for the pipeline elements<div style="width: 200px">| <br>
-| Progress<div style="width: 200px">| <div style="width: 200px">| <br>
+| Logger<div style="width: 300px">| <div style="width: 300px">| <br>
+| PipelineInputs<div style="width: 300px">| A collection of inputs for the pipeline elements<div style="width: 300px">| <br>
+| PipelineOutputs<div style="width: 300px">| A collection of outputs for the pipeline elements<div style="width: 300px">| <br>
+| Progress<div style="width: 300px">| <div style="width: 300px">| <br>
 
 
 ## Events
 
 | Name | Summary | 
 | --- | --- | 
-| ProgressChanged<div style="width: 200px">| The event is raised whenever the value of [PipelineBase.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) changes<div style="width: 200px">| <br>
+| ProgressChanged<div style="width: 300px">| The event is raised whenever the value of [PipelineBase.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) changes<div style="width: 300px">| <br>
 
 

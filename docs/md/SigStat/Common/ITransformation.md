@@ -13,6 +13,6 @@ Allows implementing a pipeline transform item capable of logging, progress track
 
 | Name | Summary | 
 | --- | --- | 
-| [Transform](./Methods/ITransformation-100663461.md) ( [`Signature`](./Signature.md) )<div style="width: 200px">| Executes the transform on the `signature` parameter.  This function gets called by the pipeline.<div style="width: 200px">| <br>
+| [Transform](./Methods/ITransformation-100663461.md) ( [`Signature`](./Signature.md) )<div style="width: 300px">| Executes the transform on the `signature` parameter.  This function gets called by the pipeline.<div style="width: 300px">| <br>
 
 

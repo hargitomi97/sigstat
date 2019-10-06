@@ -13,21 +13,21 @@ Iteratively thins the input binary raster with the [Algorithms.OnePixelThinningS
 
 | Name | Summary | 
 | --- | --- | 
-| OnePixelThinning (  )<div style="width: 200px">| <div style="width: 200px">| <br>
+| OnePixelThinning (  )<div style="width: 300px">| <div style="width: 300px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| Input<div style="width: 200px">| Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature<div style="width: 200px">| <br>
-| Output<div style="width: 200px">| Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature<div style="width: 200px">| <br>
+| Input<div style="width: 300px">| Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature<div style="width: 300px">| <br>
+| Output<div style="width: 300px">| Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature<div style="width: 300px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [Transform](./Methods/OnePixelThinning-100663682.md) ( [`Signature`](./../Signature.md) )<div style="width: 200px">| <div style="width: 200px">| <br>
+| [Transform](./Methods/OnePixelThinning-100663682.md) ( [`Signature`](./../Signature.md) )<div style="width: 300px">| <div style="width: 300px">| <br>
 
 

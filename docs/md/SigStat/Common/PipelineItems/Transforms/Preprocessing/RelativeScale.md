@@ -13,22 +13,22 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 
 | Name | Summary | 
 | --- | --- | 
-| RelativeScale (  )<div style="width: 200px">| <div style="width: 200px">| <br>
+| RelativeScale (  )<div style="width: 300px">| <div style="width: 300px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| InputFeature<div style="width: 200px">| Gets or sets the input feature.<div style="width: 200px">| <br>
-| OutputFeature<div style="width: 200px">| Gets or sets the output feature.<div style="width: 200px">| <br>
-| ReferenceFeature<div style="width: 200px">| Gets or sets the reference feature.<div style="width: 200px">| <br>
+| InputFeature<div style="width: 300px">| Gets or sets the input feature.<div style="width: 300px">| <br>
+| OutputFeature<div style="width: 300px">| Gets or sets the output feature.<div style="width: 300px">| <br>
+| ReferenceFeature<div style="width: 300px">| Gets or sets the reference feature.<div style="width: 300px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [Transform](./Methods/RelativeScale-100663787.md) ( [`Signature`](./../../../Signature.md) )<div style="width: 200px">| <div style="width: 200px">| <br>
+| [Transform](./Methods/RelativeScale-100663787.md) ( [`Signature`](./../../../Signature.md) )<div style="width: 300px">| <div style="width: 300px">| <br>
 
 

@@ -13,26 +13,26 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 | Name | Summary | 
 | --- | --- | 
-| UniformScale (  )<div style="width: 200px">| <div style="width: 200px">| <br>
+| UniformScale (  )<div style="width: 300px">| <div style="width: 300px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| BaseDimension<div style="width: 200px">| Gets or sets the base dimension.<div style="width: 200px">| <br>
-| BaseDimensionOutput<div style="width: 200px">| Gets or sets the output base dimension output.<div style="width: 200px">| <br>
-| NewMaxBaseValue<div style="width: 200px">| Upper bound of the interval, in which the base dimension will be scaled<div style="width: 200px">| <br>
-| NewMinBaseValue<div style="width: 200px">| Lower bound of the interval, in which the base dimension will be scaled<div style="width: 200px">| <br>
-| NewMinProportionalValue<div style="width: 200px">| Lower bound of the interval, in which the proportional dimension will be scaled<div style="width: 200px">| <br>
-| ProportionalDimension<div style="width: 200px">| Gets or sets the ProportionalDimension.<div style="width: 200px">| <br>
-| ProportionalDimensionOutput<div style="width: 200px">| Gets or sets the output proportional dimension output.<div style="width: 200px">| <br>
+| BaseDimension<div style="width: 300px">| Gets or sets the base dimension.<div style="width: 300px">| <br>
+| BaseDimensionOutput<div style="width: 300px">| Gets or sets the output base dimension output.<div style="width: 300px">| <br>
+| NewMaxBaseValue<div style="width: 300px">| Upper bound of the interval, in which the base dimension will be scaled<div style="width: 300px">| <br>
+| NewMinBaseValue<div style="width: 300px">| Lower bound of the interval, in which the base dimension will be scaled<div style="width: 300px">| <br>
+| NewMinProportionalValue<div style="width: 300px">| Lower bound of the interval, in which the proportional dimension will be scaled<div style="width: 300px">| <br>
+| ProportionalDimension<div style="width: 300px">| Gets or sets the ProportionalDimension.<div style="width: 300px">| <br>
+| ProportionalDimensionOutput<div style="width: 300px">| Gets or sets the output proportional dimension output.<div style="width: 300px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [Transform](./Methods/UniformScale-100663843.md) ( [`Signature`](./../../../Signature.md) )<div style="width: 200px">| <div style="width: 200px">| <br>
+| [Transform](./Methods/UniformScale-100663843.md) ( [`Signature`](./../../../Signature.md) )<div style="width: 300px">| <div style="width: 300px">| <br>
 
 

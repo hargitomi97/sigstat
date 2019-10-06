@@ -13,21 +13,21 @@ Represents a trained model for [PipelineItems.Classifiers.DtwClassifier](https:/
 
 | Name | Summary | 
 | --- | --- | 
-| DtwSignerModel (  )<div style="width: 200px">| <div style="width: 200px">| <br>
+| DtwSignerModel (  )<div style="width: 300px">| <div style="width: 300px">| <br>
 
 
 ## Fields
 
 | Name | Summary | 
 | --- | --- | 
-| DistanceMatrix<div style="width: 200px">| DTW distance matrix of the genuine signatures<div style="width: 200px">| <br>
-| Threshold<div style="width: 200px">| A threshold, that will be used for classification. Signatures with  an average DTW distance from the genuines above this threshold will  be classified as forgeries<div style="width: 200px">| <br>
+| DistanceMatrix<div style="width: 300px">| DTW distance matrix of the genuine signatures<div style="width: 300px">| <br>
+| Threshold<div style="width: 300px">| A threshold, that will be used for classification. Signatures with  an average DTW distance from the genuines above this threshold will  be classified as forgeries<div style="width: 300px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| GenuineSignatures<div style="width: 200px">| A list a of genuine signatures used for training<div style="width: 200px">| <br>
+| GenuineSignatures<div style="width: 300px">| A list a of genuine signatures used for training<div style="width: 300px">| <br>
 
 

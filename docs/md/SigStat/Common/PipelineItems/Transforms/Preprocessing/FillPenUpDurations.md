@@ -13,24 +13,24 @@ This transformation will fill "holes" in the "Time" feature by interpolating the
 
 | Name | Summary | 
 | --- | --- | 
-| FillPenUpDurations (  )<div style="width: 200px">| <div style="width: 200px">| <br>
+| FillPenUpDurations (  )<div style="width: 300px">| <div style="width: 300px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| InputFeatures<div style="width: 200px">| Gets or sets the features of an online signature that need to be altered<div style="width: 200px">| <br>
-| InterpolationType<div style="width: 200px">| An implementation of [PipelineItems.Transforms.Preprocessing.IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md)<div style="width: 200px">| <br>
-| OutputFeatures<div style="width: 200px">| Gets or sets the features of an online signature that were altered<div style="width: 200px">| <br>
-| TimeInputFeature<div style="width: 200px">| Gets or sets the feature representing the timestamps of an online signature<div style="width: 200px">| <br>
-| TimeOutputFeature<div style="width: 200px">| Gets or sets the feature representing the modified timestamps of an online signature<div style="width: 200px">| <br>
+| InputFeatures<div style="width: 300px">| Gets or sets the features of an online signature that need to be altered<div style="width: 300px">| <br>
+| InterpolationType<div style="width: 300px">| An implementation of [PipelineItems.Transforms.Preprocessing.IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md)<div style="width: 300px">| <br>
+| OutputFeatures<div style="width: 300px">| Gets or sets the features of an online signature that were altered<div style="width: 300px">| <br>
+| TimeInputFeature<div style="width: 300px">| Gets or sets the feature representing the timestamps of an online signature<div style="width: 300px">| <br>
+| TimeOutputFeature<div style="width: 300px">| Gets or sets the feature representing the modified timestamps of an online signature<div style="width: 300px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [Transform](./Methods/FillPenUpDurations-100663739.md) ( [`Signature`](./../../../Signature.md) )<div style="width: 200px">| <div style="width: 200px">| <br>
+| [Transform](./Methods/FillPenUpDurations-100663739.md) ( [`Signature`](./../../../Signature.md) )<div style="width: 300px">| <div style="width: 300px">| <br>
 
 
