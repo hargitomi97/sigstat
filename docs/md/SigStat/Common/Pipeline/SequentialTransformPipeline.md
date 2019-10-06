@@ -37,6 +37,6 @@ SequentialTransformPipeline (  )<sub></sub>
 
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[Add](./Methods/SequentialTransformPipeline-100663508.md) ( [`ITransformation`](./../ITransformation.md) )</sub><sub>Add new transform to the list.</sub>
 [IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerator)<sub>[GetEnumerator](./Methods/SequentialTransformPipeline-100663507.md) (  )</sub><sub></sub>
-[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[Transform](./Methods/SequentialTransformPipeline-100663509.md) ( [`Signature`](./../Signature.md) )</sub><sub>Executes transform [Pipeline.SequentialTransformPipeline.Items](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) in sequence.  Passes input features for each.  Output is the output of the last Item in the sequence.</sub>
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[Transform](./Methods/SequentialTransformPipeline-100663509.md) ( [`Signature`](./../Signature.md) )</sub><sub>Executes transform [<sub>Pipeline.SequentialTransformPipeline.Items</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) in sequence.  Passes input features for each.  Output is the output of the last Item in the sequence.</sub>
 
 

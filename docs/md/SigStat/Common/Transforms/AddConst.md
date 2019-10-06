@@ -13,7 +13,7 @@ Adds a constant value to a feature. Works with collection features too.  <br>Def
 
 | Name | Summary | 
 
-AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )<sub>Initializes a new instance of the [Transforms.AddConst](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) class with specified settings.</sub>
+AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )<sub>Initializes a new instance of the [<sub>Transforms.AddConst</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) class with specified settings.</sub>
 
 
 ## Properties

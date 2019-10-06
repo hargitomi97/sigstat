@@ -37,6 +37,6 @@ ParallelTransformPipeline (  )<sub></sub>
 
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[Add](./Methods/ParallelTransformPipeline-100663502.md) ( [`ITransformation`](./../ITransformation.md) )</sub><sub>Add new transform to the list.</sub>
 [IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerator)<sub>[GetEnumerator](./Methods/ParallelTransformPipeline-100663501.md) (  )</sub><sub></sub>
-[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[Transform](./Methods/ParallelTransformPipeline-100663503.md) ( [`Signature`](./../Signature.md) )</sub><sub>Executes transform [Pipeline.ParallelTransformPipeline.Items](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) parallel.  Passes input features for each.  Output is a range of all the Item outputs.</sub>
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[Transform](./Methods/ParallelTransformPipeline-100663503.md) ( [`Signature`](./../Signature.md) )</sub><sub>Executes transform [<sub>Pipeline.ParallelTransformPipeline.Items</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) parallel.  Passes input features for each.  Output is a range of all the Item outputs.</sub>
 
 

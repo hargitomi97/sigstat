@@ -7,13 +7,13 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./ILoggerObject.md)
 
 ## Summary
-Benchmarking class to test error rates of a [Model.Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md)
+Benchmarking class to test error rates of a [<sub>Model.Verifier</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md)
 
 ## Constructors
 
 | Name | Summary | 
 
-VerifierBenchmark (  )<sub>Initializes a new instance of the [VerifierBenchmark](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/VerifierBenchmark.md) class.  Sets the [Sampler](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Sampler.md) to the default [Framework.Samplers.FirstNSampler](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Framework/Samplers/FirstNSampler.md).</sub>
+VerifierBenchmark (  )<sub>Initializes a new instance of the [<sub>VerifierBenchmark</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/VerifierBenchmark.md) class.  Sets the [<sub>Sampler</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Sampler.md) to the default [<sub>Framework.Samplers.FirstNSampler</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Framework/Samplers/FirstNSampler.md).</sub>
 
 
 ## Properties
@@ -24,8 +24,8 @@ VerifierBenchmark (  )<sub>Initializes a new instance of the [VerifierBenchmark]
 [ILogger](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger)<sub>Logger</sub><sub>Gets or sets the attached [Microsoft.Extensions.Logging.ILogger](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger) object used to log messages. Hands it over to the verifier.</sub>
 [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[KeyValuePair](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.KeyValuePair-2)\<[String](https://docs.microsoft.com/en-us/dotnet/api/System.String), [String](https://docs.microsoft.com/en-us/dotnet/api/System.String)>><sub>Parameters</sub><sub>A key value store that can be used to store custom information about the benchmark</sub>
 [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<sub>Progress</sub><sub></sub>
-[Sampler](./Sampler.md)<sub>Sampler</sub><sub>The [Sampler](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Sampler.md) to be used for benchmarking</sub>
-[Verifier](./Model/Verifier.md)<sub>Verifier</sub><sub>Gets or sets the [Model.Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to be benchmarked.</sub>
+[Sampler](./Sampler.md)<sub>Sampler</sub><sub>The [<sub>Sampler</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Sampler.md) to be used for benchmarking</sub>
+[Verifier](./Model/Verifier.md)<sub>Verifier</sub><sub>Gets or sets the [<sub>Model.Verifier</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to be benchmarked.</sub>
 
 
 ## Methods

@@ -18,7 +18,7 @@ HSCPThinningStep (  )<sub></sub>
 
 | Type | Name | Summary | 
 
-[Nullable](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)\<[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)><sub>ResultChanged</sub><sub>Gets whether the last [Algorithms.HSCPThinningStep.Scan](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Algorithms/HSCPThinningStep.md) call was effective.</sub>
+[Nullable](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)\<[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)><sub>ResultChanged</sub><sub>Gets whether the last [<sub>Algorithms.HSCPThinningStep.Scan</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Algorithms/HSCPThinningStep.md) call was effective.</sub>
 
 
 ## Methods

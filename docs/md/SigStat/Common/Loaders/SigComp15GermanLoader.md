@@ -7,13 +7,13 @@ Assembly: SigStat.Common.dll
 Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerObject.md)
 
 ## Summary
-[Loaders.DataSetLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/DataSetLoader.md) for the SigComp15German dataset
+[<sub>Loaders.DataSetLoader</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/DataSetLoader.md) for the SigComp15German dataset
 
 ## Constructors
 
 | Name | Summary | 
 
-SigComp15GermanLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )<sub>Initializes a new instance of the [Loaders.SigComp15GermanLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp15GermanLoader.md) class.</sub>
+SigComp15GermanLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )<sub>Initializes a new instance of the [<sub>Loaders.SigComp15GermanLoader</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp15GermanLoader.md) class.</sub>
 
 
 ## Properties
@@ -21,7 +21,7 @@ SigComp15GermanLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/S
 | Type | Name | Summary | 
 
 [String](https://docs.microsoft.com/en-us/dotnet/api/System.String)<sub>DatabasePath</sub><sub>Gets or sets the database path.</sub>
-[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)<sub>StandardFeatures</sub><sub>Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub>
+[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)<sub>StandardFeatures</sub><sub>Gets or sets a value indicating whether features are also loaded as [<sub>Features</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub>
 
 
 ## Methods

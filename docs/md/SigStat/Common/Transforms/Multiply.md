@@ -13,7 +13,7 @@ Multiplies the values of a feature with a given constant.  <br>Pipeline Input ty
 
 | Name | Summary | 
 
-Multiply ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )<sub>Initializes a new instance of the [Transforms.Multiply](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Multiply.md) class with specified settings.</sub>
+Multiply ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )<sub>Initializes a new instance of the [<sub>Transforms.Multiply</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Multiply.md) class with specified settings.</sub>
 
 
 ## Properties

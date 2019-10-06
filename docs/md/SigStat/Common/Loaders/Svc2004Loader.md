@@ -13,8 +13,8 @@ Loads SVC2004-format database from .zip
 
 | Name | Summary | 
 
-Svc2004Loader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )<sub>Initializes a new instance of the [Loaders.Svc2004Loader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/Svc2004Loader.md) class with specified database.</sub>
-Svc2004Loader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )<sub>Initializes a new instance of the [Loaders.Svc2004Loader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/Svc2004Loader.md) class with specified database.</sub>
+Svc2004Loader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )<sub>Initializes a new instance of the [<sub>Loaders.Svc2004Loader</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/Svc2004Loader.md) class with specified database.</sub>
+Svc2004Loader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )<sub>Initializes a new instance of the [<sub>Loaders.Svc2004Loader</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/Svc2004Loader.md) class with specified database.</sub>
 
 
 ## Properties
@@ -23,7 +23,7 @@ Svc2004Loader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.St
 
 [String](https://docs.microsoft.com/en-us/dotnet/api/System.String)<sub>DatabasePath</sub><sub>Gets or sets the database path.</sub>
 [Predicate](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[Signer](./../Signer.md)><sub>SignerFilter</sub><sub>Ignores any signers during the loading, that do not match the predicate</sub>
-[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)<sub>StandardFeatures</sub><sub>Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub>
+[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)<sub>StandardFeatures</sub><sub>Gets or sets a value indicating whether features are also loaded as [<sub>Features</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub>
 
 
 ## Methods

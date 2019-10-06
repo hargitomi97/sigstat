@@ -7,15 +7,15 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md)
 
 ## Summary
-Uses pipelines to transform, train on, and classify [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md) objects.
+Uses pipelines to transform, train on, and classify [<sub>Signature</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md) objects.
 
 ## Constructors
 
 | Name | Summary | 
 
-Verifier ( [`ILogger`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger) )<sub>Initializes a new instance of the [Model.Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) class</sub>
-Verifier (  )<sub>Initializes a new instance of the [Model.Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) class.</sub>
-Verifier ( [`Verifier`](./Verifier.md) )<sub>Initializes a new instance of the [Model.Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) class based on another Verifier instance</sub>
+Verifier ( [`ILogger`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger) )<sub>Initializes a new instance of the [<sub>Model.Verifier</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) class</sub>
+Verifier (  )<sub>Initializes a new instance of the [<sub>Model.Verifier</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) class.</sub>
+Verifier ( [`Verifier`](./Verifier.md) )<sub>Initializes a new instance of the [<sub>Model.Verifier</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) class based on another Verifier instance</sub>
 
 
 ## Properties
@@ -34,6 +34,6 @@ Verifier ( [`Verifier`](./Verifier.md) )<sub>Initializes a new instance of the [
 | Return | Name | Summary | 
 
 [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)<sub>[Test](./Methods/Verifier-100664117.md) ( [`Signature`](./../Signature.md) )</sub><sub>Verifies the genuinity of `signature`.</sub>
-[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[Train](./Methods/Verifier-100664116.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> )</sub><sub>Trains the verifier with a list of signatures. Uses the [Model.Verifier.Pipeline](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to extract features,  and [Model.Verifier.Classifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to find an optimized limit.</sub>
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[Train](./Methods/Verifier-100664116.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> )</sub><sub>Trains the verifier with a list of signatures. Uses the [<sub>Model.Verifier.Pipeline</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to extract features,  and [<sub>Model.Verifier.Classifier</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to find an optimized limit.</sub>
 
 
