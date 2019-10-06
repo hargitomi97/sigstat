@@ -10,8 +10,8 @@ Describes the type of a stroke
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<img width=200/>| Unknown<img width=200/>| The type of the stroke is not known<img width=200/>| <br>
-| 1<img width=200/>| Up<img width=200/>| The stroke was made in the air (the pen did not tuch the tablet/paper)<img width=200/>| <br>
-| 2<img width=200/>| Down<img width=200/>| The stroke was made on the writing surface (tablet, paper etc.)<img width=200/>| <br>
+| 0<img width=200/>| Unknown| The type of the stroke is not known<img width=200/>| <br>
+| 1<img width=200/>| Up| The stroke was made in the air (the pen did not tuch the tablet/paper)<img width=200/>| <br>
+| 2<img width=200/>| Down| The stroke was made on the writing surface (tablet, paper etc.)<img width=200/>| <br>
 
 

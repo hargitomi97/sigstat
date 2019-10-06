@@ -13,24 +13,24 @@ Performs rotation normalization on the online signature
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>NormalizeRotation (  )</sub><img width=200/>| <sub></sub><img width=200/>| <br>
+| <sub>NormalizeRotation (  )</sub><img width=200/>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputT</sub><img width=200/>| <sub>Gets or sets the input feature representing the timestamps of an online signature</sub><img width=200/>| <br>
-| <sub>InputX</sub><img width=200/>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub><img width=200/>| <br>
-| <sub>InputY</sub><img width=200/>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub><img width=200/>| <br>
-| <sub>OutputX</sub><img width=200/>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub><img width=200/>| <br>
-| <sub>OutputY</sub><img width=200/>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub><img width=200/>| <br>
+| <sub>InputT</sub><img width=200/>| <sub>Gets or sets the input feature representing the timestamps of an online signature</sub>| <br>
+| <sub>InputX</sub><img width=200/>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>| <br>
+| <sub>InputY</sub><img width=200/>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
+| <sub>OutputX</sub><img width=200/>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub>| <br>
+| <sub>OutputY</sub><img width=200/>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=200/>| <sub></sub><img width=200/>| <br>
+| <sub>[Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
 
 
