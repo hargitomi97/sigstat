@@ -13,21 +13,21 @@ Performs linear interpolation on the input
 
 NameSummary
 
-LinearInterpolation (  )<sub></sub>
+LinearInterpolation (  )<br><sub></sub><br>
 
 
 ## Properties
 
 TypeNameSummary
 
-<sub>FeatureValues</sub><sub></sub>
-<sub>TimeValues</sub><sub></sub>
+<br><sub>FeatureValues</sub><br><sub></sub><br>
+<br><sub>TimeValues</sub><br><sub></sub><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[GetValue](./Methods/LinearInterpolation-100663765.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><sub>Gets the interpolated value at a given timestamp</sub>
+<br><sub>[GetValue](./Methods/LinearInterpolation-100663765.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><br><sub>Gets the interpolated value at a given timestamp</sub><br>
 
 

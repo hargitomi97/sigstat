@@ -11,7 +11,7 @@ Standard event identifiers used by the SigStat system
 
 TypeNameSummary
 
-<sub>BenchmarkEvent</sub><sub>Events originating from a benchmark</sub>
-<sub>VerifierEvent</sub><sub>Events originating from a verifier</sub>
+<br><sub>BenchmarkEvent</sub><br><sub>Events originating from a benchmark</sub><br>
+<br><sub>VerifierEvent</sub><br><sub>Events originating from a verifier</sub><br>
 
 

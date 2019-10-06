@@ -13,26 +13,26 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 NameSummary
 
-UniformScale (  )<sub></sub>
+UniformScale (  )<br><sub></sub><br>
 
 
 ## Properties
 
 TypeNameSummary
 
-<sub>BaseDimension</sub><sub>Gets or sets the base dimension.</sub>
-<sub>BaseDimensionOutput</sub><sub>Gets or sets the output base dimension output.</sub>
-<sub>NewMaxBaseValue</sub><sub>Upper bound of the interval, in which the base dimension will be scaled</sub>
-<sub>NewMinBaseValue</sub><sub>Lower bound of the interval, in which the base dimension will be scaled</sub>
-<sub>NewMinProportionalValue</sub><sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub>
-<sub>ProportionalDimension</sub><sub>Gets or sets the ProportionalDimension.</sub>
-<sub>ProportionalDimensionOutput</sub><sub>Gets or sets the output proportional dimension output.</sub>
+<br><sub>BaseDimension</sub><br><sub>Gets or sets the base dimension.</sub><br>
+<br><sub>BaseDimensionOutput</sub><br><sub>Gets or sets the output base dimension output.</sub><br>
+<br><sub>NewMaxBaseValue</sub><br><sub>Upper bound of the interval, in which the base dimension will be scaled</sub><br>
+<br><sub>NewMinBaseValue</sub><br><sub>Lower bound of the interval, in which the base dimension will be scaled</sub><br>
+<br><sub>NewMinProportionalValue</sub><br><sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub><br>
+<br><sub>ProportionalDimension</sub><br><sub>Gets or sets the ProportionalDimension.</sub><br>
+<br><sub>ProportionalDimensionOutput</sub><br><sub>Gets or sets the output proportional dimension output.</sub><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Transform](./Methods/UniformScale-100663843.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub>
+<br><sub>[Transform](./Methods/UniformScale-100663843.md) ( [`Signature`](./../../../Signature.md) )</sub><br><sub></sub><br>
 
 

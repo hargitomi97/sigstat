@@ -9,15 +9,15 @@ Assembly: SigStat.Common.dll
 
 NameSummary
 
-NetCoreFeatureDescriptorDictionaryConverter (  )<sub></sub>
+NetCoreFeatureDescriptorDictionaryConverter (  )<br><sub></sub><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[CanConvert](./Methods/NetCoreFeatureDescriptorDictionaryConverter-100664072.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub><sub></sub>
-<sub>[Read](./Methods/NetCoreFeatureDescriptorDictionaryConverter-100664073.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub><sub></sub>
-<sub>[Write](./Methods/NetCoreFeatureDescriptorDictionaryConverter-100664074.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`Dictionary`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.Dictionary-2)\<[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`FeatureDescriptor`](./../../FeatureDescriptor.md)>, [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub><sub></sub>
+<br><sub>[CanConvert](./Methods/NetCoreFeatureDescriptorDictionaryConverter-100664072.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub><br><sub></sub><br>
+<br><sub>[Read](./Methods/NetCoreFeatureDescriptorDictionaryConverter-100664073.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub><br><sub></sub><br>
+<br><sub>[Write](./Methods/NetCoreFeatureDescriptorDictionaryConverter-100664074.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`Dictionary`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.Dictionary-2)\<[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`FeatureDescriptor`](./../../FeatureDescriptor.md)>, [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub><br><sub></sub><br>
 
 

@@ -13,24 +13,24 @@ Performs rotation normalization on the online signature
 
 NameSummary
 
-NormalizeRotation (  )<sub></sub>
+NormalizeRotation (  )<br><sub></sub><br>
 
 
 ## Properties
 
 TypeNameSummary
 
-<sub>InputT</sub><sub>Gets or sets the input feature representing the timestamps of an online signature</sub>
-<sub>InputX</sub><sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>
-<sub>InputY</sub><sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>
-<sub>OutputX</sub><sub>Gets or sets the output feature representing the X coordinates of an online signature</sub>
-<sub>OutputY</sub><sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>
+<br><sub>InputT</sub><br><sub>Gets or sets the input feature representing the timestamps of an online signature</sub><br>
+<br><sub>InputX</sub><br><sub>Gets or sets the input feature representing the X coordinates of an online signature</sub><br>
+<br><sub>InputY</sub><br><sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub><br>
+<br><sub>OutputX</sub><br><sub>Gets or sets the output feature representing the X coordinates of an online signature</sub><br>
+<br><sub>OutputY</sub><br><sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub>
+<br><sub>[Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )</sub><br><sub></sub><br>
 
 

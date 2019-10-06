@@ -11,8 +11,8 @@ Helper methods for processing arrays
 
 NameSummary
 
-<sub>[GetCog](./Methods/ArrayExtension-100663390.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )</sub><sub>Calculates the center of gravity, assuming that each cell contains  a weight value</sub>
-<sub>[GetValues](./Methods/ArrayExtension-100663385.md) ( [`T`](./ArrayExtension.md)[] )</sub><sub>Enumerates all values in a two dimensional array</sub>
-<sub>[SetValues](./Methods/ArrayExtension-100663386.md) ( [`T`](./ArrayExtension.md)[], [`T`](./ArrayExtension.md) )</sub><sub>Sets all values in a two dimensional array to `value`</sub>
+<br><sub>[GetCog](./Methods/ArrayExtension-100663390.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )</sub><br><sub>Calculates the center of gravity, assuming that each cell contains  a weight value</sub><br>
+<br><sub>[GetValues](./Methods/ArrayExtension-100663385.md) ( [`T`](./ArrayExtension.md)[] )</sub><br><sub>Enumerates all values in a two dimensional array</sub><br>
+<br><sub>[SetValues](./Methods/ArrayExtension-100663386.md) ( [`T`](./ArrayExtension.md)[], [`T`](./ArrayExtension.md) )</sub><br><sub>Sets all values in a two dimensional array to `value`</sub><br>
 
 

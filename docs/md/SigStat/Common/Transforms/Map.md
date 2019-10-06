@@ -13,21 +13,21 @@ Maps values of a feature to a specified range.  <br>Pipeline Input type: List{do
 
 NameSummary
 
-Map ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )<sub>Initializes a new instance of the [Transforms.Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings.</sub>
+Map ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )<br><sub>Initializes a new instance of the [Transforms.Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings.</sub><br>
 
 
 ## Properties
 
 TypeNameSummary
 
-<sub>Input</sub><sub>Input</sub>
-<sub>Output</sub><sub>Output</sub>
+<br><sub>Input</sub><br><sub>Input</sub><br>
+<br><sub>Output</sub><br><sub>Output</sub><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Transform](./Methods/Map-100663623.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
+<br><sub>[Transform](./Methods/Map-100663623.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br>
 
 

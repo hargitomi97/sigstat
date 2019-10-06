@@ -11,17 +11,17 @@ Json serialization and deserialization using the custom resolver  [Helpers.Seria
 
 NameSummary
 
-SerializationHelper (  )<sub></sub>
+SerializationHelper (  )<br><sub></sub><br>
 
 
 ## Static Methods
 
 NameSummary
 
-<sub>[Deserialize](./Methods/SerializationHelper-100664028.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><sub>Constructs object from strings that were serialized previously</sub>
-<sub>[DeserializeFromFile](./Methods/SerializationHelper-100664029.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><sub>Constructs object from file given by a path</sub>
-<sub>[GetSettings](./Methods/SerializationHelper-100664027.md) (  )</sub><sub>Settings used for the serialization methods</sub>
-<sub>[JsonSerialize](./Methods/SerializationHelper-100664031.md) ( [`T`](./SerializationHelper.md) )</sub><sub>Creates json string from object</sub>
-<sub>[JsonSerializeToFile](./Methods/SerializationHelper-100664030.md) ( [`T`](./SerializationHelper.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><sub>Writes object to file to the given by path in json format</sub>
+<br><sub>[Deserialize](./Methods/SerializationHelper-100664028.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><br><sub>Constructs object from strings that were serialized previously</sub><br>
+<br><sub>[DeserializeFromFile](./Methods/SerializationHelper-100664029.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><br><sub>Constructs object from file given by a path</sub><br>
+<br><sub>[GetSettings](./Methods/SerializationHelper-100664027.md) (  )</sub><br><sub>Settings used for the serialization methods</sub><br>
+<br><sub>[JsonSerialize](./Methods/SerializationHelper-100664031.md) ( [`T`](./SerializationHelper.md) )</sub><br><sub>Creates json string from object</sub><br>
+<br><sub>[JsonSerializeToFile](./Methods/SerializationHelper-100664030.md) ( [`T`](./SerializationHelper.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><br><sub>Writes object to file to the given by path in json format</sub><br>
 
 

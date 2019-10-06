@@ -13,21 +13,21 @@ Extracts the Centroid (aka. Center Of Gravity) of the input features.  <br> Defa
 
 NameSummary
 
-CentroidExtraction (  )<sub></sub>
+CentroidExtraction (  )<br><sub></sub><br>
 
 
 ## Properties
 
 TypeNameSummary
 
-<sub>Inputs</sub><sub>List of features to process</sub>
-<sub>OutputCentroid</sub><sub>List of centroid values</sub>
+<br><sub>Inputs</sub><br><sub>List of features to process</sub><br>
+<br><sub>OutputCentroid</sub><br><sub>List of centroid values</sub><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Transform](./Methods/CentroidExtraction-100663554.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
+<br><sub>[Transform](./Methods/CentroidExtraction-100663554.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br>
 
 

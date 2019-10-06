@@ -11,14 +11,14 @@ Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/b
 
 NameSummary
 
-Output ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )<sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>
-Output (  )<sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>
+Output ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )<br><sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub><br>
+Output (  )<br><sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub><br>
 
 
 ## Fields
 
 TypeNameSummary
 
-<sub>Default</sub><sub>The default value for the property</sub>
+<br><sub>Default</sub><br><sub>The default value for the property</sub><br>
 
 

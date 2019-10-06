@@ -11,14 +11,14 @@ Selects a given number of signatures for training and testing
 
 NameSummary
 
-UniversalSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )<sub>Constructor</sub>
+UniversalSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )<br><sub>Constructor</sub><br>
 
 
 ## Properties
 
 TypeNameSummary
 
-<sub>TestCount</sub><sub>Count of signatures to use for testing</sub>
-<sub>TrainingCount</sub><sub>Count of signatures to use for training</sub>
+<br><sub>TestCount</sub><br><sub>Count of signatures to use for testing</sub><br>
+<br><sub>TrainingCount</sub><br><sub>Count of signatures to use for training</sub><br>
 
 

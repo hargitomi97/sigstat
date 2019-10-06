@@ -13,25 +13,25 @@ Resamples an online signature to a specific sample count using the specified [Pi
 
 NameSummary
 
-ResampleSamplesCountBased (  )<sub></sub>
+ResampleSamplesCountBased (  )<br><sub></sub><br>
 
 
 ## Properties
 
 TypeNameSummary
 
-<sub>InputFeatures</sub><sub>Gets or sets the input features.</sub>
-<sub>InterpolationType</sub><sub>Gets or sets the type of the interpolation. <seealso cref="T:SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation" /></sub>
-<sub>NumOfSamples</sub><sub>Gets or sets the number of samples.</sub>
-<sub>OriginalTFeature</sub><sub>Gets or sets the input timestamp feature.</sub>
-<sub>OutputFeatures</sub><sub>Gets or sets the resampled  features.</sub>
-<sub>ResampledTFeature</sub><sub>Gets or sets the resampled timestamp feature.</sub>
+<br><sub>InputFeatures</sub><br><sub>Gets or sets the input features.</sub><br>
+<br><sub>InterpolationType</sub><br><sub>Gets or sets the type of the interpolation. <seealso cref="T:SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation" /></sub><br>
+<br><sub>NumOfSamples</sub><br><sub>Gets or sets the number of samples.</sub><br>
+<br><sub>OriginalTFeature</sub><br><sub>Gets or sets the input timestamp feature.</sub><br>
+<br><sub>OutputFeatures</sub><br><sub>Gets or sets the resampled  features.</sub><br>
+<br><sub>ResampledTFeature</sub><br><sub>Gets or sets the resampled timestamp feature.</sub><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Transform](./Methods/ResampleSamplesCountBased-100663801.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub>
+<br><sub>[Transform](./Methods/ResampleSamplesCountBased-100663801.md) ( [`Signature`](./../../../Signature.md) )</sub><br><sub></sub><br>
 
 
