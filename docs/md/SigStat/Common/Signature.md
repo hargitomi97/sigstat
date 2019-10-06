@@ -13,35 +13,35 @@ Represents a signature as a collection of features, containing the data that flo
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Signature (  )</sub><img width=200/>  | <sub>Initializes a signature instance</sub><img width=200/>  | <br>
-| <sub>Signature ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Origin`](./Origin.md), [`Signer`](./Signer.md) )</sub><img width=200/>  | <sub>Initializes a signature instance with the given properties</sub><img width=200/>  | <br>
+| <sub>Signature (  )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Initializes a signature instance</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>Signature ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Origin`](./Origin.md), [`Signer`](./Signer.md) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Initializes a signature instance with the given properties</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ID</sub><img width=200/>  | <sub>An identifier for the Signature. Keep it unique to be useful for logs.</sub><img width=200/>  | <br>
-| <sub>Item [ [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ]</sub><img width=200/>  | <sub>Gets or sets the specified feature.</sub><img width=200/>  | <br>
-| <sub>Item [ [`FeatureDescriptor`](./FeatureDescriptor.md) ]</sub><img width=200/>  | <sub>Gets or sets the specified feature.</sub><img width=200/>  | <br>
-| <sub>Origin</sub><img width=200/>  | <sub>Represents our knowledge on the origin of the signature. [Origin.Unknown](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Origin.md) may be used in practice before it is verified.</sub><img width=200/>  | <br>
-| <sub>Signer</sub><img width=200/>  | <sub>A reference to the [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md) who this signature belongs to. (The origin is not constrained to be genuine.)</sub><img width=200/>  | <br>
+| <sub>ID</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>An identifier for the Signature. Keep it unique to be useful for logs.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>Item [ [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ]</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Gets or sets the specified feature.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>Item [ [`FeatureDescriptor`](./FeatureDescriptor.md) ]</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Gets or sets the specified feature.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>Origin</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Represents our knowledge on the origin of the signature. [Origin.Unknown](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Origin.md) may be used in practice before it is verified.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>Signer</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>A reference to the [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md) who this signature belongs to. (The origin is not constrained to be genuine.)</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[GetAggregateFeature](./Methods/Signature-100663442.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`FeatureDescriptor`](./FeatureDescriptor.md)> )</sub><img width=200/>  | <sub>Aggregate multiple features into one. Example: X, Y features -&gt; P.xy feature.  Use this for example at DTW algorithm input.</sub><img width=200/>  | <br>
-| <sub>[GetEnumerator](./Methods/Signature-100663446.md) (  )</sub><img width=200/>  | <sub>Returns an enumerator that iterates through the features.</sub><img width=200/>  | <br>
-| <sub>[GetFeature](./Methods/Signature-100663436.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img width=200/>  | <sub>Gets the specified feature.</sub><img width=200/>  | <br>
-| <sub>[GetFeature](./Methods/Signature-100663437.md) ( [`FeatureDescriptor`](./FeatureDescriptor-1.md)\<[`T`](./Signature.md)> )</sub><img width=200/>  | <sub>Gets the specified feature. This is the preferred way.</sub><img width=200/>  | <br>
-| <sub>[GetFeature](./Methods/Signature-100663438.md) ( [`FeatureDescriptor`](./FeatureDescriptor.md) )</sub><img width=200/>  | <sub>Gets the specified feature. This is the preferred way.</sub><img width=200/>  | <br>
-| <sub>[GetFeatureDescriptors](./Methods/Signature-100663439.md) (  )</sub><img width=200/>  | <sub>Gets a collection of [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md)s that are used in this signature.</sub><img width=200/>  | <br>
-| <sub>[HasFeature](./Methods/Signature-100663443.md) ( [`FeatureDescriptor`](./FeatureDescriptor.md) )</sub><img width=200/>  | <sub>Returns true if the signature contains the specified feature</sub><img width=200/>  | <br>
-| <sub>[HasFeature](./Methods/Signature-100663444.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img width=200/>  | <sub>Returns true if the signature contains the specified feature</sub><img width=200/>  | <br>
-| <sub>[SetFeature](./Methods/Signature-100663440.md) ( [`FeatureDescriptor`](./FeatureDescriptor.md), [`T`](./Signature.md) )</sub><img width=200/>  | <sub>Sets the specified feature.</sub><img width=200/>  | <br>
-| <sub>[SetFeature](./Methods/Signature-100663441.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`T`](./Signature.md) )</sub><img width=200/>  | <sub>Sets the specified feature.</sub><img width=200/>  | <br>
-| <sub>[ToString](./Methods/Signature-100663445.md) (  )</sub><img width=200/>  | <sub>Returns a string representation of the signature</sub><img width=200/>  | <br>
+| <sub>[GetAggregateFeature](./Methods/Signature-100663442.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`FeatureDescriptor`](./FeatureDescriptor.md)> )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Aggregate multiple features into one. Example: X, Y features -&gt; P.xy feature.  Use this for example at DTW algorithm input.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[GetEnumerator](./Methods/Signature-100663446.md) (  )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Returns an enumerator that iterates through the features.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[GetFeature](./Methods/Signature-100663436.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Gets the specified feature.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[GetFeature](./Methods/Signature-100663437.md) ( [`FeatureDescriptor`](./FeatureDescriptor-1.md)\<[`T`](./Signature.md)> )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Gets the specified feature. This is the preferred way.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[GetFeature](./Methods/Signature-100663438.md) ( [`FeatureDescriptor`](./FeatureDescriptor.md) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Gets the specified feature. This is the preferred way.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[GetFeatureDescriptors](./Methods/Signature-100663439.md) (  )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Gets a collection of [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md)s that are used in this signature.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[HasFeature](./Methods/Signature-100663443.md) ( [`FeatureDescriptor`](./FeatureDescriptor.md) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Returns true if the signature contains the specified feature</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[HasFeature](./Methods/Signature-100663444.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Returns true if the signature contains the specified feature</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[SetFeature](./Methods/Signature-100663440.md) ( [`FeatureDescriptor`](./FeatureDescriptor.md), [`T`](./Signature.md) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Sets the specified feature.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[SetFeature](./Methods/Signature-100663441.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`T`](./Signature.md) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Sets the specified feature.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[ToString](./Methods/Signature-100663445.md) (  )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Returns a string representation of the signature</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 

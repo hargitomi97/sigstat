@@ -11,13 +11,13 @@ Enables progress tracking by expsoing the [Helpers.IProgress.Progress](https://g
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Progress</sub><img width=200/>  | <sub>Gets the current progress in percentage.</sub><img width=200/>  | <br>
+| <sub>Progress</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Gets the current progress in percentage.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 
 ## Events
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ProgressChanged</sub><img width=200/>  | <sub>Invoked whenever the [Helpers.IProgress.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/IProgress.md) property is changed.</sub><img width=200/>  | <br>
+| <sub>ProgressChanged</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Invoked whenever the [Helpers.IProgress.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/IProgress.md) property is changed.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 

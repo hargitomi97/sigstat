@@ -13,24 +13,24 @@ This transformations can be used to translate the coordinates of an online signa
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>TranslatePreproc (  )</sub><img width=200/>  | <sub>Initializes a new instance of the [PipelineItems.Transforms.Preprocessing.TranslatePreproc](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/TranslatePreproc.md) class.</sub><img width=200/>  | <br>
-| <sub>TranslatePreproc ( [`OriginType`](./OriginType.md) )</sub><img width=200/>  | <sub>Initializes a new instance of the [PipelineItems.Transforms.Preprocessing.TranslatePreproc](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/TranslatePreproc.md) class.</sub><img width=200/>  | <br>
+| <sub>TranslatePreproc (  )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Initializes a new instance of the [PipelineItems.Transforms.Preprocessing.TranslatePreproc](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/TranslatePreproc.md) class.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>TranslatePreproc ( [`OriginType`](./OriginType.md) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Initializes a new instance of the [PipelineItems.Transforms.Preprocessing.TranslatePreproc](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/TranslatePreproc.md) class.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>GoalOrigin</sub><img width=200/>  | <sub>Goal origin of the translation</sub><img width=200/>  | <br>
-| <sub>InputFeature</sub><img width=200/>  | <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) (e.g. [Features.X](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md))</sub><img width=200/>  | <br>
-| <sub>NewOrigin</sub><img width=200/>  | <sub>New origin after the translation</sub><img width=200/>  | <br>
-| <sub>OutputFeature</sub><img width=200/>  | <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) (e.g. [Features.X](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md))</sub><img width=200/>  | <br>
+| <sub>GoalOrigin</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Goal origin of the translation</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>InputFeature</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) (e.g. [Features.X](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md))</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>NewOrigin</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>New origin after the translation</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>OutputFeature</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) (e.g. [Features.X](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md))</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/TranslatePreproc-100663825.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>[Transform](./Methods/TranslatePreproc-100663825.md) ( [`Signature`](./../../../Signature.md) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub></sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 

@@ -10,9 +10,9 @@ Origin specification for [PipelineItems.Transforms.Preprocessing.TranslatePrepro
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<img width=200/>  | CenterOfGravity<img width=200/>  | Center of gravity<img width=200/>  | <br>
-| 1<img width=200/>  | Minimum<img width=200/>  | Minimum<img width=200/>  | <br>
-| 2<img width=200/>  | Maximum<img width=200/>  | Maximum<img width=200/>  | <br>
-| 3<img width=200/>  | Predefined<img width=200/>  | Predefined<img width=200/>  | <br>
+| 0<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | CenterOfGravity<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Center of gravity<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| 1<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Minimum<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Minimum<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| 2<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Maximum<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Maximum<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| 3<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Predefined<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Predefined<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 

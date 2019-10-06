@@ -13,21 +13,21 @@ Extracts the Centroid (aka. Center Of Gravity) of the input features.  <br> Defa
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>CentroidExtraction (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>CentroidExtraction (  )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub></sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Inputs</sub><img width=200/>  | <sub>List of features to process</sub><img width=200/>  | <br>
-| <sub>OutputCentroid</sub><img width=200/>  | <sub>List of centroid values</sub><img width=200/>  | <br>
+| <sub>Inputs</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>List of features to process</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>OutputCentroid</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>List of centroid values</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/CentroidExtraction-100663554.md) ( [`Signature`](./../Signature.md) )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>[Transform](./Methods/CentroidExtraction-100663554.md) ( [`Signature`](./../Signature.md) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub></sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 

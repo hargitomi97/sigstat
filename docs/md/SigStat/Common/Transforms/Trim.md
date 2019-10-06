@@ -13,21 +13,21 @@ Trims unnecessary empty space from a binary raster.  <br>Pipeline Input type: bo
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Trim ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>Trim ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub></sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Input</sub><img width=200/>  | <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub><img width=200/>  | <br>
-| <sub>Output</sub><img width=200/>  | <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the trimed image of the signature</sub><img width=200/>  | <br>
+| <sub>Input</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>Output</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the trimed image of the signature</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/Trim-100663722.md) ( [`Signature`](./../Signature.md) )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>[Transform](./Methods/Trim-100663722.md) ( [`Signature`](./../Signature.md) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub></sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 

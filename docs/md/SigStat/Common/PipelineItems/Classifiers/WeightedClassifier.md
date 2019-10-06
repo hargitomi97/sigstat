@@ -13,23 +13,23 @@ Classifies Signatures by weighing other Classifier results.
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>WeightedClassifier (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>WeightedClassifier (  )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub></sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 
 ## Fields
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Items</sub><img width=200/>  | <sub>List of classifiers and belonging weights.</sub><img width=200/>  | <br>
+| <sub>Items</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>List of classifiers and belonging weights.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Add](./Methods/WeightedClassifier-100663869.md) ( [`ValueTuple`](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[`IClassifier`](./../../Pipeline/IClassifier.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub><img width=200/>  | <sub>Add a new classifier with given weight to the list of items.</sub><img width=200/>  | <br>
-| <sub>[GetEnumerator](./Methods/WeightedClassifier-100663868.md) (  )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
-| <sub>[Test](./Methods/WeightedClassifier-100663871.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
-| <sub>[Train](./Methods/WeightedClassifier-100663870.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
+| <sub>[Add](./Methods/WeightedClassifier-100663869.md) ( [`ValueTuple`](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[`IClassifier`](./../../Pipeline/IClassifier.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Add a new classifier with given weight to the list of items.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[GetEnumerator](./Methods/WeightedClassifier-100663868.md) (  )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub></sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[Test](./Methods/WeightedClassifier-100663871.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub></sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[Train](./Methods/WeightedClassifier-100663870.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub></sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 

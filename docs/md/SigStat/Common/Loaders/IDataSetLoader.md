@@ -11,7 +11,7 @@ Exposes a function to enable loading collections of [Signer](https://github.com/
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[EnumerateSigners](./Methods/IDataSetLoader-100663880.md) (  )</sub><img width=200/>  | <sub>Enumerates all signers of the database</sub><img width=200/>  | <br>
-| <sub>[EnumerateSigners](./Methods/IDataSetLoader-100663881.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><img width=200/>  | <sub>Enumerates all [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md)s that match the `signerFilter`.</sub><img width=200/>  | <br>
+| <sub>[EnumerateSigners](./Methods/IDataSetLoader-100663880.md) (  )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Enumerates all signers of the database</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[EnumerateSigners](./Methods/IDataSetLoader-100663881.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Enumerates all [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md)s that match the `signerFilter`.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
 
 
