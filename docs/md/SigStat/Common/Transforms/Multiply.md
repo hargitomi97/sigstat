@@ -13,21 +13,21 @@ Multiplies the values of a feature with a given constant.  <br>Pipeline Input ty
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>Multiply ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub></div>| <sub>Initializes a new instance of the [Transforms.Multiply](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Multiply.md) class with specified settings.</sub></div>| <br>
+| <img width=200/> <sub>Multiply ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub>| <sub>Initializes a new instance of the [Transforms.Multiply](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Multiply.md) class with specified settings.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>InputList</sub></div>| <sub>Input</sub></div>| <br>
-| <div style="width:490px"><sub>Output</sub></div>| <sub>Output</sub></div>| <br>
+| <img width=200/> <sub>InputList</sub>| <sub>Input</sub>| <br>
+| <img width=200/> <sub>Output</sub>| <sub>Output</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>[Transform](./Methods/Multiply-100663629.md) ( [`Signature`](./../Signature.md) )</sub></div>| <sub></sub></div>| <br>
+| <img width=200/> <sub>[Transform](./Methods/Multiply-100663629.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| <br>
 
 

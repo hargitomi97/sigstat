@@ -13,21 +13,21 @@ Adds a vector feature's elements to other features.  <br>Default Pipeline Output
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>AddVector ( [`FeatureDescriptor`](./../FeatureDescriptor-1.md)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> )</sub></div>| <sub>Initializes a new instance of the [Transforms.AddVector](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddVector.md) class with a vector feature.  Don't forget to add as many Inputs as the vector's dimension.</sub></div>| <br>
+| <img width=200/> <sub>AddVector ( [`FeatureDescriptor`](./../FeatureDescriptor-1.md)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> )</sub>| <sub>Initializes a new instance of the [Transforms.AddVector](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddVector.md) class with a vector feature.  Don't forget to add as many Inputs as the vector's dimension.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>Inputs</sub></div>| <sub>Inputs</sub></div>| <br>
-| <div style="width:490px"><sub>Outputs</sub></div>| <sub>Outputs</sub></div>| <br>
+| <img width=200/> <sub>Inputs</sub>| <sub>Inputs</sub>| <br>
+| <img width=200/> <sub>Outputs</sub>| <sub>Outputs</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>[Transform](./Methods/AddVector-100663609.md) ( [`Signature`](./../Signature.md) )</sub></div>| <sub></sub></div>| <br>
+| <img width=200/> <sub>[Transform](./Methods/AddVector-100663609.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| <br>
 
 

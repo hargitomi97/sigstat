@@ -11,13 +11,13 @@ Selects the first N signatures with even index for training
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>EvenNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub></div>| <sub>Constructor</sub></div>| <br>
+| <img width=200/> <sub>EvenNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub>| <sub>Constructor</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>N</sub></div>| <sub>Count of signatures used for training</sub></div>| <br>
+| <img width=200/> <sub>N</sub>| <sub>Count of signatures used for training</sub>| <br>
 
 

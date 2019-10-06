@@ -13,25 +13,25 @@ Resamples an online signature to a specific sample count using the specified [Pi
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>ResampleSamplesCountBased (  )</sub></div>| <sub></sub></div>| <br>
+| <img width=200/> <sub>ResampleSamplesCountBased (  )</sub>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>InputFeatures</sub></div>| <sub>Gets or sets the input features.</sub></div>| <br>
-| <div style="width:490px"><sub>InterpolationType</sub></div>| <sub>Gets or sets the type of the interpolation. <seealso cref="T:SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation" /></sub></div>| <br>
-| <div style="width:490px"><sub>NumOfSamples</sub></div>| <sub>Gets or sets the number of samples.</sub></div>| <br>
-| <div style="width:490px"><sub>OriginalTFeature</sub></div>| <sub>Gets or sets the input timestamp feature.</sub></div>| <br>
-| <div style="width:490px"><sub>OutputFeatures</sub></div>| <sub>Gets or sets the resampled  features.</sub></div>| <br>
-| <div style="width:490px"><sub>ResampledTFeature</sub></div>| <sub>Gets or sets the resampled timestamp feature.</sub></div>| <br>
+| <img width=200/> <sub>InputFeatures</sub>| <sub>Gets or sets the input features.</sub>| <br>
+| <img width=200/> <sub>InterpolationType</sub>| <sub>Gets or sets the type of the interpolation. <seealso cref="T:SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation" /></sub>| <br>
+| <img width=200/> <sub>NumOfSamples</sub>| <sub>Gets or sets the number of samples.</sub>| <br>
+| <img width=200/> <sub>OriginalTFeature</sub>| <sub>Gets or sets the input timestamp feature.</sub>| <br>
+| <img width=200/> <sub>OutputFeatures</sub>| <sub>Gets or sets the resampled  features.</sub>| <br>
+| <img width=200/> <sub>ResampledTFeature</sub>| <sub>Gets or sets the resampled timestamp feature.</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>[Transform](./Methods/ResampleSamplesCountBased-100663801.md) ( [`Signature`](./../../../Signature.md) )</sub></div>| <sub></sub></div>| <br>
+| <img width=200/> <sub>[Transform](./Methods/ResampleSamplesCountBased-100663801.md) ( [`Signature`](./../../../Signature.md) )</sub>| <sub></sub>| <br>
 
 

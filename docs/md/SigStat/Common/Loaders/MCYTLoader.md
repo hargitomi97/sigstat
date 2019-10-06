@@ -13,28 +13,28 @@ Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerOb
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>MCYTLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub></div>| <sub>Initializes a new instance of the [Loaders.MCYTLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/MCYTLoader.md) class.</sub></div>| <br>
+| <img width=200/> <sub>MCYTLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub>| <sub>Initializes a new instance of the [Loaders.MCYTLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/MCYTLoader.md) class.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>DatabasePath</sub></div>| <sub>Gets or sets the database path.</sub></div>| <br>
-| <div style="width:490px"><sub>StandardFeatures</sub></div>| <sub>Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub></div>| <br>
+| <img width=200/> <sub>DatabasePath</sub>| <sub>Gets or sets the database path.</sub>| <br>
+| <img width=200/> <sub>StandardFeatures</sub>| <sub>Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>[EnumerateSigners](./Methods/MCYTLoader-100663892.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub></div>| <sub></sub></div>| <br>
+| <img width=200/> <sub>[EnumerateSigners](./Methods/MCYTLoader-100663892.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub>| <sub></sub>| <br>
 
 
 ## Static Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>[LoadSignature](./Methods/MCYTLoader-100663893.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub></div>| <sub>Loads one signature from specified stream.</sub></div>| <br>
+| <img width=200/> <sub>[LoadSignature](./Methods/MCYTLoader-100663893.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub>| <sub>Loads one signature from specified stream.</sub>| <br>
 
 

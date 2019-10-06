@@ -11,18 +11,18 @@ Represents an output for a [Pipeline.PipelineOutput.PipelineItem](https://github
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub></div>| <sub>Initializes a new instance of the [Pipeline.PipelineOutput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineOutput.md) class.</sub></div>| <br>
+| <img width=200/> <sub>PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub>| <sub>Initializes a new instance of the [Pipeline.PipelineOutput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineOutput.md) class.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>Default</sub></div>| <sub>Gets the default value</sub></div>| <br>
-| <div style="width:490px"><sub>FD</sub></div>| <sub>Gets or sets the fd.</sub></div>| <br>
-| <div style="width:490px"><sub>IsCollectionOfFeatureDescriptors</sub></div>| <sub>Gets a value indicating whether this instance is collection of feature descriptors.</sub></div>| <br>
-| <div style="width:490px"><sub>IsTemporary</sub></div>| <sub>Gets a value indicating whether this instance is temporary.</sub></div>| <br>
-| <div style="width:490px"><sub>PropName</sub></div>| <sub>Gets the name of the property.</sub></div>| <br>
-| <div style="width:490px"><sub>Type</sub></div>| <sub>Gets the type of the property</sub></div>| <br>
+| <img width=200/> <sub>Default</sub>| <sub>Gets the default value</sub>| <br>
+| <img width=200/> <sub>FD</sub>| <sub>Gets or sets the fd.</sub>| <br>
+| <img width=200/> <sub>IsCollectionOfFeatureDescriptors</sub>| <sub>Gets a value indicating whether this instance is collection of feature descriptors.</sub>| <br>
+| <img width=200/> <sub>IsTemporary</sub>| <sub>Gets a value indicating whether this instance is temporary.</sub>| <br>
+| <img width=200/> <sub>PropName</sub>| <sub>Gets the name of the property.</sub>| <br>
+| <img width=200/> <sub>Type</sub>| <sub>Gets the type of the property</sub>| <br>
 
 

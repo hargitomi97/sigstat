@@ -13,27 +13,27 @@ Uses pipelines to transform, train on, and classify [Signature](https://github.c
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>Verifier ( [`ILogger`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger) )</sub></div>| <sub>Initializes a new instance of the [Model.Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) class</sub></div>| <br>
-| <div style="width:490px"><sub>Verifier (  )</sub></div>| <sub>Initializes a new instance of the [Model.Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) class.</sub></div>| <br>
-| <div style="width:490px"><sub>Verifier ( [`Verifier`](./Verifier.md) )</sub></div>| <sub>Initializes a new instance of the [Model.Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) class based on another Verifier instance</sub></div>| <br>
+| <img width=200/> <sub>Verifier ( [`ILogger`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger) )</sub>| <sub>Initializes a new instance of the [Model.Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) class</sub>| <br>
+| <img width=200/> <sub>Verifier (  )</sub>| <sub>Initializes a new instance of the [Model.Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) class.</sub>| <br>
+| <img width=200/> <sub>Verifier ( [`Verifier`](./Verifier.md) )</sub>| <sub>Initializes a new instance of the [Model.Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) class based on another Verifier instance</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>AllFeatures</sub></div>| <sub>This property is used by the Serializer to access a list of all FeatureDescriptors</sub></div>| <br>
-| <div style="width:490px"><sub>Classifier</sub></div>| <sub>Gets or sets the classifier pipeline. Hands over the Logger object.</sub></div>| <br>
-| <div style="width:490px"><sub>Logger</sub></div>| <sub>Gets or sets the class responsible for logging</sub></div>| <br>
-| <div style="width:490px"><sub>Pipeline</sub></div>| <sub>Gets or sets the transform pipeline. Hands over the Logger object.</sub></div>| <br>
-| <div style="width:490px"><sub>SignerModel</sub></div>| <sub>Gets or sets the signer model.</sub></div>| <br>
+| <img width=200/> <sub>AllFeatures</sub>| <sub>This property is used by the Serializer to access a list of all FeatureDescriptors</sub>| <br>
+| <img width=200/> <sub>Classifier</sub>| <sub>Gets or sets the classifier pipeline. Hands over the Logger object.</sub>| <br>
+| <img width=200/> <sub>Logger</sub>| <sub>Gets or sets the class responsible for logging</sub>| <br>
+| <img width=200/> <sub>Pipeline</sub>| <sub>Gets or sets the transform pipeline. Hands over the Logger object.</sub>| <br>
+| <img width=200/> <sub>SignerModel</sub>| <sub>Gets or sets the signer model.</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>[Test](./Methods/Verifier-100664117.md) ( [`Signature`](./../Signature.md) )</sub></div>| <sub>Verifies the genuinity of `signature`.</sub></div>| <br>
-| <div style="width:490px"><sub>[Train](./Methods/Verifier-100664116.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> )</sub></div>| <sub>Trains the verifier with a list of signatures. Uses the [Model.Verifier.Pipeline](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to extract features,  and [Model.Verifier.Classifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to find an optimized limit.</sub></div>| <br>
+| <img width=200/> <sub>[Test](./Methods/Verifier-100664117.md) ( [`Signature`](./../Signature.md) )</sub>| <sub>Verifies the genuinity of `signature`.</sub>| <br>
+| <img width=200/> <sub>[Train](./Methods/Verifier-100664116.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> )</sub>| <sub>Trains the verifier with a list of signatures. Uses the [Model.Verifier.Pipeline](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to extract features,  and [Model.Verifier.Classifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to find an optimized limit.</sub>| <br>
 
 

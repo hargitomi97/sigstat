@@ -13,22 +13,22 @@ Generates a binary raster version of the input image with the iterative threshol
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>Binarization (  )</sub></div>| <sub>Initializes a new instance of the [Transforms.Binarization](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Binarization.md) class with default settings: Iterative threshold and [Transforms.Binarization.ForegroundType.Dark](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md).</sub></div>| <br>
-| <div style="width:490px"><sub>Binarization ( [`ForegroundType`](./Binarization.md), [`Nullable`](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub></div>| <sub></sub></div>| <br>
+| <img width=200/> <sub>Binarization (  )</sub>| <sub>Initializes a new instance of the [Transforms.Binarization](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Binarization.md) class with default settings: Iterative threshold and [Transforms.Binarization.ForegroundType.Dark](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md).</sub>| <br>
+| <img width=200/> <sub>Binarization ( [`ForegroundType`](./Binarization.md), [`Nullable`](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>InputImage</sub></div>| <sub>Gets or sets the featuredescriptor of the input image.</sub></div>| <br>
-| <div style="width:490px"><sub>OutputMask</sub></div>| <sub>Gets or sets the featuredescriptor of a the binarized image.</sub></div>| <br>
+| <img width=200/> <sub>InputImage</sub>| <sub>Gets or sets the featuredescriptor of the input image.</sub>| <br>
+| <img width=200/> <sub>OutputMask</sub>| <sub>Gets or sets the featuredescriptor of a the binarized image.</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>[Transform](./Methods/Binarization-100663642.md) ( [`Signature`](./../Signature.md) )</sub></div>| <sub></sub></div>| <br>
+| <img width=200/> <sub>[Transform](./Methods/Binarization-100663642.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| <br>
 
 

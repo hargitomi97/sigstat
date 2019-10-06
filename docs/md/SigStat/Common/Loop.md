@@ -11,23 +11,23 @@ Represents a loop in a signature
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>Loop (  )</sub></div>| <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance</sub></div>| <br>
-| <div style="width:490px"><sub>Loop ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single), [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) )</sub></div>| <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance and initializes the [Loop.Center](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) property</sub></div>| <br>
+| <img width=200/> <sub>Loop (  )</sub>| <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance</sub>| <br>
+| <img width=200/> <sub>Loop ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single), [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) )</sub>| <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance and initializes the [Loop.Center](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) property</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>Bounds</sub></div>| <sub>The bounding rectangle of the loop</sub></div>| <br>
-| <div style="width:490px"><sub>Center</sub></div>| <sub>The geometrical center of the looop</sub></div>| <br>
-| <div style="width:490px"><sub>Points</sub></div>| <sub>A list of defining points of the loop</sub></div>| <br>
+| <img width=200/> <sub>Bounds</sub>| <sub>The bounding rectangle of the loop</sub>| <br>
+| <img width=200/> <sub>Center</sub>| <sub>The geometrical center of the looop</sub>| <br>
+| <img width=200/> <sub>Points</sub>| <sub>A list of defining points of the loop</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>[ToString](./Methods/Loop-100663342.md) (  )</sub></div>| <sub>Returns a string representation of the loop</sub></div>| <br>
+| <img width=200/> <sub>[ToString](./Methods/Loop-100663342.md) (  )</sub>| <sub>Returns a string representation of the loop</sub>| <br>
 
 

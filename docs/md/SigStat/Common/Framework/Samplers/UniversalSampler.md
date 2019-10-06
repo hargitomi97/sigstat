@@ -11,14 +11,14 @@ Selects a given number of signatures for training and testing
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>UniversalSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub></div>| <sub>Constructor</sub></div>| <br>
+| <img width=200/> <sub>UniversalSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub>| <sub>Constructor</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>TestCount</sub></div>| <sub>Count of signatures to use for testing</sub></div>| <br>
-| <div style="width:490px"><sub>TrainingCount</sub></div>| <sub>Count of signatures to use for training</sub></div>| <br>
+| <img width=200/> <sub>TestCount</sub>| <sub>Count of signatures to use for testing</sub>| <br>
+| <img width=200/> <sub>TrainingCount</sub>| <sub>Count of signatures to use for training</sub>| <br>
 
 

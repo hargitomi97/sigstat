@@ -13,21 +13,21 @@ Maps values of a feature to a specified range.  <br>Pipeline Input type: List{do
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>Map ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub></div>| <sub>Initializes a new instance of the [Transforms.Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings.</sub></div>| <br>
+| <img width=200/> <sub>Map ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub>| <sub>Initializes a new instance of the [Transforms.Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>Input</sub></div>| <sub>Input</sub></div>| <br>
-| <div style="width:490px"><sub>Output</sub></div>| <sub>Output</sub></div>| <br>
+| <img width=200/> <sub>Input</sub>| <sub>Input</sub>| <br>
+| <img width=200/> <sub>Output</sub>| <sub>Output</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:490px"><sub>[Transform](./Methods/Map-100663623.md) ( [`Signature`](./../Signature.md) )</sub></div>| <sub></sub></div>| <br>
+| <img width=200/> <sub>[Transform](./Methods/Map-100663623.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| <br>
 
 

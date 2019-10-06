@@ -10,10 +10,10 @@ Paragraph style setting
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| <div style="width:490px">0</div>| Title</div>| Main title</div>| <br>
-| <div style="width:490px">1</div>| Heading1</div>| Level 1 heading</div>| <br>
-| <div style="width:490px">2</div>| Heading2</div>| Level 2 heading</div>| <br>
-| <div style="width:490px">3</div>| Heading3</div>| Level 3 heading</div>| <br>
-| <div style="width:490px">4</div>| Normal</div>| Normal document body style</div>| <br>
+| <img width=200/> 0| Title| Main title| <br>
+| <img width=200/> 1| Heading1| Level 1 heading| <br>
+| <img width=200/> 2| Heading2| Level 2 heading| <br>
+| <img width=200/> 3| Heading3| Level 3 heading| <br>
+| <img width=200/> 4| Normal| Normal document body style| <br>
 
 
