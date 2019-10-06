@@ -1,4 +1,4 @@
-# [Palette](./Palette.md)
+# <sub>[Palette](./Palette.md)</sub>
 
 Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md) > [Excel](./README.md)
 
@@ -9,15 +9,15 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 
-Palette ( [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color), [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color), [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) )<sub>Initializes a new instance of the [<sub>Helpers.Excel.Palette</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/Excel/Palette.md) class.</sub>
+Palette ( <sub>[`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color)</sub>, <sub>[`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color)</sub>, <sub>[`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color)</sub> )<sub>Initializes a new instance of the [Helpers.Excel.Palette](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/Excel/Palette.md) class.</sub>
 
 
 ## Properties
 
 | Type | Name | Summary | 
 
-[Color](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color)<sub>DarkColor</sub><sub>Gets or sets the color for rendering darker elements</sub>
-[Color](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color)<sub>LightColor</sub><sub>Gets or sets the color for rendering bright elements</sub>
-[Color](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color)<sub>MainColor</sub><sub>Gets or sets the main color used in the palette</sub>
+<sub>[Color](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color)</sub><sub>DarkColor</sub><sub>Gets or sets the color for rendering darker elements</sub>
+<sub>[Color](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color)</sub><sub>LightColor</sub><sub>Gets or sets the color for rendering bright elements</sub>
+<sub>[Color](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color)</sub><sub>MainColor</sub><sub>Gets or sets the main color used in the palette</sub>
 
 

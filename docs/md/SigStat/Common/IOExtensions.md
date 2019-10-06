@@ -1,4 +1,4 @@
-# [IOExtensions](./IOExtensions.md)
+# <sub>[IOExtensions](./IOExtensions.md)</sub>
 
 Namespace: [SigStat]() > [Common](./README.md)
 
@@ -11,6 +11,6 @@ Extension methods for common IO operations
 
 | Return | Name | Summary | 
 
-[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)<sub>[GetPath](./Methods/IOExtensions-100663399.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><sub>Gets the given relative or absolute path in a platform neutral form</sub>
+<sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub><sub>[GetPath](./Methods/IOExtensions-100663399.md) ( <sub>[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub> )</sub><sub>Gets the given relative or absolute path in a platform neutral form</sub>
 
 

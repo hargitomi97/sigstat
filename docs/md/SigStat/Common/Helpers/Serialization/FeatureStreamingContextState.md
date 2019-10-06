@@ -1,4 +1,4 @@
-# [FeatureStreamingContextState](./FeatureStreamingContextState.md)
+# <sub>[FeatureStreamingContextState](./FeatureStreamingContextState.md)</sub>
 
 Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md) > [Serialization](./README.md)
 
@@ -18,6 +18,6 @@ FeatureStreamingContextState (  )<sub>Constructor</sub>
 
 | Type | Name | Summary | 
 
-[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)><sub>KnownFeatureKeys</sub><sub>A list of already serialized FeatureDescriptor keys</sub>
+<sub>[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)</sub>\<<sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub>><sub>KnownFeatureKeys</sub><sub>A list of already serialized FeatureDescriptor keys</sub>
 
 

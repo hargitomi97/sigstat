@@ -1,13 +1,13 @@
-# [DtwSignerModel](./DtwSignerModel.md)
+# <sub>[DtwSignerModel](./DtwSignerModel.md)</sub>
 
 Namespace: [SigStat]() > [Common](./../../README.md) > [PipelineItems]() > [Classifiers](./README.md)
 
 Assembly: SigStat.Common.dll
 
-Implements [ISignerModel](./../../Pipeline/ISignerModel.md)
+Implements <sub>[ISignerModel](./../../Pipeline/ISignerModel.md)</sub>
 
 ## Summary
-Represents a trained model for [<sub>PipelineItems.Classifiers.DtwClassifier</sub>](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md)
+Represents a trained model for [PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md)
 
 ## Constructors
 
@@ -20,14 +20,14 @@ DtwSignerModel (  )<sub></sub>
 
 | Type | Name | Summary | 
 
-[DistanceMatrix](./../../DistanceMatrix-3.md)\<[String](https://docs.microsoft.com/en-us/dotnet/api/System.String), [String](https://docs.microsoft.com/en-us/dotnet/api/System.String), [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)><sub>DistanceMatrix</sub><sub>DTW distance matrix of the genuine signatures</sub>
-[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)<sub>Threshold</sub><sub>A threshold, that will be used for classification. Signatures with  an average DTW distance from the genuines above this threshold will  be classified as forgeries</sub>
+<sub>[DistanceMatrix](./../../DistanceMatrix-3.md)</sub>\<<sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub>, <sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub>, <sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub>><sub>DistanceMatrix</sub><sub>DTW distance matrix of the genuine signatures</sub>
+<sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub><sub>Threshold</sub><sub>A threshold, that will be used for classification. Signatures with  an average DTW distance from the genuines above this threshold will  be classified as forgeries</sub>
 
 
 ## Properties
 
 | Type | Name | Summary | 
 
-[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[KeyValuePair](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.KeyValuePair-2)\<[String](https://docs.microsoft.com/en-us/dotnet/api/System.String), [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[]>><sub>GenuineSignatures</sub><sub>A list a of genuine signatures used for training</sub>
+<sub>[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)</sub>\<<sub>[KeyValuePair](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.KeyValuePair-2)</sub>\<<sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub>, <sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[]</sub>>><sub>GenuineSignatures</sub><sub>A list a of genuine signatures used for training</sub>
 
 

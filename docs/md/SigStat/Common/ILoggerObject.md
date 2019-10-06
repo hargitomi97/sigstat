@@ -1,4 +1,4 @@
-# [ILoggerObject](./ILoggerObject.md)
+# <sub>[ILoggerObject](./ILoggerObject.md)</sub>
 
 Namespace: [SigStat]() > [Common](./README.md)
 
@@ -11,6 +11,6 @@ Represents a type, that contains an ILogger property that can be used to perform
 
 | Type | Name | Summary | 
 
-[ILogger](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger)<sub>Logger</sub><sub>Gets or sets the ILogger implementation used to perform logging</sub>
+<sub>[ILogger](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger)</sub><sub>Logger</sub><sub>Gets or sets the ILogger implementation used to perform logging</sub>
 
 

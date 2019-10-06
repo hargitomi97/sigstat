@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../../README.md) > [PipelineItems]() >
 
 Assembly: SigStat.Common.dll
 
-<sub>[GetValue](./IInterpolation-100663760.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) timestamp )</sub>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub>Gets the interpolated value at a given timestamp</sub>
+<sub>[GetValue](./IInterpolation-100663760.md) ( <sub>[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub> timestamp )</sub>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub>Gets the interpolated value at a given timestamp</sub>

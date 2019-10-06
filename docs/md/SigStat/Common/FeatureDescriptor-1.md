@@ -1,4 +1,4 @@
-# [FeatureDescriptor](./FeatureDescriptor-1.md)\<[T](./FeatureDescriptor-1.md)>
+# <sub>[FeatureDescriptor](./FeatureDescriptor-1.md)</sub>\<<sub>[T](./FeatureDescriptor-1.md)</sub>>
 
 Namespace: [SigStat]() > [Common](./README.md)
 
@@ -11,6 +11,6 @@ Represents a feature with the type `T`
 
 | Return | Name | Summary | 
 
-[FeatureDescriptor](./FeatureDescriptor-1.md)\<[T](./FeatureDescriptor-1.md)><sub>[Get](./Methods/FeatureDescriptor`1-100663422.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><sub></sub>
+<sub>[FeatureDescriptor](./FeatureDescriptor-1.md)</sub>\<<sub>[T](./FeatureDescriptor-1.md)</sub>><sub>[Get](./Methods/FeatureDescriptor`1-100663422.md) ( <sub>[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub> )</sub><sub></sub>
 
 

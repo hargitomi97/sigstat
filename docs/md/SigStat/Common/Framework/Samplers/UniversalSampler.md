@@ -1,4 +1,4 @@
-# [UniversalSampler](./UniversalSampler.md)
+# <sub>[UniversalSampler](./UniversalSampler.md)</sub>
 
 Namespace: [SigStat]() > [Common](./../../README.md) > [Framework]() > [Samplers](./README.md)
 
@@ -11,14 +11,14 @@ Selects a given number of signatures for training and testing
 
 | Name | Summary | 
 
-UniversalSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )<sub>Constructor</sub>
+UniversalSampler ( <sub>[`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub>, <sub>[`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub> )<sub>Constructor</sub>
 
 
 ## Properties
 
 | Type | Name | Summary | 
 
-[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<sub>TestCount</sub><sub>Count of signatures to use for testing</sub>
-[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<sub>TrainingCount</sub><sub>Count of signatures to use for training</sub>
+<sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub><sub>TestCount</sub><sub>Count of signatures to use for testing</sub>
+<sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub><sub>TrainingCount</sub><sub>Count of signatures to use for training</sub>
 
 

@@ -1,10 +1,10 @@
-# [SimpleRenderingTransformation](./SimpleRenderingTransformation.md)
+# <sub>[SimpleRenderingTransformation](./SimpleRenderingTransformation.md)</sub>
 
 Namespace: [SigStat]() > [Common](./README.md)
 
 Assembly: SigStat.Common.dll
 
-Implements [ILoggerObject](./ILoggerObject.md), [IProgress](./Helpers/IProgress.md), [IPipelineIO](./Pipeline/IPipelineIO.md), [ITransformation](./ITransformation.md)
+Implements <sub>[ILoggerObject](./ILoggerObject.md)</sub>, <sub>[IProgress](./Helpers/IProgress.md)</sub>, <sub>[IPipelineIO](./Pipeline/IPipelineIO.md)</sub>, <sub>[ITransformation](./ITransformation.md)</sub>
 
 ## Summary
 Renders an image of the signature based on the available online information (X,Y,Dpi)
@@ -20,6 +20,6 @@ SimpleRenderingTransformation (  )<sub></sub>
 
 | Return | Name | Summary | 
 
-[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[Transform](./Methods/SimpleRenderingTransformation-100663459.md) ( [`Signature`](./Signature.md) )</sub><sub></sub>
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[Transform](./Methods/SimpleRenderingTransformation-100663459.md) ( <sub>[`Signature`](./Signature.md)</sub> )</sub><sub></sub>
 
 

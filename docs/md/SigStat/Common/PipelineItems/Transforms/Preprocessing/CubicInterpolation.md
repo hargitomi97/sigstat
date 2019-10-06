@@ -1,10 +1,10 @@
-# [CubicInterpolation](./CubicInterpolation.md)
+# <sub>[CubicInterpolation](./CubicInterpolation.md)</sub>
 
 Namespace: [SigStat]() > [Common](./../../../README.md) > [PipelineItems]() > [Transforms]() > [Preprocessing](./README.md)
 
 Assembly: SigStat.Common.dll
 
-Implements [IInterpolation](./IInterpolation.md)
+Implements <sub>[IInterpolation](./IInterpolation.md)</sub>
 
 ## Summary
 Cubic interpolation algorithm
@@ -20,14 +20,14 @@ CubicInterpolation (  )<sub></sub>
 
 | Type | Name | Summary | 
 
-[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)><sub>FeatureValues</sub><sub>FeatureValues</sub>
-[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)><sub>TimeValues</sub><sub>TimeValues</sub>
+<sub>[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)</sub>\<<sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub>><sub>FeatureValues</sub><sub>FeatureValues</sub>
+<sub>[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)</sub>\<<sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub>><sub>TimeValues</sub><sub>TimeValues</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
 
-[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)<sub>[GetValue](./Methods/CubicInterpolation-100663727.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><sub>Gets the value.</sub>
+<sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub><sub>[GetValue](./Methods/CubicInterpolation-100663727.md) ( <sub>[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub> )</sub><sub>Gets the value.</sub>
 
 

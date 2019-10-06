@@ -1,4 +1,4 @@
-# [FirstNSampler](./FirstNSampler.md)
+# <sub>[FirstNSampler](./FirstNSampler.md)</sub>
 
 Namespace: [SigStat]() > [Common](./../../README.md) > [Framework]() > [Samplers](./README.md)
 
@@ -11,13 +11,13 @@ Selects the first N signatures for training
 
 | Name | Summary | 
 
-FirstNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )<sub>Constructor</sub>
+FirstNSampler ( <sub>[`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub> )<sub>Constructor</sub>
 
 
 ## Properties
 
 | Type | Name | Summary | 
 
-[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<sub>N</sub><sub>Count of signatures used for training</sub>
+<sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub><sub>N</sub><sub>Count of signatures used for training</sub>
 
 

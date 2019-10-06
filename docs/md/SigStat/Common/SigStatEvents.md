@@ -1,4 +1,4 @@
-# [SigStatEvents](./SigStatEvents.md)
+# <sub>[SigStatEvents](./SigStatEvents.md)</sub>
 
 Namespace: [SigStat]() > [Common](./README.md)
 
@@ -11,7 +11,7 @@ Standard event identifiers used by the SigStat system
 
 | Type | Name | Summary | 
 
-[EventId](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.EventId)<sub>BenchmarkEvent</sub><sub>Events originating from a benchmark</sub>
-[EventId](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.EventId)<sub>VerifierEvent</sub><sub>Events originating from a verifier</sub>
+<sub>[EventId](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.EventId)</sub><sub>BenchmarkEvent</sub><sub>Events originating from a benchmark</sub>
+<sub>[EventId](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.EventId)</sub><sub>VerifierEvent</sub><sub>Events originating from a verifier</sub>
 
 

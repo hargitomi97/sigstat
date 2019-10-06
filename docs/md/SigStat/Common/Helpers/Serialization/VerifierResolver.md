@@ -1,10 +1,10 @@
-# [VerifierResolver](./VerifierResolver.md)
+# <sub>[VerifierResolver](./VerifierResolver.md)</sub>
 
 Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md) > [Serialization](./README.md)
 
 Assembly: SigStat.Common.dll
 
-Implements [IContractResolver](./VerifierResolver.md)
+Implements <sub>[IContractResolver](./VerifierResolver.md)</sub>
 
 ## Summary
 Custom resolver for customizing the json serialization

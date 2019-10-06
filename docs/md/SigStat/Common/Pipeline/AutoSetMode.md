@@ -1,4 +1,4 @@
-# [AutoSetMode](./AutoSetMode.md)
+# <sub>[AutoSetMode](./AutoSetMode.md)</sub>
 Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 
 Assembly: SigStat.Common.dll
