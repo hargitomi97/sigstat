@@ -9,15 +9,15 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 | --- | --- | 
-| NetCoreFeatureDescriptorConverter (  )<div style="width: 300px">| <div style="width: 300px">| <br>
+| NetCoreFeatureDescriptorConverter (  )<div style="width: 400px">| <div style="width: 400px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [CanConvert](./Methods/NetCoreFeatureDescriptorConverter-100664068.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )<div style="width: 300px">| <div style="width: 300px">| <br>
-| [Read](./Methods/NetCoreFeatureDescriptorConverter-100664069.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )<div style="width: 300px">| <div style="width: 300px">| <br>
-| [Write](./Methods/NetCoreFeatureDescriptorConverter-100664070.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`FeatureDescriptor`](./../../FeatureDescriptor.md), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )<div style="width: 300px">| <div style="width: 300px">| <br>
+| [CanConvert](./Methods/NetCoreFeatureDescriptorConverter-100664068.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )<div style="width: 400px">| <div style="width: 400px">| <br>
+| [Read](./Methods/NetCoreFeatureDescriptorConverter-100664069.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )<div style="width: 400px">| <div style="width: 400px">| <br>
+| [Write](./Methods/NetCoreFeatureDescriptorConverter-100664070.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`FeatureDescriptor`](./../../FeatureDescriptor.md), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )<div style="width: 400px">| <div style="width: 400px">| <br>
 
 

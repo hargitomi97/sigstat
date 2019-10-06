@@ -11,6 +11,6 @@ Represents a feature with the type `T`
 
 | Name | Summary | 
 | --- | --- | 
-| [Get](./Methods/FeatureDescriptor`1-100663422.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )<div style="width: 300px">| <div style="width: 300px">| <br>
+| [Get](./Methods/FeatureDescriptor`1-100663422.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )<div style="width: 400px">| <div style="width: 400px">| <br>
 
 

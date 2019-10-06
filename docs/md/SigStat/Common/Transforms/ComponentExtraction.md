@@ -13,23 +13,23 @@ Extracts unsorted components by tracing through the binary Skeleton raster.  <br
 
 | Name | Summary | 
 | --- | --- | 
-| ComponentExtraction ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )<div style="width: 300px">| Initializes a new instance of the [Transforms.ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution.<div style="width: 300px">| <br>
+| ComponentExtraction ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )<div style="width: 400px">| Initializes a new instance of the [Transforms.ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution.<div style="width: 400px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| CrossingPoints<div style="width: 300px">| crossing points<div style="width: 300px">| <br>
-| EndPoints<div style="width: 300px">| endpoints<div style="width: 300px">| <br>
-| OutputComponents<div style="width: 300px">| Output components<div style="width: 300px">| <br>
-| Skeleton<div style="width: 300px">| binary representation of a signature image<div style="width: 300px">| <br>
+| CrossingPoints<div style="width: 400px">| crossing points<div style="width: 400px">| <br>
+| EndPoints<div style="width: 400px">| endpoints<div style="width: 400px">| <br>
+| OutputComponents<div style="width: 400px">| Output components<div style="width: 400px">| <br>
+| Skeleton<div style="width: 400px">| binary representation of a signature image<div style="width: 400px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [Transform](./Methods/ComponentExtraction-100663565.md) ( [`Signature`](./../Signature.md) )<div style="width: 300px">| <div style="width: 300px">| <br>
+| [Transform](./Methods/ComponentExtraction-100663565.md) ( [`Signature`](./../Signature.md) )<div style="width: 400px">| <div style="width: 400px">| <br>
 
 

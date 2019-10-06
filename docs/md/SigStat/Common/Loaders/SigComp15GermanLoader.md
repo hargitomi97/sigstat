@@ -13,28 +13,28 @@ Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerOb
 
 | Name | Summary | 
 | --- | --- | 
-| SigComp15GermanLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )<div style="width: 300px">| Initializes a new instance of the [Loaders.SigComp15GermanLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp15GermanLoader.md) class.<div style="width: 300px">| <br>
+| SigComp15GermanLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )<div style="width: 400px">| Initializes a new instance of the [Loaders.SigComp15GermanLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp15GermanLoader.md) class.<div style="width: 400px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| DatabasePath<div style="width: 300px">| Gets or sets the database path.<div style="width: 300px">| <br>
-| StandardFeatures<div style="width: 300px">| Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)<div style="width: 300px">| <br>
+| DatabasePath<div style="width: 400px">| Gets or sets the database path.<div style="width: 400px">| <br>
+| StandardFeatures<div style="width: 400px">| Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)<div style="width: 400px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [EnumerateSigners](./Methods/SigComp15GermanLoader-100663923.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )<div style="width: 300px">| <div style="width: 300px">| <br>
+| [EnumerateSigners](./Methods/SigComp15GermanLoader-100663923.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )<div style="width: 400px">| <div style="width: 400px">| <br>
 
 
 ## Static Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [LoadSignature](./Methods/SigComp15GermanLoader-100663924.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )<div style="width: 300px">| Loads one signature from specified stream.<div style="width: 300px">| <br>
+| [LoadSignature](./Methods/SigComp15GermanLoader-100663924.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )<div style="width: 400px">| Loads one signature from specified stream.<div style="width: 400px">| <br>
 
 

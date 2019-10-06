@@ -13,23 +13,23 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 
 | Name | Summary | 
 | --- | --- | 
-| Scale (  )<div style="width: 300px">| <div style="width: 300px">| <br>
+| Scale (  )<div style="width: 400px">| <div style="width: 400px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| InputFeature<div style="width: 300px">| Gets or sets the input feature.<div style="width: 300px">| <br>
-| NewMaxValue<div style="width: 300px">| <br>NewMaxValue: upper bound of the interval, in which the input feature will be scaled<div style="width: 300px">| <br>
-| NewMinValue<div style="width: 300px">| <br>NewMinValue: lower bound of the interval, in which the input feature will be scaled<div style="width: 300px">| <br>
-| OutputFeature<div style="width: 300px">| Gets or sets the output feature.<div style="width: 300px">| <br>
+| InputFeature<div style="width: 400px">| Gets or sets the input feature.<div style="width: 400px">| <br>
+| NewMaxValue<div style="width: 400px">| <br>NewMaxValue: upper bound of the interval, in which the input feature will be scaled<div style="width: 400px">| <br>
+| NewMinValue<div style="width: 400px">| <br>NewMinValue: lower bound of the interval, in which the input feature will be scaled<div style="width: 400px">| <br>
+| OutputFeature<div style="width: 400px">| Gets or sets the output feature.<div style="width: 400px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [Transform](./Methods/Scale-100663813.md) ( [`Signature`](./../../../Signature.md) )<div style="width: 300px">| <div style="width: 300px">| <br>
+| [Transform](./Methods/Scale-100663813.md) ( [`Signature`](./../../../Signature.md) )<div style="width: 400px">| <div style="width: 400px">| <br>
 
 

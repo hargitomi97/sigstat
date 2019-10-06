@@ -13,23 +13,23 @@ Extracts standard [Features](https://github.com/hargitomi97/sigstat/blob/master/
 
 | Name | Summary | 
 | --- | --- | 
-| ComponentsToFeatures (  )<div style="width: 300px">| <div style="width: 300px">| <br>
+| ComponentsToFeatures (  )<div style="width: 400px">| <div style="width: 400px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| Button<div style="width: 300px">| Button<div style="width: 300px">| <br>
-| InputComponents<div style="width: 300px">| Components<div style="width: 300px">| <br>
-| X<div style="width: 300px">| X<div style="width: 300px">| <br>
-| Y<div style="width: 300px">| Y<div style="width: 300px">| <br>
+| Button<div style="width: 400px">| Button<div style="width: 400px">| <br>
+| InputComponents<div style="width: 400px">| Components<div style="width: 400px">| <br>
+| X<div style="width: 400px">| X<div style="width: 400px">| <br>
+| Y<div style="width: 400px">| Y<div style="width: 400px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [Transform](./Methods/ComponentsToFeatures-100663580.md) ( [`Signature`](./../Signature.md) )<div style="width: 300px">| <div style="width: 300px">| <br>
+| [Transform](./Methods/ComponentsToFeatures-100663580.md) ( [`Signature`](./../Signature.md) )<div style="width: 400px">| <div style="width: 400px">| <br>
 
 

@@ -11,17 +11,17 @@ Represents an input for a [Pipeline.PipelineInput.PipelineItem](https://github.c
 
 | Name | Summary | 
 | --- | --- | 
-| PipelineInput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )<div style="width: 300px">| Initializes a new instance of the [Pipeline.PipelineInput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineInput.md) class.<div style="width: 300px">| <br>
+| PipelineInput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )<div style="width: 400px">| Initializes a new instance of the [Pipeline.PipelineInput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineInput.md) class.<div style="width: 400px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| AutoSetMode<div style="width: 300px">| Gets the AutoSetMode<div style="width: 300px">| <br>
-| FD<div style="width: 300px">| Gets or sets the fd.<div style="width: 300px">| <br>
-| IsCollectionOfFeatureDescriptors<div style="width: 300px">| Gets a value indicating whether this instance is collection of feature descriptors.<div style="width: 300px">| <br>
-| PropName<div style="width: 300px">| Gets the name of the property.<div style="width: 300px">| <br>
-| Type<div style="width: 300px">| Gets the type of the property<div style="width: 300px">| <br>
+| AutoSetMode<div style="width: 400px">| Gets the AutoSetMode<div style="width: 400px">| <br>
+| FD<div style="width: 400px">| Gets or sets the fd.<div style="width: 400px">| <br>
+| IsCollectionOfFeatureDescriptors<div style="width: 400px">| Gets a value indicating whether this instance is collection of feature descriptors.<div style="width: 400px">| <br>
+| PropName<div style="width: 400px">| Gets the name of the property.<div style="width: 400px">| <br>
+| Type<div style="width: 400px">| Gets the type of the property<div style="width: 400px">| <br>
 
 

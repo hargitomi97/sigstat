@@ -13,6 +13,6 @@ Trains classification models based on reference signatures, by calculating the d
 
 | Name | Summary | 
 | --- | --- | 
-| DistanceFunction<div style="width: 300px">| A function to calculate the distance between two online signature points<div style="width: 300px">| <br>
+| DistanceFunction<div style="width: 400px">| A function to calculate the distance between two online signature points<div style="width: 400px">| <br>
 
 
