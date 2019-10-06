@@ -31,8 +31,8 @@ TypeNameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[Transform](./Methods/UniformScale-100663843.md) ( [`Signature`](./../../../Signature.md) )</sub><br><sub></sub><br><br>
+<sub>[Transform](./Methods/UniformScale-100663843.md) ( [`Signature`](./../../../Signature.md) )</sub><br><sub></sub><br>
 
 

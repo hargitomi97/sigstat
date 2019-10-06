@@ -26,8 +26,8 @@ TypeNameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[Transform](./Methods/AddVector-100663609.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br><br>
+<sub>[Transform](./Methods/AddVector-100663609.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br>
 
 

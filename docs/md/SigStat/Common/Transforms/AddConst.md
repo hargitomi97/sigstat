@@ -26,8 +26,8 @@ TypeNameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[Transform](./Methods/AddConst-100663603.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br><br>
+<sub>[Transform](./Methods/AddConst-100663603.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br>
 
 

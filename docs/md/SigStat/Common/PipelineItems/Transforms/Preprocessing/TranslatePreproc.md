@@ -29,8 +29,8 @@ TypeNameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[Transform](./Methods/TranslatePreproc-100663825.md) ( [`Signature`](./../../../Signature.md) )</sub><br><sub></sub><br><br>
+<sub>[Transform](./Methods/TranslatePreproc-100663825.md) ( [`Signature`](./../../../Signature.md) )</sub><br><sub></sub><br>
 
 

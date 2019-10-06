@@ -18,8 +18,8 @@ NameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[Transform](./Methods/RealisticImageGenerator-100663699.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br><br>
+<sub>[Transform](./Methods/RealisticImageGenerator-100663699.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br>
 
 

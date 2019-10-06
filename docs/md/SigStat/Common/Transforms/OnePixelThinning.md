@@ -26,8 +26,8 @@ TypeNameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[Transform](./Methods/OnePixelThinning-100663682.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br><br>
+<sub>[Transform](./Methods/OnePixelThinning-100663682.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br>
 
 

@@ -26,8 +26,8 @@ TypeNameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[GetValue](./Methods/CubicInterpolation-100663727.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><br><sub>Gets the value.</sub><br><br>
+<sub>[GetValue](./Methods/CubicInterpolation-100663727.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><br><sub>Gets the value.</sub><br>
 
 

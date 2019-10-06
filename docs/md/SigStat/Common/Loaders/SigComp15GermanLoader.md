@@ -26,9 +26,9 @@ TypeNameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[EnumerateSigners](./Methods/SigComp15GermanLoader-100663923.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><br><sub></sub><br><br>
+<sub>[EnumerateSigners](./Methods/SigComp15GermanLoader-100663923.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><br><sub></sub><br>
 
 
 ## Static Methods

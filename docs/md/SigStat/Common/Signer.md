@@ -24,8 +24,8 @@ TypeNameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[ToString](./Methods/Signer-100663452.md) (  )</sub><br><sub>Returns a string representation of a Signer</sub><br><br>
+<sub>[ToString](./Methods/Signer-100663452.md) (  )</sub><br><sub>Returns a string representation of a Signer</sub><br>
 
 

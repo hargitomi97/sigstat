@@ -16,9 +16,9 @@ NameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[Match](./Methods/PatternMatching3x3-100664165.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><br><sub>Match the 3x3 input with the 3x3 pattern.</sub><br><br>
-<sub>[RotMatch](./Methods/PatternMatching3x3-100664166.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><br><sub>Match the 3x3 input with the 3x3 pattern from all 4 directions.</sub><br><br>
+<sub>[Match](./Methods/PatternMatching3x3-100664165.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><br><sub>Match the 3x3 input with the 3x3 pattern.</sub><br>
+<sub>[RotMatch](./Methods/PatternMatching3x3-100664166.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><br><sub>Match the 3x3 input with the 3x3 pattern from all 4 directions.</sub><br>
 
 

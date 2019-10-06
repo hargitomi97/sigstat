@@ -24,9 +24,9 @@ TypeNameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[Compute](./Methods/Dtw-100664150.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )</sub><br><sub></sub><br><br>
-<sub>[Distance](./Methods/Dtw-100664151.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )</sub><br><sub>Calculates distance between two points.  Distance method can be set in ctor.</sub><br><br>
+<sub>[Compute](./Methods/Dtw-100664150.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )</sub><br><sub></sub><br>
+<sub>[Distance](./Methods/Dtw-100664151.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )</sub><br><sub>Calculates distance between two points.  Distance method can be set in ctor.</sub><br>
 
 

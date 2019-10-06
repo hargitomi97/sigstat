@@ -23,9 +23,9 @@ TypeNameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[ContainsKey](./Methods/DistanceMatrix`3-100663394.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md) )</sub><br><sub></sub><br><br>
-<sub>[TryGetValue](./Methods/DistanceMatrix`3-100663393.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md), out [`TValue`](./DistanceMatrix-3.md) )</sub><br><sub></sub><br><br>
+<sub>[ContainsKey](./Methods/DistanceMatrix`3-100663394.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md) )</sub><br><sub></sub><br>
+<sub>[TryGetValue](./Methods/DistanceMatrix`3-100663393.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md), out [`TValue`](./DistanceMatrix-3.md) )</sub><br><sub></sub><br>
 
 

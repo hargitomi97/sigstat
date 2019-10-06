@@ -23,8 +23,8 @@ TypeNameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[Scan](./Methods/HSCPThinningStep-100664156.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><br><sub>Does one step of the thinning. Call it iteratively while ResultChanged.</sub><br><br>
+<sub>[Scan](./Methods/HSCPThinningStep-100664156.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><br><sub>Does one step of the thinning. Call it iteratively while ResultChanged.</sub><br>
 
 

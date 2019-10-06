@@ -26,8 +26,8 @@ TypeNameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[ToString](./Methods/Loop-100663342.md) (  )</sub><br><sub>Returns a string representation of the loop</sub><br><br>
+<sub>[ToString](./Methods/Loop-100663342.md) (  )</sub><br><sub>Returns a string representation of the loop</sub><br>
 
 

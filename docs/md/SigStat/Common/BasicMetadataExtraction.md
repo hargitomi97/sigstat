@@ -18,9 +18,9 @@ NameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[Transform](./Methods/BasicMetadataExtraction-100663456.md) ( [`Signature`](./Signature.md) )</sub><br><sub></sub><br><br>
+<sub>[Transform](./Methods/BasicMetadataExtraction-100663456.md) ( [`Signature`](./Signature.md) )</sub><br><sub></sub><br>
 
 
 ## Static Properties

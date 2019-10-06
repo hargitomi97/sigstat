@@ -29,8 +29,8 @@ TypeNameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )</sub><br><sub></sub><br><br>
+<sub>[Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )</sub><br><sub></sub><br>
 
 

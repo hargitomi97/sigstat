@@ -17,8 +17,8 @@ TypeNameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[GetValue](./Methods/IInterpolation-100663760.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><br><sub>Gets the interpolated value at a given timestamp</sub><br><br>
+<sub>[GetValue](./Methods/IInterpolation-100663760.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><br><sub>Gets the interpolated value at a given timestamp</sub><br>
 
 

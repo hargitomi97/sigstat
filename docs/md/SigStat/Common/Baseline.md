@@ -23,8 +23,8 @@ TypeNameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[ToString](./Methods/Baseline-100663332.md) (  )</sub><br><sub>Returns a string representation of the baseline</sub><br><br>
+<sub>[ToString](./Methods/Baseline-100663332.md) (  )</sub><br><sub>Returns a string representation of the baseline</sub><br>
 
 

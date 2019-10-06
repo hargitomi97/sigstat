@@ -19,9 +19,9 @@ TypeNameSummary
 
 ## Methods
 
-ReturnNameSummary
+NameSummary
 
-<sub>[ToString](./Methods/FeatureDescriptor-100663418.md) (  )</sub><br><sub>Returns a string represenatation of the FeatureDescriptor</sub><br><br>
+<sub>[ToString](./Methods/FeatureDescriptor-100663418.md) (  )</sub><br><sub>Returns a string represenatation of the FeatureDescriptor</sub><br>
 
 
 ## Static Methods
