@@ -10,12 +10,12 @@ Predefined color schemes for Excel
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Primary<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Primary color<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| 1<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Secondary<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Secondary color<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| 2<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Succes<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Succes color<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| 3<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Danger<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Danger color<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| 4<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Warning<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Warning color<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| 5<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Info<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Info color<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| 6<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Transparent<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Transparent color<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| 0<img width=200 unselectable="on"/>  | Primary<img width=200 unselectable="on"/>  | Primary color<img width=200 unselectable="on"/>  | <br>
+| 1<img width=200 unselectable="on"/>  | Secondary<img width=200 unselectable="on"/>  | Secondary color<img width=200 unselectable="on"/>  | <br>
+| 2<img width=200 unselectable="on"/>  | Succes<img width=200 unselectable="on"/>  | Succes color<img width=200 unselectable="on"/>  | <br>
+| 3<img width=200 unselectable="on"/>  | Danger<img width=200 unselectable="on"/>  | Danger color<img width=200 unselectable="on"/>  | <br>
+| 4<img width=200 unselectable="on"/>  | Warning<img width=200 unselectable="on"/>  | Warning color<img width=200 unselectable="on"/>  | <br>
+| 5<img width=200 unselectable="on"/>  | Info<img width=200 unselectable="on"/>  | Info color<img width=200 unselectable="on"/>  | <br>
+| 6<img width=200 unselectable="on"/>  | Transparent<img width=200 unselectable="on"/>  | Transparent color<img width=200 unselectable="on"/>  | <br>
 
 

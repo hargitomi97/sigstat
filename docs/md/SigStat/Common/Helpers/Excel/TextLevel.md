@@ -10,10 +10,10 @@ Paragraph style setting
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Title<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Main title<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| 1<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Heading1<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Level 1 heading<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| 2<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Heading2<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Level 2 heading<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| 3<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Heading3<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Level 3 heading<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| 4<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Normal<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Normal document body style<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| 0<img width=200 unselectable="on"/>  | Title<img width=200 unselectable="on"/>  | Main title<img width=200 unselectable="on"/>  | <br>
+| 1<img width=200 unselectable="on"/>  | Heading1<img width=200 unselectable="on"/>  | Level 1 heading<img width=200 unselectable="on"/>  | <br>
+| 2<img width=200 unselectable="on"/>  | Heading2<img width=200 unselectable="on"/>  | Level 2 heading<img width=200 unselectable="on"/>  | <br>
+| 3<img width=200 unselectable="on"/>  | Heading3<img width=200 unselectable="on"/>  | Level 3 heading<img width=200 unselectable="on"/>  | <br>
+| 4<img width=200 unselectable="on"/>  | Normal<img width=200 unselectable="on"/>  | Normal document body style<img width=200 unselectable="on"/>  | <br>
 
 
