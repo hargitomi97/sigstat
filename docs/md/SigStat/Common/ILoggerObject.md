@@ -9,8 +9,8 @@ Represents a type, that contains an ILogger property that can be used to perform
 
 ## Properties
 
-TypeNameSummary
+NameSummary
 
-<sub>Logger</sub><br><sub>Gets or sets the ILogger implementation used to perform logging</sub><br><br>
+<sub>Logger</sub><sub>Gets or sets the ILogger implementation used to perform logging</sub><br>
 
 
