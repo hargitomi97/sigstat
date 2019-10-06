@@ -18,7 +18,7 @@ RealisticImageGenerator ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Transform](./Methods/RealisticImageGenerator-100663699.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

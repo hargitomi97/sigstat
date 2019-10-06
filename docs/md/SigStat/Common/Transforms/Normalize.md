@@ -26,7 +26,7 @@ Normalize (  )<sub></sub>
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Transform](./Methods/Normalize-100663634.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

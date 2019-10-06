@@ -27,7 +27,7 @@ OptimalDtwClassifier ( [Func](https://docs.microsoft.com/en-us/dotnet/api/System
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Test](./Methods/OptimalDtwClassifier-100663867.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub><sub></sub>
 <sub>[Train](./Methods/OptimalDtwClassifier-100663865.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub><sub></sub>

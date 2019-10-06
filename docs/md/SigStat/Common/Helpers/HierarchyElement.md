@@ -27,7 +27,7 @@ HierarchyElement ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Add](./Methods/HierarchyElement-100664010.md) ( [`HierarchyElement`](./HierarchyElement.md) )</sub><sub></sub>
 <sub>[GetCount](./Methods/HierarchyElement-100664012.md) (  )</sub><sub>Returns number of elements under this node and itself</sub>

@@ -28,7 +28,7 @@ DtwClassifier ( [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Test](./Methods/DtwClassifier-100663857.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub><sub></sub>
 <sub>[Train](./Methods/DtwClassifier-100663856.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub><sub></sub>

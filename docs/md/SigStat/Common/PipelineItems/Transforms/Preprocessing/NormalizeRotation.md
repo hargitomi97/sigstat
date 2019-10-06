@@ -29,7 +29,7 @@ NormalizeRotation (  )<sub></sub>
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub>
 

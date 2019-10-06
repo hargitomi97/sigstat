@@ -26,7 +26,7 @@ AddVector ( [`FeatureDescriptor`](./../FeatureDescriptor-1.md)\<[`List`](https:/
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Transform](./Methods/AddVector-100663609.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

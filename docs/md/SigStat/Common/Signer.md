@@ -24,7 +24,7 @@ Signer (  )<sub></sub>
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[ToString](./Methods/Signer-100663452.md) (  )</sub><sub>Returns a string representation of a Signer</sub>
 

@@ -26,7 +26,7 @@ Loop ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single), [`
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[ToString](./Methods/Loop-100663342.md) (  )</sub><sub>Returns a string representation of the loop</sub>
 

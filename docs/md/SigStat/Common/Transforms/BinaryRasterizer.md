@@ -28,7 +28,7 @@ BinaryRasterizer ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Transform](./Methods/BinaryRasterizer-100663654.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

@@ -26,7 +26,7 @@ Trim ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )<sub
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Transform](./Methods/Trim-100663722.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

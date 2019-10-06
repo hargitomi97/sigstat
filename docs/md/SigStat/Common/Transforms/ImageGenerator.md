@@ -31,7 +31,7 @@ ImageGenerator ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Transform](./Methods/ImageGenerator-100663677.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

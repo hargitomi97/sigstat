@@ -26,7 +26,7 @@ Multiply ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Transform](./Methods/Multiply-100663629.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

@@ -16,7 +16,7 @@ SerializationHelper (  )<sub></sub>
 
 ## Static Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Deserialize](./Methods/SerializationHelper-100664028.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><sub>Constructs object from strings that were serialized previously</sub>
 <sub>[DeserializeFromFile](./Methods/SerializationHelper-100664029.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><sub>Constructs object from file given by a path</sub>

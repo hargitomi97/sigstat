@@ -14,7 +14,7 @@ NetCoreSerializationHelper (  )<sub></sub>
 
 ## Static Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Deserialize](./Methods/NetCoreSerializationHelper-100664081.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><sub></sub>
 <sub>[DeserializeFromFile](./Methods/NetCoreSerializationHelper-100664084.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><sub></sub>

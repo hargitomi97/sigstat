@@ -29,7 +29,7 @@ TranslatePreproc ( [`OriginType`](./OriginType.md) )<sub>Initializes a new insta
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Transform](./Methods/TranslatePreproc-100663825.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub>
 

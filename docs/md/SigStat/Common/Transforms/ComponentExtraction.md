@@ -28,7 +28,7 @@ ComponentExtraction ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/Syst
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Transform](./Methods/ComponentExtraction-100663565.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

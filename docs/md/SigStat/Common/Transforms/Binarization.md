@@ -27,7 +27,7 @@ Binarization ( [`ForegroundType`](./Binarization.md), [`Nullable`](https://docs.
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Transform](./Methods/Binarization-100663642.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

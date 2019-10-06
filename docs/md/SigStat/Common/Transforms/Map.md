@@ -26,7 +26,7 @@ Map ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`D
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Transform](./Methods/Map-100663623.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

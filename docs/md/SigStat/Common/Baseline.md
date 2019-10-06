@@ -23,7 +23,7 @@ Baseline ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), 
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[ToString](./Methods/Baseline-100663332.md) (  )</sub><sub>Returns a string representation of the baseline</sub>
 

@@ -33,7 +33,7 @@ SequentialTransformPipeline (  )<sub></sub>
 
 ## Methods
 
-| Return | Name | Summary | 
+|  | Name | Summary | 
 
 <sub>[Add](./Methods/SequentialTransformPipeline-100663508.md) ( [`ITransformation`](./../ITransformation.md) )</sub><sub>Add new transform to the list.</sub>
 <sub>[GetEnumerator](./Methods/SequentialTransformPipeline-100663507.md) (  )</sub><sub></sub>
