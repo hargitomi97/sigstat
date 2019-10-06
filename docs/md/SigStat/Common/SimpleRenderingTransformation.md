@@ -11,14 +11,14 @@ Renders an image of the signature based on the available online information (X,Y
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 SimpleRenderingTransformation (  )<sub></sub>
 
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/SimpleRenderingTransformation-100663459.md) ( [`Signature`](./Signature.md) )</sub><sub></sub>
 

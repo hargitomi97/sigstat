@@ -11,14 +11,14 @@ Extracts tangent values of the standard X, Y [Features](https://github.com/hargi
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 TangentExtraction (  )<sub></sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>OutputTangent</sub><sub>Gets or sets the output feature representing the tangent angles of an online signature</sub>
 <sub>X</sub><sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>
@@ -27,7 +27,7 @@ TangentExtraction (  )<sub></sub>
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/TangentExtraction-100663596.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

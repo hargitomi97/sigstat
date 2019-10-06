@@ -11,21 +11,21 @@ Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the 
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 ParallelTransformPipeline (  )<sub></sub>
 
 
 ## Fields
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Items</sub><sub>List of transforms to be run parallel.</sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>PipelineInputs</sub><sub>Gets the pipeline inputs.</sub>
 <sub>PipelineOutputs</sub><sub>Gets the pipeline outputs.</sub>
@@ -33,7 +33,7 @@ ParallelTransformPipeline (  )<sub></sub>
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Add](./Methods/ParallelTransformPipeline-100663502.md) ( [`ITransformation`](./../ITransformation.md) )</sub><sub>Add new transform to the list.</sub>
 <sub>[GetEnumerator](./Methods/ParallelTransformPipeline-100663501.md) (  )</sub><sub></sub>

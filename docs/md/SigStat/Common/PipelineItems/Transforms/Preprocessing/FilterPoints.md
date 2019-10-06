@@ -11,14 +11,14 @@ Removes samples based on a criteria from online signature time series
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 FilterPoints (  )<sub></sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>InputFeatures</sub><sub>[FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) list of all features to resample</sub>
 <sub>KeyFeatureInput</sub><sub>[FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) that controls the removal of samples (e.g. [Features.Pressure](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md))</sub>
@@ -29,7 +29,7 @@ FilterPoints (  )<sub></sub>
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/FilterPoints-100663753.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub>
 

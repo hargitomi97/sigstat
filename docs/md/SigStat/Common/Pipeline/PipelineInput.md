@@ -9,14 +9,14 @@ Represents an input for a [Pipeline.PipelineInput.PipelineItem](https://github.c
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 PipelineInput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )<sub>Initializes a new instance of the [Pipeline.PipelineInput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineInput.md) class.</sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>AutoSetMode</sub><sub>Gets the AutoSetMode</sub>
 <sub>FD</sub><sub>Gets or sets the fd.</sub>

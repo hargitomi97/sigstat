@@ -8,7 +8,7 @@ Default strategy to set the value of a property
 
 ##	Enum
 
-| Value | Name | Summary | 
+ValueNameSummary
 
 0IfNullSet the value if it is null
 1AlwaysAlways set the value

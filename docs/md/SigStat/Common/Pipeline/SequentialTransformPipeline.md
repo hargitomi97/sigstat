@@ -11,21 +11,21 @@ Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the l
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 SequentialTransformPipeline (  )<sub></sub>
 
 
 ## Fields
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Items</sub><sub>List of transforms to be run in sequence.</sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>PipelineInputs</sub><sub>Gets the pipeline inputs.</sub>
 <sub>PipelineOutputs</sub><sub>Gets the pipeline outputs.</sub>
@@ -33,7 +33,7 @@ SequentialTransformPipeline (  )<sub></sub>
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Add](./Methods/SequentialTransformPipeline-100663508.md) ( [`ITransformation`](./../ITransformation.md) )</sub><sub>Add new transform to the list.</sub>
 <sub>[GetEnumerator](./Methods/SequentialTransformPipeline-100663507.md) (  )</sub><sub></sub>

@@ -8,7 +8,7 @@ Origin specification for [PipelineItems.Transforms.Preprocessing.TranslatePrepro
 
 ##	Enum
 
-| Value | Name | Summary | 
+ValueNameSummary
 
 0CenterOfGravityCenter of gravity
 1MinimumMinimum

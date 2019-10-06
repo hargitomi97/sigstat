@@ -11,14 +11,14 @@ This transformation will fill "holes" in the "Time" feature by interpolating the
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 FillPenUpDurations (  )<sub></sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>InputFeatures</sub><sub>Gets or sets the features of an online signature that need to be altered</sub>
 <sub>InterpolationType</sub><sub>An implementation of [PipelineItems.Transforms.Preprocessing.IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md)</sub>
@@ -29,7 +29,7 @@ FillPenUpDurations (  )<sub></sub>
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/FillPenUpDurations-100663739.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub>
 

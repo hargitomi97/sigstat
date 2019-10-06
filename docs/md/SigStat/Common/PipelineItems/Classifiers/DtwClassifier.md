@@ -11,7 +11,7 @@ Classifies Signatures with the [Algorithms.Dtw](https://github.com/hargitomi97/s
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 DtwClassifier (  )<sub>Initializes a new instance of the [PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md) class with the default Manhattan distance method.</sub>
 DtwClassifier ( [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )<sub>Initializes a new instance of the [PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md) class with a specified distance method.</sub>
@@ -19,7 +19,7 @@ DtwClassifier ( [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>DistanceFunction</sub><sub>The function used to calculate the distance between two data points during DTW calculation</sub>
 <sub>Features</sub><sub>Gets or sets the features to consider during distance calculation</sub>
@@ -28,7 +28,7 @@ DtwClassifier ( [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Test](./Methods/DtwClassifier-100663857.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub><sub></sub>
 <sub>[Train](./Methods/DtwClassifier-100663856.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub><sub></sub>

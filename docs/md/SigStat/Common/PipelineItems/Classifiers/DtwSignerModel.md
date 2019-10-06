@@ -11,14 +11,14 @@ Represents a trained model for [PipelineItems.Classifiers.DtwClassifier](https:/
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 DtwSignerModel (  )<sub></sub>
 
 
 ## Fields
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>DistanceMatrix</sub><sub>DTW distance matrix of the genuine signatures</sub>
 <sub>Threshold</sub><sub>A threshold, that will be used for classification. Signatures with  an average DTW distance from the genuines above this threshold will  be classified as forgeries</sub>
@@ -26,7 +26,7 @@ DtwSignerModel (  )<sub></sub>
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>GenuineSignatures</sub><sub>A list a of genuine signatures used for training</sub>
 

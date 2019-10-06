@@ -11,14 +11,14 @@ Sorts Component order by comparing each starting X value, and finding nearest co
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 ComponentSorter (  )<sub></sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Input</sub><sub>Gets or sets the input.</sub>
 <sub>Output</sub><sub>Gets or sets the output.</sub>
@@ -26,7 +26,7 @@ ComponentSorter (  )<sub></sub>
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/ComponentSorter-100663515.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

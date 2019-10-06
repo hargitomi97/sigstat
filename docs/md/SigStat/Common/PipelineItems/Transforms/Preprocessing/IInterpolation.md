@@ -9,7 +9,7 @@ Represents an interploation algorithm
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>FeatureValues</sub><sub>Gets or sets the feature values.</sub>
 <sub>TimeValues</sub><sub>Timestamps</sub>
@@ -17,7 +17,7 @@ Represents an interploation algorithm
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[GetValue](./Methods/IInterpolation-100663760.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><sub>Gets the interpolated value at a given timestamp</sub>
 

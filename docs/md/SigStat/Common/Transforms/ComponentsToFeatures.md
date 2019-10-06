@@ -11,14 +11,14 @@ Extracts standard [Features](https://github.com/hargitomi97/sigstat/blob/master/
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 ComponentsToFeatures (  )<sub></sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Button</sub><sub>Button</sub>
 <sub>InputComponents</sub><sub>Components</sub>
@@ -28,7 +28,7 @@ ComponentsToFeatures (  )<sub></sub>
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/ComponentsToFeatures-100663580.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

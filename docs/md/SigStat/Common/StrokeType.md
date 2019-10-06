@@ -8,7 +8,7 @@ Describes the type of a stroke
 
 ##	Enum
 
-| Value | Name | Summary | 
+ValueNameSummary
 
 0UnknownThe type of the stroke is not known
 1UpThe stroke was made in the air (the pen did not tuch the tablet/paper)

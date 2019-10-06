@@ -9,7 +9,7 @@ Represents a type, that contains an ILogger property that can be used to perform
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Logger</sub><sub>Gets or sets the ILogger implementation used to perform logging</sub>
 

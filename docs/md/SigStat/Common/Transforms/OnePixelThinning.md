@@ -11,14 +11,14 @@ Iteratively thins the input binary raster with the [Algorithms.OnePixelThinningS
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 OnePixelThinning (  )<sub></sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Input</sub><sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub>
 <sub>Output</sub><sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub>
@@ -26,7 +26,7 @@ OnePixelThinning (  )<sub></sub>
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/OnePixelThinning-100663682.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

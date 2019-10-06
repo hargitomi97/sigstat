@@ -11,14 +11,14 @@ TODO: Ideiglenes osztaly, C# 8.0 ban ezt atalakitani default implementacios inte
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 PipelineBase (  )<sub>Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.</sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Logger</sub><sub></sub>
 <sub>PipelineInputs</sub><sub>A collection of inputs for the pipeline elements</sub>
@@ -28,7 +28,7 @@ PipelineBase (  )<sub>Initializes a new instance of the [PipelineBase](https://g
 
 ## Events
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>ProgressChanged</sub><sub>The event is raised whenever the value of [PipelineBase.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) changes</sub>
 

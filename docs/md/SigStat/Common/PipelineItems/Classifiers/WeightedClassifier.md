@@ -11,21 +11,21 @@ Classifies Signatures by weighing other Classifier results.
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 WeightedClassifier (  )<sub></sub>
 
 
 ## Fields
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Items</sub><sub>List of classifiers and belonging weights.</sub>
 
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Add](./Methods/WeightedClassifier-100663869.md) ( [`ValueTuple`](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[`IClassifier`](./../../Pipeline/IClassifier.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub><sub>Add a new classifier with given weight to the list of items.</sub>
 <sub>[GetEnumerator](./Methods/WeightedClassifier-100663868.md) (  )</sub><sub></sub>

@@ -8,7 +8,7 @@ Predefined color schemes for Excel
 
 ##	Enum
 
-| Value | Name | Summary | 
+ValueNameSummary
 
 0PrimaryPrimary color
 1SecondarySecondary color

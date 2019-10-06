@@ -7,14 +7,14 @@ Assembly: SigStat.Common.dll
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 NetCoreSerializationHelper (  )<sub></sub>
 
 
 ## Static Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Deserialize](./Methods/NetCoreSerializationHelper-100664081.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><sub></sub>
 <sub>[DeserializeFromFile](./Methods/NetCoreSerializationHelper-100664084.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><sub></sub>

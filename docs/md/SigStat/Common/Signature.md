@@ -11,7 +11,7 @@ Represents a signature as a collection of features, containing the data that flo
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 Signature (  )<sub>Initializes a signature instance</sub>
 Signature ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Origin`](./Origin.md), [`Signer`](./Signer.md) )<sub>Initializes a signature instance with the given properties</sub>
@@ -19,7 +19,7 @@ Signature ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>ID</sub><sub>An identifier for the Signature. Keep it unique to be useful for logs.</sub>
 <sub>Item [ [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ]</sub><sub>Gets or sets the specified feature.</sub>
@@ -30,7 +30,7 @@ Signature ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[GetAggregateFeature](./Methods/Signature-100663442.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`FeatureDescriptor`](./FeatureDescriptor.md)> )</sub><sub>Aggregate multiple features into one. Example: X, Y features -&gt; P.xy feature.  Use this for example at DTW algorithm input.</sub>
 <sub>[GetEnumerator](./Methods/Signature-100663446.md) (  )</sub><sub>Returns an enumerator that iterates through the features.</sub>

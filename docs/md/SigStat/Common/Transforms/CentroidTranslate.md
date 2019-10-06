@@ -11,14 +11,14 @@ Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 CentroidTranslate (  )<sub>Initializes a new instance of the [Transforms.CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>InputX</sub><sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>
 <sub>InputY</sub><sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>

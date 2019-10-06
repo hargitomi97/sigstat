@@ -8,7 +8,7 @@ Paragraph style setting
 
 ##	Enum
 
-| Value | Name | Summary | 
+ValueNameSummary
 
 0TitleMain title
 1Heading1Level 1 heading

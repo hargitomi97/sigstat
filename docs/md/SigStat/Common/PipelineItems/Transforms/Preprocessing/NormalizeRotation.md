@@ -11,14 +11,14 @@ Performs rotation normalization on the online signature
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 NormalizeRotation (  )<sub></sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>InputT</sub><sub>Gets or sets the input feature representing the timestamps of an online signature</sub>
 <sub>InputX</sub><sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>
@@ -29,7 +29,7 @@ NormalizeRotation (  )<sub></sub>
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub>
 

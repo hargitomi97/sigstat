@@ -9,7 +9,7 @@ Represents a feature with the type `T`
 
 ## Static Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Get](./Methods/FeatureDescriptor`1-100663422.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><sub></sub>
 

@@ -11,14 +11,14 @@ Maps values of a feature to 0.0 - 1.0 range.  <br>Pipeline Input type: List{doub
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 Normalize (  )<sub></sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Input</sub><sub>Input</sub>
 <sub>Output</sub><sub>Output</sub>
@@ -26,7 +26,7 @@ Normalize (  )<sub></sub>
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/Normalize-100663634.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

@@ -9,14 +9,14 @@ Selects the first N signatures for training
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 LastNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )<sub>Constructor</sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>N</sub><sub>Count of signatures used for training</sub>
 

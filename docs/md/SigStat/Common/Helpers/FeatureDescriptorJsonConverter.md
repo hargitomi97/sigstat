@@ -9,14 +9,14 @@ Custom serializer for [FeatureDescriptor](https://github.com/hargitomi97/sigstat
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 FeatureDescriptorJsonConverter (  )<sub></sub>
 
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[CanConvert](./Methods/FeatureDescriptorJsonConverter-100664019.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub><sub>Tells if the current object is of the correct type</sub>
 <sub>[ReadJson](./Methods/FeatureDescriptorJsonConverter-100664020.md) ( [`JsonReader`](./FeatureDescriptorJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorJsonConverter.md) )</sub><sub></sub>

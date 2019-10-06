@@ -11,14 +11,14 @@ Extracts unsorted components by tracing through the binary Skeleton raster.  <br
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 ComponentExtraction ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )<sub>Initializes a new instance of the [Transforms.ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution.</sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>CrossingPoints</sub><sub>crossing points</sub>
 <sub>EndPoints</sub><sub>endpoints</sub>
@@ -28,7 +28,7 @@ ComponentExtraction ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/Syst
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/ComponentExtraction-100663565.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

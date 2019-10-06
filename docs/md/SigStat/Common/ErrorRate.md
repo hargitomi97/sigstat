@@ -9,7 +9,7 @@ Represents the ErrorRates achieved in a benchmark
 
 ## Fields
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Far</sub><sub>False Acceptance Rate</sub>
 <sub>Frr</sub><sub>False Rejection Rate</sub>
@@ -17,7 +17,7 @@ Represents the ErrorRates achieved in a benchmark
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Aer</sub><sub>Average Error Rate (calculated from Far and Frr)</sub>
 

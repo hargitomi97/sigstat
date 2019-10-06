@@ -11,7 +11,7 @@ Hierarchical structure to store object
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 HierarchyElement (  )<sub>Create an emty element</sub>
 HierarchyElement ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) )<sub>Create a new element with content</sub>
@@ -19,7 +19,7 @@ HierarchyElement ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Children</sub><sub>Gets the children.</sub>
 <sub>Content</sub><sub>Gets or sets the content.</sub>
@@ -27,7 +27,7 @@ HierarchyElement ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Add](./Methods/HierarchyElement-100664010.md) ( [`HierarchyElement`](./HierarchyElement.md) )</sub><sub></sub>
 <sub>[GetCount](./Methods/HierarchyElement-100664012.md) (  )</sub><sub>Returns number of elements under this node and itself</sub>

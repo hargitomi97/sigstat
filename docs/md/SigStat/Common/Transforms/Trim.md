@@ -11,14 +11,14 @@ Trims unnecessary empty space from a binary raster.  <br>Pipeline Input type: bo
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 Trim ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )<sub></sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Input</sub><sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub>
 <sub>Output</sub><sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the trimed image of the signature</sub>
@@ -26,7 +26,7 @@ Trim ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )<sub
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/Trim-100663722.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

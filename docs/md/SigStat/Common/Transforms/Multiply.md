@@ -11,14 +11,14 @@ Multiplies the values of a feature with a given constant.  <br>Pipeline Input ty
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 Multiply ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )<sub>Initializes a new instance of the [Transforms.Multiply](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Multiply.md) class with specified settings.</sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>InputList</sub><sub>Input</sub>
 <sub>Output</sub><sub>Output</sub>
@@ -26,7 +26,7 @@ Multiply ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/Multiply-100663629.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

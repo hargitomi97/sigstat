@@ -11,14 +11,14 @@ Cubic interpolation algorithm
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 CubicInterpolation (  )<sub></sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>FeatureValues</sub><sub>FeatureValues</sub>
 <sub>TimeValues</sub><sub>TimeValues</sub>
@@ -26,7 +26,7 @@ CubicInterpolation (  )<sub></sub>
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[GetValue](./Methods/CubicInterpolation-100663727.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><sub>Gets the value.</sub>
 

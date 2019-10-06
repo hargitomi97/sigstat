@@ -9,7 +9,7 @@ Contains the benchmark results of a single [Signer](https://github.com/hargitomi
 
 ## Fields
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Aer</sub><sub>Average Error Rate</sub>
 <sub>Far</sub><sub>False Acceptance Rate</sub>

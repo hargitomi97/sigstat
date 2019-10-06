@@ -8,7 +8,7 @@ Represents our knowledge on the origin of a signature.
 
 ##	Enum
 
-| Value | Name | Summary | 
+ValueNameSummary
 
 0UnknownUse this in practice before a signature is verified.
 1GenuineThe [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)'s origin is verified to be from [Signature.Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)

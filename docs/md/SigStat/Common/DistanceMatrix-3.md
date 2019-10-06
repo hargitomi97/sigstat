@@ -9,21 +9,21 @@ A Sparse Matrix representation of a distance graph.
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 DistanceMatrix (  )<sub></sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Item [ [`TRowKey`](./DistanceMatrix-3.md) ]</sub><sub>Gets or sets a distance for a given row and column</sub>
 
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[ContainsKey](./Methods/DistanceMatrix`3-100663394.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md) )</sub><sub></sub>
 <sub>[TryGetValue](./Methods/DistanceMatrix`3-100663393.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md), out [`TValue`](./DistanceMatrix-3.md) )</sub><sub></sub>

@@ -11,14 +11,14 @@ Resamples an online signature to a specific sample count using the specified [Pi
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 ResampleSamplesCountBased (  )<sub></sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>InputFeatures</sub><sub>Gets or sets the input features.</sub>
 <sub>InterpolationType</sub><sub>Gets or sets the type of the interpolation. <seealso cref="T:SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation" /></sub>
@@ -30,7 +30,7 @@ ResampleSamplesCountBased (  )<sub></sub>
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/ResampleSamplesCountBased-100663801.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub>
 

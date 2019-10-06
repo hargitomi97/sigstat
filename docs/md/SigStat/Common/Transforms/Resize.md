@@ -11,14 +11,14 @@ Resizes the image to a specified width and height
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 Resize (  )<sub></sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Height</sub><sub>The new height. Leave it as null, if you do not want to explicitly specify a given height</sub>
 <sub>InputImage</sub><sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub>
@@ -29,7 +29,7 @@ Resize (  )<sub></sub>
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/Resize-100663714.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

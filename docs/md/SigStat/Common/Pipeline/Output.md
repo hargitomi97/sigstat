@@ -9,7 +9,7 @@ Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/b
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 Output ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )<sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>
 Output (  )<sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>
@@ -17,7 +17,7 @@ Output (  )<sub>Initializes a new instance of the [Pipeline.Output](https://gith
 
 ## Fields
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Default</sub><sub>The default value for the property</sub>
 

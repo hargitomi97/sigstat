@@ -9,7 +9,7 @@ Standard event identifiers used by the SigStat system
 
 ## Static Fields
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>BenchmarkEvent</sub><sub>Events originating from a benchmark</sub>
 <sub>VerifierEvent</sub><sub>Events originating from a verifier</sub>

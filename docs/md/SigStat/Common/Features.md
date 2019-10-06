@@ -9,7 +9,7 @@ Standard set of features.
 
 ## Static Fields
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>All</sub><sub>Returns a readonly list of all [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md)s defined in [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub>
 <sub>Altitude</sub><sub>Altitude of an online signature as a function of [Features.T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub>

@@ -11,14 +11,14 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 Scale (  )<sub></sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>InputFeature</sub><sub>Gets or sets the input feature.</sub>
 <sub>NewMaxValue</sub><sub><br>NewMaxValue: upper bound of the interval, in which the input feature will be scaled</sub>
@@ -28,7 +28,7 @@ Scale (  )<sub></sub>
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/Scale-100663813.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub>
 

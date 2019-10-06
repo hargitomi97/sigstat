@@ -9,7 +9,7 @@ ILoggerObject extension methods for common scenarios.
 
 ## Static Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[LogCritical](./Methods/ILoggerObjectExtensions-100663351.md) ( [`ILoggerObject`](./ILoggerObject.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[] )</sub><sub>Formats and writes an critical error log message.</sub>
 <sub>[LogDebug](./Methods/ILoggerObjectExtensions-100663352.md) ( [`ILoggerObject`](./ILoggerObject.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[] )</sub><sub>Formats and writes an debug log message.</sub>

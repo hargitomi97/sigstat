@@ -9,14 +9,14 @@ Represents a person as an [Signer.ID](https://github.com/hargitomi97/sigstat/blo
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 Signer (  )<sub></sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>ID</sub><sub>An identifier for the Signer. Keep it unique to be useful for logs.</sub>
 <sub>Signatures</sub><sub>List of signatures that belong to the signer.  (Their origin is not constrained to be genuine.)</sub>
@@ -24,7 +24,7 @@ Signer (  )<sub></sub>
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[ToString](./Methods/Signer-100663452.md) (  )</sub><sub>Returns a string representation of a Signer</sub>
 

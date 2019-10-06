@@ -9,14 +9,14 @@ Represents an output for a [Pipeline.PipelineOutput.PipelineItem](https://github
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )<sub>Initializes a new instance of the [Pipeline.PipelineOutput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineOutput.md) class.</sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Default</sub><sub>Gets the default value</sub>
 <sub>FD</sub><sub>Gets or sets the fd.</sub>

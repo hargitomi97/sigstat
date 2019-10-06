@@ -11,14 +11,14 @@ Extracts minimum and maximum values of given feature.  <br>Default Pipeline Outp
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 Extrema (  )<sub></sub>
 
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/Extrema-100663616.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 

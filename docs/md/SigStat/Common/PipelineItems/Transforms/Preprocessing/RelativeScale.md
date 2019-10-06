@@ -11,14 +11,14 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 RelativeScale (  )<sub></sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>InputFeature</sub><sub>Gets or sets the input feature.</sub>
 <sub>OutputFeature</sub><sub>Gets or sets the output feature.</sub>
@@ -27,7 +27,7 @@ RelativeScale (  )<sub></sub>
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/RelativeScale-100663787.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub>
 

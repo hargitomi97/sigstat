@@ -9,14 +9,14 @@ SerializationContext for serializing SigStat objects
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 FeatureStreamingContextState (  )<sub>Constructor</sub>
 
 
 ## Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>KnownFeatureKeys</sub><sub>A list of already serialized FeatureDescriptor keys</sub>
 

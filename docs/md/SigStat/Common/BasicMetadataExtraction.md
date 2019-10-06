@@ -11,21 +11,21 @@ Extracts basic statistical signature (like [Features.Bounds](https://github.com/
 
 ## Constructors
 
-| Name | Summary | 
+NameSummary
 
 BasicMetadataExtraction (  )<sub></sub>
 
 
 ## Methods
 
-|  | Name | Summary | 
+NameSummary
 
 <sub>[Transform](./Methods/BasicMetadataExtraction-100663456.md) ( [`Signature`](./Signature.md) )</sub><sub></sub>
 
 
 ## Static Properties
 
-| Type | Name | Summary | 
+TypeNameSummary
 
 <sub>Trim</sub><sub>Represents theratio of significant pixels that should be trimmed  from each side while calculating [Features.TrimmedBounds](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub>
 
