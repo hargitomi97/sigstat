@@ -13,13 +13,13 @@ Generates a realistic looking image of the Signature based on standard features.
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:290px"><sub>RealisticImageGenerator ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub></div>| <div style="width:290px"><sub>Initializes a new instance of the [Transforms.RealisticImageGenerator](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/RealisticImageGenerator.md) class with specified settings.</sub></div>| <br>
+| <div style ="width:390px"><sub>RealisticImageGenerator ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub></div>| <sub>Initializes a new instance of the [Transforms.RealisticImageGenerator](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/RealisticImageGenerator.md) class with specified settings.</sub></div>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:290px"><sub>[Transform](./Methods/RealisticImageGenerator-100663699.md) ( [`Signature`](./../Signature.md) )</sub></div>| <div style="width:290px"><sub></sub></div>| <br>
+| <div style ="width:390px"><sub>[Transform](./Methods/RealisticImageGenerator-100663699.md) ( [`Signature`](./../Signature.md) )</sub></div>| <sub></sub></div>| <br>
 
 

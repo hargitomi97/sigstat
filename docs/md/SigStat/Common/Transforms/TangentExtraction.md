@@ -13,22 +13,22 @@ Extracts tangent values of the standard X, Y [Features](https://github.com/hargi
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:290px"><sub>TangentExtraction (  )</sub></div>| <div style="width:290px"><sub></sub></div>| <br>
+| <div style ="width:390px"><sub>TangentExtraction (  )</sub></div>| <sub></sub></div>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:290px"><sub>OutputTangent</sub></div>| <div style="width:290px"><sub>Gets or sets the output feature representing the tangent angles of an online signature</sub></div>| <br>
-| <div style="width:290px"><sub>X</sub></div>| <div style="width:290px"><sub>Gets or sets the input feature representing the X coordinates of an online signature</sub></div>| <br>
-| <div style="width:290px"><sub>Y</sub></div>| <div style="width:290px"><sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub></div>| <br>
+| <div style ="width:390px"><sub>OutputTangent</sub></div>| <sub>Gets or sets the output feature representing the tangent angles of an online signature</sub></div>| <br>
+| <div style ="width:390px"><sub>X</sub></div>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub></div>| <br>
+| <div style ="width:390px"><sub>Y</sub></div>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub></div>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:290px"><sub>[Transform](./Methods/TangentExtraction-100663596.md) ( [`Signature`](./../Signature.md) )</sub></div>| <div style="width:290px"><sub></sub></div>| <br>
+| <div style ="width:390px"><sub>[Transform](./Methods/TangentExtraction-100663596.md) ( [`Signature`](./../Signature.md) )</sub></div>| <sub></sub></div>| <br>
 
 

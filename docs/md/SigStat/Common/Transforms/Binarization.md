@@ -13,22 +13,22 @@ Generates a binary raster version of the input image with the iterative threshol
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:290px"><sub>Binarization (  )</sub></div>| <div style="width:290px"><sub>Initializes a new instance of the [Transforms.Binarization](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Binarization.md) class with default settings: Iterative threshold and [Transforms.Binarization.ForegroundType.Dark](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md).</sub></div>| <br>
-| <div style="width:290px"><sub>Binarization ( [`ForegroundType`](./Binarization.md), [`Nullable`](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub></div>| <div style="width:290px"><sub></sub></div>| <br>
+| <div style ="width:390px"><sub>Binarization (  )</sub></div>| <sub>Initializes a new instance of the [Transforms.Binarization](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Binarization.md) class with default settings: Iterative threshold and [Transforms.Binarization.ForegroundType.Dark](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md).</sub></div>| <br>
+| <div style ="width:390px"><sub>Binarization ( [`ForegroundType`](./Binarization.md), [`Nullable`](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub></div>| <sub></sub></div>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:290px"><sub>InputImage</sub></div>| <div style="width:290px"><sub>Gets or sets the featuredescriptor of the input image.</sub></div>| <br>
-| <div style="width:290px"><sub>OutputMask</sub></div>| <div style="width:290px"><sub>Gets or sets the featuredescriptor of a the binarized image.</sub></div>| <br>
+| <div style ="width:390px"><sub>InputImage</sub></div>| <sub>Gets or sets the featuredescriptor of the input image.</sub></div>| <br>
+| <div style ="width:390px"><sub>OutputMask</sub></div>| <sub>Gets or sets the featuredescriptor of a the binarized image.</sub></div>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:290px"><sub>[Transform](./Methods/Binarization-100663642.md) ( [`Signature`](./../Signature.md) )</sub></div>| <div style="width:290px"><sub></sub></div>| <br>
+| <div style ="width:390px"><sub>[Transform](./Methods/Binarization-100663642.md) ( [`Signature`](./../Signature.md) )</sub></div>| <sub></sub></div>| <br>
 
 

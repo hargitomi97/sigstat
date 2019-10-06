@@ -11,18 +11,18 @@ Represents an output for a [Pipeline.PipelineOutput.PipelineItem](https://github
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:290px"><sub>PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub></div>| <div style="width:290px"><sub>Initializes a new instance of the [Pipeline.PipelineOutput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineOutput.md) class.</sub></div>| <br>
+| <div style ="width:390px"><sub>PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub></div>| <sub>Initializes a new instance of the [Pipeline.PipelineOutput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineOutput.md) class.</sub></div>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:290px"><sub>Default</sub></div>| <div style="width:290px"><sub>Gets the default value</sub></div>| <br>
-| <div style="width:290px"><sub>FD</sub></div>| <div style="width:290px"><sub>Gets or sets the fd.</sub></div>| <br>
-| <div style="width:290px"><sub>IsCollectionOfFeatureDescriptors</sub></div>| <div style="width:290px"><sub>Gets a value indicating whether this instance is collection of feature descriptors.</sub></div>| <br>
-| <div style="width:290px"><sub>IsTemporary</sub></div>| <div style="width:290px"><sub>Gets a value indicating whether this instance is temporary.</sub></div>| <br>
-| <div style="width:290px"><sub>PropName</sub></div>| <div style="width:290px"><sub>Gets the name of the property.</sub></div>| <br>
-| <div style="width:290px"><sub>Type</sub></div>| <div style="width:290px"><sub>Gets the type of the property</sub></div>| <br>
+| <div style ="width:390px"><sub>Default</sub></div>| <sub>Gets the default value</sub></div>| <br>
+| <div style ="width:390px"><sub>FD</sub></div>| <sub>Gets or sets the fd.</sub></div>| <br>
+| <div style ="width:390px"><sub>IsCollectionOfFeatureDescriptors</sub></div>| <sub>Gets a value indicating whether this instance is collection of feature descriptors.</sub></div>| <br>
+| <div style ="width:390px"><sub>IsTemporary</sub></div>| <sub>Gets a value indicating whether this instance is temporary.</sub></div>| <br>
+| <div style ="width:390px"><sub>PropName</sub></div>| <sub>Gets the name of the property.</sub></div>| <br>
+| <div style ="width:390px"><sub>Type</sub></div>| <sub>Gets the type of the property</sub></div>| <br>
 
 

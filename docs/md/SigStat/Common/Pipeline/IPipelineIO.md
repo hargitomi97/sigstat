@@ -11,7 +11,7 @@ Supports the definition of [Pipeline.PipelineInput](https://github.com/hargitomi
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:290px"><sub>PipelineInputs</sub></div>| <div style="width:290px"><sub>A collection of inputs for the pipeline elements</sub></div>| <br>
-| <div style="width:290px"><sub>PipelineOutputs</sub></div>| <div style="width:290px"><sub>A collection of outputs for the pipeline elements</sub></div>| <br>
+| <div style ="width:390px"><sub>PipelineInputs</sub></div>| <sub>A collection of inputs for the pipeline elements</sub></div>| <br>
+| <div style ="width:390px"><sub>PipelineOutputs</sub></div>| <sub>A collection of outputs for the pipeline elements</sub></div>| <br>
 
 

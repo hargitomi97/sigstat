@@ -11,6 +11,6 @@ Extension methods for common IO operations
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:290px"><sub>[GetPath](./Methods/IOExtensions-100663399.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub></div>| <div style="width:290px"><sub>Gets the given relative or absolute path in a platform neutral form</sub></div>| <br>
+| <div style ="width:390px"><sub>[GetPath](./Methods/IOExtensions-100663399.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub></div>| <sub>Gets the given relative or absolute path in a platform neutral form</sub></div>| <br>
 
 

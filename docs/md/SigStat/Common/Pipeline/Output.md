@@ -11,14 +11,14 @@ Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/b
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:290px"><sub>Output ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub></div>| <div style="width:290px"><sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub></div>| <br>
-| <div style="width:290px"><sub>Output (  )</sub></div>| <div style="width:290px"><sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub></div>| <br>
+| <div style ="width:390px"><sub>Output ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub></div>| <sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub></div>| <br>
+| <div style ="width:390px"><sub>Output (  )</sub></div>| <sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub></div>| <br>
 
 
 ## Fields
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:290px"><sub>Default</sub></div>| <div style="width:290px"><sub>The default value for the property</sub></div>| <br>
+| <div style ="width:390px"><sub>Default</sub></div>| <sub>The default value for the property</sub></div>| <br>
 
 

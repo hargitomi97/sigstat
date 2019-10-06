@@ -13,23 +13,23 @@ This [Pipeline.IDistanceClassifier](https://github.com/hargitomi97/sigstat/blob/
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:290px"><sub>OptimalDtwClassifier ( [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub></div>| <div style="width:290px"><sub>Initializes a new instance of the [PipelineItems.Classifiers.OptimalDtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/OptimalDtwClassifier.md) class.</sub></div>| <br>
+| <div style ="width:390px"><sub>OptimalDtwClassifier ( [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub></div>| <sub>Initializes a new instance of the [PipelineItems.Classifiers.OptimalDtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/OptimalDtwClassifier.md) class.</sub></div>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:290px"><sub>DistanceFunction</sub></div>| <div style="width:290px"><sub>The function used to calculate the distance between two data points during DTW calculation</sub></div>| <br>
-| <div style="width:290px"><sub>Features</sub></div>| <div style="width:290px"><sub>[FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md)s to consider during classification</sub></div>| <br>
-| <div style="width:290px"><sub>Sampler</sub></div>| <div style="width:290px"><sub>[PipelineItems.Classifiers.OptimalDtwClassifier.Sampler](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/OptimalDtwClassifier.md) used for selecting training and test sets during a benchmark</sub></div>| <br>
+| <div style ="width:390px"><sub>DistanceFunction</sub></div>| <sub>The function used to calculate the distance between two data points during DTW calculation</sub></div>| <br>
+| <div style ="width:390px"><sub>Features</sub></div>| <sub>[FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md)s to consider during classification</sub></div>| <br>
+| <div style ="width:390px"><sub>Sampler</sub></div>| <sub>[PipelineItems.Classifiers.OptimalDtwClassifier.Sampler](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/OptimalDtwClassifier.md) used for selecting training and test sets during a benchmark</sub></div>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style="width:290px"><sub>[Test](./Methods/OptimalDtwClassifier-100663867.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub></div>| <div style="width:290px"><sub></sub></div>| <br>
-| <div style="width:290px"><sub>[Train](./Methods/OptimalDtwClassifier-100663865.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub></div>| <div style="width:290px"><sub></sub></div>| <br>
+| <div style ="width:390px"><sub>[Test](./Methods/OptimalDtwClassifier-100663867.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub></div>| <sub></sub></div>| <br>
+| <div style ="width:390px"><sub>[Train](./Methods/OptimalDtwClassifier-100663865.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub></div>| <sub></sub></div>| <br>
 
 
