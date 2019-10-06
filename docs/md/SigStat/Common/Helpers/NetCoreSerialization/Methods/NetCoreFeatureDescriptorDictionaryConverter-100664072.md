@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../READ
 
 Assembly: SigStat.Common.dll
 
-<sub>[CanConvert](./NetCoreFeatureDescriptorDictionaryConverter-100664072.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType )</sub>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub></sub>
+
