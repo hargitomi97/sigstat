@@ -11,15 +11,15 @@ Represents a stroke in an online signature
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Initializes a new instance of the [StrokeInterval](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) struct.</sub> | <sub>Initializes a new instance of the [StrokeInterval](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) struct.</sub> | <br>
+|<img width=200/> <sub>Initializes a new instance of the [StrokeInterval](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) struct.</sub> | <sub>Initializes a new instance of the [StrokeInterval](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) struct.</sub> | <br>
 
 
 ## Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-| <sub>EndIndex</sub> | <sub>The index of the last element</sub> |  | <br>
-| <sub>StartIndex</sub> | <sub>The index of the firs element</sub> |  | <br>
-| <sub>StrokeType</sub> | <sub>The [StrokeInterval.StrokeType](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) of the stroke.</sub> |  | <br>
+|<img width=200/> <sub>EndIndex</sub> | <sub>The index of the last element</sub> |  | <br>
+|<img width=200/> <sub>StartIndex</sub> | <sub>The index of the firs element</sub> |  | <br>
+|<img width=200/> <sub>StrokeType</sub> | <sub>The [StrokeInterval.StrokeType](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) of the stroke.</sub> |  | <br>
 
 

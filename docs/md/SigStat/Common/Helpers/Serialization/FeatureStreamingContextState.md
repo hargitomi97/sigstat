@@ -11,13 +11,13 @@ SerializationContext for serializing SigStat objects
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Constructor</sub> | <sub>Constructor</sub> | <br>
+|<img width=200/> <sub>Constructor</sub> | <sub>Constructor</sub> | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>KnownFeatureKeys</sub> | <sub>A list of already serialized FeatureDescriptor keys</sub> | <br>
+|<img width=200/> <sub>KnownFeatureKeys</sub> | <sub>A list of already serialized FeatureDescriptor keys</sub> | <br>
 
 

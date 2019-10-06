@@ -13,23 +13,23 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub> | <sub></sub> | <br>
+|<img width=200/> <sub></sub> | <sub></sub> | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputFeature</sub> | <sub>Gets or sets the input feature.</sub> | <br>
-| <sub>NewMaxValue</sub> | <sub><br>NewMaxValue: upper bound of the interval, in which the input feature will be scaled</sub> | <br>
-| <sub>NewMinValue</sub> | <sub><br>NewMinValue: lower bound of the interval, in which the input feature will be scaled</sub> | <br>
-| <sub>OutputFeature</sub> | <sub>Gets or sets the output feature.</sub> | <br>
+|<img width=200/> <sub>InputFeature</sub> | <sub>Gets or sets the input feature.</sub> | <br>
+|<img width=200/> <sub>NewMaxValue</sub> | <sub><br>NewMaxValue: upper bound of the interval, in which the input feature will be scaled</sub> | <br>
+|<img width=200/> <sub>NewMinValue</sub> | <sub><br>NewMinValue: lower bound of the interval, in which the input feature will be scaled</sub> | <br>
+|<img width=200/> <sub>OutputFeature</sub> | <sub>Gets or sets the output feature.</sub> | <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/Scale-100663813.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | <br>
+|<img width=200/> <sub>[Transform](./Methods/Scale-100663813.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | <br>
 
 

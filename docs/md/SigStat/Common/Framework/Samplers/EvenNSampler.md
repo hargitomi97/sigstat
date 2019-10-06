@@ -11,13 +11,13 @@ Selects the first N signatures with even index for training
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Constructor</sub> | <sub>Constructor</sub> | <br>
+|<img width=200/> <sub>Constructor</sub> | <sub>Constructor</sub> | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>N</sub> | <sub>Count of signatures used for training</sub> | <br>
+|<img width=200/> <sub>N</sub> | <sub>Count of signatures used for training</sub> | <br>
 
 

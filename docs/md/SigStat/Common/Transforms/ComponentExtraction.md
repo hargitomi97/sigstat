@@ -13,23 +13,23 @@ Extracts unsorted components by tracing through the binary Skeleton raster.  <br
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Initializes a new instance of the [Transforms.ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution.</sub> | <sub>Initializes a new instance of the [Transforms.ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution.</sub> | <br>
+|<img width=200/> <sub>Initializes a new instance of the [Transforms.ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution.</sub> | <sub>Initializes a new instance of the [Transforms.ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution.</sub> | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>CrossingPoints</sub> | <sub>crossing points</sub> | <br>
-| <sub>EndPoints</sub> | <sub>endpoints</sub> | <br>
-| <sub>OutputComponents</sub> | <sub>Output components</sub> | <br>
-| <sub>Skeleton</sub> | <sub>binary representation of a signature image</sub> | <br>
+|<img width=200/> <sub>CrossingPoints</sub> | <sub>crossing points</sub> | <br>
+|<img width=200/> <sub>EndPoints</sub> | <sub>endpoints</sub> | <br>
+|<img width=200/> <sub>OutputComponents</sub> | <sub>Output components</sub> | <br>
+|<img width=200/> <sub>Skeleton</sub> | <sub>binary representation of a signature image</sub> | <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/ComponentExtraction-100663565.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | <br>
+|<img width=200/> <sub>[Transform](./Methods/ComponentExtraction-100663565.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | <br>
 
 

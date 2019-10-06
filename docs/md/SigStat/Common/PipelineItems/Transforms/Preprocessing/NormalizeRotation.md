@@ -13,24 +13,24 @@ Performs rotation normalization on the online signature
 
 | Name | Summary | 
 | --- | --- | 
-| <sub></sub> | <sub></sub> | <br>
+|<img width=200/> <sub></sub> | <sub></sub> | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputT</sub> | <sub>Gets or sets the input feature representing the timestamps of an online signature</sub> | <br>
-| <sub>InputX</sub> | <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub> | <br>
-| <sub>InputY</sub> | <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub> | <br>
-| <sub>OutputX</sub> | <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub> | <br>
-| <sub>OutputY</sub> | <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub> | <br>
+|<img width=200/> <sub>InputT</sub> | <sub>Gets or sets the input feature representing the timestamps of an online signature</sub> | <br>
+|<img width=200/> <sub>InputX</sub> | <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub> | <br>
+|<img width=200/> <sub>InputY</sub> | <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub> | <br>
+|<img width=200/> <sub>OutputX</sub> | <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub> | <br>
+|<img width=200/> <sub>OutputY</sub> | <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub> | <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | <br>
+|<img width=200/> <sub>[Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | <br>
 
 
