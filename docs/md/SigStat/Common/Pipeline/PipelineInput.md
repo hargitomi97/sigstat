@@ -11,17 +11,17 @@ Represents an input for a [Pipeline.PipelineInput.PipelineItem](https://github.c
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>PipelineInput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub><div style="width: 290px"> | <sub>Initializes a new instance of the [Pipeline.PipelineInput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineInput.md) class.</sub><div style="width: 290px"> | <br>
+| <sub>PipelineInput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub>| <sub>Initializes a new instance of the [Pipeline.PipelineInput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineInput.md) class.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>AutoSetMode</sub><div style="width: 290px"> | <sub>Gets the AutoSetMode</sub><div style="width: 290px"> | <br>
-| <sub>FD</sub><div style="width: 290px"> | <sub>Gets or sets the fd.</sub><div style="width: 290px"> | <br>
-| <sub>IsCollectionOfFeatureDescriptors</sub><div style="width: 290px"> | <sub>Gets a value indicating whether this instance is collection of feature descriptors.</sub><div style="width: 290px"> | <br>
-| <sub>PropName</sub><div style="width: 290px"> | <sub>Gets the name of the property.</sub><div style="width: 290px"> | <br>
-| <sub>Type</sub><div style="width: 290px"> | <sub>Gets the type of the property</sub><div style="width: 290px"> | <br>
+| <sub>AutoSetMode</sub>| <sub>Gets the AutoSetMode</sub>| <br>
+| <sub>FD</sub>| <sub>Gets or sets the fd.</sub>| <br>
+| <sub>IsCollectionOfFeatureDescriptors</sub>| <sub>Gets a value indicating whether this instance is collection of feature descriptors.</sub>| <br>
+| <sub>PropName</sub>| <sub>Gets the name of the property.</sub>| <br>
+| <sub>Type</sub>| <sub>Gets the type of the property</sub>| <br>
 
 

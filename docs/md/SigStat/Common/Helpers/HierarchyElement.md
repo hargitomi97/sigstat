@@ -13,26 +13,26 @@ Hierarchical structure to store object
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>HierarchyElement (  )</sub><div style="width: 290px"> | <sub>Create an emty element</sub><div style="width: 290px"> | <br>
-| <sub>HierarchyElement ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) )</sub><div style="width: 290px"> | <sub>Create a new element with content</sub><div style="width: 290px"> | <br>
+| <sub>HierarchyElement (  )</sub>| <sub>Create an emty element</sub>| <br>
+| <sub>HierarchyElement ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) )</sub>| <sub>Create a new element with content</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Children</sub><div style="width: 290px"> | <sub>Gets the children.</sub><div style="width: 290px"> | <br>
-| <sub>Content</sub><div style="width: 290px"> | <sub>Gets or sets the content.</sub><div style="width: 290px"> | <br>
+| <sub>Children</sub>| <sub>Gets the children.</sub>| <br>
+| <sub>Content</sub>| <sub>Gets or sets the content.</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Add](./Methods/HierarchyElement-100664010.md) ( [`HierarchyElement`](./HierarchyElement.md) )</sub><div style="width: 290px"> | <sub></sub><div style="width: 290px"> | <br>
-| <sub>[GetCount](./Methods/HierarchyElement-100664012.md) (  )</sub><div style="width: 290px"> | <sub>Returns number of elements under this node and itself</sub><div style="width: 290px"> | <br>
-| <sub>[GetDepth](./Methods/HierarchyElement-100664011.md) (  )</sub><div style="width: 290px"> | <sub>Return the hierarchy's depth from this node</sub><div style="width: 290px"> | <br>
-| <sub>[GetEnumerator](./Methods/HierarchyElement-100664014.md) (  )</sub><div style="width: 290px"> | <sub>Returns an enumerator that iterates through the collection.</sub><div style="width: 290px"> | <br>
-| <sub>[ToString](./Methods/HierarchyElement-100664013.md) (  )</sub><div style="width: 290px"> | <sub>Converts to string.</sub><div style="width: 290px"> | <br>
+| <sub>[Add](./Methods/HierarchyElement-100664010.md) ( [`HierarchyElement`](./HierarchyElement.md) )</sub>| <sub></sub>| <br>
+| <sub>[GetCount](./Methods/HierarchyElement-100664012.md) (  )</sub>| <sub>Returns number of elements under this node and itself</sub>| <br>
+| <sub>[GetDepth](./Methods/HierarchyElement-100664011.md) (  )</sub>| <sub>Return the hierarchy's depth from this node</sub>| <br>
+| <sub>[GetEnumerator](./Methods/HierarchyElement-100664014.md) (  )</sub>| <sub>Returns an enumerator that iterates through the collection.</sub>| <br>
+| <sub>[ToString](./Methods/HierarchyElement-100664013.md) (  )</sub>| <sub>Converts to string.</sub>| <br>
 
 

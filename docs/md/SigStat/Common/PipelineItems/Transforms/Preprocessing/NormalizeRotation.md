@@ -13,24 +13,24 @@ Performs rotation normalization on the online signature
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>NormalizeRotation (  )</sub><div style="width: 290px"> | <sub></sub><div style="width: 290px"> | <br>
+| <sub>NormalizeRotation (  )</sub>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputT</sub><div style="width: 290px"> | <sub>Gets or sets the input feature representing the timestamps of an online signature</sub><div style="width: 290px"> | <br>
-| <sub>InputX</sub><div style="width: 290px"> | <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub><div style="width: 290px"> | <br>
-| <sub>InputY</sub><div style="width: 290px"> | <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub><div style="width: 290px"> | <br>
-| <sub>OutputX</sub><div style="width: 290px"> | <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub><div style="width: 290px"> | <br>
-| <sub>OutputY</sub><div style="width: 290px"> | <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub><div style="width: 290px"> | <br>
+| <sub>InputT</sub>| <sub>Gets or sets the input feature representing the timestamps of an online signature</sub>| <br>
+| <sub>InputX</sub>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>| <br>
+| <sub>InputY</sub>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
+| <sub>OutputX</sub>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub>| <br>
+| <sub>OutputY</sub>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )</sub><div style="width: 290px"> | <sub></sub><div style="width: 290px"> | <br>
+| <sub>[Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )</sub>| <sub></sub>| <br>
 
 

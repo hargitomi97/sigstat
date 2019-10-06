@@ -13,24 +13,24 @@ Resizes the image to a specified width and height
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Resize (  )</sub><div style="width: 290px"> | <sub></sub><div style="width: 290px"> | <br>
+| <sub>Resize (  )</sub>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Height</sub><div style="width: 290px"> | <sub>The new height. Leave it as null, if you do not want to explicitly specify a given height</sub><div style="width: 290px"> | <br>
-| <sub>InputImage</sub><div style="width: 290px"> | <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub><div style="width: 290px"> | <br>
-| <sub>OutputImage</sub><div style="width: 290px"> | <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the resized image of the signature</sub><div style="width: 290px"> | <br>
-| <sub>ResizeFunction</sub><div style="width: 290px"> | <sub>Set a resize function if you want to dynamically calculate the new width and height of the image</sub><div style="width: 290px"> | <br>
-| <sub>Width</sub><div style="width: 290px"> | <sub>The new width. Leave it as null, if you do not want to explicitly specify a given width</sub><div style="width: 290px"> | <br>
+| <sub>Height</sub>| <sub>The new height. Leave it as null, if you do not want to explicitly specify a given height</sub>| <br>
+| <sub>InputImage</sub>| <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub>| <br>
+| <sub>OutputImage</sub>| <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the resized image of the signature</sub>| <br>
+| <sub>ResizeFunction</sub>| <sub>Set a resize function if you want to dynamically calculate the new width and height of the image</sub>| <br>
+| <sub>Width</sub>| <sub>The new width. Leave it as null, if you do not want to explicitly specify a given width</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/Resize-100663714.md) ( [`Signature`](./../Signature.md) )</sub><div style="width: 290px"> | <sub></sub><div style="width: 290px"> | <br>
+| <sub>[Transform](./Methods/Resize-100663714.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| <br>
 
 
