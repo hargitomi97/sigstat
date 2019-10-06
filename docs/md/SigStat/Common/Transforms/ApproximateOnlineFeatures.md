@@ -20,6 +20,6 @@ ApproximateOnlineFeatures (  )<sub></sub>
 
 | Return | Name | Summary | 
 
-<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[Transform](./Methods/ApproximateOnlineFeatures-100663548.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
+<sub>[Transform](./Methods/ApproximateOnlineFeatures-100663548.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 
 

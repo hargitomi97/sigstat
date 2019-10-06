@@ -19,6 +19,6 @@ Output (  )<sub>Initializes a new instance of the [Pipeline.Output](https://gith
 
 | Type | Name | Summary | 
 
-<sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub><sub>Default</sub><sub>The default value for the property</sub>
+<sub>Default</sub><sub>The default value for the property</sub>
 
 

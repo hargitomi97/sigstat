@@ -20,6 +20,6 @@ RealisticImageGenerator ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/
 
 | Return | Name | Summary | 
 
-<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[Transform](./Methods/RealisticImageGenerator-100663699.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
+<sub>[Transform](./Methods/RealisticImageGenerator-100663699.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 
 

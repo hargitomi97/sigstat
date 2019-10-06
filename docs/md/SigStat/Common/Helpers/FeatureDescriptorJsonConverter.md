@@ -18,8 +18,8 @@ FeatureDescriptorJsonConverter (  )<sub></sub>
 
 | Return | Name | Summary | 
 
-<sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub><sub>[CanConvert](./Methods/FeatureDescriptorJsonConverter-100664019.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub><sub>Tells if the current object is of the correct type</sub>
-<sub>[Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object)</sub><sub>[ReadJson](./Methods/FeatureDescriptorJsonConverter-100664020.md) ( [`JsonReader`](./FeatureDescriptorJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorJsonConverter.md) )</sub><sub></sub>
-<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[WriteJson](./Methods/FeatureDescriptorJsonConverter-100664021.md) ( [`JsonWriter`](./FeatureDescriptorJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorJsonConverter.md) )</sub><sub></sub>
+<sub>[CanConvert](./Methods/FeatureDescriptorJsonConverter-100664019.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub><sub>Tells if the current object is of the correct type</sub>
+<sub>[ReadJson](./Methods/FeatureDescriptorJsonConverter-100664020.md) ( [`JsonReader`](./FeatureDescriptorJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorJsonConverter.md) )</sub><sub></sub>
+<sub>[WriteJson](./Methods/FeatureDescriptorJsonConverter-100664021.md) ( [`JsonWriter`](./FeatureDescriptorJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorJsonConverter.md) )</sub><sub></sub>
 
 

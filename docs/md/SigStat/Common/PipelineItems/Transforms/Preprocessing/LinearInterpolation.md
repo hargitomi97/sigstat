@@ -20,14 +20,14 @@ LinearInterpolation (  )<sub></sub>
 
 | Type | Name | Summary | 
 
-<sub>[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)></sub><sub>FeatureValues</sub><sub></sub>
-<sub>[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)></sub><sub>TimeValues</sub><sub></sub>
+<sub>FeatureValues</sub><sub></sub>
+<sub>TimeValues</sub><sub></sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
 
-<sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub><sub>[GetValue](./Methods/LinearInterpolation-100663765.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><sub>Gets the interpolated value at a given timestamp</sub>
+<sub>[GetValue](./Methods/LinearInterpolation-100663765.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><sub>Gets the interpolated value at a given timestamp</sub>
 
 

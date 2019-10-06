@@ -18,11 +18,11 @@ PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.O
 
 | Type | Name | Summary | 
 
-<sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub><sub>Default</sub><sub>Gets the default value</sub>
-<sub>[Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object)</sub><sub>FD</sub><sub>Gets or sets the fd.</sub>
-<sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub><sub>IsCollectionOfFeatureDescriptors</sub><sub>Gets a value indicating whether this instance is collection of feature descriptors.</sub>
-<sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub><sub>IsTemporary</sub><sub>Gets a value indicating whether this instance is temporary.</sub>
-<sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub><sub>PropName</sub><sub>Gets the name of the property.</sub>
-<sub>[Type](https://docs.microsoft.com/en-us/dotnet/api/System.Type)</sub><sub>Type</sub><sub>Gets the type of the property</sub>
+<sub>Default</sub><sub>Gets the default value</sub>
+<sub>FD</sub><sub>Gets or sets the fd.</sub>
+<sub>IsCollectionOfFeatureDescriptors</sub><sub>Gets a value indicating whether this instance is collection of feature descriptors.</sub>
+<sub>IsTemporary</sub><sub>Gets a value indicating whether this instance is temporary.</sub>
+<sub>PropName</sub><sub>Gets the name of the property.</sub>
+<sub>Type</sub><sub>Gets the type of the property</sub>
 
 

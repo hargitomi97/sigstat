@@ -20,15 +20,15 @@ EndpointExtraction (  )<sub></sub>
 
 | Type | Name | Summary | 
 
-<sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Point](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Point)>></sub><sub>OutputCrossingPoints</sub><sub>OutputCrossingPoints</sub>
-<sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Point](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Point)>></sub><sub>OutputEndpoints</sub><sub>OutputEndpoints</sub>
-<sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]></sub><sub>Skeleton</sub><sub>Binary representation of an image</sub>
+<sub>OutputCrossingPoints</sub><sub>OutputCrossingPoints</sub>
+<sub>OutputEndpoints</sub><sub>OutputEndpoints</sub>
+<sub>Skeleton</sub><sub>Binary representation of an image</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
 
-<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[Transform](./Methods/EndpointExtraction-100663588.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
+<sub>[Transform](./Methods/EndpointExtraction-100663588.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 
 

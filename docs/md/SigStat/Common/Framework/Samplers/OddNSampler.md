@@ -18,6 +18,6 @@ OddNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32
 
 | Type | Name | Summary | 
 
-<sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub><sub>N</sub><sub>Count of signatures used for training</sub>
+<sub>N</sub><sub>Count of signatures used for training</sub>
 
 

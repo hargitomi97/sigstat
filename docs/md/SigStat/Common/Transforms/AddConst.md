@@ -20,14 +20,14 @@ AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)
 
 | Type | Name | Summary | 
 
-<sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>></sub><sub>Input</sub><sub>Input values for trasformation</sub>
-<sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>></sub><sub>Output</sub><sub>Output feature to store results</sub>
+<sub>Input</sub><sub>Input values for trasformation</sub>
+<sub>Output</sub><sub>Output feature to store results</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
 
-<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[Transform](./Methods/AddConst-100663603.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
+<sub>[Transform](./Methods/AddConst-100663603.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 
 

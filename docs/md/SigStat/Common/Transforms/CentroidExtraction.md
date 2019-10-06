@@ -20,14 +20,14 @@ CentroidExtraction (  )<sub></sub>
 
 | Type | Name | Summary | 
 
-<sub>[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>>></sub><sub>Inputs</sub><sub>List of features to process</sub>
-<sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>></sub><sub>OutputCentroid</sub><sub>List of centroid values</sub>
+<sub>Inputs</sub><sub>List of features to process</sub>
+<sub>OutputCentroid</sub><sub>List of centroid values</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
 
-<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[Transform](./Methods/CentroidExtraction-100663554.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
+<sub>[Transform](./Methods/CentroidExtraction-100663554.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 
 

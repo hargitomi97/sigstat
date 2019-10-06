@@ -20,16 +20,16 @@ ComponentExtraction ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/Syst
 
 | Type | Name | Summary | 
 
-<sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Point](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Point)>></sub><sub>CrossingPoints</sub><sub>crossing points</sub>
-<sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Point](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Point)>></sub><sub>EndPoints</sub><sub>endpoints</sub>
-<sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[PointF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.PointF)>>></sub><sub>OutputComponents</sub><sub>Output components</sub>
-<sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]></sub><sub>Skeleton</sub><sub>binary representation of a signature image</sub>
+<sub>CrossingPoints</sub><sub>crossing points</sub>
+<sub>EndPoints</sub><sub>endpoints</sub>
+<sub>OutputComponents</sub><sub>Output components</sub>
+<sub>Skeleton</sub><sub>binary representation of a signature image</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
 
-<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[Transform](./Methods/ComponentExtraction-100663565.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
+<sub>[Transform](./Methods/ComponentExtraction-100663565.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 
 

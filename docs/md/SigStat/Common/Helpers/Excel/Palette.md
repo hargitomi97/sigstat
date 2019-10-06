@@ -16,8 +16,8 @@ Palette ( [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.C
 
 | Type | Name | Summary | 
 
-<sub>[Color](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color)</sub><sub>DarkColor</sub><sub>Gets or sets the color for rendering darker elements</sub>
-<sub>[Color](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color)</sub><sub>LightColor</sub><sub>Gets or sets the color for rendering bright elements</sub>
-<sub>[Color](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color)</sub><sub>MainColor</sub><sub>Gets or sets the main color used in the palette</sub>
+<sub>DarkColor</sub><sub>Gets or sets the color for rendering darker elements</sub>
+<sub>LightColor</sub><sub>Gets or sets the color for rendering bright elements</sub>
+<sub>MainColor</sub><sub>Gets or sets the main color used in the palette</sub>
 
 

@@ -18,8 +18,8 @@ StrokeInterval ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.In
 
 | Type | Name | Summary | 
 
-<sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub><sub>EndIndex</sub><sub>The index of the last element</sub>
-<sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub><sub>StartIndex</sub><sub>The index of the firs element</sub>
-<sub>[StrokeType](./StrokeType.md)</sub><sub>StrokeType</sub><sub>The [StrokeInterval.StrokeType](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) of the stroke.</sub>
+<sub>EndIndex</sub><sub>The index of the last element</sub>
+<sub>StartIndex</sub><sub>The index of the firs element</sub>
+<sub>StrokeType</sub><sub>The [StrokeInterval.StrokeType](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) of the stroke.</sub>
 
 

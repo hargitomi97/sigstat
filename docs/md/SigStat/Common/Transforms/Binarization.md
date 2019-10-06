@@ -21,14 +21,14 @@ Binarization ( [`ForegroundType`](./Binarization.md), [`Nullable`](https://docs.
 
 | Type | Name | Summary | 
 
-<sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[Image](./Binarization.md)\<[Rgba32](./Binarization.md)>></sub><sub>InputImage</sub><sub>Gets or sets the featuredescriptor of the input image.</sub>
-<sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]></sub><sub>OutputMask</sub><sub>Gets or sets the featuredescriptor of a the binarized image.</sub>
+<sub>InputImage</sub><sub>Gets or sets the featuredescriptor of the input image.</sub>
+<sub>OutputMask</sub><sub>Gets or sets the featuredescriptor of a the binarized image.</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
 
-<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[Transform](./Methods/Binarization-100663642.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
+<sub>[Transform](./Methods/Binarization-100663642.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 
 

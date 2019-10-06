@@ -20,15 +20,15 @@ TangentExtraction (  )<sub></sub>
 
 | Type | Name | Summary | 
 
-<sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>></sub><sub>OutputTangent</sub><sub>Gets or sets the output feature representing the tangent angles of an online signature</sub>
-<sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>></sub><sub>X</sub><sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>
-<sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>></sub><sub>Y</sub><sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>
+<sub>OutputTangent</sub><sub>Gets or sets the output feature representing the tangent angles of an online signature</sub>
+<sub>X</sub><sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>
+<sub>Y</sub><sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
 
-<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[Transform](./Methods/TangentExtraction-100663596.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
+<sub>[Transform](./Methods/TangentExtraction-100663596.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 
 

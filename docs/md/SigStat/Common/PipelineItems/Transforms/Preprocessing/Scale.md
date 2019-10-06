@@ -20,16 +20,16 @@ Scale (  )<sub></sub>
 
 | Type | Name | Summary | 
 
-<sub>[FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>></sub><sub>InputFeature</sub><sub>Gets or sets the input feature.</sub>
-<sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub><sub>NewMaxValue</sub><sub><br>NewMaxValue: upper bound of the interval, in which the input feature will be scaled</sub>
-<sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub><sub>NewMinValue</sub><sub><br>NewMinValue: lower bound of the interval, in which the input feature will be scaled</sub>
-<sub>[FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>></sub><sub>OutputFeature</sub><sub>Gets or sets the output feature.</sub>
+<sub>InputFeature</sub><sub>Gets or sets the input feature.</sub>
+<sub>NewMaxValue</sub><sub><br>NewMaxValue: upper bound of the interval, in which the input feature will be scaled</sub>
+<sub>NewMinValue</sub><sub><br>NewMinValue: lower bound of the interval, in which the input feature will be scaled</sub>
+<sub>OutputFeature</sub><sub>Gets or sets the output feature.</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
 
-<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[Transform](./Methods/Scale-100663813.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub>
+<sub>[Transform](./Methods/Scale-100663813.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub>
 
 

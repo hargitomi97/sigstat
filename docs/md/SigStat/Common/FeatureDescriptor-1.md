@@ -11,6 +11,6 @@ Represents a feature with the type `T`
 
 | Return | Name | Summary | 
 
-<sub>[FeatureDescriptor](./FeatureDescriptor-1.md)\<[T](./FeatureDescriptor-1.md)></sub><sub>[Get](./Methods/FeatureDescriptor`1-100663422.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><sub></sub>
+<sub>[Get](./Methods/FeatureDescriptor`1-100663422.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><sub></sub>
 
 

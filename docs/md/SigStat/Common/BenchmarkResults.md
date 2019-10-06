@@ -11,7 +11,7 @@ Contains the benchmark results of every [Signer](https://github.com/hargitomi97/
 
 | Type | Name | Summary | 
 
-<sub>[Result](./Result.md)</sub><sub>FinalResult</sub><sub>Summarized, final result of the benchmark execution.</sub>
-<sub>[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Result](./Result.md)></sub><sub>SignerResults</sub><sub>List that contains the [Result](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Result.md)s for each [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md)</sub>
+<sub>FinalResult</sub><sub>Summarized, final result of the benchmark execution.</sub>
+<sub>SignerResults</sub><sub>List that contains the [Result](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Result.md)s for each [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md)</sub>
 
 

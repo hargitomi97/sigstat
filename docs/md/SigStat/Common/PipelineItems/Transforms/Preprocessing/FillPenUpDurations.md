@@ -20,17 +20,17 @@ FillPenUpDurations (  )<sub></sub>
 
 | Type | Name | Summary | 
 
-<sub>[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>>></sub><sub>InputFeatures</sub><sub>Gets or sets the features of an online signature that need to be altered</sub>
-<sub>[Type](https://docs.microsoft.com/en-us/dotnet/api/System.Type)</sub><sub>InterpolationType</sub><sub>An implementation of [PipelineItems.Transforms.Preprocessing.IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md)</sub>
-<sub>[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>>></sub><sub>OutputFeatures</sub><sub>Gets or sets the features of an online signature that were altered</sub>
-<sub>[FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>></sub><sub>TimeInputFeature</sub><sub>Gets or sets the feature representing the timestamps of an online signature</sub>
-<sub>[FeatureDescriptor](./../../../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>></sub><sub>TimeOutputFeature</sub><sub>Gets or sets the feature representing the modified timestamps of an online signature</sub>
+<sub>InputFeatures</sub><sub>Gets or sets the features of an online signature that need to be altered</sub>
+<sub>InterpolationType</sub><sub>An implementation of [PipelineItems.Transforms.Preprocessing.IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md)</sub>
+<sub>OutputFeatures</sub><sub>Gets or sets the features of an online signature that were altered</sub>
+<sub>TimeInputFeature</sub><sub>Gets or sets the feature representing the timestamps of an online signature</sub>
+<sub>TimeOutputFeature</sub><sub>Gets or sets the feature representing the modified timestamps of an online signature</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
 
-<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[Transform](./Methods/FillPenUpDurations-100663739.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub>
+<sub>[Transform](./Methods/FillPenUpDurations-100663739.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub>
 
 

@@ -18,6 +18,6 @@ Input ( [`AutoSetMode`](./AutoSetMode.md) )<sub>Initializes a new instance of th
 
 | Type | Name | Summary | 
 
-<sub>[AutoSetMode](./AutoSetMode.md)</sub><sub>AutoSetMode</sub><sub>The automatic set mode</sub>
+<sub>AutoSetMode</sub><sub>The automatic set mode</sub>
 
 

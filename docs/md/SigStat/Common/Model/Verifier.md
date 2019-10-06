@@ -22,18 +22,18 @@ Verifier ( [`Verifier`](./Verifier.md) )<sub>Initializes a new instance of the [
 
 | Type | Name | Summary | 
 
-<sub>[Dictionary](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.Dictionary-2)\<[String](https://docs.microsoft.com/en-us/dotnet/api/System.String), [FeatureDescriptor](./../FeatureDescriptor.md)></sub><sub>AllFeatures</sub><sub>This property is used by the Serializer to access a list of all FeatureDescriptors</sub>
-<sub>[IClassifier](./../Pipeline/IClassifier.md)</sub><sub>Classifier</sub><sub>Gets or sets the classifier pipeline. Hands over the Logger object.</sub>
-<sub>[ILogger](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger)</sub><sub>Logger</sub><sub>Gets or sets the class responsible for logging</sub>
-<sub>[SequentialTransformPipeline](./../Pipeline/SequentialTransformPipeline.md)</sub><sub>Pipeline</sub><sub>Gets or sets the transform pipeline. Hands over the Logger object.</sub>
-<sub>[ISignerModel](./../Pipeline/ISignerModel.md)</sub><sub>SignerModel</sub><sub>Gets or sets the signer model.</sub>
+<sub>AllFeatures</sub><sub>This property is used by the Serializer to access a list of all FeatureDescriptors</sub>
+<sub>Classifier</sub><sub>Gets or sets the classifier pipeline. Hands over the Logger object.</sub>
+<sub>Logger</sub><sub>Gets or sets the class responsible for logging</sub>
+<sub>Pipeline</sub><sub>Gets or sets the transform pipeline. Hands over the Logger object.</sub>
+<sub>SignerModel</sub><sub>Gets or sets the signer model.</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
 
-<sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub><sub>[Test](./Methods/Verifier-100664117.md) ( [`Signature`](./../Signature.md) )</sub><sub>Verifies the genuinity of `signature`.</sub>
-<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[Train](./Methods/Verifier-100664116.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> )</sub><sub>Trains the verifier with a list of signatures. Uses the [Model.Verifier.Pipeline](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to extract features,  and [Model.Verifier.Classifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to find an optimized limit.</sub>
+<sub>[Test](./Methods/Verifier-100664117.md) ( [`Signature`](./../Signature.md) )</sub><sub>Verifies the genuinity of `signature`.</sub>
+<sub>[Train](./Methods/Verifier-100664116.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> )</sub><sub>Trains the verifier with a list of signatures. Uses the [Model.Verifier.Pipeline](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to extract features,  and [Model.Verifier.Classifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to find an optimized limit.</sub>
 
 

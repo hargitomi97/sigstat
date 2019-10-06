@@ -20,21 +20,21 @@ SigComp15GermanLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/S
 
 | Type | Name | Summary | 
 
-<sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub><sub>DatabasePath</sub><sub>Gets or sets the database path.</sub>
-<sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub><sub>StandardFeatures</sub><sub>Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub>
+<sub>DatabasePath</sub><sub>Gets or sets the database path.</sub>
+<sub>StandardFeatures</sub><sub>Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
 
-<sub>[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../Signer.md)></sub><sub>[EnumerateSigners](./Methods/SigComp15GermanLoader-100663923.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><sub></sub>
+<sub>[EnumerateSigners](./Methods/SigComp15GermanLoader-100663923.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><sub></sub>
 
 
 ## Static Methods
 
 | Return | Name | Summary | 
 
-<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[LoadSignature](./Methods/SigComp15GermanLoader-100663924.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub><sub>Loads one signature from specified stream.</sub>
+<sub>[LoadSignature](./Methods/SigComp15GermanLoader-100663924.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub><sub>Loads one signature from specified stream.</sub>
 
 

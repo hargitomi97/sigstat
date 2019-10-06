@@ -20,16 +20,16 @@ PipelineBase (  )<sub>Initializes a new instance of the [PipelineBase](https://g
 
 | Type | Name | Summary | 
 
-<sub>[ILogger](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger)</sub><sub>Logger</sub><sub></sub>
-<sub>[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[PipelineInput](./Pipeline/PipelineInput.md)></sub><sub>PipelineInputs</sub><sub>A collection of inputs for the pipeline elements</sub>
-<sub>[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[PipelineOutput](./Pipeline/PipelineOutput.md)></sub><sub>PipelineOutputs</sub><sub>A collection of outputs for the pipeline elements</sub>
-<sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub><sub>Progress</sub><sub></sub>
+<sub>Logger</sub><sub></sub>
+<sub>PipelineInputs</sub><sub>A collection of inputs for the pipeline elements</sub>
+<sub>PipelineOutputs</sub><sub>A collection of outputs for the pipeline elements</sub>
+<sub>Progress</sub><sub></sub>
 
 
 ## Events
 
 | Type | Name | Summary | 
 
-<sub>[EventHandler](https://docs.microsoft.com/en-us/dotnet/api/System.EventHandler-1)\<[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)></sub><sub>ProgressChanged</sub><sub>The event is raised whenever the value of [PipelineBase.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) changes</sub>
+<sub>ProgressChanged</sub><sub>The event is raised whenever the value of [PipelineBase.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) changes</sub>
 
 

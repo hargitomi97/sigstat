@@ -18,14 +18,14 @@ DistanceMatrix (  )<sub></sub>
 
 | Type | Name | Summary | 
 
-<sub>[TValue](./DistanceMatrix-3.md)</sub><sub>Item [ [`TRowKey`](./DistanceMatrix-3.md) ]</sub><sub>Gets or sets a distance for a given row and column</sub>
+<sub>Item [ [`TRowKey`](./DistanceMatrix-3.md) ]</sub><sub>Gets or sets a distance for a given row and column</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
 
-<sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub><sub>[ContainsKey](./Methods/DistanceMatrix`3-100663394.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md) )</sub><sub></sub>
-<sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub><sub>[TryGetValue](./Methods/DistanceMatrix`3-100663393.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md), out [`TValue`](./DistanceMatrix-3.md) )</sub><sub></sub>
+<sub>[ContainsKey](./Methods/DistanceMatrix`3-100663394.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md) )</sub><sub></sub>
+<sub>[TryGetValue](./Methods/DistanceMatrix`3-100663393.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md), out [`TValue`](./DistanceMatrix-3.md) )</sub><sub></sub>
 
 

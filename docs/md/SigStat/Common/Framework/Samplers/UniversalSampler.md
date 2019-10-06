@@ -18,7 +18,7 @@ UniversalSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.
 
 | Type | Name | Summary | 
 
-<sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub><sub>TestCount</sub><sub>Count of signatures to use for testing</sub>
-<sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub><sub>TrainingCount</sub><sub>Count of signatures to use for training</sub>
+<sub>TestCount</sub><sub>Count of signatures to use for testing</sub>
+<sub>TrainingCount</sub><sub>Count of signatures to use for training</sub>
 
 

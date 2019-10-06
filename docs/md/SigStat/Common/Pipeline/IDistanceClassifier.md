@@ -13,6 +13,6 @@ Trains classification models based on reference signatures, by calculating the d
 
 | Type | Name | Summary | 
 
-<sub>[Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)></sub><sub>DistanceFunction</sub><sub>A function to calculate the distance between two online signature points</sub>
+<sub>DistanceFunction</sub><sub>A function to calculate the distance between two online signature points</sub>
 
 

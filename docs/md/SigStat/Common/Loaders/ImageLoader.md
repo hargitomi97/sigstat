@@ -20,13 +20,13 @@ ImageLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.Stri
 
 | Return | Name | Summary | 
 
-<sub>[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../Signer.md)></sub><sub>[EnumerateSigners](./Methods/ImageLoader-100663883.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><sub></sub>
+<sub>[EnumerateSigners](./Methods/ImageLoader-100663883.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><sub></sub>
 
 
 ## Static Methods
 
 | Return | Name | Summary | 
 
-<sub>[Signature](./../Signature.md)</sub><sub>[LoadSignature](./Methods/ImageLoader-100663884.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><sub></sub>
+<sub>[LoadSignature](./Methods/ImageLoader-100663884.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><sub></sub>
 
 

@@ -20,14 +20,14 @@ AddVector ( [`FeatureDescriptor`](./../FeatureDescriptor-1.md)\<[`List`](https:/
 
 | Type | Name | Summary | 
 
-<sub>[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>>></sub><sub>Inputs</sub><sub>Inputs</sub>
-<sub>[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>>></sub><sub>Outputs</sub><sub>Outputs</sub>
+<sub>Inputs</sub><sub>Inputs</sub>
+<sub>Outputs</sub><sub>Outputs</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
 
-<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[Transform](./Methods/AddVector-100663609.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
+<sub>[Transform](./Methods/AddVector-100663609.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 
 

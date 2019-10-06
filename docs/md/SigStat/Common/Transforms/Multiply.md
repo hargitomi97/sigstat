@@ -20,14 +20,14 @@ Multiply ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)
 
 | Type | Name | Summary | 
 
-<sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>></sub><sub>InputList</sub><sub>Input</sub>
-<sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>></sub><sub>Output</sub><sub>Output</sub>
+<sub>InputList</sub><sub>Input</sub>
+<sub>Output</sub><sub>Output</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
 
-<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[Transform](./Methods/Multiply-100663629.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
+<sub>[Transform](./Methods/Multiply-100663629.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 
 
