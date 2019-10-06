@@ -1,4 +1,4 @@
-# <sub>[UniversalSampler](./UniversalSampler.md)</sub>
+# [UniversalSampler](./UniversalSampler.md)
 
 Namespace: [SigStat]() > [Common](./../../README.md) > [Framework]() > [Samplers](./README.md)
 
@@ -11,7 +11,7 @@ Selects a given number of signatures for training and testing
 
 | Name | Summary | 
 
-UniversalSampler ( <sub>[`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub>, <sub>[`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub> )<sub>Constructor</sub>
+UniversalSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )<sub>Constructor</sub>
 
 
 ## Properties

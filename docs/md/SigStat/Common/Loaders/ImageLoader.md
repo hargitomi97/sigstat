@@ -1,10 +1,10 @@
-# <sub>[ImageLoader](./ImageLoader.md)</sub>
+# [ImageLoader](./ImageLoader.md)
 
 Namespace: [SigStat]() > [Common](./../README.md) > [Loaders](./README.md)
 
 Assembly: SigStat.Common.dll
 
-Implements <sub>[IDataSetLoader](./IDataSetLoader.md)</sub>, <sub>[ILoggerObject](./../ILoggerObject.md)</sub>
+Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerObject.md)
 
 ## Summary
 DataSetLoader for Image type databases.  Similar format to Svc2004Loader, but finds png images.
@@ -13,20 +13,20 @@ DataSetLoader for Image type databases.  Similar format to Svc2004Loader, but fi
 
 | Name | Summary | 
 
-ImageLoader ( <sub>[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub> )<sub>Initializes a new instance of the [Loaders.ImageLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/ImageLoader.md) class with specified database.</sub>
+ImageLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )<sub>Initializes a new instance of the [Loaders.ImageLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/ImageLoader.md) class with specified database.</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
 
-<sub>[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)</sub>\<<sub>[Signer](./../Signer.md)</sub>><sub>[EnumerateSigners](./Methods/ImageLoader-100663883.md) ( <sub>[`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)</sub>\<<sub>[`Signer`](./../Signer.md)</sub>> )</sub><sub></sub>
+<sub>[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../Signer.md)></sub><sub>[EnumerateSigners](./Methods/ImageLoader-100663883.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><sub></sub>
 
 
 ## Static Methods
 
 | Return | Name | Summary | 
 
-<sub>[Signature](./../Signature.md)</sub><sub>[LoadSignature](./Methods/ImageLoader-100663884.md) ( <sub>[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub> )</sub><sub></sub>
+<sub>[Signature](./../Signature.md)</sub><sub>[LoadSignature](./Methods/ImageLoader-100663884.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><sub></sub>
 
 

@@ -1,10 +1,10 @@
-# <sub>[DataSetLoader](./DataSetLoader.md)</sub>
+# [DataSetLoader](./DataSetLoader.md)
 
 Namespace: [SigStat]() > [Common](./../README.md) > [Loaders](./README.md)
 
 Assembly: SigStat.Common.dll
 
-Implements <sub>[IDataSetLoader](./IDataSetLoader.md)</sub>, <sub>[ILoggerObject](./../ILoggerObject.md)</sub>
+Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerObject.md)
 
 ## Summary
 Abstract loader class to inherit from. Implements ILogger.
@@ -20,7 +20,7 @@ Abstract loader class to inherit from. Implements ILogger.
 
 | Return | Name | Summary | 
 
-<sub>[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)</sub>\<<sub>[Signer](./../Signer.md)</sub>><sub>[EnumerateSigners](./Methods/DataSetLoader-100663877.md) (  )</sub><sub></sub>
-<sub>[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)</sub>\<<sub>[Signer](./../Signer.md)</sub>><sub>[EnumerateSigners](./Methods/DataSetLoader-100663878.md) ( <sub>[`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)</sub>\<<sub>[`Signer`](./../Signer.md)</sub>> )</sub><sub></sub>
+<sub>[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../Signer.md)></sub><sub>[EnumerateSigners](./Methods/DataSetLoader-100663877.md) (  )</sub><sub></sub>
+<sub>[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../Signer.md)></sub><sub>[EnumerateSigners](./Methods/DataSetLoader-100663878.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><sub></sub>
 
 

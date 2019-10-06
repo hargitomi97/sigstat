@@ -1,4 +1,4 @@
-# <sub>[Result](./Result.md)</sub>
+# [Result](./Result.md)
 
 Namespace: [SigStat]() > [Common](./README.md)
 

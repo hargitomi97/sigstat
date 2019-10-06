@@ -1,10 +1,10 @@
-# <sub>[ApproximateOnlineFeatures](./ApproximateOnlineFeatures.md)</sub>
+# [ApproximateOnlineFeatures](./ApproximateOnlineFeatures.md)
 
 Namespace: [SigStat]() > [Common](./../README.md) > [Transforms](./README.md)
 
 Assembly: SigStat.Common.dll
 
-Implements <sub>[ILoggerObject](./../ILoggerObject.md)</sub>, <sub>[IProgress](./../Helpers/IProgress.md)</sub>, <sub>[IPipelineIO](./../Pipeline/IPipelineIO.md)</sub>, <sub>[ITransformation](./../ITransformation.md)</sub>
+Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [ITransformation](./../ITransformation.md)
 
 ## Summary
 init Pressure, Altitude, Azimuth features with default values.  <br>Default Pipeline Output: Features.Pressure, Features.Altitude, Features.Azimuth
@@ -20,6 +20,6 @@ ApproximateOnlineFeatures (  )<sub></sub>
 
 | Return | Name | Summary | 
 
-[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[Transform](./Methods/ApproximateOnlineFeatures-100663548.md) ( <sub>[`Signature`](./../Signature.md)</sub> )</sub><sub></sub>
+<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[Transform](./Methods/ApproximateOnlineFeatures-100663548.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 
 

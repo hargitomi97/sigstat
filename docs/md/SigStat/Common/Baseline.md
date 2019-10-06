@@ -1,4 +1,4 @@
-# <sub>[Baseline](./Baseline.md)</sub>
+# [Baseline](./Baseline.md)
 
 Namespace: [SigStat]() > [Common](./README.md)
 
@@ -10,7 +10,7 @@ Assembly: SigStat.Common.dll
 | Name | Summary | 
 
 Baseline (  )<sub>Initializes a Baseline instance</sub>
-Baseline ( <sub>[`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub>, <sub>[`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub>, <sub>[`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub>, <sub>[`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub> )<sub>Initializes a Baseline instance with the given startpoint and endpoint</sub>
+Baseline ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )<sub>Initializes a Baseline instance with the given startpoint and endpoint</sub>
 
 
 ## Properties

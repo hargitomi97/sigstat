@@ -2,8 +2,8 @@
 
 ## Types
 
-- <sub>[`NetCoreFeatureDescriptorConverter`](./NetCoreFeatureDescriptorConverter.md)</sub>
-- <sub>[`NetCoreFeatureDescriptorDictionaryConverter`](./NetCoreFeatureDescriptorDictionaryConverter.md)</sub>
-- <sub>[`NetCoreFeatureDescriptorTConverter`](./NetCoreFeatureDescriptorTConverter.md)</sub>
-- <sub>[`NetCoreSerializationHelper`](./NetCoreSerializationHelper.md)</sub>
+- [`NetCoreFeatureDescriptorConverter`](./NetCoreFeatureDescriptorConverter.md)
+- [`NetCoreFeatureDescriptorDictionaryConverter`](./NetCoreFeatureDescriptorDictionaryConverter.md)
+- [`NetCoreFeatureDescriptorTConverter`](./NetCoreFeatureDescriptorTConverter.md)
+- [`NetCoreSerializationHelper`](./NetCoreSerializationHelper.md)
 

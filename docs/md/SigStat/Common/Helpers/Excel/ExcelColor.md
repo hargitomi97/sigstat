@@ -1,4 +1,4 @@
-# <sub>[ExcelColor](./ExcelColor.md)</sub>
+# [ExcelColor](./ExcelColor.md)
 Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md) > [Excel](./README.md)
 
 Assembly: SigStat.Common.dll

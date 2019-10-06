@@ -1,4 +1,4 @@
-# <sub>[ISignerModel](./ISignerModel.md)</sub>
+# [ISignerModel](./ISignerModel.md)
 
 Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 

@@ -1,10 +1,10 @@
-# <sub>[IDistanceClassifier](./IDistanceClassifier.md)</sub>
+# [IDistanceClassifier](./IDistanceClassifier.md)
 
 Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 
 Assembly: SigStat.Common.dll
 
-Implements <sub>[IClassifier](./IClassifier.md)</sub>
+Implements [IClassifier](./IClassifier.md)
 
 ## Summary
 Trains classification models based on reference signatures, by calculating the distances between signature pairs
@@ -13,6 +13,6 @@ Trains classification models based on reference signatures, by calculating the d
 
 | Type | Name | Summary | 
 
-[Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<<sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[]</sub>, <sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[]</sub>, <sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub>><sub>DistanceFunction</sub><sub>A function to calculate the distance between two online signature points</sub>
+<sub>[Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)></sub><sub>DistanceFunction</sub><sub>A function to calculate the distance between two online signature points</sub>
 
 

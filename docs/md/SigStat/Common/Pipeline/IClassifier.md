@@ -1,4 +1,4 @@
-# <sub>[IClassifier](./IClassifier.md)</sub>
+# [IClassifier](./IClassifier.md)
 
 Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 
@@ -11,7 +11,7 @@ Trains classification models based on reference signatures
 
 | Return | Name | Summary | 
 
-<sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub><sub>[Test](./Methods/IClassifier-100663477.md) ( <sub>[`ISignerModel`](./ISignerModel.md)</sub>, <sub>[`Signature`](./../Signature.md)</sub> )</sub><sub></sub>
-<sub>[ISignerModel](./ISignerModel.md)</sub><sub>[Train](./Methods/IClassifier-100663476.md) ( <sub>[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)</sub>\<<sub>[`Signature`](./../Signature.md)</sub>> )</sub><sub>Trains a model based on the signatures and returns the trained model</sub>
+<sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub><sub>[Test](./Methods/IClassifier-100663477.md) ( [`ISignerModel`](./ISignerModel.md), [`Signature`](./../Signature.md) )</sub><sub></sub>
+<sub>[ISignerModel](./ISignerModel.md)</sub><sub>[Train](./Methods/IClassifier-100663476.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> )</sub><sub>Trains a model based on the signatures and returns the trained model</sub>
 
 

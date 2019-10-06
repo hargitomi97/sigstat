@@ -1,4 +1,4 @@
-# <sub>[Palette](./Palette.md)</sub>
+# [Palette](./Palette.md)
 
 Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md) > [Excel](./README.md)
 
@@ -9,7 +9,7 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 
-Palette ( <sub>[`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color)</sub>, <sub>[`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color)</sub>, <sub>[`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color)</sub> )<sub>Initializes a new instance of the [Helpers.Excel.Palette](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/Excel/Palette.md) class.</sub>
+Palette ( [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color), [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color), [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) )<sub>Initializes a new instance of the [Helpers.Excel.Palette](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/Excel/Palette.md) class.</sub>
 
 
 ## Properties

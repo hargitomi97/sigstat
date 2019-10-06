@@ -2,14 +2,14 @@
 
 ## Types
 
-- <sub>[`EvenNSampler`](./EvenNSampler.md)</sub>
+- [`EvenNSampler`](./EvenNSampler.md)
 	- Selects the first N signatures with even index for training
-- <sub>[`FirstNSampler`](./FirstNSampler.md)</sub>
+- [`FirstNSampler`](./FirstNSampler.md)
 	- Selects the first N signatures for training
-- <sub>[`LastNSampler`](./LastNSampler.md)</sub>
+- [`LastNSampler`](./LastNSampler.md)
 	- Selects the first N signatures for training
-- <sub>[`OddNSampler`](./OddNSampler.md)</sub>
+- [`OddNSampler`](./OddNSampler.md)
 	- Selects the first N signatures with odd index for training
-- <sub>[`UniversalSampler`](./UniversalSampler.md)</sub>
+- [`UniversalSampler`](./UniversalSampler.md)
 	- Selects a given number of signatures for training and testing
 

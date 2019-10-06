@@ -2,5 +2,5 @@
 
 ## Types
 
-- <sub>[`Palette`](./Palette.md)</sub>
+- [`Palette`](./Palette.md)
 

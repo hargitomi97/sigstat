@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-<sub>[TryGetValue](./DistanceMatrix`3-100663393.md) ( <sub>[`TRowKey`](./DistanceMatrix`3-100663393.md)</sub> row, <sub>[`TColumnKey`](./DistanceMatrix`3-100663393.md)</sub> column, out <sub>[`TValue`](./DistanceMatrix`3-100663393.md)</sub> value )</sub>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub></sub>
+<sub>[TryGetValue](./DistanceMatrix`3-100663393.md) ( [`TRowKey`](./DistanceMatrix`3-100663393.md) row, [`TColumnKey`](./DistanceMatrix`3-100663393.md) column, out [`TValue`](./DistanceMatrix`3-100663393.md) value )</sub>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub></sub>

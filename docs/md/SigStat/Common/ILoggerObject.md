@@ -1,4 +1,4 @@
-# <sub>[ILoggerObject](./ILoggerObject.md)</sub>
+# [ILoggerObject](./ILoggerObject.md)
 
 Namespace: [SigStat]() > [Common](./README.md)
 

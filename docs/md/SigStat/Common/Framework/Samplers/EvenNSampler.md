@@ -1,4 +1,4 @@
-# <sub>[EvenNSampler](./EvenNSampler.md)</sub>
+# [EvenNSampler](./EvenNSampler.md)
 
 Namespace: [SigStat]() > [Common](./../../README.md) > [Framework]() > [Samplers](./README.md)
 
@@ -11,7 +11,7 @@ Selects the first N signatures with even index for training
 
 | Name | Summary | 
 
-EvenNSampler ( <sub>[`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub> )<sub>Constructor</sub>
+EvenNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )<sub>Constructor</sub>
 
 
 ## Properties

@@ -1,4 +1,4 @@
-# <sub>[OddNSampler](./OddNSampler.md)</sub>
+# [OddNSampler](./OddNSampler.md)
 
 Namespace: [SigStat]() > [Common](./../../README.md) > [Framework]() > [Samplers](./README.md)
 
@@ -11,7 +11,7 @@ Selects the first N signatures with odd index for training
 
 | Name | Summary | 
 
-OddNSampler ( <sub>[`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub> )<sub>Constructor</sub>
+OddNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )<sub>Constructor</sub>
 
 
 ## Properties

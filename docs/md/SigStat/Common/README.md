@@ -2,53 +2,53 @@
 
 ## Types
 
-- <sub>[`ArrayExtension`](./ArrayExtension.md)</sub>
+- [`ArrayExtension`](./ArrayExtension.md)
 	- Helper methods for processing arrays
-- <sub>[`Baseline`](./Baseline.md)</sub>
-- <sub>[`BasicMetadataExtraction`](./BasicMetadataExtraction.md)</sub>
+- [`Baseline`](./Baseline.md)
+- [`BasicMetadataExtraction`](./BasicMetadataExtraction.md)
 	- Extracts basic statistical signature (like [Features.Bounds](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) or [Features.Cog](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)) information from an Image
-- <sub>[`BenchmarkResults`](./BenchmarkResults.md)</sub>
+- [`BenchmarkResults`](./BenchmarkResults.md)
 	- Contains the benchmark results of every [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md) and the summarized final results.
-- <sub>[`DistanceMatrix`](./DistanceMatrix-3.md)</sub>\<<sub>[`TRowKey`](./README.md)</sub>, <sub>[`TColumnKey`](./README.md)</sub>, <sub>[`TValue`](./README.md)</sub>>
+- [`DistanceMatrix`](./DistanceMatrix-3.md)\<[`TRowKey`](./README.md), [`TColumnKey`](./README.md), [`TValue`](./README.md)>
 	- A Sparse Matrix representation of a distance graph.
-- <sub>[`ErrorRate`](./ErrorRate.md)</sub>
+- [`ErrorRate`](./ErrorRate.md)
 	- Represents the ErrorRates achieved in a benchmark
-- <sub>[`FeatureDescriptor`](./FeatureDescriptor.md)</sub>
+- [`FeatureDescriptor`](./FeatureDescriptor.md)
 	- Represents a feature with name and type.
-- <sub>[`FeatureDescriptor`](./FeatureDescriptor-1.md)</sub>\<<sub>[`T`](./README.md)</sub>>
+- [`FeatureDescriptor`](./FeatureDescriptor-1.md)\<[`T`](./README.md)>
 	- Represents a feature with the type `T`
-- <sub>[`Features`](./Features.md)</sub>
+- [`Features`](./Features.md)
 	- Standard set of features.
-- <sub>[`ILoggerObject`](./ILoggerObject.md)</sub>
+- [`ILoggerObject`](./ILoggerObject.md)
 	- Represents a type, that contains an ILogger property that can be used to perform logging.
-- <sub>[`ILoggerObjectExtensions`](./ILoggerObjectExtensions.md)</sub>
+- [`ILoggerObjectExtensions`](./ILoggerObjectExtensions.md)
 	- ILoggerObject extension methods for common scenarios.
-- <sub>[`IOExtensions`](./IOExtensions.md)</sub>
+- [`IOExtensions`](./IOExtensions.md)
 	- Extension methods for common IO operations
-- <sub>[`ITransformation`](./ITransformation.md)</sub>
+- [`ITransformation`](./ITransformation.md)
 	- Allows implementing a pipeline transform item capable of logging, progress tracking and IO rewiring.
-- <sub>[`Loop`](./Loop.md)</sub>
+- [`Loop`](./Loop.md)
 	- Represents a loop in a signature
-- <sub>[`MathHelper`](./MathHelper.md)</sub>
+- [`MathHelper`](./MathHelper.md)
 	- Common mathematical functions used by the SigStat framework
-- <sub>[`PipelineBase`](./PipelineBase.md)</sub>
+- [`PipelineBase`](./PipelineBase.md)
 	- TODO: Ideiglenes osztaly, C# 8.0 ban ezt atalakitani default implementacios interface be.  ILoggerObject, IProgress, IPipelineIO default implementacioja.
-- <sub>[`Result`](./Result.md)</sub>
+- [`Result`](./Result.md)
 	- Contains the benchmark results of a single [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md)
-- <sub>[`Sampler`](./Sampler.md)</sub>
+- [`Sampler`](./Sampler.md)
 	- Takes samples from a set of [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)s by given sampling strategies.  Use this to fine-tune the [VerifierBenchmark](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/VerifierBenchmark.md)
-- <sub>[`Signature`](./Signature.md)</sub>
+- [`Signature`](./Signature.md)
 	- Represents a signature as a collection of features, containing the data that flows in the pipeline.
-- <sub>[`Signer`](./Signer.md)</sub>
+- [`Signer`](./Signer.md)
 	- Represents a person as an [Signer.ID](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md) and a list of [Signer.Signatures](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md).
-- <sub>[`SigStatEvents`](./SigStatEvents.md)</sub>
+- [`SigStatEvents`](./SigStatEvents.md)
 	- Standard event identifiers used by the SigStat system
-- <sub>[`SimpleRenderingTransformation`](./SimpleRenderingTransformation.md)</sub>
+- [`SimpleRenderingTransformation`](./SimpleRenderingTransformation.md)
 	- Renders an image of the signature based on the available online information (X,Y,Dpi)
-- <sub>[`StrokeHelper`](./StrokeHelper.md)</sub>
+- [`StrokeHelper`](./StrokeHelper.md)
 	- Helper class for locating and manipulating strokes in an online signature
-- <sub>[`StrokeInterval`](./StrokeInterval.md)</sub>
+- [`StrokeInterval`](./StrokeInterval.md)
 	- Represents a stroke in an online signature
-- <sub>[`VerifierBenchmark`](./VerifierBenchmark.md)</sub>
+- [`VerifierBenchmark`](./VerifierBenchmark.md)
 	- Benchmarking class to test error rates of a [Model.Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md)
 

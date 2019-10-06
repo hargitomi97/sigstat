@@ -1,10 +1,10 @@
-# <sub>[MCYTLoader](./MCYTLoader.md)</sub>
+# [MCYTLoader](./MCYTLoader.md)
 
 Namespace: [SigStat]() > [Common](./../README.md) > [Loaders](./README.md)
 
 Assembly: SigStat.Common.dll
 
-Implements <sub>[IDataSetLoader](./IDataSetLoader.md)</sub>, <sub>[ILoggerObject](./../ILoggerObject.md)</sub>
+Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerObject.md)
 
 ## Summary
 [Loaders.DataSetLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/DataSetLoader.md) for the MCYT dataset
@@ -13,7 +13,7 @@ Implements <sub>[IDataSetLoader](./IDataSetLoader.md)</sub>, <sub>[ILoggerObject
 
 | Name | Summary | 
 
-MCYTLoader ( <sub>[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub>, <sub>[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub> )<sub>Initializes a new instance of the [Loaders.MCYTLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/MCYTLoader.md) class.</sub>
+MCYTLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )<sub>Initializes a new instance of the [Loaders.MCYTLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/MCYTLoader.md) class.</sub>
 
 
 ## Properties
@@ -28,13 +28,13 @@ MCYTLoader ( <sub>[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.
 
 | Return | Name | Summary | 
 
-<sub>[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)</sub>\<<sub>[Signer](./../Signer.md)</sub>><sub>[EnumerateSigners](./Methods/MCYTLoader-100663892.md) ( <sub>[`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)</sub>\<<sub>[`Signer`](./../Signer.md)</sub>> )</sub><sub></sub>
+<sub>[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../Signer.md)></sub><sub>[EnumerateSigners](./Methods/MCYTLoader-100663892.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><sub></sub>
 
 
 ## Static Methods
 
 | Return | Name | Summary | 
 
-[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[LoadSignature](./Methods/MCYTLoader-100663893.md) ( <sub>[`Signature`](./../Signature.md)</sub>, <sub>[`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream)</sub>, <sub>[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub> )</sub><sub>Loads one signature from specified stream.</sub>
+<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[LoadSignature](./Methods/MCYTLoader-100663893.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub><sub>Loads one signature from specified stream.</sub>
 
 

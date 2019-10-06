@@ -1,4 +1,4 @@
-# <sub>[HSCPThinningStep](./HSCPThinningStep.md)</sub>
+# [HSCPThinningStep](./HSCPThinningStep.md)
 
 Namespace: [SigStat]() > [Common](./../README.md) > [Algorithms](./README.md)
 
@@ -18,13 +18,13 @@ HSCPThinningStep (  )<sub></sub>
 
 | Type | Name | Summary | 
 
-<sub>[Nullable](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)</sub>\<<sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub>><sub>ResultChanged</sub><sub>Gets whether the last [Algorithms.HSCPThinningStep.Scan](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Algorithms/HSCPThinningStep.md) call was effective.</sub>
+<sub>[Nullable](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)\<[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)></sub><sub>ResultChanged</sub><sub>Gets whether the last [Algorithms.HSCPThinningStep.Scan](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Algorithms/HSCPThinningStep.md) call was effective.</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
 
-<sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]</sub><sub>[Scan](./Methods/HSCPThinningStep-100664156.md) ( <sub>[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]</sub> )</sub><sub>Does one step of the thinning. Call it iteratively while ResultChanged.</sub>
+<sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]</sub><sub>[Scan](./Methods/HSCPThinningStep-100664156.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><sub>Does one step of the thinning. Call it iteratively while ResultChanged.</sub>
 
 

@@ -1,10 +1,10 @@
-# <sub>[BasicMetadataExtraction](./BasicMetadataExtraction.md)</sub>
+# [BasicMetadataExtraction](./BasicMetadataExtraction.md)
 
 Namespace: [SigStat]() > [Common](./README.md)
 
 Assembly: SigStat.Common.dll
 
-Implements <sub>[ILoggerObject](./ILoggerObject.md)</sub>, <sub>[IProgress](./Helpers/IProgress.md)</sub>, <sub>[IPipelineIO](./Pipeline/IPipelineIO.md)</sub>, <sub>[ITransformation](./ITransformation.md)</sub>
+Implements [ILoggerObject](./ILoggerObject.md), [IProgress](./Helpers/IProgress.md), [IPipelineIO](./Pipeline/IPipelineIO.md), [ITransformation](./ITransformation.md)
 
 ## Summary
 Extracts basic statistical signature (like [Features.Bounds](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) or [Features.Cog](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)) information from an Image
@@ -20,7 +20,7 @@ BasicMetadataExtraction (  )<sub></sub>
 
 | Return | Name | Summary | 
 
-[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[Transform](./Methods/BasicMetadataExtraction-100663456.md) ( <sub>[`Signature`](./Signature.md)</sub> )</sub><sub></sub>
+<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[Transform](./Methods/BasicMetadataExtraction-100663456.md) ( [`Signature`](./Signature.md) )</sub><sub></sub>
 
 
 ## Static Properties

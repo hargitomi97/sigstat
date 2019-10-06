@@ -1,4 +1,4 @@
-# <sub>[StrokeType](./StrokeType.md)</sub>
+# [StrokeType](./StrokeType.md)
 Namespace: [SigStat]() > [Common](./README.md)
 
 Assembly: SigStat.Common.dll

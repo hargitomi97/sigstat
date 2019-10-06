@@ -1,4 +1,4 @@
-# <sub>[ErrorRate](./ErrorRate.md)</sub>
+# [ErrorRate](./ErrorRate.md)
 
 Namespace: [SigStat]() > [Common](./README.md)
 

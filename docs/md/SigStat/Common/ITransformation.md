@@ -1,10 +1,10 @@
-# <sub>[ITransformation](./ITransformation.md)</sub>
+# [ITransformation](./ITransformation.md)
 
 Namespace: [SigStat]() > [Common](./README.md)
 
 Assembly: SigStat.Common.dll
 
-Implements <sub>[IPipelineIO](./Pipeline/IPipelineIO.md)</sub>
+Implements [IPipelineIO](./Pipeline/IPipelineIO.md)
 
 ## Summary
 Allows implementing a pipeline transform item capable of logging, progress tracking and IO rewiring.
@@ -13,6 +13,6 @@ Allows implementing a pipeline transform item capable of logging, progress track
 
 | Return | Name | Summary | 
 
-[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[Transform](./Methods/ITransformation-100663461.md) ( <sub>[`Signature`](./Signature.md)</sub> )</sub><sub>Executes the transform on the `signature` parameter.  This function gets called by the pipeline.</sub>
+<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[Transform](./Methods/ITransformation-100663461.md) ( [`Signature`](./Signature.md) )</sub><sub>Executes the transform on the `signature` parameter.  This function gets called by the pipeline.</sub>
 
 

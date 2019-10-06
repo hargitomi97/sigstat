@@ -1,4 +1,4 @@
-# <sub>[RectangleFConverter](./RectangleFConverter.md)</sub>
+# [RectangleFConverter](./RectangleFConverter.md)
 
 Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md) > [Serialization](./README.md)
 
@@ -18,8 +18,8 @@ RectangleFConverter (  )<sub></sub>
 
 | Return | Name | Summary | 
 
-<sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub><sub>[CanConvert](./Methods/RectangleFConverter-100664058.md) ( <sub>[`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)</sub> )</sub><sub>Tells if the current object is of the correct type</sub>
-<sub>[Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object)</sub><sub>[ReadJson](./Methods/RectangleFConverter-100664059.md) ( <sub>[`JsonReader`](./RectangleFConverter.md)</sub>, <sub>[`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)</sub>, <sub>[`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)</sub>, <sub>[`JsonSerializer`](./RectangleFConverter.md)</sub> )</sub><sub></sub>
-[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[WriteJson](./Methods/RectangleFConverter-100664060.md) ( <sub>[`JsonWriter`](./RectangleFConverter.md)</sub>, <sub>[`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)</sub>, <sub>[`JsonSerializer`](./RectangleFConverter.md)</sub> )</sub><sub></sub>
+<sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub><sub>[CanConvert](./Methods/RectangleFConverter-100664058.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub><sub>Tells if the current object is of the correct type</sub>
+<sub>[Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object)</sub><sub>[ReadJson](./Methods/RectangleFConverter-100664059.md) ( [`JsonReader`](./RectangleFConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./RectangleFConverter.md) )</sub><sub></sub>
+<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[WriteJson](./Methods/RectangleFConverter-100664060.md) ( [`JsonWriter`](./RectangleFConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./RectangleFConverter.md) )</sub><sub></sub>
 
 

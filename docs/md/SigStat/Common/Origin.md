@@ -1,4 +1,4 @@
-# <sub>[Origin](./Origin.md)</sub>
+# [Origin](./Origin.md)
 Namespace: [SigStat]() > [Common](./README.md)
 
 Assembly: SigStat.Common.dll

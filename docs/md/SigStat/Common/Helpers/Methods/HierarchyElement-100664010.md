@@ -4,4 +4,4 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md)
 
 Assembly: SigStat.Common.dll
 
-<sub>[Add](./HierarchyElement-100664010.md) ( <sub>[`HierarchyElement`](./../HierarchyElement.md)</sub> child )</sub>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub></sub>
+<sub>[Add](./HierarchyElement-100664010.md) ( [`HierarchyElement`](./../HierarchyElement.md) child )</sub>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<sub></sub>

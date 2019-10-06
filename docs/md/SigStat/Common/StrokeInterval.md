@@ -1,4 +1,4 @@
-# <sub>[StrokeInterval](./StrokeInterval.md)</sub>
+# [StrokeInterval](./StrokeInterval.md)
 
 Namespace: [SigStat]() > [Common](./README.md)
 
@@ -11,7 +11,7 @@ Represents a stroke in an online signature
 
 | Name | Summary | 
 
-StrokeInterval ( <sub>[`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub>, <sub>[`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub>, <sub>[`StrokeType`](./StrokeType.md)</sub> )<sub>Initializes a new instance of the [StrokeInterval](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) struct.</sub>
+StrokeInterval ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`StrokeType`](./StrokeType.md) )<sub>Initializes a new instance of the [StrokeInterval](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) struct.</sub>
 
 
 ## Fields

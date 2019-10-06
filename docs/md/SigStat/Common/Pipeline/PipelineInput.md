@@ -1,4 +1,4 @@
-# <sub>[PipelineInput](./PipelineInput.md)</sub>
+# [PipelineInput](./PipelineInput.md)
 
 Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 
@@ -11,7 +11,7 @@ Represents an input for a [Pipeline.PipelineInput.PipelineItem](https://github.c
 
 | Name | Summary | 
 
-PipelineInput ( <sub>[`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)</sub>, <sub>[`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo)</sub> )<sub>Initializes a new instance of the [Pipeline.PipelineInput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineInput.md) class.</sub>
+PipelineInput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )<sub>Initializes a new instance of the [Pipeline.PipelineInput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineInput.md) class.</sub>
 
 
 ## Properties

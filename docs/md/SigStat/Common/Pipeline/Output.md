@@ -1,4 +1,4 @@
-# <sub>[Output](./Output.md)</sub>
+# [Output](./Output.md)
 
 Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 
@@ -11,7 +11,7 @@ Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/b
 
 | Name | Summary | 
 
-Output ( <sub>[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub> )<sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>
+Output ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )<sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>
 Output (  )<sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>
 
 

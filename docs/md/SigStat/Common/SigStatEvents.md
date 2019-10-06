@@ -1,4 +1,4 @@
-# <sub>[SigStatEvents](./SigStatEvents.md)</sub>
+# [SigStatEvents](./SigStatEvents.md)
 
 Namespace: [SigStat]() > [Common](./README.md)
 

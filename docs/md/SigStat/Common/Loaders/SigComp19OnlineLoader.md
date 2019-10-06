@@ -1,10 +1,10 @@
-# <sub>[SigComp19OnlineLoader](./SigComp19OnlineLoader.md)</sub>
+# [SigComp19OnlineLoader](./SigComp19OnlineLoader.md)
 
 Namespace: [SigStat]() > [Common](./../README.md) > [Loaders](./README.md)
 
 Assembly: SigStat.Common.dll
 
-Implements <sub>[IDataSetLoader](./IDataSetLoader.md)</sub>, <sub>[ILoggerObject](./../ILoggerObject.md)</sub>
+Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerObject.md)
 
 ## Summary
 [Loaders.DataSetLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/DataSetLoader.md) for the SigComp19 dataset
@@ -13,7 +13,7 @@ Implements <sub>[IDataSetLoader](./IDataSetLoader.md)</sub>, <sub>[ILoggerObject
 
 | Name | Summary | 
 
-SigComp19OnlineLoader ( <sub>[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub>, <sub>[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub> )<sub>Initializes a new instance of the [Loaders.SigComp19OnlineLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp19OnlineLoader.md) class.</sub>
+SigComp19OnlineLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )<sub>Initializes a new instance of the [Loaders.SigComp19OnlineLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp19OnlineLoader.md) class.</sub>
 
 
 ## Properties
@@ -28,13 +28,13 @@ SigComp19OnlineLoader ( <sub>[`String`](https://docs.microsoft.com/en-us/dotnet/
 
 | Return | Name | Summary | 
 
-<sub>[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)</sub>\<<sub>[Signer](./../Signer.md)</sub>><sub>[EnumerateSigners](./Methods/SigComp19OnlineLoader-100663931.md) ( <sub>[`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)</sub>\<<sub>[`Signer`](./../Signer.md)</sub>> )</sub><sub></sub>
+<sub>[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../Signer.md)></sub><sub>[EnumerateSigners](./Methods/SigComp19OnlineLoader-100663931.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><sub></sub>
 
 
 ## Static Methods
 
 | Return | Name | Summary | 
 
-[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[LoadSignature](./Methods/SigComp19OnlineLoader-100663932.md) ( <sub>[`Signature`](./../Signature.md)</sub>, <sub>[`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream)</sub>, <sub>[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub> )</sub><sub>Loads one signature from specified stream.</sub>
+<sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><sub>[LoadSignature](./Methods/SigComp19OnlineLoader-100663932.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub><sub>Loads one signature from specified stream.</sub>
 
 

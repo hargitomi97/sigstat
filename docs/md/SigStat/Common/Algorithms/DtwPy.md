@@ -1,4 +1,4 @@
-# <sub>[DtwPy](./DtwPy.md)</sub>
+# [DtwPy](./DtwPy.md)
 
 Namespace: [SigStat]() > [Common](./../README.md) > [Algorithms](./README.md)
 
@@ -11,7 +11,7 @@ A simple implementation of the DTW algorithm.
 
 | Return | Name | Summary | 
 
-<sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub><sub>[Dtw](./Methods/DtwPy-100664152.md) ( [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<<sub>[`P`](./DtwPy.md)</sub>>, [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<<sub>[`P`](./DtwPy.md)</sub>>, [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<<sub>[`P`](./DtwPy.md)</sub>, <sub>[`P`](./DtwPy.md)</sub>, <sub>[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub>> )</sub><sub>Calculates the distance between two time sequences</sub>
-<sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub><sub>[EuclideanDistance](./Methods/DtwPy-100664153.md) ( <sub>[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[]</sub>, <sub>[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[]</sub> )</sub><sub>Calculates the euclidean distance of two vectors</sub>
+<sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub><sub>[Dtw](./Methods/DtwPy-100664152.md) ( [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[`P`](./DtwPy.md)>, [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[`P`](./DtwPy.md)>, [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`P`](./DtwPy.md), [`P`](./DtwPy.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub><sub>Calculates the distance between two time sequences</sub>
+<sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub><sub>[EuclideanDistance](./Methods/DtwPy-100664153.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )</sub><sub>Calculates the euclidean distance of two vectors</sub>
 
 
