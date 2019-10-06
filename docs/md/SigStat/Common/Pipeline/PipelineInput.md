@@ -11,17 +11,17 @@ Represents an input for a [Pipeline.PipelineInput.PipelineItem](https://github.c
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>PipelineInput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub></div>| <sub>Initializes a new instance of the [Pipeline.PipelineInput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineInput.md) class.</sub></div>| <br>
+| <div style="width:490px"><sub>PipelineInput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub></div>| <sub>Initializes a new instance of the [Pipeline.PipelineInput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineInput.md) class.</sub></div>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>AutoSetMode</sub></div>| <sub>Gets the AutoSetMode</sub></div>| <br>
-| <div style ="width:390px"><sub>FD</sub></div>| <sub>Gets or sets the fd.</sub></div>| <br>
-| <div style ="width:390px"><sub>IsCollectionOfFeatureDescriptors</sub></div>| <sub>Gets a value indicating whether this instance is collection of feature descriptors.</sub></div>| <br>
-| <div style ="width:390px"><sub>PropName</sub></div>| <sub>Gets the name of the property.</sub></div>| <br>
-| <div style ="width:390px"><sub>Type</sub></div>| <sub>Gets the type of the property</sub></div>| <br>
+| <div style="width:490px"><sub>AutoSetMode</sub></div>| <sub>Gets the AutoSetMode</sub></div>| <br>
+| <div style="width:490px"><sub>FD</sub></div>| <sub>Gets or sets the fd.</sub></div>| <br>
+| <div style="width:490px"><sub>IsCollectionOfFeatureDescriptors</sub></div>| <sub>Gets a value indicating whether this instance is collection of feature descriptors.</sub></div>| <br>
+| <div style="width:490px"><sub>PropName</sub></div>| <sub>Gets the name of the property.</sub></div>| <br>
+| <div style="width:490px"><sub>Type</sub></div>| <sub>Gets the type of the property</sub></div>| <br>
 
 

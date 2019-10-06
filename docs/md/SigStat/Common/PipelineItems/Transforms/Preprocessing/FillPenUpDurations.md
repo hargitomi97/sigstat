@@ -13,24 +13,24 @@ This transformation will fill "holes" in the "Time" feature by interpolating the
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>FillPenUpDurations (  )</sub></div>| <sub></sub></div>| <br>
+| <div style="width:490px"><sub>FillPenUpDurations (  )</sub></div>| <sub></sub></div>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>InputFeatures</sub></div>| <sub>Gets or sets the features of an online signature that need to be altered</sub></div>| <br>
-| <div style ="width:390px"><sub>InterpolationType</sub></div>| <sub>An implementation of [PipelineItems.Transforms.Preprocessing.IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md)</sub></div>| <br>
-| <div style ="width:390px"><sub>OutputFeatures</sub></div>| <sub>Gets or sets the features of an online signature that were altered</sub></div>| <br>
-| <div style ="width:390px"><sub>TimeInputFeature</sub></div>| <sub>Gets or sets the feature representing the timestamps of an online signature</sub></div>| <br>
-| <div style ="width:390px"><sub>TimeOutputFeature</sub></div>| <sub>Gets or sets the feature representing the modified timestamps of an online signature</sub></div>| <br>
+| <div style="width:490px"><sub>InputFeatures</sub></div>| <sub>Gets or sets the features of an online signature that need to be altered</sub></div>| <br>
+| <div style="width:490px"><sub>InterpolationType</sub></div>| <sub>An implementation of [PipelineItems.Transforms.Preprocessing.IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md)</sub></div>| <br>
+| <div style="width:490px"><sub>OutputFeatures</sub></div>| <sub>Gets or sets the features of an online signature that were altered</sub></div>| <br>
+| <div style="width:490px"><sub>TimeInputFeature</sub></div>| <sub>Gets or sets the feature representing the timestamps of an online signature</sub></div>| <br>
+| <div style="width:490px"><sub>TimeOutputFeature</sub></div>| <sub>Gets or sets the feature representing the modified timestamps of an online signature</sub></div>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>[Transform](./Methods/FillPenUpDurations-100663739.md) ( [`Signature`](./../../../Signature.md) )</sub></div>| <sub></sub></div>| <br>
+| <div style="width:490px"><sub>[Transform](./Methods/FillPenUpDurations-100663739.md) ( [`Signature`](./../../../Signature.md) )</sub></div>| <sub></sub></div>| <br>
 
 

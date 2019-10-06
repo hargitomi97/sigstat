@@ -13,24 +13,24 @@ Classifies Signatures with the [Algorithms.Dtw](https://github.com/hargitomi97/s
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>DtwClassifier (  )</sub></div>| <sub>Initializes a new instance of the [PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md) class with the default Manhattan distance method.</sub></div>| <br>
-| <div style ="width:390px"><sub>DtwClassifier ( [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub></div>| <sub>Initializes a new instance of the [PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md) class with a specified distance method.</sub></div>| <br>
+| <div style="width:490px"><sub>DtwClassifier (  )</sub></div>| <sub>Initializes a new instance of the [PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md) class with the default Manhattan distance method.</sub></div>| <br>
+| <div style="width:490px"><sub>DtwClassifier ( [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub></div>| <sub>Initializes a new instance of the [PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md) class with a specified distance method.</sub></div>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>DistanceFunction</sub></div>| <sub>The function used to calculate the distance between two data points during DTW calculation</sub></div>| <br>
-| <div style ="width:390px"><sub>Features</sub></div>| <sub>Gets or sets the features to consider during distance calculation</sub></div>| <br>
-| <div style ="width:390px"><sub>MultiplicationFactor</sub></div>| <sub>Gets or sets the multiplication factor to be used during threshold calculation</sub></div>| <br>
+| <div style="width:490px"><sub>DistanceFunction</sub></div>| <sub>The function used to calculate the distance between two data points during DTW calculation</sub></div>| <br>
+| <div style="width:490px"><sub>Features</sub></div>| <sub>Gets or sets the features to consider during distance calculation</sub></div>| <br>
+| <div style="width:490px"><sub>MultiplicationFactor</sub></div>| <sub>Gets or sets the multiplication factor to be used during threshold calculation</sub></div>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>[Test](./Methods/DtwClassifier-100663857.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub></div>| <sub></sub></div>| <br>
-| <div style ="width:390px"><sub>[Train](./Methods/DtwClassifier-100663856.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub></div>| <sub></sub></div>| <br>
+| <div style="width:490px"><sub>[Test](./Methods/DtwClassifier-100663857.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub></div>| <sub></sub></div>| <br>
+| <div style="width:490px"><sub>[Train](./Methods/DtwClassifier-100663856.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub></div>| <sub></sub></div>| <br>
 
 

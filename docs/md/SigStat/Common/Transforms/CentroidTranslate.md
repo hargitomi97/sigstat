@@ -13,16 +13,16 @@ Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>CentroidTranslate (  )</sub></div>| <sub>Initializes a new instance of the [Transforms.CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub></div>| <br>
+| <div style="width:490px"><sub>CentroidTranslate (  )</sub></div>| <sub>Initializes a new instance of the [Transforms.CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub></div>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>InputX</sub></div>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub></div>| <br>
-| <div style ="width:390px"><sub>InputY</sub></div>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub></div>| <br>
-| <div style ="width:390px"><sub>OutputX</sub></div>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub></div>| <br>
-| <div style ="width:390px"><sub>OutputY</sub></div>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub></div>| <br>
+| <div style="width:490px"><sub>InputX</sub></div>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub></div>| <br>
+| <div style="width:490px"><sub>InputY</sub></div>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub></div>| <br>
+| <div style="width:490px"><sub>OutputX</sub></div>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub></div>| <br>
+| <div style="width:490px"><sub>OutputY</sub></div>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub></div>| <br>
 
 

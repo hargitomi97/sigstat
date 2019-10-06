@@ -13,23 +13,23 @@ Extracts standard [Features](https://github.com/hargitomi97/sigstat/blob/master/
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>ComponentsToFeatures (  )</sub></div>| <sub></sub></div>| <br>
+| <div style="width:490px"><sub>ComponentsToFeatures (  )</sub></div>| <sub></sub></div>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>Button</sub></div>| <sub>Button</sub></div>| <br>
-| <div style ="width:390px"><sub>InputComponents</sub></div>| <sub>Components</sub></div>| <br>
-| <div style ="width:390px"><sub>X</sub></div>| <sub>X</sub></div>| <br>
-| <div style ="width:390px"><sub>Y</sub></div>| <sub>Y</sub></div>| <br>
+| <div style="width:490px"><sub>Button</sub></div>| <sub>Button</sub></div>| <br>
+| <div style="width:490px"><sub>InputComponents</sub></div>| <sub>Components</sub></div>| <br>
+| <div style="width:490px"><sub>X</sub></div>| <sub>X</sub></div>| <br>
+| <div style="width:490px"><sub>Y</sub></div>| <sub>Y</sub></div>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>[Transform](./Methods/ComponentsToFeatures-100663580.md) ( [`Signature`](./../Signature.md) )</sub></div>| <sub></sub></div>| <br>
+| <div style="width:490px"><sub>[Transform](./Methods/ComponentsToFeatures-100663580.md) ( [`Signature`](./../Signature.md) )</sub></div>| <sub></sub></div>| <br>
 
 

@@ -9,15 +9,15 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>NetCoreFeatureDescriptorTConverter (  )</sub></div>| <sub></sub></div>| <br>
+| <div style="width:490px"><sub>NetCoreFeatureDescriptorTConverter (  )</sub></div>| <sub></sub></div>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>[CanConvert](./Methods/NetCoreFeatureDescriptorTConverter-100664076.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub></div>| <sub></sub></div>| <br>
-| <div style ="width:390px"><sub>[Read](./Methods/NetCoreFeatureDescriptorTConverter-100664077.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub></div>| <sub></sub></div>| <br>
-| <div style ="width:390px"><sub>[Write](./Methods/NetCoreFeatureDescriptorTConverter-100664078.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub></div>| <sub></sub></div>| <br>
+| <div style="width:490px"><sub>[CanConvert](./Methods/NetCoreFeatureDescriptorTConverter-100664076.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub></div>| <sub></sub></div>| <br>
+| <div style="width:490px"><sub>[Read](./Methods/NetCoreFeatureDescriptorTConverter-100664077.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub></div>| <sub></sub></div>| <br>
+| <div style="width:490px"><sub>[Write](./Methods/NetCoreFeatureDescriptorTConverter-100664078.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub></div>| <sub></sub></div>| <br>
 
 

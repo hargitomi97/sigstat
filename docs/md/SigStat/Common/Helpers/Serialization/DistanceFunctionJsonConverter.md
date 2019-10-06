@@ -11,15 +11,15 @@ Helper class for serializing distance functions
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>DistanceFunctionJsonConverter (  )</sub></div>| <sub></sub></div>| <br>
+| <div style="width:490px"><sub>DistanceFunctionJsonConverter (  )</sub></div>| <sub></sub></div>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>[CanConvert](./Methods/DistanceFunctionJsonConverter-100664042.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub></div>| <sub></sub></div>| <br>
-| <div style ="width:390px"><sub>[ReadJson](./Methods/DistanceFunctionJsonConverter-100664043.md) ( [`JsonReader`](./DistanceFunctionJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub></div>| <sub></sub></div>| <br>
-| <div style ="width:390px"><sub>[WriteJson](./Methods/DistanceFunctionJsonConverter-100664044.md) ( [`JsonWriter`](./DistanceFunctionJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub></div>| <sub></sub></div>| <br>
+| <div style="width:490px"><sub>[CanConvert](./Methods/DistanceFunctionJsonConverter-100664042.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub></div>| <sub></sub></div>| <br>
+| <div style="width:490px"><sub>[ReadJson](./Methods/DistanceFunctionJsonConverter-100664043.md) ( [`JsonReader`](./DistanceFunctionJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub></div>| <sub></sub></div>| <br>
+| <div style="width:490px"><sub>[WriteJson](./Methods/DistanceFunctionJsonConverter-100664044.md) ( [`JsonWriter`](./DistanceFunctionJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub></div>| <sub></sub></div>| <br>
 
 

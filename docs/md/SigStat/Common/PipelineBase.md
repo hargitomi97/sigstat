@@ -13,23 +13,23 @@ TODO: Ideiglenes osztaly, C# 8.0 ban ezt atalakitani default implementacios inte
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>PipelineBase (  )</sub></div>| <sub>Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.</sub></div>| <br>
+| <div style="width:490px"><sub>PipelineBase (  )</sub></div>| <sub>Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.</sub></div>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>Logger</sub></div>| <sub></sub></div>| <br>
-| <div style ="width:390px"><sub>PipelineInputs</sub></div>| <sub>A collection of inputs for the pipeline elements</sub></div>| <br>
-| <div style ="width:390px"><sub>PipelineOutputs</sub></div>| <sub>A collection of outputs for the pipeline elements</sub></div>| <br>
-| <div style ="width:390px"><sub>Progress</sub></div>| <sub></sub></div>| <br>
+| <div style="width:490px"><sub>Logger</sub></div>| <sub></sub></div>| <br>
+| <div style="width:490px"><sub>PipelineInputs</sub></div>| <sub>A collection of inputs for the pipeline elements</sub></div>| <br>
+| <div style="width:490px"><sub>PipelineOutputs</sub></div>| <sub>A collection of outputs for the pipeline elements</sub></div>| <br>
+| <div style="width:490px"><sub>Progress</sub></div>| <sub></sub></div>| <br>
 
 
 ## Events
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>ProgressChanged</sub></div>| <sub>The event is raised whenever the value of [PipelineBase.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) changes</sub></div>| <br>
+| <div style="width:490px"><sub>ProgressChanged</sub></div>| <sub>The event is raised whenever the value of [PipelineBase.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) changes</sub></div>| <br>
 
 

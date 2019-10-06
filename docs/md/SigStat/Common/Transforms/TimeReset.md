@@ -13,6 +13,6 @@ Sequential pipeline to reset time values to begin at 0.  The following Transform
 
 | Name | Summary | 
 | --- | --- | 
-| <div style ="width:390px"><sub>TimeReset (  )</sub></div>| <sub>Initializes a new instance of the [Transforms.TimeReset](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/TimeReset.md) class.</sub></div>| <br>
+| <div style="width:490px"><sub>TimeReset (  )</sub></div>| <sub>Initializes a new instance of the [Transforms.TimeReset](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/TimeReset.md) class.</sub></div>| <br>
 
 
