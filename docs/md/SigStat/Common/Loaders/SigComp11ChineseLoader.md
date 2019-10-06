@@ -13,28 +13,28 @@ Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerOb
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub>Initializes a new instance of the [Loaders.SigComp11ChineseLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp11ChineseLoader.md) class.</sub> | <sub>Initializes a new instance of the [Loaders.SigComp11ChineseLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp11ChineseLoader.md) class.</sub> | <br>
+| <sub>Initializes a new instance of the [Loaders.SigComp11ChineseLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp11ChineseLoader.md) class.</sub><img width=200/>  | <sub>Initializes a new instance of the [Loaders.SigComp11ChineseLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp11ChineseLoader.md) class.</sub><img width=200/>  | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub>DatabasePath</sub> | <sub>Gets or sets the database path.</sub> | <br>
-|<img width=200/> <sub>StandardFeatures</sub> | <sub>Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub> | <br>
+| <sub>DatabasePath</sub><img width=200/>  | <sub>Gets or sets the database path.</sub><img width=200/>  | <br>
+| <sub>StandardFeatures</sub><img width=200/>  | <sub>Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub><img width=200/>  | <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub>[EnumerateSigners](./Methods/SigComp11ChineseLoader-100663899.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub> | <sub></sub> | <br>
+| <sub>[EnumerateSigners](./Methods/SigComp11ChineseLoader-100663899.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Static Methods
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub>[LoadSignature](./Methods/SigComp11ChineseLoader-100663900.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub> | <sub>Loads one signature from specified stream.</sub> | <br>
+| <sub>[LoadSignature](./Methods/SigComp11ChineseLoader-100663900.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub><img width=200/>  | <sub>Loads one signature from specified stream.</sub><img width=200/>  | <br>
 
 

@@ -13,24 +13,24 @@ This transformation will fill "holes" in the "Time" feature by interpolating the
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub></sub> | <sub></sub> | <br>
+| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub>InputFeatures</sub> | <sub>Gets or sets the features of an online signature that need to be altered</sub> | <br>
-|<img width=200/> <sub>InterpolationType</sub> | <sub>An implementation of [PipelineItems.Transforms.Preprocessing.IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md)</sub> | <br>
-|<img width=200/> <sub>OutputFeatures</sub> | <sub>Gets or sets the features of an online signature that were altered</sub> | <br>
-|<img width=200/> <sub>TimeInputFeature</sub> | <sub>Gets or sets the feature representing the timestamps of an online signature</sub> | <br>
-|<img width=200/> <sub>TimeOutputFeature</sub> | <sub>Gets or sets the feature representing the modified timestamps of an online signature</sub> | <br>
+| <sub>InputFeatures</sub><img width=200/>  | <sub>Gets or sets the features of an online signature that need to be altered</sub><img width=200/>  | <br>
+| <sub>InterpolationType</sub><img width=200/>  | <sub>An implementation of [PipelineItems.Transforms.Preprocessing.IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md)</sub><img width=200/>  | <br>
+| <sub>OutputFeatures</sub><img width=200/>  | <sub>Gets or sets the features of an online signature that were altered</sub><img width=200/>  | <br>
+| <sub>TimeInputFeature</sub><img width=200/>  | <sub>Gets or sets the feature representing the timestamps of an online signature</sub><img width=200/>  | <br>
+| <sub>TimeOutputFeature</sub><img width=200/>  | <sub>Gets or sets the feature representing the modified timestamps of an online signature</sub><img width=200/>  | <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub>[Transform](./Methods/FillPenUpDurations-100663739.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | <br>
+| <sub>[Transform](./Methods/FillPenUpDurations-100663739.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 

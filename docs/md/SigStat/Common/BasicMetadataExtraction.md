@@ -13,20 +13,20 @@ Extracts basic statistical signature (like [Features.Bounds](https://github.com/
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub></sub> | <sub></sub> | <br>
+| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub>[Transform](./Methods/BasicMetadataExtraction-100663456.md) ( [`Signature`](./Signature.md) )</sub> | <sub></sub> | <br>
+| <sub>[Transform](./Methods/BasicMetadataExtraction-100663456.md) ( [`Signature`](./Signature.md) )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Static Properties
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-|<img width=200/> <sub>Trim</sub> | <sub>Represents theratio of significant pixels that should be trimmed  from each side while calculating [Features.TrimmedBounds](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub> |  | <br>
+| <sub>Trim</sub><img width=200/>  | <sub>Represents theratio of significant pixels that should be trimmed  from each side while calculating [Features.TrimmedBounds](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub><img width=200/>  | <img width=200/>  | <br>
 
 

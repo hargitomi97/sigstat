@@ -11,14 +11,14 @@ Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/b
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub> | <sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub> | <br>
-|<img width=200/> <sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub> | <sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub> | <br>
+| <sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub><img width=200/>  | <sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub><img width=200/>  | <br>
+| <sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub><img width=200/>  | <sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub><img width=200/>  | <br>
 
 
 ## Fields
 
 | Type | Name | Summary | 
 | --- | --- | --- | 
-|<img width=200/> <sub>Default</sub> | <sub>The default value for the property</sub> |  | <br>
+| <sub>Default</sub><img width=200/>  | <sub>The default value for the property</sub><img width=200/>  | <img width=200/>  | <br>
 
 

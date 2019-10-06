@@ -9,22 +9,22 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub>Initializes a Baseline instance</sub> | <sub>Initializes a Baseline instance</sub> | <br>
-|<img width=200/> <sub>Initializes a Baseline instance with the given startpoint and endpoint</sub> | <sub>Initializes a Baseline instance with the given startpoint and endpoint</sub> | <br>
+| <sub>Initializes a Baseline instance</sub><img width=200/>  | <sub>Initializes a Baseline instance</sub><img width=200/>  | <br>
+| <sub>Initializes a Baseline instance with the given startpoint and endpoint</sub><img width=200/>  | <sub>Initializes a Baseline instance with the given startpoint and endpoint</sub><img width=200/>  | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub>End</sub> | <sub>Endpoint of the baseline</sub> | <br>
-|<img width=200/> <sub>Start</sub> | <sub>Starting point of the baseline</sub> | <br>
+| <sub>End</sub><img width=200/>  | <sub>Endpoint of the baseline</sub><img width=200/>  | <br>
+| <sub>Start</sub><img width=200/>  | <sub>Starting point of the baseline</sub><img width=200/>  | <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub>[ToString](./Methods/Baseline-100663332.md) (  )</sub> | <sub>Returns a string representation of the baseline</sub> | <br>
+| <sub>[ToString](./Methods/Baseline-100663332.md) (  )</sub><img width=200/>  | <sub>Returns a string representation of the baseline</sub><img width=200/>  | <br>
 
 

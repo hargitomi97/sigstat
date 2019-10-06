@@ -11,13 +11,13 @@ Selects the first N signatures with odd index for training
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub>Constructor</sub> | <sub>Constructor</sub> | <br>
+| <sub>Constructor</sub><img width=200/>  | <sub>Constructor</sub><img width=200/>  | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub>N</sub> | <sub>Count of signatures used for training</sub> | <br>
+| <sub>N</sub><img width=200/>  | <sub>Count of signatures used for training</sub><img width=200/>  | <br>
 
 

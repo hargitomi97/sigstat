@@ -13,26 +13,26 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub></sub> | <sub></sub> | <br>
+| <sub></sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub>BaseDimension</sub> | <sub>Gets or sets the base dimension.</sub> | <br>
-|<img width=200/> <sub>BaseDimensionOutput</sub> | <sub>Gets or sets the output base dimension output.</sub> | <br>
-|<img width=200/> <sub>NewMaxBaseValue</sub> | <sub>Upper bound of the interval, in which the base dimension will be scaled</sub> | <br>
-|<img width=200/> <sub>NewMinBaseValue</sub> | <sub>Lower bound of the interval, in which the base dimension will be scaled</sub> | <br>
-|<img width=200/> <sub>NewMinProportionalValue</sub> | <sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub> | <br>
-|<img width=200/> <sub>ProportionalDimension</sub> | <sub>Gets or sets the ProportionalDimension.</sub> | <br>
-|<img width=200/> <sub>ProportionalDimensionOutput</sub> | <sub>Gets or sets the output proportional dimension output.</sub> | <br>
+| <sub>BaseDimension</sub><img width=200/>  | <sub>Gets or sets the base dimension.</sub><img width=200/>  | <br>
+| <sub>BaseDimensionOutput</sub><img width=200/>  | <sub>Gets or sets the output base dimension output.</sub><img width=200/>  | <br>
+| <sub>NewMaxBaseValue</sub><img width=200/>  | <sub>Upper bound of the interval, in which the base dimension will be scaled</sub><img width=200/>  | <br>
+| <sub>NewMinBaseValue</sub><img width=200/>  | <sub>Lower bound of the interval, in which the base dimension will be scaled</sub><img width=200/>  | <br>
+| <sub>NewMinProportionalValue</sub><img width=200/>  | <sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub><img width=200/>  | <br>
+| <sub>ProportionalDimension</sub><img width=200/>  | <sub>Gets or sets the ProportionalDimension.</sub><img width=200/>  | <br>
+| <sub>ProportionalDimensionOutput</sub><img width=200/>  | <sub>Gets or sets the output proportional dimension output.</sub><img width=200/>  | <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-|<img width=200/> <sub>[Transform](./Methods/UniformScale-100663843.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | <br>
+| <sub>[Transform](./Methods/UniformScale-100663843.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 
