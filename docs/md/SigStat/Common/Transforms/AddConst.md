@@ -13,21 +13,21 @@ Adds a constant value to a feature. Works with collection features too.  <br>Def
 
 NameSummary
 
-AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )<br><sub>Initializes a new instance of the [Transforms.AddConst](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) class with specified settings.</sub><br>
+<sub>Initializes a new instance of the [Transforms.AddConst](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) class with specified settings.</sub><br><sub>Initializes a new instance of the [Transforms.AddConst](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) class with specified settings.</sub><br>
 
 
 ## Properties
 
 TypeNameSummary
 
-<br><sub>Input</sub><br><sub>Input values for trasformation</sub><br>
-<br><sub>Output</sub><br><sub>Output feature to store results</sub><br>
+<sub>Input</sub><br><sub>Input values for trasformation</sub><br><br>
+<sub>Output</sub><br><sub>Output feature to store results</sub><br><br>
 
 
 ## Methods
 
-NameSummary
+ReturnNameSummary
 
-<br><sub>[Transform](./Methods/AddConst-100663603.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br>
+<sub>[Transform](./Methods/AddConst-100663603.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br><br>
 
 

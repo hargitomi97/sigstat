@@ -13,20 +13,20 @@ DataSetLoader for Image type databases.  Similar format to Svc2004Loader, but fi
 
 NameSummary
 
-ImageLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )<br><sub>Initializes a new instance of the [Loaders.ImageLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/ImageLoader.md) class with specified database.</sub><br>
+<sub>Initializes a new instance of the [Loaders.ImageLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/ImageLoader.md) class with specified database.</sub><br><sub>Initializes a new instance of the [Loaders.ImageLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/ImageLoader.md) class with specified database.</sub><br>
 
 
 ## Methods
 
-NameSummary
+ReturnNameSummary
 
-<br><sub>[EnumerateSigners](./Methods/ImageLoader-100663883.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><br><sub></sub><br>
+<sub>[EnumerateSigners](./Methods/ImageLoader-100663883.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><br><sub></sub><br><br>
 
 
 ## Static Methods
 
 NameSummary
 
-<br><sub>[LoadSignature](./Methods/ImageLoader-100663884.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><br><sub></sub><br>
+<sub>[LoadSignature](./Methods/ImageLoader-100663884.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><br><sub></sub><br>
 
 

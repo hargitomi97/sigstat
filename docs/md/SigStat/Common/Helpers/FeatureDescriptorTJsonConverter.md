@@ -11,15 +11,15 @@ Custom serializer for [FeatureDescriptor-1](https://github.com/hargitomi97/sigst
 
 NameSummary
 
-FeatureDescriptorTJsonConverter (  )<br><sub></sub><br>
+<sub></sub><br><sub></sub><br>
 
 
 ## Methods
 
-NameSummary
+ReturnNameSummary
 
-<br><sub>[CanConvert](./Methods/FeatureDescriptorTJsonConverter-100664023.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub><br><sub>Tells if the current object is of the correct type</sub><br>
-<br><sub>[ReadJson](./Methods/FeatureDescriptorTJsonConverter-100664024.md) ( [`JsonReader`](./FeatureDescriptorTJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorTJsonConverter.md) )</sub><br><sub></sub><br>
-<br><sub>[WriteJson](./Methods/FeatureDescriptorTJsonConverter-100664025.md) ( [`JsonWriter`](./FeatureDescriptorTJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorTJsonConverter.md) )</sub><br><sub></sub><br>
+<sub>[CanConvert](./Methods/FeatureDescriptorTJsonConverter-100664023.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub><br><sub>Tells if the current object is of the correct type</sub><br><br>
+<sub>[ReadJson](./Methods/FeatureDescriptorTJsonConverter-100664024.md) ( [`JsonReader`](./FeatureDescriptorTJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorTJsonConverter.md) )</sub><br><sub></sub><br><br>
+<sub>[WriteJson](./Methods/FeatureDescriptorTJsonConverter-100664025.md) ( [`JsonWriter`](./FeatureDescriptorTJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorTJsonConverter.md) )</sub><br><sub></sub><br><br>
 
 

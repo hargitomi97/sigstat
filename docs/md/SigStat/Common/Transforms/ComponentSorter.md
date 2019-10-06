@@ -13,21 +13,21 @@ Sorts Component order by comparing each starting X value, and finding nearest co
 
 NameSummary
 
-ComponentSorter (  )<br><sub></sub><br>
+<sub></sub><br><sub></sub><br>
 
 
 ## Properties
 
 TypeNameSummary
 
-<br><sub>Input</sub><br><sub>Gets or sets the input.</sub><br>
-<br><sub>Output</sub><br><sub>Gets or sets the output.</sub><br>
+<sub>Input</sub><br><sub>Gets or sets the input.</sub><br><br>
+<sub>Output</sub><br><sub>Gets or sets the output.</sub><br><br>
 
 
 ## Methods
 
-NameSummary
+ReturnNameSummary
 
-<br><sub>[Transform](./Methods/ComponentSorter-100663515.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br>
+<sub>[Transform](./Methods/ComponentSorter-100663515.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br><br>
 
 

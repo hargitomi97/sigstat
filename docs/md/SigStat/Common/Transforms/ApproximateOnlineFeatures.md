@@ -13,13 +13,13 @@ init Pressure, Altitude, Azimuth features with default values.  <br>Default Pipe
 
 NameSummary
 
-ApproximateOnlineFeatures (  )<br><sub></sub><br>
+<sub></sub><br><sub></sub><br>
 
 
 ## Methods
 
-NameSummary
+ReturnNameSummary
 
-<br><sub>[Transform](./Methods/ApproximateOnlineFeatures-100663548.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br>
+<sub>[Transform](./Methods/ApproximateOnlineFeatures-100663548.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br><br>
 
 

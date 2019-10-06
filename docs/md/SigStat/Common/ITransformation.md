@@ -11,8 +11,8 @@ Allows implementing a pipeline transform item capable of logging, progress track
 
 ## Methods
 
-NameSummary
+ReturnNameSummary
 
-<br><sub>[Transform](./Methods/ITransformation-100663461.md) ( [`Signature`](./Signature.md) )</sub><br><sub>Executes the transform on the `signature` parameter.  This function gets called by the pipeline.</sub><br>
+<sub>[Transform](./Methods/ITransformation-100663461.md) ( [`Signature`](./Signature.md) )</sub><br><sub>Executes the transform on the `signature` parameter.  This function gets called by the pipeline.</sub><br><br>
 
 

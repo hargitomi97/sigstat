@@ -13,6 +13,6 @@ Custom resolver for customizing the json serialization
 
 NameSummary
 
-VerifierResolver (  )<br><sub></sub><br>
+<sub></sub><br><sub></sub><br>
 
 

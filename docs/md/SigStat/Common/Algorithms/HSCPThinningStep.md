@@ -11,20 +11,20 @@ HSCP thinning algorithm  http://www.ppgia.pucpr.br/~facon/Afinamento/1987holt.pd
 
 NameSummary
 
-HSCPThinningStep (  )<br><sub></sub><br>
+<sub></sub><br><sub></sub><br>
 
 
 ## Properties
 
 TypeNameSummary
 
-<br><sub>ResultChanged</sub><br><sub>Gets whether the last [Algorithms.HSCPThinningStep.Scan](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Algorithms/HSCPThinningStep.md) call was effective.</sub><br>
+<sub>ResultChanged</sub><br><sub>Gets whether the last [Algorithms.HSCPThinningStep.Scan](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Algorithms/HSCPThinningStep.md) call was effective.</sub><br><br>
 
 
 ## Methods
 
-NameSummary
+ReturnNameSummary
 
-<br><sub>[Scan](./Methods/HSCPThinningStep-100664156.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><br><sub>Does one step of the thinning. Call it iteratively while ResultChanged.</sub><br>
+<sub>[Scan](./Methods/HSCPThinningStep-100664156.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><br><sub>Does one step of the thinning. Call it iteratively while ResultChanged.</sub><br><br>
 
 

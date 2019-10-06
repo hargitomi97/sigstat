@@ -13,20 +13,20 @@ Extracts basic statistical signature (like [Features.Bounds](https://github.com/
 
 NameSummary
 
-BasicMetadataExtraction (  )<br><sub></sub><br>
+<sub></sub><br><sub></sub><br>
 
 
 ## Methods
 
-NameSummary
+ReturnNameSummary
 
-<br><sub>[Transform](./Methods/BasicMetadataExtraction-100663456.md) ( [`Signature`](./Signature.md) )</sub><br><sub></sub><br>
+<sub>[Transform](./Methods/BasicMetadataExtraction-100663456.md) ( [`Signature`](./Signature.md) )</sub><br><sub></sub><br><br>
 
 
 ## Static Properties
 
 TypeNameSummary
 
-<br><sub>Trim</sub><br><sub>Represents theratio of significant pixels that should be trimmed  from each side while calculating [Features.TrimmedBounds](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub><br>
+<sub>Trim</sub><br><sub>Represents theratio of significant pixels that should be trimmed  from each side while calculating [Features.TrimmedBounds](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub><br><br>
 
 

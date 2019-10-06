@@ -13,22 +13,22 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 
 NameSummary
 
-RelativeScale (  )<br><sub></sub><br>
+<sub></sub><br><sub></sub><br>
 
 
 ## Properties
 
 TypeNameSummary
 
-<br><sub>InputFeature</sub><br><sub>Gets or sets the input feature.</sub><br>
-<br><sub>OutputFeature</sub><br><sub>Gets or sets the output feature.</sub><br>
-<br><sub>ReferenceFeature</sub><br><sub>Gets or sets the reference feature.</sub><br>
+<sub>InputFeature</sub><br><sub>Gets or sets the input feature.</sub><br><br>
+<sub>OutputFeature</sub><br><sub>Gets or sets the output feature.</sub><br><br>
+<sub>ReferenceFeature</sub><br><sub>Gets or sets the reference feature.</sub><br><br>
 
 
 ## Methods
 
-NameSummary
+ReturnNameSummary
 
-<br><sub>[Transform](./Methods/RelativeScale-100663787.md) ( [`Signature`](./../../../Signature.md) )</sub><br><sub></sub><br>
+<sub>[Transform](./Methods/RelativeScale-100663787.md) ( [`Signature`](./../../../Signature.md) )</sub><br><sub></sub><br><br>
 
 

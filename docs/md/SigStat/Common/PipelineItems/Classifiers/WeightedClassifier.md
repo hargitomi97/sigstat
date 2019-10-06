@@ -13,23 +13,23 @@ Classifies Signatures by weighing other Classifier results.
 
 NameSummary
 
-WeightedClassifier (  )<br><sub></sub><br>
+<sub></sub><br><sub></sub><br>
 
 
 ## Fields
 
 TypeNameSummary
 
-<br><sub>Items</sub><br><sub>List of classifiers and belonging weights.</sub><br>
+<sub>Items</sub><br><sub>List of classifiers and belonging weights.</sub><br><br>
 
 
 ## Methods
 
-NameSummary
+ReturnNameSummary
 
-<br><sub>[Add](./Methods/WeightedClassifier-100663869.md) ( [`ValueTuple`](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[`IClassifier`](./../../Pipeline/IClassifier.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub><br><sub>Add a new classifier with given weight to the list of items.</sub><br>
-<br><sub>[GetEnumerator](./Methods/WeightedClassifier-100663868.md) (  )</sub><br><sub></sub><br>
-<br><sub>[Test](./Methods/WeightedClassifier-100663871.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub><br><sub></sub><br>
-<br><sub>[Train](./Methods/WeightedClassifier-100663870.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub><br><sub></sub><br>
+<sub>[Add](./Methods/WeightedClassifier-100663869.md) ( [`ValueTuple`](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[`IClassifier`](./../../Pipeline/IClassifier.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub><br><sub>Add a new classifier with given weight to the list of items.</sub><br><br>
+<sub>[GetEnumerator](./Methods/WeightedClassifier-100663868.md) (  )</sub><br><sub></sub><br><br>
+<sub>[Test](./Methods/WeightedClassifier-100663871.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub><br><sub></sub><br><br>
+<sub>[Train](./Methods/WeightedClassifier-100663870.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub><br><sub></sub><br><br>
 
 

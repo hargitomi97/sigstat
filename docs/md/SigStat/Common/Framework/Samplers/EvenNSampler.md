@@ -11,13 +11,13 @@ Selects the first N signatures with even index for training
 
 NameSummary
 
-EvenNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )<br><sub>Constructor</sub><br>
+<sub>Constructor</sub><br><sub>Constructor</sub><br>
 
 
 ## Properties
 
 TypeNameSummary
 
-<br><sub>N</sub><br><sub>Count of signatures used for training</sub><br>
+<sub>N</sub><br><sub>Count of signatures used for training</sub><br><br>
 
 

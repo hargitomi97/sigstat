@@ -13,21 +13,21 @@ Trims unnecessary empty space from a binary raster.  <br>Pipeline Input type: bo
 
 NameSummary
 
-Trim ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )<br><sub></sub><br>
+<sub></sub><br><sub></sub><br>
 
 
 ## Properties
 
 TypeNameSummary
 
-<br><sub>Input</sub><br><sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub><br>
-<br><sub>Output</sub><br><sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the trimed image of the signature</sub><br>
+<sub>Input</sub><br><sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub><br><br>
+<sub>Output</sub><br><sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the trimed image of the signature</sub><br><br>
 
 
 ## Methods
 
-NameSummary
+ReturnNameSummary
 
-<br><sub>[Transform](./Methods/Trim-100663722.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br>
+<sub>[Transform](./Methods/Trim-100663722.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br><br>
 
 

@@ -13,23 +13,23 @@ Extracts standard [Features](https://github.com/hargitomi97/sigstat/blob/master/
 
 NameSummary
 
-ComponentsToFeatures (  )<br><sub></sub><br>
+<sub></sub><br><sub></sub><br>
 
 
 ## Properties
 
 TypeNameSummary
 
-<br><sub>Button</sub><br><sub>Button</sub><br>
-<br><sub>InputComponents</sub><br><sub>Components</sub><br>
-<br><sub>X</sub><br><sub>X</sub><br>
-<br><sub>Y</sub><br><sub>Y</sub><br>
+<sub>Button</sub><br><sub>Button</sub><br><br>
+<sub>InputComponents</sub><br><sub>Components</sub><br><br>
+<sub>X</sub><br><sub>X</sub><br><br>
+<sub>Y</sub><br><sub>Y</sub><br><br>
 
 
 ## Methods
 
-NameSummary
+ReturnNameSummary
 
-<br><sub>[Transform](./Methods/ComponentsToFeatures-100663580.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br>
+<sub>[Transform](./Methods/ComponentsToFeatures-100663580.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br><br>
 
 

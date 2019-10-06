@@ -13,17 +13,17 @@ Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi
 
 NameSummary
 
-Translate ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )<br><sub></sub><br>
-Translate ( [`FeatureDescriptor`](./../FeatureDescriptor-1.md)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> )<br><sub></sub><br>
+<sub></sub><br><sub></sub><br>
+<sub></sub><br><sub></sub><br>
 
 
 ## Properties
 
 TypeNameSummary
 
-<br><sub>InputX</sub><br><sub>The feature representing the horizontal coordinates of an online signature</sub><br>
-<br><sub>InputY</sub><br><sub>The feature representing the vertical coordinates of an online signature</sub><br>
-<br><sub>OutputX</sub><br><sub>Target feature for storing the transformed horizontal coordinates</sub><br>
-<br><sub>OutputY</sub><br><sub>Target feature for storing the transformed vertical coordinates</sub><br>
+<sub>InputX</sub><br><sub>The feature representing the horizontal coordinates of an online signature</sub><br><br>
+<sub>InputY</sub><br><sub>The feature representing the vertical coordinates of an online signature</sub><br><br>
+<sub>OutputX</sub><br><sub>Target feature for storing the transformed horizontal coordinates</sub><br><br>
+<sub>OutputY</sub><br><sub>Target feature for storing the transformed vertical coordinates</sub><br><br>
 
 
