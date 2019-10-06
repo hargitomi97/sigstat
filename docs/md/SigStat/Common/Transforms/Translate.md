@@ -13,17 +13,17 @@ Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Translate ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
-| <sub>Translate ( [`FeatureDescriptor`](./../FeatureDescriptor-1.md)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
+| <sub>Translate ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><div style="width: 290px">| <sub></sub><div style="width: 290px">| <br>
+| <sub>Translate ( [`FeatureDescriptor`](./../FeatureDescriptor-1.md)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> )</sub><div style="width: 290px">| <sub></sub><div style="width: 290px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputX</sub><div style="width: 200px">| <sub>The feature representing the horizontal coordinates of an online signature</sub><div style="width: 200px">| <br>
-| <sub>InputY</sub><div style="width: 200px">| <sub>The feature representing the vertical coordinates of an online signature</sub><div style="width: 200px">| <br>
-| <sub>OutputX</sub><div style="width: 200px">| <sub>Target feature for storing the transformed horizontal coordinates</sub><div style="width: 200px">| <br>
-| <sub>OutputY</sub><div style="width: 200px">| <sub>Target feature for storing the transformed vertical coordinates</sub><div style="width: 200px">| <br>
+| <sub>InputX</sub><div style="width: 290px">| <sub>The feature representing the horizontal coordinates of an online signature</sub><div style="width: 290px">| <br>
+| <sub>InputY</sub><div style="width: 290px">| <sub>The feature representing the vertical coordinates of an online signature</sub><div style="width: 290px">| <br>
+| <sub>OutputX</sub><div style="width: 290px">| <sub>Target feature for storing the transformed horizontal coordinates</sub><div style="width: 290px">| <br>
+| <sub>OutputY</sub><div style="width: 290px">| <sub>Target feature for storing the transformed vertical coordinates</sub><div style="width: 290px">| <br>
 
 
