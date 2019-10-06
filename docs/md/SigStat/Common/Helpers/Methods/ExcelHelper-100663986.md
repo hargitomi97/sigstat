@@ -6,6 +6,6 @@ Return type:
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Merge](./ExcelHelper-100663986.md) ( [`ExcelRangeBase`](./ExcelHelper-100663986.md) )</sub><img width=200/>| <sub>Merge all cells into one in the range.</sub>| <br>
+| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[Merge](./ExcelHelper-100663986.md) ( [`ExcelRangeBase`](./ExcelHelper-100663986.md) )</sub>| <br>
 
 

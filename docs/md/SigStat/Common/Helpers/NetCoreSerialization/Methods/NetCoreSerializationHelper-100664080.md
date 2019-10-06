@@ -6,6 +6,6 @@ Return type:
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[GetSettings](./NetCoreSerializationHelper-100664080.md) (  )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[JsonSerializerOptions](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions)</sub><img width=200/>| <sub>[GetSettings](./NetCoreSerializationHelper-100664080.md) (  )</sub>| <br>
 
 

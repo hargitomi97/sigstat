@@ -6,6 +6,6 @@ Return type:
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Add](./SequentialTransformPipeline-100663508.md) ( [`ITransformation`](./../../ITransformation.md) )</sub><img width=200/>| <sub>Add new transform to the list.</sub>| <br>
+| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[Add](./SequentialTransformPipeline-100663508.md) ( [`ITransformation`](./../../ITransformation.md) )</sub>| <br>
 
 

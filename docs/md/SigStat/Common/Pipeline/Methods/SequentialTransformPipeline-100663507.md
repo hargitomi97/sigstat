@@ -6,6 +6,6 @@ Return type:
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[GetEnumerator](./SequentialTransformPipeline-100663507.md) (  )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerator)</sub><img width=200/>| <sub>[GetEnumerator](./SequentialTransformPipeline-100663507.md) (  )</sub>| <br>
 
 

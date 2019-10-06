@@ -6,6 +6,6 @@ Return type:
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./NormalizeRotation-100663777.md) ( [`Signature`](./../../../../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[Transform](./NormalizeRotation-100663777.md) ( [`Signature`](./../../../../Signature.md) )</sub>| <br>
 
 

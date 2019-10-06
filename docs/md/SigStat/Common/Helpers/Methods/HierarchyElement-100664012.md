@@ -6,6 +6,6 @@ Return type:
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[GetCount](./HierarchyElement-100664012.md) (  )</sub><img width=200/>| <sub>Returns number of elements under this node and itself</sub>| <br>
+| <sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub><img width=200/>| <sub>[GetCount](./HierarchyElement-100664012.md) (  )</sub>| <br>
 
 

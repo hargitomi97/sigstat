@@ -6,6 +6,6 @@ Return type:
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[ToString](./HierarchyElement-100664013.md) (  )</sub><img width=200/>| <sub>Converts to string.</sub>| <br>
+| <sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub><img width=200/>| <sub>[ToString](./HierarchyElement-100664013.md) (  )</sub>| <br>
 
 

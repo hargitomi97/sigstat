@@ -6,6 +6,6 @@ Return type:
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[GetDepth](./HierarchyElement-100664011.md) (  )</sub><img width=200/>| <sub>Return the hierarchy's depth from this node</sub>| <br>
+| <sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub><img width=200/>| <sub>[GetDepth](./HierarchyElement-100664011.md) (  )</sub>| <br>
 
 

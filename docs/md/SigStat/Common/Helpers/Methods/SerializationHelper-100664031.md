@@ -6,6 +6,6 @@ Return type:
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[JsonSerialize](./SerializationHelper-100664031.md) ( [`T`](./SerializationHelper-100664031.md) )</sub><img width=200/>| <sub>Creates json string from object</sub>| <br>
+| <sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub><img width=200/>| <sub>[JsonSerialize](./SerializationHelper-100664031.md) ( [`T`](./SerializationHelper-100664031.md) )</sub>| <br>
 
 

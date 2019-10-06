@@ -6,6 +6,6 @@ Return type:
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[ContainsKey](./DistanceMatrix`3-100663394.md) ( [`TRowKey`](./DistanceMatrix`3-100663394.md), [`TColumnKey`](./DistanceMatrix`3-100663394.md) )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub><img width=200/>| <sub>[ContainsKey](./DistanceMatrix`3-100663394.md) ( [`TRowKey`](./DistanceMatrix`3-100663394.md), [`TColumnKey`](./DistanceMatrix`3-100663394.md) )</sub>| <br>
 
 

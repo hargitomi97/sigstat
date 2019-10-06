@@ -6,6 +6,6 @@ Return type:
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Add](./ParallelTransformPipeline-100663502.md) ( [`ITransformation`](./../../ITransformation.md) )</sub><img width=200/>| <sub>Add new transform to the list.</sub>| <br>
+| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[Add](./ParallelTransformPipeline-100663502.md) ( [`ITransformation`](./../../ITransformation.md) )</sub>| <br>
 
 

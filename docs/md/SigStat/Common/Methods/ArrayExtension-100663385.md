@@ -6,6 +6,6 @@ Return type:
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[GetValues](./ArrayExtension-100663385.md) ( [`T`](./ArrayExtension-100663385.md)[] )</sub><img width=200/>| <sub>Enumerates all values in a two dimensional array</sub>| <br>
+| <sub>[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[T](./ArrayExtension-100663385.md)></sub><img width=200/>| <sub>[GetValues](./ArrayExtension-100663385.md) ( [`T`](./ArrayExtension-100663385.md)[] )</sub>| <br>
 
 

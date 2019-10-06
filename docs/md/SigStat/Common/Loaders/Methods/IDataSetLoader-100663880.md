@@ -6,6 +6,6 @@ Return type:
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[EnumerateSigners](./IDataSetLoader-100663880.md) (  )</sub><img width=200/>| <sub>Enumerates all signers of the database</sub>| <br>
+| <sub>[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../../Signer.md)></sub><img width=200/>| <sub>[EnumerateSigners](./IDataSetLoader-100663880.md) (  )</sub>| <br>
 
 
