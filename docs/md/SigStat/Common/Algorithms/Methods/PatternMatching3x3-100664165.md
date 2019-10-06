@@ -1,3 +1,11 @@
 # [Match](./PatternMatching3x3-100664165.md)
 
-`Match the 3x3 input with the 3x3 pattern.`
+Match the 3x3 input with the 3x3 pattern.
+Return type:
+## Methods
+
+| Name | Summary | 
+| --- | --- | 
+| <sub>[Match](./PatternMatching3x3-100664165.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><img width=200/>| <sub>Match the 3x3 input with the 3x3 pattern.</sub>| <br>
+
+

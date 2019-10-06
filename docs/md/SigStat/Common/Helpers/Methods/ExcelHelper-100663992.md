@@ -1,3 +1,11 @@
 # [InsertDictionary](./ExcelHelper-100663992.md)
 
-`Insert table from key-value pairs`
+Insert table from key-value pairs
+Return type:
+## Methods
+
+| Name | Summary | 
+| --- | --- | 
+| <sub>[InsertDictionary](./ExcelHelper-100663992.md) ( [`ExcelWorksheet`](./ExcelHelper-100663992.md), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`IEnumerable`](./ExcelHelper-100663992.md)\<[`KeyValuePair`](./ExcelHelper-100663992.md)\<[`TKey`](./ExcelHelper-100663992.md), [`TValue`](./ExcelHelper-100663992.md)>>, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`ExcelColor`](./../Excel/ExcelColor.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img width=200/>| <sub>Insert table from key-value pairs</sub>| <br>
+
+
