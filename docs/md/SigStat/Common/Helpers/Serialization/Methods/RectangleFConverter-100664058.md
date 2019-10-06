@@ -1,7 +1,3 @@
 # [CanConvert](./RectangleFConverter-100664058.md)
 
-Namespace: [SigStat]() > [Common](./../../../README.md) > [Helpers](./../../README.md) > [Serialization](./../README.md)
-
-Assembly: SigStat.Common.dll
-
-Tells if the current object is of the correct type
+`Tells if the current object is of the correct type`

@@ -1,7 +1,3 @@
 # [InsertLineChart](./ExcelHelper-100663999.md)
 
-Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md)
-
-Assembly: SigStat.Common.dll
-
-Draws a line chart for the given data
+`Draws a line chart for the given data`

@@ -1,7 +1,3 @@
 # [FormatAsTableWithTitle](./ExcelHelper-100663988.md)
 
-Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md)
-
-Assembly: SigStat.Common.dll
-
-Format cells in the range into a table with possible title
+`Format cells in the range into a table with possible title`
