@@ -9,15 +9,15 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 | --- | --- | 
-| <img width=200/> <sub>NetCoreFeatureDescriptorConverter (  )</sub>| <sub></sub>| <br>
+| <sub>NetCoreFeatureDescriptorConverter (  )</sub><img width=200/>| <sub></sub><img width=200/>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <img width=200/> <sub>[CanConvert](./Methods/NetCoreFeatureDescriptorConverter-100664068.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub>| <sub></sub>| <br>
-| <img width=200/> <sub>[Read](./Methods/NetCoreFeatureDescriptorConverter-100664069.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub>| <sub></sub>| <br>
-| <img width=200/> <sub>[Write](./Methods/NetCoreFeatureDescriptorConverter-100664070.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`FeatureDescriptor`](./../../FeatureDescriptor.md), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub>| <sub></sub>| <br>
+| <sub>[CanConvert](./Methods/NetCoreFeatureDescriptorConverter-100664068.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub><img width=200/>| <sub></sub><img width=200/>| <br>
+| <sub>[Read](./Methods/NetCoreFeatureDescriptorConverter-100664069.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub><img width=200/>| <sub></sub><img width=200/>| <br>
+| <sub>[Write](./Methods/NetCoreFeatureDescriptorConverter-100664070.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`FeatureDescriptor`](./../../FeatureDescriptor.md), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub><img width=200/>| <sub></sub><img width=200/>| <br>
 
 

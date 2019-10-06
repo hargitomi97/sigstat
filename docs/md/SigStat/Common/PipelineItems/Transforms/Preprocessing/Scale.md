@@ -13,23 +13,23 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 
 | Name | Summary | 
 | --- | --- | 
-| <img width=200/> <sub>Scale (  )</sub>| <sub></sub>| <br>
+| <sub>Scale (  )</sub><img width=200/>| <sub></sub><img width=200/>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <img width=200/> <sub>InputFeature</sub>| <sub>Gets or sets the input feature.</sub>| <br>
-| <img width=200/> <sub>NewMaxValue</sub>| <sub><br>NewMaxValue: upper bound of the interval, in which the input feature will be scaled</sub>| <br>
-| <img width=200/> <sub>NewMinValue</sub>| <sub><br>NewMinValue: lower bound of the interval, in which the input feature will be scaled</sub>| <br>
-| <img width=200/> <sub>OutputFeature</sub>| <sub>Gets or sets the output feature.</sub>| <br>
+| <sub>InputFeature</sub><img width=200/>| <sub>Gets or sets the input feature.</sub><img width=200/>| <br>
+| <sub>NewMaxValue</sub><img width=200/>| <sub><br>NewMaxValue: upper bound of the interval, in which the input feature will be scaled</sub><img width=200/>| <br>
+| <sub>NewMinValue</sub><img width=200/>| <sub><br>NewMinValue: lower bound of the interval, in which the input feature will be scaled</sub><img width=200/>| <br>
+| <sub>OutputFeature</sub><img width=200/>| <sub>Gets or sets the output feature.</sub><img width=200/>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <img width=200/> <sub>[Transform](./Methods/Scale-100663813.md) ( [`Signature`](./../../../Signature.md) )</sub>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/Scale-100663813.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=200/>| <sub></sub><img width=200/>| <br>
 
 

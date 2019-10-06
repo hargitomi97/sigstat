@@ -13,17 +13,17 @@ Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi
 
 | Name | Summary | 
 | --- | --- | 
-| <img width=200/> <sub>Translate ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub>| <sub></sub>| <br>
-| <img width=200/> <sub>Translate ( [`FeatureDescriptor`](./../FeatureDescriptor-1.md)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> )</sub>| <sub></sub>| <br>
+| <sub>Translate ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><img width=200/>| <sub></sub><img width=200/>| <br>
+| <sub>Translate ( [`FeatureDescriptor`](./../FeatureDescriptor-1.md)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> )</sub><img width=200/>| <sub></sub><img width=200/>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <img width=200/> <sub>InputX</sub>| <sub>The feature representing the horizontal coordinates of an online signature</sub>| <br>
-| <img width=200/> <sub>InputY</sub>| <sub>The feature representing the vertical coordinates of an online signature</sub>| <br>
-| <img width=200/> <sub>OutputX</sub>| <sub>Target feature for storing the transformed horizontal coordinates</sub>| <br>
-| <img width=200/> <sub>OutputY</sub>| <sub>Target feature for storing the transformed vertical coordinates</sub>| <br>
+| <sub>InputX</sub><img width=200/>| <sub>The feature representing the horizontal coordinates of an online signature</sub><img width=200/>| <br>
+| <sub>InputY</sub><img width=200/>| <sub>The feature representing the vertical coordinates of an online signature</sub><img width=200/>| <br>
+| <sub>OutputX</sub><img width=200/>| <sub>Target feature for storing the transformed horizontal coordinates</sub><img width=200/>| <br>
+| <sub>OutputY</sub><img width=200/>| <sub>Target feature for storing the transformed vertical coordinates</sub><img width=200/>| <br>
 
 
