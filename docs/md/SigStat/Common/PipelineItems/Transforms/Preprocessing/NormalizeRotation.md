@@ -13,24 +13,24 @@ Performs rotation normalization on the online signature
 
 | Name | Summary | 
 | --- | --- | 
-| NormalizeRotation (  )<div style="width: 400px">| <div style="width: 400px">| <br>
+| <sub>NormalizeRotation (  )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| InputT<div style="width: 400px">| Gets or sets the input feature representing the timestamps of an online signature<div style="width: 400px">| <br>
-| InputX<div style="width: 400px">| Gets or sets the input feature representing the X coordinates of an online signature<div style="width: 400px">| <br>
-| InputY<div style="width: 400px">| Gets or sets the input feature representing the Y coordinates of an online signature<div style="width: 400px">| <br>
-| OutputX<div style="width: 400px">| Gets or sets the output feature representing the X coordinates of an online signature<div style="width: 400px">| <br>
-| OutputY<div style="width: 400px">| Gets or sets the input feature representing the Y coordinates of an online signature<div style="width: 400px">| <br>
+| <sub>InputT</sub><div style="width: 200px">| <sub>Gets or sets the input feature representing the timestamps of an online signature</sub><div style="width: 200px">| <br>
+| <sub>InputX</sub><div style="width: 200px">| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub><div style="width: 200px">| <br>
+| <sub>InputY</sub><div style="width: 200px">| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub><div style="width: 200px">| <br>
+| <sub>OutputX</sub><div style="width: 200px">| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub><div style="width: 200px">| <br>
+| <sub>OutputY</sub><div style="width: 200px">| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub><div style="width: 200px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )<div style="width: 400px">| <div style="width: 400px">| <br>
+| <sub>[Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
 
 

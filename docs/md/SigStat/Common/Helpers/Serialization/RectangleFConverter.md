@@ -11,15 +11,15 @@ Custom serializer for [System.Drawing.RectangleF](https://docs.microsoft.com/en-
 
 | Name | Summary | 
 | --- | --- | 
-| RectangleFConverter (  )<div style="width: 400px">| <div style="width: 400px">| <br>
+| <sub>RectangleFConverter (  )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [CanConvert](./Methods/RectangleFConverter-100664058.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )<div style="width: 400px">| Tells if the current object is of the correct type<div style="width: 400px">| <br>
-| [ReadJson](./Methods/RectangleFConverter-100664059.md) ( [`JsonReader`](./RectangleFConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./RectangleFConverter.md) )<div style="width: 400px">| <div style="width: 400px">| <br>
-| [WriteJson](./Methods/RectangleFConverter-100664060.md) ( [`JsonWriter`](./RectangleFConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./RectangleFConverter.md) )<div style="width: 400px">| <div style="width: 400px">| <br>
+| <sub>[CanConvert](./Methods/RectangleFConverter-100664058.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub><div style="width: 200px">| <sub>Tells if the current object is of the correct type</sub><div style="width: 200px">| <br>
+| <sub>[ReadJson](./Methods/RectangleFConverter-100664059.md) ( [`JsonReader`](./RectangleFConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./RectangleFConverter.md) )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
+| <sub>[WriteJson](./Methods/RectangleFConverter-100664060.md) ( [`JsonWriter`](./RectangleFConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./RectangleFConverter.md) )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
 
 

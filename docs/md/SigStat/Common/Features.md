@@ -11,18 +11,18 @@ Standard set of features.
 
 | Name | Summary | 
 | --- | --- | 
-| All<div style="width: 400px">| Returns a readonly list of all [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md)s defined in [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)<div style="width: 400px">| <br>
-| Altitude<div style="width: 400px">| Altitude of an online signature as a function of [Features.T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)<div style="width: 400px">| <br>
-| Azimuth<div style="width: 400px">| Azimuth of an online signature as a function of [Features.T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)<div style="width: 400px">| <br>
-| Bounds<div style="width: 400px">| Actual bounds of the signature<div style="width: 400px">| <br>
-| Button<div style="width: 400px">| Pen position of an online signature as a function of [Features.T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)<div style="width: 400px">| <br>
-| Cog<div style="width: 400px">| Center of gravity in a signature<div style="width: 400px">| <br>
-| Dpi<div style="width: 400px">| Dots per inch<div style="width: 400px">| <br>
-| Image<div style="width: 400px">| The visaul representation of a signature<div style="width: 400px">| <br>
-| Pressure<div style="width: 400px">| Pressure of an online signature as a function of [Features.T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)<div style="width: 400px">| <br>
-| T<div style="width: 400px">| Timestamps for online signatures<div style="width: 400px">| <br>
-| TrimmedBounds<div style="width: 400px">| Represents the main body of the signature [BasicMetadataExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/BasicMetadataExtraction.md)<div style="width: 400px">| <br>
-| X<div style="width: 400px">| X coordinates of an online signature as a function of [Features.T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)<div style="width: 400px">| <br>
-| Y<div style="width: 400px">| Y coordinates of an online signature as a function of [Features.T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)<div style="width: 400px">| <br>
+| <sub>All</sub><div style="width: 200px">| <sub>Returns a readonly list of all [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md)s defined in [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub><div style="width: 200px">| <br>
+| <sub>Altitude</sub><div style="width: 200px">| <sub>Altitude of an online signature as a function of [Features.T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub><div style="width: 200px">| <br>
+| <sub>Azimuth</sub><div style="width: 200px">| <sub>Azimuth of an online signature as a function of [Features.T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub><div style="width: 200px">| <br>
+| <sub>Bounds</sub><div style="width: 200px">| <sub>Actual bounds of the signature</sub><div style="width: 200px">| <br>
+| <sub>Button</sub><div style="width: 200px">| <sub>Pen position of an online signature as a function of [Features.T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub><div style="width: 200px">| <br>
+| <sub>Cog</sub><div style="width: 200px">| <sub>Center of gravity in a signature</sub><div style="width: 200px">| <br>
+| <sub>Dpi</sub><div style="width: 200px">| <sub>Dots per inch</sub><div style="width: 200px">| <br>
+| <sub>Image</sub><div style="width: 200px">| <sub>The visaul representation of a signature</sub><div style="width: 200px">| <br>
+| <sub>Pressure</sub><div style="width: 200px">| <sub>Pressure of an online signature as a function of [Features.T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub><div style="width: 200px">| <br>
+| <sub>T</sub><div style="width: 200px">| <sub>Timestamps for online signatures</sub><div style="width: 200px">| <br>
+| <sub>TrimmedBounds</sub><div style="width: 200px">| <sub>Represents the main body of the signature [BasicMetadataExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/BasicMetadataExtraction.md)</sub><div style="width: 200px">| <br>
+| <sub>X</sub><div style="width: 200px">| <sub>X coordinates of an online signature as a function of [Features.T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub><div style="width: 200px">| <br>
+| <sub>Y</sub><div style="width: 200px">| <sub>Y coordinates of an online signature as a function of [Features.T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub><div style="width: 200px">| <br>
 
 

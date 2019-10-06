@@ -11,7 +11,7 @@ Contains the benchmark results of every [Signer](https://github.com/hargitomi97/
 
 | Name | Summary | 
 | --- | --- | 
-| FinalResult<div style="width: 400px">| Summarized, final result of the benchmark execution.<div style="width: 400px">| <br>
-| SignerResults<div style="width: 400px">| List that contains the [Result](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Result.md)s for each [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md)<div style="width: 400px">| <br>
+| <sub>FinalResult</sub><div style="width: 200px">| <sub>Summarized, final result of the benchmark execution.</sub><div style="width: 200px">| <br>
+| <sub>SignerResults</sub><div style="width: 200px">| <sub>List that contains the [Result](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Result.md)s for each [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md)</sub><div style="width: 200px">| <br>
 
 

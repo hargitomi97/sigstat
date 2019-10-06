@@ -13,28 +13,28 @@ Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerOb
 
 | Name | Summary | 
 | --- | --- | 
-| SigComp11DutchLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )<div style="width: 400px">| Initializes a new instance of the [Loaders.SigComp11DutchLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp11DutchLoader.md) class.<div style="width: 400px">| <br>
+| <sub>SigComp11DutchLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub><div style="width: 200px">| <sub>Initializes a new instance of the [Loaders.SigComp11DutchLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp11DutchLoader.md) class.</sub><div style="width: 200px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| DatabasePath<div style="width: 400px">| Gets or sets the database path.<div style="width: 400px">| <br>
-| StandardFeatures<div style="width: 400px">| Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)<div style="width: 400px">| <br>
+| <sub>DatabasePath</sub><div style="width: 200px">| <sub>Gets or sets the database path.</sub><div style="width: 200px">| <br>
+| <sub>StandardFeatures</sub><div style="width: 200px">| <sub>Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub><div style="width: 200px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [EnumerateSigners](./Methods/SigComp11DutchLoader-100663907.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )<div style="width: 400px">| <div style="width: 400px">| <br>
+| <sub>[EnumerateSigners](./Methods/SigComp11DutchLoader-100663907.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
 
 
 ## Static Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [LoadSignature](./Methods/SigComp11DutchLoader-100663908.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )<div style="width: 400px">| Loads one signature from specified stream.<div style="width: 400px">| <br>
+| <sub>[LoadSignature](./Methods/SigComp11DutchLoader-100663908.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub><div style="width: 200px">| <sub>Loads one signature from specified stream.</sub><div style="width: 200px">| <br>
 
 

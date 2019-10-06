@@ -13,26 +13,26 @@ Generates an image feature out of a binary raster.  Optionally, saves the image 
 
 | Name | Summary | 
 | --- | --- | 
-| ImageGenerator (  )<div style="width: 400px">| Initializes a new instance of the [Transforms.ImageGenerator](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ImageGenerator.md) class with default settings: skip file writing, Blue ink on white paper.<div style="width: 400px">| <br>
-| ImageGenerator ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )<div style="width: 400px">| Initializes a new instance of the [Transforms.ImageGenerator](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ImageGenerator.md) class with default settings.<div style="width: 400px">| <br>
-| ImageGenerator ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`Rgba32`](./ImageGenerator.md), [`Rgba32`](./ImageGenerator.md) )<div style="width: 400px">| Initializes a new instance of the [Transforms.ImageGenerator](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ImageGenerator.md) class with specified settings.<div style="width: 400px">| <br>
+| <sub>ImageGenerator (  )</sub><div style="width: 200px">| <sub>Initializes a new instance of the [Transforms.ImageGenerator](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ImageGenerator.md) class with default settings: skip file writing, Blue ink on white paper.</sub><div style="width: 200px">| <br>
+| <sub>ImageGenerator ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub><div style="width: 200px">| <sub>Initializes a new instance of the [Transforms.ImageGenerator](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ImageGenerator.md) class with default settings.</sub><div style="width: 200px">| <br>
+| <sub>ImageGenerator ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`Rgba32`](./ImageGenerator.md), [`Rgba32`](./ImageGenerator.md) )</sub><div style="width: 200px">| <sub>Initializes a new instance of the [Transforms.ImageGenerator](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ImageGenerator.md) class with specified settings.</sub><div style="width: 200px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| BackgroundColor<div style="width: 400px">| Gets or sets the color of the backgroung used to render the signature<div style="width: 400px">| <br>
-| ForegroundColor<div style="width: 400px">| Gets or sets the color of the foreground used to render the signature<div style="width: 400px">| <br>
-| Input<div style="width: 400px">| Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of a signature<div style="width: 400px">| <br>
-| OutputImage<div style="width: 400px">| Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of a signature<div style="width: 400px">| <br>
-| WriteToFile<div style="width: 400px">| Gets or sets a value indicating whether the results should be saved to a file or not.<div style="width: 400px">| <br>
+| <sub>BackgroundColor</sub><div style="width: 200px">| <sub>Gets or sets the color of the backgroung used to render the signature</sub><div style="width: 200px">| <br>
+| <sub>ForegroundColor</sub><div style="width: 200px">| <sub>Gets or sets the color of the foreground used to render the signature</sub><div style="width: 200px">| <br>
+| <sub>Input</sub><div style="width: 200px">| <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of a signature</sub><div style="width: 200px">| <br>
+| <sub>OutputImage</sub><div style="width: 200px">| <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of a signature</sub><div style="width: 200px">| <br>
+| <sub>WriteToFile</sub><div style="width: 200px">| <sub>Gets or sets a value indicating whether the results should be saved to a file or not.</sub><div style="width: 200px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [Transform](./Methods/ImageGenerator-100663677.md) ( [`Signature`](./../Signature.md) )<div style="width: 400px">| <div style="width: 400px">| <br>
+| <sub>[Transform](./Methods/ImageGenerator-100663677.md) ( [`Signature`](./../Signature.md) )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
 
 

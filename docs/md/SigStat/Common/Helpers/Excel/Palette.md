@@ -9,15 +9,15 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 | --- | --- | 
-| Palette ( [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color), [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color), [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) )<div style="width: 400px">| Initializes a new instance of the [Helpers.Excel.Palette](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/Excel/Palette.md) class.<div style="width: 400px">| <br>
+| <sub>Palette ( [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color), [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color), [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) )</sub><div style="width: 200px">| <sub>Initializes a new instance of the [Helpers.Excel.Palette](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/Excel/Palette.md) class.</sub><div style="width: 200px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| DarkColor<div style="width: 400px">| Gets or sets the color for rendering darker elements<div style="width: 400px">| <br>
-| LightColor<div style="width: 400px">| Gets or sets the color for rendering bright elements<div style="width: 400px">| <br>
-| MainColor<div style="width: 400px">| Gets or sets the main color used in the palette<div style="width: 400px">| <br>
+| <sub>DarkColor</sub><div style="width: 200px">| <sub>Gets or sets the color for rendering darker elements</sub><div style="width: 200px">| <br>
+| <sub>LightColor</sub><div style="width: 200px">| <sub>Gets or sets the color for rendering bright elements</sub><div style="width: 200px">| <br>
+| <sub>MainColor</sub><div style="width: 200px">| <sub>Gets or sets the main color used in the palette</sub><div style="width: 200px">| <br>
 
 

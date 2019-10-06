@@ -13,25 +13,25 @@ Resamples an online signature to a specific sample count using the specified [Pi
 
 | Name | Summary | 
 | --- | --- | 
-| ResampleSamplesCountBased (  )<div style="width: 400px">| <div style="width: 400px">| <br>
+| <sub>ResampleSamplesCountBased (  )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| InputFeatures<div style="width: 400px">| Gets or sets the input features.<div style="width: 400px">| <br>
-| InterpolationType<div style="width: 400px">| Gets or sets the type of the interpolation. <seealso cref="T:SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation" /><div style="width: 400px">| <br>
-| NumOfSamples<div style="width: 400px">| Gets or sets the number of samples.<div style="width: 400px">| <br>
-| OriginalTFeature<div style="width: 400px">| Gets or sets the input timestamp feature.<div style="width: 400px">| <br>
-| OutputFeatures<div style="width: 400px">| Gets or sets the resampled  features.<div style="width: 400px">| <br>
-| ResampledTFeature<div style="width: 400px">| Gets or sets the resampled timestamp feature.<div style="width: 400px">| <br>
+| <sub>InputFeatures</sub><div style="width: 200px">| <sub>Gets or sets the input features.</sub><div style="width: 200px">| <br>
+| <sub>InterpolationType</sub><div style="width: 200px">| <sub>Gets or sets the type of the interpolation. <seealso cref="T:SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation" /></sub><div style="width: 200px">| <br>
+| <sub>NumOfSamples</sub><div style="width: 200px">| <sub>Gets or sets the number of samples.</sub><div style="width: 200px">| <br>
+| <sub>OriginalTFeature</sub><div style="width: 200px">| <sub>Gets or sets the input timestamp feature.</sub><div style="width: 200px">| <br>
+| <sub>OutputFeatures</sub><div style="width: 200px">| <sub>Gets or sets the resampled  features.</sub><div style="width: 200px">| <br>
+| <sub>ResampledTFeature</sub><div style="width: 200px">| <sub>Gets or sets the resampled timestamp feature.</sub><div style="width: 200px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [Transform](./Methods/ResampleSamplesCountBased-100663801.md) ( [`Signature`](./../../../Signature.md) )<div style="width: 400px">| <div style="width: 400px">| <br>
+| <sub>[Transform](./Methods/ResampleSamplesCountBased-100663801.md) ( [`Signature`](./../../../Signature.md) )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
 
 

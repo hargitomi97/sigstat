@@ -13,21 +13,21 @@ Adds a constant value to a feature. Works with collection features too.  <br>Def
 
 | Name | Summary | 
 | --- | --- | 
-| AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )<div style="width: 400px">| Initializes a new instance of the [Transforms.AddConst](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) class with specified settings.<div style="width: 400px">| <br>
+| <sub>AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><div style="width: 200px">| <sub>Initializes a new instance of the [Transforms.AddConst](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) class with specified settings.</sub><div style="width: 200px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| Input<div style="width: 400px">| Input values for trasformation<div style="width: 400px">| <br>
-| Output<div style="width: 400px">| Output feature to store results<div style="width: 400px">| <br>
+| <sub>Input</sub><div style="width: 200px">| <sub>Input values for trasformation</sub><div style="width: 200px">| <br>
+| <sub>Output</sub><div style="width: 200px">| <sub>Output feature to store results</sub><div style="width: 200px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [Transform](./Methods/AddConst-100663603.md) ( [`Signature`](./../Signature.md) )<div style="width: 400px">| <div style="width: 400px">| <br>
+| <sub>[Transform](./Methods/AddConst-100663603.md) ( [`Signature`](./../Signature.md) )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
 
 

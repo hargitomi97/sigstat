@@ -11,22 +11,22 @@ Dynamic Time Warping algorithm
 
 | Name | Summary | 
 | --- | --- | 
-| Dtw (  )<div style="width: 400px">| Initialize the DTW algorithm with the default Euclidean distance method.<div style="width: 400px">| <br>
-| Dtw ( [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )<div style="width: 400px">| Initialize the DTW algorithm with given distance method.<div style="width: 400px">| <br>
+| <sub>Dtw (  )</sub><div style="width: 200px">| <sub>Initialize the DTW algorithm with the default Euclidean distance method.</sub><div style="width: 200px">| <br>
+| <sub>Dtw ( [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub><div style="width: 200px">| <sub>Initialize the DTW algorithm with given distance method.</sub><div style="width: 200px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| ForwardPath<div style="width: 400px">| Gets the list of points representing the shortest path.<div style="width: 400px">| <br>
+| <sub>ForwardPath</sub><div style="width: 200px">| <sub>Gets the list of points representing the shortest path.</sub><div style="width: 200px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| [Compute](./Methods/Dtw-100664150.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )<div style="width: 400px">| <div style="width: 400px">| <br>
-| [Distance](./Methods/Dtw-100664151.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )<div style="width: 400px">| Calculates distance between two points.  Distance method can be set in ctor.<div style="width: 400px">| <br>
+| <sub>[Compute](./Methods/Dtw-100664150.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
+| <sub>[Distance](./Methods/Dtw-100664151.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )</sub><div style="width: 200px">| <sub>Calculates distance between two points.  Distance method can be set in ctor.</sub><div style="width: 200px">| <br>
 
 
