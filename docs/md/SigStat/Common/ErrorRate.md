@@ -11,14 +11,14 @@ Represents the ErrorRates achieved in a benchmark
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Far</sub><div style="width: 200px">| <sub>False Acceptance Rate</sub><div style="width: 200px">| <br>
-| <sub>Frr</sub><div style="width: 200px">| <sub>False Rejection Rate</sub><div style="width: 200px">| <br>
+| Far<div style="width: 200px">| False Acceptance Rate<div style="width: 200px">| <br>
+| Frr<div style="width: 200px">| False Rejection Rate<div style="width: 200px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Aer</sub><div style="width: 200px">| <sub>Average Error Rate (calculated from Far and Frr)</sub><div style="width: 200px">| <br>
+| Aer<div style="width: 200px">| Average Error Rate (calculated from Far and Frr)<div style="width: 200px">| <br>
 
 

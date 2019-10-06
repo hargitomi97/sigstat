@@ -13,24 +13,24 @@ This transformations can be used to translate the coordinates of an online signa
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>TranslatePreproc (  )</sub><div style="width: 200px">| <sub>Initializes a new instance of the [PipelineItems.Transforms.Preprocessing.TranslatePreproc](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/TranslatePreproc.md) class.</sub><div style="width: 200px">| <br>
-| <sub>TranslatePreproc ( [`OriginType`](./OriginType.md) )</sub><div style="width: 200px">| <sub>Initializes a new instance of the [PipelineItems.Transforms.Preprocessing.TranslatePreproc](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/TranslatePreproc.md) class.</sub><div style="width: 200px">| <br>
+| TranslatePreproc (  )<div style="width: 200px">| Initializes a new instance of the [PipelineItems.Transforms.Preprocessing.TranslatePreproc](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/TranslatePreproc.md) class.<div style="width: 200px">| <br>
+| TranslatePreproc ( [`OriginType`](./OriginType.md) )<div style="width: 200px">| Initializes a new instance of the [PipelineItems.Transforms.Preprocessing.TranslatePreproc](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/TranslatePreproc.md) class.<div style="width: 200px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>GoalOrigin</sub><div style="width: 200px">| <sub>Goal origin of the translation</sub><div style="width: 200px">| <br>
-| <sub>InputFeature</sub><div style="width: 200px">| <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) (e.g. [Features.X](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md))</sub><div style="width: 200px">| <br>
-| <sub>NewOrigin</sub><div style="width: 200px">| <sub>New origin after the translation</sub><div style="width: 200px">| <br>
-| <sub>OutputFeature</sub><div style="width: 200px">| <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) (e.g. [Features.X](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md))</sub><div style="width: 200px">| <br>
+| GoalOrigin<div style="width: 200px">| Goal origin of the translation<div style="width: 200px">| <br>
+| InputFeature<div style="width: 200px">| Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) (e.g. [Features.X](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md))<div style="width: 200px">| <br>
+| NewOrigin<div style="width: 200px">| New origin after the translation<div style="width: 200px">| <br>
+| OutputFeature<div style="width: 200px">| Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) (e.g. [Features.X](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md))<div style="width: 200px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/TranslatePreproc-100663825.md) ( [`Signature`](./../../../Signature.md) )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
+| [Transform](./Methods/TranslatePreproc-100663825.md) ( [`Signature`](./../../../Signature.md) )<div style="width: 200px">| <div style="width: 200px">| <br>
 
 

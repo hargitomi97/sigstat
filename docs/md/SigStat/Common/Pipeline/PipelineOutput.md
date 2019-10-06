@@ -11,18 +11,18 @@ Represents an output for a [Pipeline.PipelineOutput.PipelineItem](https://github
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub><div style="width: 200px">| <sub>Initializes a new instance of the [Pipeline.PipelineOutput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineOutput.md) class.</sub><div style="width: 200px">| <br>
+| PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )<div style="width: 200px">| Initializes a new instance of the [Pipeline.PipelineOutput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineOutput.md) class.<div style="width: 200px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Default</sub><div style="width: 200px">| <sub>Gets the default value</sub><div style="width: 200px">| <br>
-| <sub>FD</sub><div style="width: 200px">| <sub>Gets or sets the fd.</sub><div style="width: 200px">| <br>
-| <sub>IsCollectionOfFeatureDescriptors</sub><div style="width: 200px">| <sub>Gets a value indicating whether this instance is collection of feature descriptors.</sub><div style="width: 200px">| <br>
-| <sub>IsTemporary</sub><div style="width: 200px">| <sub>Gets a value indicating whether this instance is temporary.</sub><div style="width: 200px">| <br>
-| <sub>PropName</sub><div style="width: 200px">| <sub>Gets the name of the property.</sub><div style="width: 200px">| <br>
-| <sub>Type</sub><div style="width: 200px">| <sub>Gets the type of the property</sub><div style="width: 200px">| <br>
+| Default<div style="width: 200px">| Gets the default value<div style="width: 200px">| <br>
+| FD<div style="width: 200px">| Gets or sets the fd.<div style="width: 200px">| <br>
+| IsCollectionOfFeatureDescriptors<div style="width: 200px">| Gets a value indicating whether this instance is collection of feature descriptors.<div style="width: 200px">| <br>
+| IsTemporary<div style="width: 200px">| Gets a value indicating whether this instance is temporary.<div style="width: 200px">| <br>
+| PropName<div style="width: 200px">| Gets the name of the property.<div style="width: 200px">| <br>
+| Type<div style="width: 200px">| Gets the type of the property<div style="width: 200px">| <br>
 
 

@@ -13,21 +13,21 @@ Sorts Component order by comparing each starting X value, and finding nearest co
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ComponentSorter (  )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
+| ComponentSorter (  )<div style="width: 200px">| <div style="width: 200px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Input</sub><div style="width: 200px">| <sub>Gets or sets the input.</sub><div style="width: 200px">| <br>
-| <sub>Output</sub><div style="width: 200px">| <sub>Gets or sets the output.</sub><div style="width: 200px">| <br>
+| Input<div style="width: 200px">| Gets or sets the input.<div style="width: 200px">| <br>
+| Output<div style="width: 200px">| Gets or sets the output.<div style="width: 200px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/ComponentSorter-100663515.md) ( [`Signature`](./../Signature.md) )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
+| [Transform](./Methods/ComponentSorter-100663515.md) ( [`Signature`](./../Signature.md) )<div style="width: 200px">| <div style="width: 200px">| <br>
 
 

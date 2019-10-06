@@ -11,14 +11,14 @@ Binary 3x3 pattern matcher with rotating option.
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>PatternMatching3x3 ( [`Nullable`](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)[]\<[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)> )</sub><div style="width: 200px">| <sub>Initializes a new instance of the [Algorithms.PatternMatching3x3](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Algorithms/PatternMatching3x3.md) class with given pattern.</sub><div style="width: 200px">| <br>
+| PatternMatching3x3 ( [`Nullable`](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)[]\<[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)> )<div style="width: 200px">| Initializes a new instance of the [Algorithms.PatternMatching3x3](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Algorithms/PatternMatching3x3.md) class with given pattern.<div style="width: 200px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Match](./Methods/PatternMatching3x3-100664165.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><div style="width: 200px">| <sub>Match the 3x3 input with the 3x3 pattern.</sub><div style="width: 200px">| <br>
-| <sub>[RotMatch](./Methods/PatternMatching3x3-100664166.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><div style="width: 200px">| <sub>Match the 3x3 input with the 3x3 pattern from all 4 directions.</sub><div style="width: 200px">| <br>
+| [Match](./Methods/PatternMatching3x3-100664165.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )<div style="width: 200px">| Match the 3x3 input with the 3x3 pattern.<div style="width: 200px">| <br>
+| [RotMatch](./Methods/PatternMatching3x3-100664166.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )<div style="width: 200px">| Match the 3x3 input with the 3x3 pattern from all 4 directions.<div style="width: 200px">| <br>
 
 

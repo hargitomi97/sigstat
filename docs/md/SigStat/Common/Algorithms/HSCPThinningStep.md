@@ -11,20 +11,20 @@ HSCP thinning algorithm  http://www.ppgia.pucpr.br/~facon/Afinamento/1987holt.pd
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>HSCPThinningStep (  )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
+| HSCPThinningStep (  )<div style="width: 200px">| <div style="width: 200px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ResultChanged</sub><div style="width: 200px">| <sub>Gets whether the last [Algorithms.HSCPThinningStep.Scan](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Algorithms/HSCPThinningStep.md) call was effective.</sub><div style="width: 200px">| <br>
+| ResultChanged<div style="width: 200px">| Gets whether the last [Algorithms.HSCPThinningStep.Scan](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Algorithms/HSCPThinningStep.md) call was effective.<div style="width: 200px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Scan](./Methods/HSCPThinningStep-100664156.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><div style="width: 200px">| <sub>Does one step of the thinning. Call it iteratively while ResultChanged.</sub><div style="width: 200px">| <br>
+| [Scan](./Methods/HSCPThinningStep-100664156.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )<div style="width: 200px">| Does one step of the thinning. Call it iteratively while ResultChanged.<div style="width: 200px">| <br>
 
 

@@ -11,27 +11,27 @@ Represents a feature with name and type.
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>FeatureType</sub><div style="width: 200px">| <sub>Gets or sets the type of the feature.</sub><div style="width: 200px">| <br>
-| <sub>IsCollection</sub><div style="width: 200px">| <sub>Gets whether the type of the feature is List.</sub><div style="width: 200px">| <br>
-| <sub>Key</sub><div style="width: 200px">| <sub>Gets the unique key of the feature.</sub><div style="width: 200px">| <br>
-| <sub>Name</sub><div style="width: 200px">| <sub>Gets or sets a human readable name of the feature.</sub><div style="width: 200px">| <br>
+| FeatureType<div style="width: 200px">| Gets or sets the type of the feature.<div style="width: 200px">| <br>
+| IsCollection<div style="width: 200px">| Gets whether the type of the feature is List.<div style="width: 200px">| <br>
+| Key<div style="width: 200px">| Gets the unique key of the feature.<div style="width: 200px">| <br>
+| Name<div style="width: 200px">| Gets or sets a human readable name of the feature.<div style="width: 200px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[ToString](./Methods/FeatureDescriptor-100663418.md) (  )</sub><div style="width: 200px">| <sub>Returns a string represenatation of the FeatureDescriptor</sub><div style="width: 200px">| <br>
+| [ToString](./Methods/FeatureDescriptor-100663418.md) (  )<div style="width: 200px">| Returns a string represenatation of the FeatureDescriptor<div style="width: 200px">| <br>
 
 
 ## Static Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Get](./Methods/FeatureDescriptor-100663415.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div style="width: 200px">| <sub>Gets the [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) specified by `key`.  Throws [System.Collections.Generic.KeyNotFoundException](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.KeyNotFoundException) exception if there is no descriptor registered with the given key.</sub><div style="width: 200px">| <br>
-| <sub>[Get](./Methods/FeatureDescriptor-100663417.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div style="width: 200px">| <sub>Gets the [FeatureDescriptor-1](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor-1.md) specified by `key`.  If the key is not registered yet, a new [FeatureDescriptor-1](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor-1.md) is automatically created with the given key and type.</sub><div style="width: 200px">| <br>
-| <sub>[GetAll](./Methods/FeatureDescriptor-100663416.md) (  )</sub><div style="width: 200px">| <sub>Gets a dictionary of all registered feature descriptors</sub><div style="width: 200px">| <br>
-| <sub>[IsRegistered](./Methods/FeatureDescriptor-100663413.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div style="width: 200px">| <sub>Returns true, if there is a FeatureDescriptor registered with the given key</sub><div style="width: 200px">| <br>
-| <sub>[Register](./Methods/FeatureDescriptor-100663414.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub><div style="width: 200px">| <sub>Registers a new [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) with a given key.  If the FeatureDescriptor is allready registered, this function will  return a reference to the originally registered FeatureDescriptor.  to the a</sub><div style="width: 200px">| <br>
+| [Get](./Methods/FeatureDescriptor-100663415.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )<div style="width: 200px">| Gets the [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) specified by `key`.  Throws [System.Collections.Generic.KeyNotFoundException](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.KeyNotFoundException) exception if there is no descriptor registered with the given key.<div style="width: 200px">| <br>
+| [Get](./Methods/FeatureDescriptor-100663417.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )<div style="width: 200px">| Gets the [FeatureDescriptor-1](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor-1.md) specified by `key`.  If the key is not registered yet, a new [FeatureDescriptor-1](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor-1.md) is automatically created with the given key and type.<div style="width: 200px">| <br>
+| [GetAll](./Methods/FeatureDescriptor-100663416.md) (  )<div style="width: 200px">| Gets a dictionary of all registered feature descriptors<div style="width: 200px">| <br>
+| [IsRegistered](./Methods/FeatureDescriptor-100663413.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )<div style="width: 200px">| Returns true, if there is a FeatureDescriptor registered with the given key<div style="width: 200px">| <br>
+| [Register](./Methods/FeatureDescriptor-100663414.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )<div style="width: 200px">| Registers a new [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) with a given key.  If the FeatureDescriptor is allready registered, this function will  return a reference to the originally registered FeatureDescriptor.  to the a<div style="width: 200px">| <br>
 
 

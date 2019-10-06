@@ -11,17 +11,17 @@ Json serialization and deserialization using the custom resolver  [Helpers.Seria
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>SerializationHelper (  )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
+| SerializationHelper (  )<div style="width: 200px">| <div style="width: 200px">| <br>
 
 
 ## Static Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Deserialize](./Methods/SerializationHelper-100664028.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div style="width: 200px">| <sub>Constructs object from strings that were serialized previously</sub><div style="width: 200px">| <br>
-| <sub>[DeserializeFromFile](./Methods/SerializationHelper-100664029.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div style="width: 200px">| <sub>Constructs object from file given by a path</sub><div style="width: 200px">| <br>
-| <sub>[GetSettings](./Methods/SerializationHelper-100664027.md) (  )</sub><div style="width: 200px">| <sub>Settings used for the serialization methods</sub><div style="width: 200px">| <br>
-| <sub>[JsonSerialize](./Methods/SerializationHelper-100664031.md) ( [`T`](./SerializationHelper.md) )</sub><div style="width: 200px">| <sub>Creates json string from object</sub><div style="width: 200px">| <br>
-| <sub>[JsonSerializeToFile](./Methods/SerializationHelper-100664030.md) ( [`T`](./SerializationHelper.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div style="width: 200px">| <sub>Writes object to file to the given by path in json format</sub><div style="width: 200px">| <br>
+| [Deserialize](./Methods/SerializationHelper-100664028.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )<div style="width: 200px">| Constructs object from strings that were serialized previously<div style="width: 200px">| <br>
+| [DeserializeFromFile](./Methods/SerializationHelper-100664029.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )<div style="width: 200px">| Constructs object from file given by a path<div style="width: 200px">| <br>
+| [GetSettings](./Methods/SerializationHelper-100664027.md) (  )<div style="width: 200px">| Settings used for the serialization methods<div style="width: 200px">| <br>
+| [JsonSerialize](./Methods/SerializationHelper-100664031.md) ( [`T`](./SerializationHelper.md) )<div style="width: 200px">| Creates json string from object<div style="width: 200px">| <br>
+| [JsonSerializeToFile](./Methods/SerializationHelper-100664030.md) ( [`T`](./SerializationHelper.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )<div style="width: 200px">| Writes object to file to the given by path in json format<div style="width: 200px">| <br>
 
 

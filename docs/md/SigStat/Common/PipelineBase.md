@@ -13,23 +13,23 @@ TODO: Ideiglenes osztaly, C# 8.0 ban ezt atalakitani default implementacios inte
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>PipelineBase (  )</sub><div style="width: 200px">| <sub>Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.</sub><div style="width: 200px">| <br>
+| PipelineBase (  )<div style="width: 200px">| Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.<div style="width: 200px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Logger</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
-| <sub>PipelineInputs</sub><div style="width: 200px">| <sub>A collection of inputs for the pipeline elements</sub><div style="width: 200px">| <br>
-| <sub>PipelineOutputs</sub><div style="width: 200px">| <sub>A collection of outputs for the pipeline elements</sub><div style="width: 200px">| <br>
-| <sub>Progress</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
+| Logger<div style="width: 200px">| <div style="width: 200px">| <br>
+| PipelineInputs<div style="width: 200px">| A collection of inputs for the pipeline elements<div style="width: 200px">| <br>
+| PipelineOutputs<div style="width: 200px">| A collection of outputs for the pipeline elements<div style="width: 200px">| <br>
+| Progress<div style="width: 200px">| <div style="width: 200px">| <br>
 
 
 ## Events
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ProgressChanged</sub><div style="width: 200px">| <sub>The event is raised whenever the value of [PipelineBase.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) changes</sub><div style="width: 200px">| <br>
+| ProgressChanged<div style="width: 200px">| The event is raised whenever the value of [PipelineBase.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) changes<div style="width: 200px">| <br>
 
 

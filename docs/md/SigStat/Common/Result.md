@@ -11,10 +11,10 @@ Contains the benchmark results of a single [Signer](https://github.com/hargitomi
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Aer</sub><div style="width: 200px">| <sub>Average Error Rate</sub><div style="width: 200px">| <br>
-| <sub>Far</sub><div style="width: 200px">| <sub>False Acceptance Rate</sub><div style="width: 200px">| <br>
-| <sub>Frr</sub><div style="width: 200px">| <sub>False Rejection Rate</sub><div style="width: 200px">| <br>
-| <sub>Model</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
-| <sub>Signer</sub><div style="width: 200px">| <sub>Identifier of the [Result.Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Result.md)</sub><div style="width: 200px">| <br>
+| Aer<div style="width: 200px">| Average Error Rate<div style="width: 200px">| <br>
+| Far<div style="width: 200px">| False Acceptance Rate<div style="width: 200px">| <br>
+| Frr<div style="width: 200px">| False Rejection Rate<div style="width: 200px">| <br>
+| Model<div style="width: 200px">| <div style="width: 200px">| <br>
+| Signer<div style="width: 200px">| Identifier of the [Result.Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Result.md)<div style="width: 200px">| <br>
 
 
