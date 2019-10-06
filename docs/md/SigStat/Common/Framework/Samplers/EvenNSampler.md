@@ -9,15 +9,15 @@ Selects the first N signatures with even index for training
 
 ## Constructors
 
-NameSummary
-
-<div style="text-align: right"><sub>Constructor</sub></ div ><div style="text-align: right"><sub>Constructor</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>Constructor</sub> | <sub>Constructor</sub> | <br>
 
 
 ## Properties
 
-NameSummary
-
-<div style="text-align: right"><sub>N</sub></ div ><div style="text-align: right"><sub>Count of signatures used for training</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>N</sub> | <sub>Count of signatures used for training</sub> | <br>
 
 

@@ -9,12 +9,12 @@ Contains the benchmark results of a single [Signer](https://github.com/hargitomi
 
 ## Fields
 
-TypeNameSummary
-
-<div style="text-align: right"><sub>Aer</sub></ div ><div style="text-align: right"><sub>Average Error Rate</sub></ div ><div style="text-align: right"></ div ><br>
-<div style="text-align: right"><sub>Far</sub></ div ><div style="text-align: right"><sub>False Acceptance Rate</sub></ div ><div style="text-align: right"></ div ><br>
-<div style="text-align: right"><sub>Frr</sub></ div ><div style="text-align: right"><sub>False Rejection Rate</sub></ div ><div style="text-align: right"></ div ><br>
-<div style="text-align: right"><sub>Model</sub></ div ><div style="text-align: right"><sub></sub></ div ><div style="text-align: right"></ div ><br>
-<div style="text-align: right"><sub>Signer</sub></ div ><div style="text-align: right"><sub>Identifier of the [Result.Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Result.md)</sub></ div ><div style="text-align: right"></ div ><br>
+| Type | Name | Summary | 
+| --- | --- | --- | 
+| <sub>Aer</sub> | <sub>Average Error Rate</sub> |  | <br>
+| <sub>Far</sub> | <sub>False Acceptance Rate</sub> |  | <br>
+| <sub>Frr</sub> | <sub>False Rejection Rate</sub> |  | <br>
+| <sub>Model</sub> | <sub></sub> |  | <br>
+| <sub>Signer</sub> | <sub>Identifier of the [Result.Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Result.md)</sub> |  | <br>
 
 

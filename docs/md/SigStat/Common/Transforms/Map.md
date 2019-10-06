@@ -11,23 +11,23 @@ Maps values of a feature to a specified range.  <br>Pipeline Input type: List{do
 
 ## Constructors
 
-NameSummary
-
-<div style="text-align: right"><sub>Initializes a new instance of the [Transforms.Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings.</sub></ div ><div style="text-align: right"><sub>Initializes a new instance of the [Transforms.Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings.</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>Initializes a new instance of the [Transforms.Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings.</sub> | <sub>Initializes a new instance of the [Transforms.Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings.</sub> | <br>
 
 
 ## Properties
 
-NameSummary
-
-<div style="text-align: right"><sub>Input</sub></ div ><div style="text-align: right"><sub>Input</sub></ div ><br>
-<div style="text-align: right"><sub>Output</sub></ div ><div style="text-align: right"><sub>Output</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>Input</sub> | <sub>Input</sub> | <br>
+| <sub>Output</sub> | <sub>Output</sub> | <br>
 
 
 ## Methods
 
-NameSummary
-
-<div style="text-align: right"><sub>[Transform](./Methods/Map-100663623.md) ( [`Signature`](./../Signature.md) )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>[Transform](./Methods/Map-100663623.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | <br>
 
 

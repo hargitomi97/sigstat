@@ -11,24 +11,24 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 
 ## Constructors
 
-NameSummary
-
-<div style="text-align: right"><sub></sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub></sub> | <sub></sub> | <br>
 
 
 ## Properties
 
-NameSummary
-
-<div style="text-align: right"><sub>InputFeature</sub></ div ><div style="text-align: right"><sub>Gets or sets the input feature.</sub></ div ><br>
-<div style="text-align: right"><sub>OutputFeature</sub></ div ><div style="text-align: right"><sub>Gets or sets the output feature.</sub></ div ><br>
-<div style="text-align: right"><sub>ReferenceFeature</sub></ div ><div style="text-align: right"><sub>Gets or sets the reference feature.</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>InputFeature</sub> | <sub>Gets or sets the input feature.</sub> | <br>
+| <sub>OutputFeature</sub> | <sub>Gets or sets the output feature.</sub> | <br>
+| <sub>ReferenceFeature</sub> | <sub>Gets or sets the reference feature.</sub> | <br>
 
 
 ## Methods
 
-NameSummary
-
-<div style="text-align: right"><sub>[Transform](./Methods/RelativeScale-100663787.md) ( [`Signature`](./../../../Signature.md) )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>[Transform](./Methods/RelativeScale-100663787.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | <br>
 
 

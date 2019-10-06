@@ -9,17 +9,17 @@ Custom serializer for [FeatureDescriptor](https://github.com/hargitomi97/sigstat
 
 ## Constructors
 
-NameSummary
-
-<div style="text-align: right"><sub></sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub></sub> | <sub></sub> | <br>
 
 
 ## Methods
 
-NameSummary
-
-<div style="text-align: right"><sub>[CanConvert](./Methods/FeatureDescriptorJsonConverter-100664019.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub></ div ><div style="text-align: right"><sub>Tells if the current object is of the correct type</sub></ div ><br>
-<div style="text-align: right"><sub>[ReadJson](./Methods/FeatureDescriptorJsonConverter-100664020.md) ( [`JsonReader`](./FeatureDescriptorJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorJsonConverter.md) )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
-<div style="text-align: right"><sub>[WriteJson](./Methods/FeatureDescriptorJsonConverter-100664021.md) ( [`JsonWriter`](./FeatureDescriptorJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorJsonConverter.md) )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>[CanConvert](./Methods/FeatureDescriptorJsonConverter-100664019.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub> | <sub>Tells if the current object is of the correct type</sub> | <br>
+| <sub>[ReadJson](./Methods/FeatureDescriptorJsonConverter-100664020.md) ( [`JsonReader`](./FeatureDescriptorJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorJsonConverter.md) )</sub> | <sub></sub> | <br>
+| <sub>[WriteJson](./Methods/FeatureDescriptorJsonConverter-100664021.md) ( [`JsonWriter`](./FeatureDescriptorJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorJsonConverter.md) )</sub> | <sub></sub> | <br>
 
 

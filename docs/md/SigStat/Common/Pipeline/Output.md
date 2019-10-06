@@ -9,16 +9,16 @@ Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/b
 
 ## Constructors
 
-NameSummary
-
-<div style="text-align: right"><sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub></ div ><div style="text-align: right"><sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub></ div ><br>
-<div style="text-align: right"><sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub></ div ><div style="text-align: right"><sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub> | <sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub> | <br>
+| <sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub> | <sub>Initializes a new instance of the [Pipeline.Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub> | <br>
 
 
 ## Fields
 
-TypeNameSummary
-
-<div style="text-align: right"><sub>Default</sub></ div ><div style="text-align: right"><sub>The default value for the property</sub></ div ><div style="text-align: right"></ div ><br>
+| Type | Name | Summary | 
+| --- | --- | --- | 
+| <sub>Default</sub> | <sub>The default value for the property</sub> |  | <br>
 
 

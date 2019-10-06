@@ -11,18 +11,18 @@ Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi
 
 ## Constructors
 
-NameSummary
-
-<div style="text-align: right"><sub>Initializes a new instance of the [Transforms.CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub></ div ><div style="text-align: right"><sub>Initializes a new instance of the [Transforms.CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>Initializes a new instance of the [Transforms.CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub> | <sub>Initializes a new instance of the [Transforms.CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub> | <br>
 
 
 ## Properties
 
-NameSummary
-
-<div style="text-align: right"><sub>InputX</sub></ div ><div style="text-align: right"><sub>Gets or sets the input feature representing the X coordinates of an online signature</sub></ div ><br>
-<div style="text-align: right"><sub>InputY</sub></ div ><div style="text-align: right"><sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub></ div ><br>
-<div style="text-align: right"><sub>OutputX</sub></ div ><div style="text-align: right"><sub>Gets or sets the output feature representing the X coordinates of an online signature</sub></ div ><br>
-<div style="text-align: right"><sub>OutputY</sub></ div ><div style="text-align: right"><sub>Gets or sets the output feature representing the X coordinates of an online signature</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>InputX</sub> | <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub> | <br>
+| <sub>InputY</sub> | <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub> | <br>
+| <sub>OutputX</sub> | <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub> | <br>
+| <sub>OutputY</sub> | <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub> | <br>
 
 

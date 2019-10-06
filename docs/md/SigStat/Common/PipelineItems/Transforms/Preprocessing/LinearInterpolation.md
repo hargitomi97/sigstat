@@ -11,23 +11,23 @@ Performs linear interpolation on the input
 
 ## Constructors
 
-NameSummary
-
-<div style="text-align: right"><sub></sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub></sub> | <sub></sub> | <br>
 
 
 ## Properties
 
-NameSummary
-
-<div style="text-align: right"><sub>FeatureValues</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
-<div style="text-align: right"><sub>TimeValues</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>FeatureValues</sub> | <sub></sub> | <br>
+| <sub>TimeValues</sub> | <sub></sub> | <br>
 
 
 ## Methods
 
-NameSummary
-
-<div style="text-align: right"><sub>[GetValue](./Methods/LinearInterpolation-100663765.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub></ div ><div style="text-align: right"><sub>Gets the interpolated value at a given timestamp</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>[GetValue](./Methods/LinearInterpolation-100663765.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub> | <sub>Gets the interpolated value at a given timestamp</sub> | <br>
 
 

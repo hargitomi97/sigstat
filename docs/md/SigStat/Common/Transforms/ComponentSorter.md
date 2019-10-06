@@ -11,23 +11,23 @@ Sorts Component order by comparing each starting X value, and finding nearest co
 
 ## Constructors
 
-NameSummary
-
-<div style="text-align: right"><sub></sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub></sub> | <sub></sub> | <br>
 
 
 ## Properties
 
-NameSummary
-
-<div style="text-align: right"><sub>Input</sub></ div ><div style="text-align: right"><sub>Gets or sets the input.</sub></ div ><br>
-<div style="text-align: right"><sub>Output</sub></ div ><div style="text-align: right"><sub>Gets or sets the output.</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>Input</sub> | <sub>Gets or sets the input.</sub> | <br>
+| <sub>Output</sub> | <sub>Gets or sets the output.</sub> | <br>
 
 
 ## Methods
 
-NameSummary
-
-<div style="text-align: right"><sub>[Transform](./Methods/ComponentSorter-100663515.md) ( [`Signature`](./../Signature.md) )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>[Transform](./Methods/ComponentSorter-100663515.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | <br>
 
 

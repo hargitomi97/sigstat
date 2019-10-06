@@ -11,23 +11,23 @@ Cubic interpolation algorithm
 
 ## Constructors
 
-NameSummary
-
-<div style="text-align: right"><sub></sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub></sub> | <sub></sub> | <br>
 
 
 ## Properties
 
-NameSummary
-
-<div style="text-align: right"><sub>FeatureValues</sub></ div ><div style="text-align: right"><sub>FeatureValues</sub></ div ><br>
-<div style="text-align: right"><sub>TimeValues</sub></ div ><div style="text-align: right"><sub>TimeValues</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>FeatureValues</sub> | <sub>FeatureValues</sub> | <br>
+| <sub>TimeValues</sub> | <sub>TimeValues</sub> | <br>
 
 
 ## Methods
 
-NameSummary
-
-<div style="text-align: right"><sub>[GetValue](./Methods/CubicInterpolation-100663727.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub></ div ><div style="text-align: right"><sub>Gets the value.</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>[GetValue](./Methods/CubicInterpolation-100663727.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub> | <sub>Gets the value.</sub> | <br>
 
 

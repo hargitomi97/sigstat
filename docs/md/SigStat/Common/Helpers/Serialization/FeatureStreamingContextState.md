@@ -9,15 +9,15 @@ SerializationContext for serializing SigStat objects
 
 ## Constructors
 
-NameSummary
-
-<div style="text-align: right"><sub>Constructor</sub></ div ><div style="text-align: right"><sub>Constructor</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>Constructor</sub> | <sub>Constructor</sub> | <br>
 
 
 ## Properties
 
-NameSummary
-
-<div style="text-align: right"><sub>KnownFeatureKeys</sub></ div ><div style="text-align: right"><sub>A list of already serialized FeatureDescriptor keys</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>KnownFeatureKeys</sub> | <sub>A list of already serialized FeatureDescriptor keys</sub> | <br>
 
 

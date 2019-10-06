@@ -11,23 +11,23 @@ Adds a vector feature's elements to other features.  <br>Default Pipeline Output
 
 ## Constructors
 
-NameSummary
-
-<div style="text-align: right"><sub>Initializes a new instance of the [Transforms.AddVector](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddVector.md) class with a vector feature.  Don't forget to add as many Inputs as the vector's dimension.</sub></ div ><div style="text-align: right"><sub>Initializes a new instance of the [Transforms.AddVector](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddVector.md) class with a vector feature.  Don't forget to add as many Inputs as the vector's dimension.</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>Initializes a new instance of the [Transforms.AddVector](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddVector.md) class with a vector feature.  Don't forget to add as many Inputs as the vector's dimension.</sub> | <sub>Initializes a new instance of the [Transforms.AddVector](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddVector.md) class with a vector feature.  Don't forget to add as many Inputs as the vector's dimension.</sub> | <br>
 
 
 ## Properties
 
-NameSummary
-
-<div style="text-align: right"><sub>Inputs</sub></ div ><div style="text-align: right"><sub>Inputs</sub></ div ><br>
-<div style="text-align: right"><sub>Outputs</sub></ div ><div style="text-align: right"><sub>Outputs</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>Inputs</sub> | <sub>Inputs</sub> | <br>
+| <sub>Outputs</sub> | <sub>Outputs</sub> | <br>
 
 
 ## Methods
 
-NameSummary
-
-<div style="text-align: right"><sub>[Transform](./Methods/AddVector-100663609.md) ( [`Signature`](./../Signature.md) )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>[Transform](./Methods/AddVector-100663609.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | <br>
 
 

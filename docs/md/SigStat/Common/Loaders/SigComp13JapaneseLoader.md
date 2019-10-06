@@ -11,30 +11,30 @@ Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerOb
 
 ## Constructors
 
-NameSummary
-
-<div style="text-align: right"><sub>Initializes a new instance of the [Loaders.SigComp13JapaneseLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp13JapaneseLoader.md) class.</sub></ div ><div style="text-align: right"><sub>Initializes a new instance of the [Loaders.SigComp13JapaneseLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp13JapaneseLoader.md) class.</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>Initializes a new instance of the [Loaders.SigComp13JapaneseLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp13JapaneseLoader.md) class.</sub> | <sub>Initializes a new instance of the [Loaders.SigComp13JapaneseLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp13JapaneseLoader.md) class.</sub> | <br>
 
 
 ## Properties
 
-NameSummary
-
-<div style="text-align: right"><sub>DatabasePath</sub></ div ><div style="text-align: right"><sub>Gets or sets the database path.</sub></ div ><br>
-<div style="text-align: right"><sub>StandardFeatures</sub></ div ><div style="text-align: right"><sub>Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>DatabasePath</sub> | <sub>Gets or sets the database path.</sub> | <br>
+| <sub>StandardFeatures</sub> | <sub>Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub> | <br>
 
 
 ## Methods
 
-NameSummary
-
-<div style="text-align: right"><sub>[EnumerateSigners](./Methods/SigComp13JapaneseLoader-100663915.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>[EnumerateSigners](./Methods/SigComp13JapaneseLoader-100663915.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub> | <sub></sub> | <br>
 
 
 ## Static Methods
 
-NameSummary
-
-<div style="text-align: right"><sub>[LoadSignature](./Methods/SigComp13JapaneseLoader-100663916.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub></ div ><div style="text-align: right"><sub>Loads one signature from specified stream.</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>[LoadSignature](./Methods/SigComp13JapaneseLoader-100663916.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub> | <sub>Loads one signature from specified stream.</sub> | <br>
 
 

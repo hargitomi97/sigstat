@@ -8,10 +8,10 @@ Default strategy to set the value of a property
 
 ##	Enum
 
-ValueNameSummary
-
-<div style="text-align: right">0</ div ><div style="text-align: right">IfNull</ div ><div style="text-align: right">Set the value if it is null</ div ><br>
-<div style="text-align: right">1</ div ><div style="text-align: right">Always</ div ><div style="text-align: right">Always set the value</ div ><br>
-<div style="text-align: right">2</ div ><div style="text-align: right">Never</ div ><div style="text-align: right">Never set the value</ div ><br>
+| Value | Name | Summary | 
+| --- | --- | --- | 
+| 0 | IfNull | Set the value if it is null | <br>
+| 1 | Always | Always set the value | <br>
+| 2 | Never | Never set the value | <br>
 
 

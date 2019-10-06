@@ -11,23 +11,23 @@ Represents a trained model for [PipelineItems.Classifiers.DtwClassifier](https:/
 
 ## Constructors
 
-NameSummary
-
-<div style="text-align: right"><sub></sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub></sub> | <sub></sub> | <br>
 
 
 ## Fields
 
-TypeNameSummary
-
-<div style="text-align: right"><sub>DistanceMatrix</sub></ div ><div style="text-align: right"><sub>DTW distance matrix of the genuine signatures</sub></ div ><div style="text-align: right"></ div ><br>
-<div style="text-align: right"><sub>Threshold</sub></ div ><div style="text-align: right"><sub>A threshold, that will be used for classification. Signatures with  an average DTW distance from the genuines above this threshold will  be classified as forgeries</sub></ div ><div style="text-align: right"></ div ><br>
+| Type | Name | Summary | 
+| --- | --- | --- | 
+| <sub>DistanceMatrix</sub> | <sub>DTW distance matrix of the genuine signatures</sub> |  | <br>
+| <sub>Threshold</sub> | <sub>A threshold, that will be used for classification. Signatures with  an average DTW distance from the genuines above this threshold will  be classified as forgeries</sub> |  | <br>
 
 
 ## Properties
 
-NameSummary
-
-<div style="text-align: right"><sub>GenuineSignatures</sub></ div ><div style="text-align: right"><sub>A list a of genuine signatures used for training</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>GenuineSignatures</sub> | <sub>A list a of genuine signatures used for training</sub> | <br>
 
 

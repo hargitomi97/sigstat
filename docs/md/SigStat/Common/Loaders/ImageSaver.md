@@ -9,8 +9,8 @@ Get the [Features.Image](https://github.com/hargitomi97/sigstat/blob/master/docs
 
 ## Static Methods
 
-NameSummary
-
-<div style="text-align: right"><sub>[Save](./Methods/ImageSaver-100663886.md) ( [`Signature`](./../Signature.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub></ div ><div style="text-align: right"><sub>Saves a png image file to the specified `path`.</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>[Save](./Methods/ImageSaver-100663886.md) ( [`Signature`](./../Signature.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub> | <sub>Saves a png image file to the specified `path`.</sub> | <br>
 
 

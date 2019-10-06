@@ -11,25 +11,25 @@ Extracts standard [Features](https://github.com/hargitomi97/sigstat/blob/master/
 
 ## Constructors
 
-NameSummary
-
-<div style="text-align: right"><sub></sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub></sub> | <sub></sub> | <br>
 
 
 ## Properties
 
-NameSummary
-
-<div style="text-align: right"><sub>Button</sub></ div ><div style="text-align: right"><sub>Button</sub></ div ><br>
-<div style="text-align: right"><sub>InputComponents</sub></ div ><div style="text-align: right"><sub>Components</sub></ div ><br>
-<div style="text-align: right"><sub>X</sub></ div ><div style="text-align: right"><sub>X</sub></ div ><br>
-<div style="text-align: right"><sub>Y</sub></ div ><div style="text-align: right"><sub>Y</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>Button</sub> | <sub>Button</sub> | <br>
+| <sub>InputComponents</sub> | <sub>Components</sub> | <br>
+| <sub>X</sub> | <sub>X</sub> | <br>
+| <sub>Y</sub> | <sub>Y</sub> | <br>
 
 
 ## Methods
 
-NameSummary
-
-<div style="text-align: right"><sub>[Transform](./Methods/ComponentsToFeatures-100663580.md) ( [`Signature`](./../Signature.md) )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>[Transform](./Methods/ComponentsToFeatures-100663580.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | <br>
 
 

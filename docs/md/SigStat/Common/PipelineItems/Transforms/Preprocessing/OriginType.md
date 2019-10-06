@@ -8,11 +8,11 @@ Origin specification for [PipelineItems.Transforms.Preprocessing.TranslatePrepro
 
 ##	Enum
 
-ValueNameSummary
-
-<div style="text-align: right">0</ div ><div style="text-align: right">CenterOfGravity</ div ><div style="text-align: right">Center of gravity</ div ><br>
-<div style="text-align: right">1</ div ><div style="text-align: right">Minimum</ div ><div style="text-align: right">Minimum</ div ><br>
-<div style="text-align: right">2</ div ><div style="text-align: right">Maximum</ div ><div style="text-align: right">Maximum</ div ><br>
-<div style="text-align: right">3</ div ><div style="text-align: right">Predefined</ div ><div style="text-align: right">Predefined</ div ><br>
+| Value | Name | Summary | 
+| --- | --- | --- | 
+| 0 | CenterOfGravity | Center of gravity | <br>
+| 1 | Minimum | Minimum | <br>
+| 2 | Maximum | Maximum | <br>
+| 3 | Predefined | Predefined | <br>
 
 

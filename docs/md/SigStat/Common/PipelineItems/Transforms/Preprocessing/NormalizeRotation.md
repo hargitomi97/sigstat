@@ -11,26 +11,26 @@ Performs rotation normalization on the online signature
 
 ## Constructors
 
-NameSummary
-
-<div style="text-align: right"><sub></sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub></sub> | <sub></sub> | <br>
 
 
 ## Properties
 
-NameSummary
-
-<div style="text-align: right"><sub>InputT</sub></ div ><div style="text-align: right"><sub>Gets or sets the input feature representing the timestamps of an online signature</sub></ div ><br>
-<div style="text-align: right"><sub>InputX</sub></ div ><div style="text-align: right"><sub>Gets or sets the input feature representing the X coordinates of an online signature</sub></ div ><br>
-<div style="text-align: right"><sub>InputY</sub></ div ><div style="text-align: right"><sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub></ div ><br>
-<div style="text-align: right"><sub>OutputX</sub></ div ><div style="text-align: right"><sub>Gets or sets the output feature representing the X coordinates of an online signature</sub></ div ><br>
-<div style="text-align: right"><sub>OutputY</sub></ div ><div style="text-align: right"><sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>InputT</sub> | <sub>Gets or sets the input feature representing the timestamps of an online signature</sub> | <br>
+| <sub>InputX</sub> | <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub> | <br>
+| <sub>InputY</sub> | <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub> | <br>
+| <sub>OutputX</sub> | <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub> | <br>
+| <sub>OutputY</sub> | <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub> | <br>
 
 
 ## Methods
 
-NameSummary
-
-<div style="text-align: right"><sub>[Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>[Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | <br>
 
 
