@@ -13,23 +13,23 @@ TODO: Ideiglenes osztaly, C# 8.0 ban ezt atalakitani default implementacios inte
 
 NameSummary
 
-<sub>Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.</sub><br><sub>Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.</sub><br>
+<sub>Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.</sub><sub>Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.</sub><br>
 
 
 ## Properties
 
-TypeNameSummary
+NameSummary
 
-<sub>Logger</sub><br><sub></sub><br><br>
-<sub>PipelineInputs</sub><br><sub>A collection of inputs for the pipeline elements</sub><br><br>
-<sub>PipelineOutputs</sub><br><sub>A collection of outputs for the pipeline elements</sub><br><br>
-<sub>Progress</sub><br><sub></sub><br><br>
+<sub>Logger</sub><sub></sub><br>
+<sub>PipelineInputs</sub><sub>A collection of inputs for the pipeline elements</sub><br>
+<sub>PipelineOutputs</sub><sub>A collection of outputs for the pipeline elements</sub><br>
+<sub>Progress</sub><sub></sub><br>
 
 
 ## Events
 
 TypeNameSummary
 
-<sub>ProgressChanged</sub><br><sub>The event is raised whenever the value of [PipelineBase.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) changes</sub><br><br>
+<sub>ProgressChanged</sub><sub>The event is raised whenever the value of [PipelineBase.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) changes</sub><br>
 
 

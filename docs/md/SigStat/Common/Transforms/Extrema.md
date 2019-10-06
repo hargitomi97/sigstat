@@ -13,13 +13,13 @@ Extracts minimum and maximum values of given feature.  <br>Default Pipeline Outp
 
 NameSummary
 
-<sub></sub><br><sub></sub><br>
+<sub></sub><sub></sub><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Transform](./Methods/Extrema-100663616.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br>
+<sub>[Transform](./Methods/Extrema-100663616.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub><br>
 
 

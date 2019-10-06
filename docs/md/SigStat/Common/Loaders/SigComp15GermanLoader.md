@@ -13,28 +13,28 @@ Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerOb
 
 NameSummary
 
-<sub>Initializes a new instance of the [Loaders.SigComp15GermanLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp15GermanLoader.md) class.</sub><br><sub>Initializes a new instance of the [Loaders.SigComp15GermanLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp15GermanLoader.md) class.</sub><br>
+<sub>Initializes a new instance of the [Loaders.SigComp15GermanLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp15GermanLoader.md) class.</sub><sub>Initializes a new instance of the [Loaders.SigComp15GermanLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp15GermanLoader.md) class.</sub><br>
 
 
 ## Properties
 
-TypeNameSummary
+NameSummary
 
-<sub>DatabasePath</sub><br><sub>Gets or sets the database path.</sub><br><br>
-<sub>StandardFeatures</sub><br><sub>Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub><br><br>
+<sub>DatabasePath</sub><sub>Gets or sets the database path.</sub><br>
+<sub>StandardFeatures</sub><sub>Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[EnumerateSigners](./Methods/SigComp15GermanLoader-100663923.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><br><sub></sub><br>
+<sub>[EnumerateSigners](./Methods/SigComp15GermanLoader-100663923.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><sub></sub><br>
 
 
 ## Static Methods
 
 NameSummary
 
-<sub>[LoadSignature](./Methods/SigComp15GermanLoader-100663924.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub><br><sub>Loads one signature from specified stream.</sub><br>
+<sub>[LoadSignature](./Methods/SigComp15GermanLoader-100663924.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub><sub>Loads one signature from specified stream.</sub><br>
 
 

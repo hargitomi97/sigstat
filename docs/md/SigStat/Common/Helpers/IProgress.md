@@ -9,15 +9,15 @@ Enables progress tracking by expsoing the [Helpers.IProgress.Progress](https://g
 
 ## Properties
 
-TypeNameSummary
+NameSummary
 
-<sub>Progress</sub><br><sub>Gets the current progress in percentage.</sub><br><br>
+<sub>Progress</sub><sub>Gets the current progress in percentage.</sub><br>
 
 
 ## Events
 
 TypeNameSummary
 
-<sub>ProgressChanged</sub><br><sub>Invoked whenever the [Helpers.IProgress.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/IProgress.md) property is changed.</sub><br><br>
+<sub>ProgressChanged</sub><sub>Invoked whenever the [Helpers.IProgress.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/IProgress.md) property is changed.</sub><br>
 
 

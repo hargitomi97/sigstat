@@ -11,15 +11,15 @@ Represents a stroke in an online signature
 
 NameSummary
 
-<sub>Initializes a new instance of the [StrokeInterval](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) struct.</sub><br><sub>Initializes a new instance of the [StrokeInterval](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) struct.</sub><br>
+<sub>Initializes a new instance of the [StrokeInterval](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) struct.</sub><sub>Initializes a new instance of the [StrokeInterval](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) struct.</sub><br>
 
 
 ## Fields
 
 TypeNameSummary
 
-<sub>EndIndex</sub><br><sub>The index of the last element</sub><br><br>
-<sub>StartIndex</sub><br><sub>The index of the firs element</sub><br><br>
-<sub>StrokeType</sub><br><sub>The [StrokeInterval.StrokeType](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) of the stroke.</sub><br><br>
+<sub>EndIndex</sub><sub>The index of the last element</sub><br>
+<sub>StartIndex</sub><sub>The index of the firs element</sub><br>
+<sub>StrokeType</sub><sub>The [StrokeInterval.StrokeType](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) of the stroke.</sub><br>
 
 

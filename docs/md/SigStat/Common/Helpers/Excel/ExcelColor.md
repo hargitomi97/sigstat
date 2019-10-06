@@ -10,12 +10,12 @@ Predefined color schemes for Excel
 
 ValueNameSummary
 
-0<br>Primary<br>Primary color<br>
-1<br>Secondary<br>Secondary color<br>
-2<br>Succes<br>Succes color<br>
-3<br>Danger<br>Danger color<br>
-4<br>Warning<br>Warning color<br>
-5<br>Info<br>Info color<br>
-6<br>Transparent<br>Transparent color<br>
+0PrimaryPrimary color<br>
+1SecondarySecondary color<br>
+2SuccesSucces color<br>
+3DangerDanger color<br>
+4WarningWarning color<br>
+5InfoInfo color<br>
+6TransparentTransparent color<br>
 
 

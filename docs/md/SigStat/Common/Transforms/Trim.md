@@ -13,21 +13,21 @@ Trims unnecessary empty space from a binary raster.  <br>Pipeline Input type: bo
 
 NameSummary
 
-<sub></sub><br><sub></sub><br>
+<sub></sub><sub></sub><br>
 
 
 ## Properties
 
-TypeNameSummary
+NameSummary
 
-<sub>Input</sub><br><sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub><br><br>
-<sub>Output</sub><br><sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the trimed image of the signature</sub><br><br>
+<sub>Input</sub><sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub><br>
+<sub>Output</sub><sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the trimed image of the signature</sub><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Transform](./Methods/Trim-100663722.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br>
+<sub>[Transform](./Methods/Trim-100663722.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub><br>
 
 

@@ -13,23 +13,23 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 
 NameSummary
 
-<sub></sub><br><sub></sub><br>
+<sub></sub><sub></sub><br>
 
 
 ## Properties
 
-TypeNameSummary
+NameSummary
 
-<sub>InputFeature</sub><br><sub>Gets or sets the input feature.</sub><br><br>
-<sub>NewMaxValue</sub><br><sub><br>NewMaxValue: upper bound of the interval, in which the input feature will be scaled</sub><br><br>
-<sub>NewMinValue</sub><br><sub><br>NewMinValue: lower bound of the interval, in which the input feature will be scaled</sub><br><br>
-<sub>OutputFeature</sub><br><sub>Gets or sets the output feature.</sub><br><br>
+<sub>InputFeature</sub><sub>Gets or sets the input feature.</sub><br>
+<sub>NewMaxValue</sub><sub><br>NewMaxValue: upper bound of the interval, in which the input feature will be scaled</sub><br>
+<sub>NewMinValue</sub><sub><br>NewMinValue: lower bound of the interval, in which the input feature will be scaled</sub><br>
+<sub>OutputFeature</sub><sub>Gets or sets the output feature.</sub><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Transform](./Methods/Scale-100663813.md) ( [`Signature`](./../../../Signature.md) )</sub><br><sub></sub><br>
+<sub>[Transform](./Methods/Scale-100663813.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub><br>
 
 

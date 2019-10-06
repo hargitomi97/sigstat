@@ -11,13 +11,13 @@ Selects the first N signatures for training
 
 NameSummary
 
-<sub>Constructor</sub><br><sub>Constructor</sub><br>
+<sub>Constructor</sub><sub>Constructor</sub><br>
 
 
 ## Properties
 
-TypeNameSummary
+NameSummary
 
-<sub>N</sub><br><sub>Count of signatures used for training</sub><br><br>
+<sub>N</sub><sub>Count of signatures used for training</sub><br>
 
 

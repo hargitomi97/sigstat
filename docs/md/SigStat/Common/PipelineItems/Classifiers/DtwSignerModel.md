@@ -13,21 +13,21 @@ Represents a trained model for [PipelineItems.Classifiers.DtwClassifier](https:/
 
 NameSummary
 
-<sub></sub><br><sub></sub><br>
+<sub></sub><sub></sub><br>
 
 
 ## Fields
 
 TypeNameSummary
 
-<sub>DistanceMatrix</sub><br><sub>DTW distance matrix of the genuine signatures</sub><br><br>
-<sub>Threshold</sub><br><sub>A threshold, that will be used for classification. Signatures with  an average DTW distance from the genuines above this threshold will  be classified as forgeries</sub><br><br>
+<sub>DistanceMatrix</sub><sub>DTW distance matrix of the genuine signatures</sub><br>
+<sub>Threshold</sub><sub>A threshold, that will be used for classification. Signatures with  an average DTW distance from the genuines above this threshold will  be classified as forgeries</sub><br>
 
 
 ## Properties
 
-TypeNameSummary
+NameSummary
 
-<sub>GenuineSignatures</sub><br><sub>A list a of genuine signatures used for training</sub><br><br>
+<sub>GenuineSignatures</sub><sub>A list a of genuine signatures used for training</sub><br>
 
 

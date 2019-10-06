@@ -11,8 +11,8 @@ Trains classification models based on reference signatures, by calculating the d
 
 ## Properties
 
-TypeNameSummary
+NameSummary
 
-<sub>DistanceFunction</sub><br><sub>A function to calculate the distance between two online signature points</sub><br><br>
+<sub>DistanceFunction</sub><sub>A function to calculate the distance between two online signature points</sub><br>
 
 

@@ -13,21 +13,21 @@ Adds a vector feature's elements to other features.  <br>Default Pipeline Output
 
 NameSummary
 
-<sub>Initializes a new instance of the [Transforms.AddVector](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddVector.md) class with a vector feature.  Don't forget to add as many Inputs as the vector's dimension.</sub><br><sub>Initializes a new instance of the [Transforms.AddVector](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddVector.md) class with a vector feature.  Don't forget to add as many Inputs as the vector's dimension.</sub><br>
+<sub>Initializes a new instance of the [Transforms.AddVector](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddVector.md) class with a vector feature.  Don't forget to add as many Inputs as the vector's dimension.</sub><sub>Initializes a new instance of the [Transforms.AddVector](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddVector.md) class with a vector feature.  Don't forget to add as many Inputs as the vector's dimension.</sub><br>
 
 
 ## Properties
 
-TypeNameSummary
+NameSummary
 
-<sub>Inputs</sub><br><sub>Inputs</sub><br><br>
-<sub>Outputs</sub><br><sub>Outputs</sub><br><br>
+<sub>Inputs</sub><sub>Inputs</sub><br>
+<sub>Outputs</sub><sub>Outputs</sub><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Transform](./Methods/AddVector-100663609.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br>
+<sub>[Transform](./Methods/AddVector-100663609.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub><br>
 
 

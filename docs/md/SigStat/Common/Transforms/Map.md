@@ -13,21 +13,21 @@ Maps values of a feature to a specified range.  <br>Pipeline Input type: List{do
 
 NameSummary
 
-<sub>Initializes a new instance of the [Transforms.Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings.</sub><br><sub>Initializes a new instance of the [Transforms.Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings.</sub><br>
+<sub>Initializes a new instance of the [Transforms.Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings.</sub><sub>Initializes a new instance of the [Transforms.Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings.</sub><br>
 
 
 ## Properties
 
-TypeNameSummary
+NameSummary
 
-<sub>Input</sub><br><sub>Input</sub><br><br>
-<sub>Output</sub><br><sub>Output</sub><br><br>
+<sub>Input</sub><sub>Input</sub><br>
+<sub>Output</sub><sub>Output</sub><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Transform](./Methods/Map-100663623.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br>
+<sub>[Transform](./Methods/Map-100663623.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub><br>
 
 

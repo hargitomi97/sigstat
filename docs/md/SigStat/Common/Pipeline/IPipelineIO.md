@@ -9,9 +9,9 @@ Supports the definition of [Pipeline.PipelineInput](https://github.com/hargitomi
 
 ## Properties
 
-TypeNameSummary
+NameSummary
 
-<sub>PipelineInputs</sub><br><sub>A collection of inputs for the pipeline elements</sub><br><br>
-<sub>PipelineOutputs</sub><br><sub>A collection of outputs for the pipeline elements</sub><br><br>
+<sub>PipelineInputs</sub><sub>A collection of inputs for the pipeline elements</sub><br>
+<sub>PipelineOutputs</sub><sub>A collection of outputs for the pipeline elements</sub><br>
 
 

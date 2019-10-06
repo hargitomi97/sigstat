@@ -11,21 +11,21 @@ A Sparse Matrix representation of a distance graph.
 
 NameSummary
 
-<sub></sub><br><sub></sub><br>
+<sub></sub><sub></sub><br>
 
 
 ## Properties
 
-TypeNameSummary
+NameSummary
 
-<sub>Item [ [`TRowKey`](./DistanceMatrix-3.md) ]</sub><br><sub>Gets or sets a distance for a given row and column</sub><br><br>
+<sub>Item [ [`TRowKey`](./DistanceMatrix-3.md) ]</sub><sub>Gets or sets a distance for a given row and column</sub><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[ContainsKey](./Methods/DistanceMatrix`3-100663394.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md) )</sub><br><sub></sub><br>
-<sub>[TryGetValue](./Methods/DistanceMatrix`3-100663393.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md), out [`TValue`](./DistanceMatrix-3.md) )</sub><br><sub></sub><br>
+<sub>[ContainsKey](./Methods/DistanceMatrix`3-100663394.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md) )</sub><sub></sub><br>
+<sub>[TryGetValue](./Methods/DistanceMatrix`3-100663393.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md), out [`TValue`](./DistanceMatrix-3.md) )</sub><sub></sub><br>
 
 

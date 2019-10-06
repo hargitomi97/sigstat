@@ -13,6 +13,6 @@ Custom resolver for customizing the json serialization
 
 NameSummary
 
-<sub></sub><br><sub></sub><br>
+<sub></sub><sub></sub><br>
 
 

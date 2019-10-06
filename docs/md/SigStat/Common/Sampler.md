@@ -11,24 +11,24 @@ Takes samples from a set of [Signature](https://github.com/hargitomi97/sigstat/b
 
 NameSummary
 
-<sub>Initialize a new instance of the [Sampler](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Sampler.md) class by given sampling strategies.</sub><br><sub>Initialize a new instance of the [Sampler](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Sampler.md) class by given sampling strategies.</sub><br>
+<sub>Initialize a new instance of the [Sampler](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Sampler.md) class by given sampling strategies.</sub><sub>Initialize a new instance of the [Sampler](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Sampler.md) class by given sampling strategies.</sub><br>
 
 
 ## Properties
 
-TypeNameSummary
+NameSummary
 
-<sub>ForgeryTestFilter</sub><br><sub></sub><br><br>
-<sub>GenuineTestFilter</sub><br><sub></sub><br><br>
-<sub>TrainingFilter</sub><br><sub></sub><br><br>
+<sub>ForgeryTestFilter</sub><sub></sub><br>
+<sub>GenuineTestFilter</sub><sub></sub><br>
+<sub>TrainingFilter</sub><sub></sub><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[SampleForgeryTests](./Methods/Sampler-100663362.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)> )</sub><br><sub></sub><br>
-<sub>[SampleGenuineTests](./Methods/Sampler-100663361.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)> )</sub><br><sub></sub><br>
-<sub>[SampleReferences](./Methods/Sampler-100663360.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)> )</sub><br><sub></sub><br>
+<sub>[SampleForgeryTests](./Methods/Sampler-100663362.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)> )</sub><sub></sub><br>
+<sub>[SampleGenuineTests](./Methods/Sampler-100663361.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)> )</sub><sub></sub><br>
+<sub>[SampleReferences](./Methods/Sampler-100663360.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)> )</sub><sub></sub><br>
 
 

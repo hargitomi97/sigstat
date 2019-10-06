@@ -10,8 +10,8 @@ Default strategy to set the value of a property
 
 ValueNameSummary
 
-0<br>IfNull<br>Set the value if it is null<br>
-1<br>Always<br>Always set the value<br>
-2<br>Never<br>Never set the value<br>
+0IfNullSet the value if it is null<br>
+1AlwaysAlways set the value<br>
+2NeverNever set the value<br>
 
 

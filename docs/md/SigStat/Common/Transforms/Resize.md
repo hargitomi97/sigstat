@@ -13,24 +13,24 @@ Resizes the image to a specified width and height
 
 NameSummary
 
-<sub></sub><br><sub></sub><br>
+<sub></sub><sub></sub><br>
 
 
 ## Properties
 
-TypeNameSummary
+NameSummary
 
-<sub>Height</sub><br><sub>The new height. Leave it as null, if you do not want to explicitly specify a given height</sub><br><br>
-<sub>InputImage</sub><br><sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub><br><br>
-<sub>OutputImage</sub><br><sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the resized image of the signature</sub><br><br>
-<sub>ResizeFunction</sub><br><sub>Set a resize function if you want to dynamically calculate the new width and height of the image</sub><br><br>
-<sub>Width</sub><br><sub>The new width. Leave it as null, if you do not want to explicitly specify a given width</sub><br><br>
+<sub>Height</sub><sub>The new height. Leave it as null, if you do not want to explicitly specify a given height</sub><br>
+<sub>InputImage</sub><sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub><br>
+<sub>OutputImage</sub><sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the resized image of the signature</sub><br>
+<sub>ResizeFunction</sub><sub>Set a resize function if you want to dynamically calculate the new width and height of the image</sub><br>
+<sub>Width</sub><sub>The new width. Leave it as null, if you do not want to explicitly specify a given width</sub><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Transform](./Methods/Resize-100663714.md) ( [`Signature`](./../Signature.md) )</sub><br><sub></sub><br>
+<sub>[Transform](./Methods/Resize-100663714.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub><br>
 
 
