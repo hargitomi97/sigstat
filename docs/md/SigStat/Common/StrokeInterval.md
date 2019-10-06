@@ -16,10 +16,10 @@ Represents a stroke in an online signature
 
 ## Fields
 
-| Type | Name | Summary | 
-| --- | --- | --- | 
-| <sub>EndIndex</sub><img width=200/>  | <sub>The index of the last element</sub><img width=200/>  | <img width=200/>  | <br>
-| <sub>StartIndex</sub><img width=200/>  | <sub>The index of the firs element</sub><img width=200/>  | <img width=200/>  | <br>
-| <sub>StrokeType</sub><img width=200/>  | <sub>The [StrokeInterval.StrokeType](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) of the stroke.</sub><img width=200/>  | <img width=200/>  | <br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>EndIndex</sub><img width=200/>  | <sub>The index of the last element</sub><img width=200/>  | <br>
+| <sub>StartIndex</sub><img width=200/>  | <sub>The index of the firs element</sub><img width=200/>  | <br>
+| <sub>StrokeType</sub><img width=200/>  | <sub>The [StrokeInterval.StrokeType](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) of the stroke.</sub><img width=200/>  | <br>
 
 

@@ -39,8 +39,8 @@ Benchmarking class to test error rates of a [Model.Verifier](https://github.com/
 
 ## Events
 
-| Type | Name | Summary | 
-| --- | --- | --- | 
-| <sub>ProgressChanged</sub><img width=200/>  | <sub></sub><img width=200/>  | <img width=200/>  | <br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>ProgressChanged</sub><img width=200/>  | <sub></sub><img width=200/>  | <br>
 
 

@@ -9,10 +9,10 @@ Represents the ErrorRates achieved in a benchmark
 
 ## Fields
 
-| Type | Name | Summary | 
-| --- | --- | --- | 
-| <sub>Far</sub><img width=200/>  | <sub>False Acceptance Rate</sub><img width=200/>  | <img width=200/>  | <br>
-| <sub>Frr</sub><img width=200/>  | <sub>False Rejection Rate</sub><img width=200/>  | <img width=200/>  | <br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>Far</sub><img width=200/>  | <sub>False Acceptance Rate</sub><img width=200/>  | <br>
+| <sub>Frr</sub><img width=200/>  | <sub>False Rejection Rate</sub><img width=200/>  | <br>
 
 
 ## Properties

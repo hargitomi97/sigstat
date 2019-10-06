@@ -18,9 +18,9 @@ Classifies Signatures by weighing other Classifier results.
 
 ## Fields
 
-| Type | Name | Summary | 
-| --- | --- | --- | 
-| <sub>Items</sub><img width=200/>  | <sub>List of classifiers and belonging weights.</sub><img width=200/>  | <img width=200/>  | <br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>Items</sub><img width=200/>  | <sub>List of classifiers and belonging weights.</sub><img width=200/>  | <br>
 
 
 ## Methods

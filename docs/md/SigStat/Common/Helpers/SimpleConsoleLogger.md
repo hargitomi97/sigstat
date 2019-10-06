@@ -35,8 +35,8 @@ A easy-to-use class to log pipeline messages, complete with filtering levels and
 
 ## Events
 
-| Type | Name | Summary | 
-| --- | --- | --- | 
-| <sub>Logged</sub><img width=200/>  | <sub>Occurs when an error is logged</sub><img width=200/>  | <img width=200/>  | <br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>Logged</sub><img width=200/>  | <sub>Occurs when an error is logged</sub><img width=200/>  | <br>
 
 

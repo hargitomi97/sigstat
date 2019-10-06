@@ -18,9 +18,9 @@ Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the 
 
 ## Fields
 
-| Type | Name | Summary | 
-| --- | --- | --- | 
-| <sub>Items</sub><img width=200/>  | <sub>List of transforms to be run parallel.</sub><img width=200/>  | <img width=200/>  | <br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>Items</sub><img width=200/>  | <sub>List of transforms to be run parallel.</sub><img width=200/>  | <br>
 
 
 ## Properties

@@ -17,8 +17,8 @@ Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/b
 
 ## Fields
 
-| Type | Name | Summary | 
-| --- | --- | --- | 
-| <sub>Default</sub><img width=200/>  | <sub>The default value for the property</sub><img width=200/>  | <img width=200/>  | <br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>Default</sub><img width=200/>  | <sub>The default value for the property</sub><img width=200/>  | <br>
 
 

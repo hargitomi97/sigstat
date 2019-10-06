@@ -18,10 +18,10 @@ Represents a trained model for [PipelineItems.Classifiers.DtwClassifier](https:/
 
 ## Fields
 
-| Type | Name | Summary | 
-| --- | --- | --- | 
-| <sub>DistanceMatrix</sub><img width=200/>  | <sub>DTW distance matrix of the genuine signatures</sub><img width=200/>  | <img width=200/>  | <br>
-| <sub>Threshold</sub><img width=200/>  | <sub>A threshold, that will be used for classification. Signatures with  an average DTW distance from the genuines above this threshold will  be classified as forgeries</sub><img width=200/>  | <img width=200/>  | <br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>DistanceMatrix</sub><img width=200/>  | <sub>DTW distance matrix of the genuine signatures</sub><img width=200/>  | <br>
+| <sub>Threshold</sub><img width=200/>  | <sub>A threshold, that will be used for classification. Signatures with  an average DTW distance from the genuines above this threshold will  be classified as forgeries</sub><img width=200/>  | <br>
 
 
 ## Properties

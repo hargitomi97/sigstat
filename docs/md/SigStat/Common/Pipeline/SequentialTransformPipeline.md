@@ -18,9 +18,9 @@ Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the l
 
 ## Fields
 
-| Type | Name | Summary | 
-| --- | --- | --- | 
-| <sub>Items</sub><img width=200/>  | <sub>List of transforms to be run in sequence.</sub><img width=200/>  | <img width=200/>  | <br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>Items</sub><img width=200/>  | <sub>List of transforms to be run in sequence.</sub><img width=200/>  | <br>
 
 
 ## Properties

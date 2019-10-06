@@ -28,8 +28,8 @@ TODO: Ideiglenes osztaly, C# 8.0 ban ezt atalakitani default implementacios inte
 
 ## Events
 
-| Type | Name | Summary | 
-| --- | --- | --- | 
-| <sub>ProgressChanged</sub><img width=200/>  | <sub>The event is raised whenever the value of [PipelineBase.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) changes</sub><img width=200/>  | <img width=200/>  | <br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>ProgressChanged</sub><img width=200/>  | <sub>The event is raised whenever the value of [PipelineBase.Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) changes</sub><img width=200/>  | <br>
 
 

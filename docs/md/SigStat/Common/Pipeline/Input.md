@@ -16,8 +16,8 @@ Annotates an input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/bl
 
 ## Fields
 
-| Type | Name | Summary | 
-| --- | --- | --- | 
-| <sub>AutoSetMode</sub><img width=200/>  | <sub>The automatic set mode</sub><img width=200/>  | <img width=200/>  | <br>
+| Name | Summary | 
+| --- | --- | 
+| <sub>AutoSetMode</sub><img width=200/>  | <sub>The automatic set mode</sub><img width=200/>  | <br>
 
 
