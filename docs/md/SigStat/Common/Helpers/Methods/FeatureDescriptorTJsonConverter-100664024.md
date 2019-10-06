@@ -4,8 +4,8 @@
 Return type:
 ## Methods
 
-| Name | Summary | 
-| --- | --- | 
-| <sub>[Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object)</sub><img width=200/>| <sub>[ReadJson](./FeatureDescriptorTJsonConverter-100664024.md) ( [`JsonReader`](./FeatureDescriptorTJsonConverter-100664024.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorTJsonConverter-100664024.md) )</sub>| <br>
+| Return | Name | Summary | 
+| --- | --- | --- | 
+| <sub>[Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object)</sub><img width=200/>| <sub>[ReadJson](./FeatureDescriptorTJsonConverter-100664024.md) ( [`JsonReader`](./FeatureDescriptorTJsonConverter-100664024.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorTJsonConverter-100664024.md) )</sub>| <sub></sub><img width=200/>| <br>
 
 

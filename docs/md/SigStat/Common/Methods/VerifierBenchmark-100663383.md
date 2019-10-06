@@ -4,8 +4,8 @@ Execute the benchmarking process with a degree of parallelism.
 Return type:
 ## Methods
 
-| Name | Summary | 
-| --- | --- | 
-| <sub>[BenchmarkResults](./../BenchmarkResults.md)</sub><img width=200/>| <sub>[Execute](./VerifierBenchmark-100663383.md) ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub>| <br>
+| Return | Name | Summary | 
+| --- | --- | --- | 
+| <sub>[BenchmarkResults](./../BenchmarkResults.md)</sub><img width=200/>| <sub>[Execute](./VerifierBenchmark-100663383.md) ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub>| <sub>Execute the benchmarking process with a degree of parallelism.</sub><img width=200/>| <br>
 
 

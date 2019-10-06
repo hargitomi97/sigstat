@@ -4,8 +4,8 @@
 Return type:
 ## Methods
 
-| Name | Summary | 
-| --- | --- | 
-| <sub>[Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object)</sub><img width=200/>| <sub>[ReadJson](./DistanceFunctionJsonConverter-100664043.md) ( [`JsonReader`](./DistanceFunctionJsonConverter-100664043.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter-100664043.md) )</sub>| <br>
+| Return | Name | Summary | 
+| --- | --- | --- | 
+| <sub>[Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object)</sub><img width=200/>| <sub>[ReadJson](./DistanceFunctionJsonConverter-100664043.md) ( [`JsonReader`](./DistanceFunctionJsonConverter-100664043.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter-100664043.md) )</sub>| <sub></sub><img width=200/>| <br>
 
 

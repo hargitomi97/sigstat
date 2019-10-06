@@ -4,8 +4,8 @@
 Return type:
 ## Methods
 
-| Name | Summary | 
-| --- | --- | 
-| <sub>[JsonSerializerOptions](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions)</sub><img width=200/>| <sub>[GetSettings](./NetCoreSerializationHelper-100664080.md) (  )</sub>| <br>
+| Return | Name | Summary | 
+| --- | --- | --- | 
+| <sub>[JsonSerializerOptions](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions)</sub><img width=200/>| <sub>[GetSettings](./NetCoreSerializationHelper-100664080.md) (  )</sub>| <sub></sub><img width=200/>| <br>
 
 
