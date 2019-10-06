@@ -9,22 +9,22 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Baseline (  )</sub>| <sub>Initializes a Baseline instance</sub>| <br>
-| <sub>Baseline ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub>| <sub>Initializes a Baseline instance with the given startpoint and endpoint</sub>| <br>
+| <sub>Baseline (  )</sub><div style="width: 200px">| <sub>Initializes a Baseline instance</sub><div style="width: 200px">| <br>
+| <sub>Baseline ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><div style="width: 200px">| <sub>Initializes a Baseline instance with the given startpoint and endpoint</sub><div style="width: 200px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>End</sub>| <sub>Endpoint of the baseline</sub>| <br>
-| <sub>Start</sub>| <sub>Starting point of the baseline</sub>| <br>
+| <sub>End</sub><div style="width: 200px">| <sub>Endpoint of the baseline</sub><div style="width: 200px">| <br>
+| <sub>Start</sub><div style="width: 200px">| <sub>Starting point of the baseline</sub><div style="width: 200px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[ToString](./Methods/Baseline-100663332.md) (  )</sub>| <sub>Returns a string representation of the baseline</sub>| <br>
+| <sub>[ToString](./Methods/Baseline-100663332.md) (  )</sub><div style="width: 200px">| <sub>Returns a string representation of the baseline</sub><div style="width: 200px">| <br>
 
 

@@ -13,21 +13,21 @@ Trims unnecessary empty space from a binary raster.  <br>Pipeline Input type: bo
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Trim ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub>| <sub></sub>| <br>
+| <sub>Trim ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Input</sub>| <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub>| <br>
-| <sub>Output</sub>| <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the trimed image of the signature</sub>| <br>
+| <sub>Input</sub><div style="width: 200px">| <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub><div style="width: 200px">| <br>
+| <sub>Output</sub><div style="width: 200px">| <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the trimed image of the signature</sub><div style="width: 200px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/Trim-100663722.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/Trim-100663722.md) ( [`Signature`](./../Signature.md) )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
 
 

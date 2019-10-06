@@ -11,15 +11,15 @@ Represents a stroke in an online signature
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>StrokeInterval ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`StrokeType`](./StrokeType.md) )</sub>| <sub>Initializes a new instance of the [StrokeInterval](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) struct.</sub>| <br>
+| <sub>StrokeInterval ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`StrokeType`](./StrokeType.md) )</sub><div style="width: 200px">| <sub>Initializes a new instance of the [StrokeInterval](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) struct.</sub><div style="width: 200px">| <br>
 
 
 ## Fields
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>EndIndex</sub>| <sub>The index of the last element</sub>| <br>
-| <sub>StartIndex</sub>| <sub>The index of the firs element</sub>| <br>
-| <sub>StrokeType</sub>| <sub>The [StrokeInterval.StrokeType](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) of the stroke.</sub>| <br>
+| <sub>EndIndex</sub><div style="width: 200px">| <sub>The index of the last element</sub><div style="width: 200px">| <br>
+| <sub>StartIndex</sub><div style="width: 200px">| <sub>The index of the firs element</sub><div style="width: 200px">| <br>
+| <sub>StrokeType</sub><div style="width: 200px">| <sub>The [StrokeInterval.StrokeType](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) of the stroke.</sub><div style="width: 200px">| <br>
 
 

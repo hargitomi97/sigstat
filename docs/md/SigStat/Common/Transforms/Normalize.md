@@ -13,21 +13,21 @@ Maps values of a feature to 0.0 - 1.0 range.  <br>Pipeline Input type: List{doub
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Normalize (  )</sub>| <sub></sub>| <br>
+| <sub>Normalize (  )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Input</sub>| <sub>Input</sub>| <br>
-| <sub>Output</sub>| <sub>Output</sub>| <br>
+| <sub>Input</sub><div style="width: 200px">| <sub>Input</sub><div style="width: 200px">| <br>
+| <sub>Output</sub><div style="width: 200px">| <sub>Output</sub><div style="width: 200px">| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/Normalize-100663634.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/Normalize-100663634.md) ( [`Signature`](./../Signature.md) )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
 
 
