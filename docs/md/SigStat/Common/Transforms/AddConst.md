@@ -13,21 +13,21 @@ Adds a constant value to a feature. Works with collection features too.  <br>Def
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Initializes a new instance of the [Transforms.AddConst](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) class with specified settings.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><img width=200 unselectable="on"/>  | <sub>Initializes a new instance of the [Transforms.AddConst](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) class with specified settings.</sub><img width=200 unselectable="on"/>  | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Input</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Input values for trasformation</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| <sub>Output</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Output feature to store results</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>Input</sub><img width=200 unselectable="on"/>  | <sub>Input values for trasformation</sub><img width=200 unselectable="on"/>  | <br>
+| <sub>Output</sub><img width=200 unselectable="on"/>  | <sub>Output feature to store results</sub><img width=200 unselectable="on"/>  | <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/AddConst-100663603.md) ( [`Signature`](./../Signature.md) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub></sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[Transform](./Methods/AddConst-100663603.md) ( [`Signature`](./../Signature.md) )</sub><img width=200 unselectable="on"/>  | <sub></sub><img width=200 unselectable="on"/>  | <br>
 
 

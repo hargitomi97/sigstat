@@ -11,23 +11,23 @@ Represents a loop in a signature
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Loop (  )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| <sub>Loop ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single), [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance and initializes the [Loop.Center](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) property</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>Loop (  )</sub><img width=200 unselectable="on"/>  | <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance</sub><img width=200 unselectable="on"/>  | <br>
+| <sub>Loop ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single), [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) )</sub><img width=200 unselectable="on"/>  | <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance and initializes the [Loop.Center](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) property</sub><img width=200 unselectable="on"/>  | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Bounds</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>The bounding rectangle of the loop</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| <sub>Center</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>The geometrical center of the looop</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| <sub>Points</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>A list of defining points of the loop</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>Bounds</sub><img width=200 unselectable="on"/>  | <sub>The bounding rectangle of the loop</sub><img width=200 unselectable="on"/>  | <br>
+| <sub>Center</sub><img width=200 unselectable="on"/>  | <sub>The geometrical center of the looop</sub><img width=200 unselectable="on"/>  | <br>
+| <sub>Points</sub><img width=200 unselectable="on"/>  | <sub>A list of defining points of the loop</sub><img width=200 unselectable="on"/>  | <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[ToString](./Methods/Loop-100663342.md) (  )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Returns a string representation of the loop</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[ToString](./Methods/Loop-100663342.md) (  )</sub><img width=200 unselectable="on"/>  | <sub>Returns a string representation of the loop</sub><img width=200 unselectable="on"/>  | <br>
 
 

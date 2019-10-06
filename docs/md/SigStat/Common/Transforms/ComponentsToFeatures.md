@@ -13,23 +13,23 @@ Extracts standard [Features](https://github.com/hargitomi97/sigstat/blob/master/
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ComponentsToFeatures (  )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub></sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>ComponentsToFeatures (  )</sub><img width=200 unselectable="on"/>  | <sub></sub><img width=200 unselectable="on"/>  | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Button</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Button</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| <sub>InputComponents</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Components</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| <sub>X</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>X</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| <sub>Y</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Y</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>Button</sub><img width=200 unselectable="on"/>  | <sub>Button</sub><img width=200 unselectable="on"/>  | <br>
+| <sub>InputComponents</sub><img width=200 unselectable="on"/>  | <sub>Components</sub><img width=200 unselectable="on"/>  | <br>
+| <sub>X</sub><img width=200 unselectable="on"/>  | <sub>X</sub><img width=200 unselectable="on"/>  | <br>
+| <sub>Y</sub><img width=200 unselectable="on"/>  | <sub>Y</sub><img width=200 unselectable="on"/>  | <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/ComponentsToFeatures-100663580.md) ( [`Signature`](./../Signature.md) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub></sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[Transform](./Methods/ComponentsToFeatures-100663580.md) ( [`Signature`](./../Signature.md) )</sub><img width=200 unselectable="on"/>  | <sub></sub><img width=200 unselectable="on"/>  | <br>
 
 

@@ -13,21 +13,21 @@ Represents a trained model for [PipelineItems.Classifiers.DtwClassifier](https:/
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>DtwSignerModel (  )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub></sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>DtwSignerModel (  )</sub><img width=200 unselectable="on"/>  | <sub></sub><img width=200 unselectable="on"/>  | <br>
 
 
 ## Fields
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>DistanceMatrix</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>DTW distance matrix of the genuine signatures</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| <sub>Threshold</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>A threshold, that will be used for classification. Signatures with  an average DTW distance from the genuines above this threshold will  be classified as forgeries</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>DistanceMatrix</sub><img width=200 unselectable="on"/>  | <sub>DTW distance matrix of the genuine signatures</sub><img width=200 unselectable="on"/>  | <br>
+| <sub>Threshold</sub><img width=200 unselectable="on"/>  | <sub>A threshold, that will be used for classification. Signatures with  an average DTW distance from the genuines above this threshold will  be classified as forgeries</sub><img width=200 unselectable="on"/>  | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>GenuineSignatures</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>A list a of genuine signatures used for training</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>GenuineSignatures</sub><img width=200 unselectable="on"/>  | <sub>A list a of genuine signatures used for training</sub><img width=200 unselectable="on"/>  | <br>
 
 

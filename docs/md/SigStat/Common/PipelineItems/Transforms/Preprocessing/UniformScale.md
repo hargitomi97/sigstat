@@ -13,26 +13,26 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>UniformScale (  )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub></sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>UniformScale (  )</sub><img width=200 unselectable="on"/>  | <sub></sub><img width=200 unselectable="on"/>  | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>BaseDimension</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Gets or sets the base dimension.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| <sub>BaseDimensionOutput</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Gets or sets the output base dimension output.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| <sub>NewMaxBaseValue</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Upper bound of the interval, in which the base dimension will be scaled</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| <sub>NewMinBaseValue</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Lower bound of the interval, in which the base dimension will be scaled</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| <sub>NewMinProportionalValue</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| <sub>ProportionalDimension</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Gets or sets the ProportionalDimension.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| <sub>ProportionalDimensionOutput</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Gets or sets the output proportional dimension output.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>BaseDimension</sub><img width=200 unselectable="on"/>  | <sub>Gets or sets the base dimension.</sub><img width=200 unselectable="on"/>  | <br>
+| <sub>BaseDimensionOutput</sub><img width=200 unselectable="on"/>  | <sub>Gets or sets the output base dimension output.</sub><img width=200 unselectable="on"/>  | <br>
+| <sub>NewMaxBaseValue</sub><img width=200 unselectable="on"/>  | <sub>Upper bound of the interval, in which the base dimension will be scaled</sub><img width=200 unselectable="on"/>  | <br>
+| <sub>NewMinBaseValue</sub><img width=200 unselectable="on"/>  | <sub>Lower bound of the interval, in which the base dimension will be scaled</sub><img width=200 unselectable="on"/>  | <br>
+| <sub>NewMinProportionalValue</sub><img width=200 unselectable="on"/>  | <sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub><img width=200 unselectable="on"/>  | <br>
+| <sub>ProportionalDimension</sub><img width=200 unselectable="on"/>  | <sub>Gets or sets the ProportionalDimension.</sub><img width=200 unselectable="on"/>  | <br>
+| <sub>ProportionalDimensionOutput</sub><img width=200 unselectable="on"/>  | <sub>Gets or sets the output proportional dimension output.</sub><img width=200 unselectable="on"/>  | <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/UniformScale-100663843.md) ( [`Signature`](./../../../Signature.md) )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub></sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>[Transform](./Methods/UniformScale-100663843.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=200 unselectable="on"/>  | <sub></sub><img width=200 unselectable="on"/>  | <br>
 
 

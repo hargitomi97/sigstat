@@ -11,6 +11,6 @@ Represents a type, that contains an ILogger property that can be used to perform
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Logger</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Gets or sets the ILogger implementation used to perform logging</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>Logger</sub><img width=200 unselectable="on"/>  | <sub>Gets or sets the ILogger implementation used to perform logging</sub><img width=200 unselectable="on"/>  | <br>
 
 

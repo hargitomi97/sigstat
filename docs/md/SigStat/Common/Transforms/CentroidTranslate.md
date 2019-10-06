@@ -13,16 +13,16 @@ Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>CentroidTranslate (  )</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Initializes a new instance of the [Transforms.CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>CentroidTranslate (  )</sub><img width=200 unselectable="on"/>  | <sub>Initializes a new instance of the [Transforms.CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub><img width=200 unselectable="on"/>  | <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputX</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| <sub>InputY</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| <sub>OutputX</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| <sub>OutputY</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub><div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| <sub>InputX</sub><img width=200 unselectable="on"/>  | <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub><img width=200 unselectable="on"/>  | <br>
+| <sub>InputY</sub><img width=200 unselectable="on"/>  | <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub><img width=200 unselectable="on"/>  | <br>
+| <sub>OutputX</sub><img width=200 unselectable="on"/>  | <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub><img width=200 unselectable="on"/>  | <br>
+| <sub>OutputY</sub><img width=200 unselectable="on"/>  | <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub><img width=200 unselectable="on"/>  | <br>
 
 

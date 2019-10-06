@@ -10,8 +10,8 @@ Describes the type of a stroke
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Unknown<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | The type of the stroke is not known<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| 1<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Up<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | The stroke was made in the air (the pen did not tuch the tablet/paper)<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
-| 2<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | Down<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | The stroke was made on the writing surface (tablet, paper etc.)<div style="margin: -28px 0px 0px 0px;"><img width=200/>  | <br>
+| 0<img width=200 unselectable="on"/>  | Unknown<img width=200 unselectable="on"/>  | The type of the stroke is not known<img width=200 unselectable="on"/>  | <br>
+| 1<img width=200 unselectable="on"/>  | Up<img width=200 unselectable="on"/>  | The stroke was made in the air (the pen did not tuch the tablet/paper)<img width=200 unselectable="on"/>  | <br>
+| 2<img width=200 unselectable="on"/>  | Down<img width=200 unselectable="on"/>  | The stroke was made on the writing surface (tablet, paper etc.)<img width=200 unselectable="on"/>  | <br>
 
 
