@@ -11,13 +11,13 @@ SerializationContext for serializing SigStat objects
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>FeatureStreamingContextState (  )</sub><div style="width: 200px">| <sub>Constructor</sub><div style="width: 200px">| <br>
+| <div style="width:290px"><sub>FeatureStreamingContextState (  )</sub></div>| <div style="width:290px"><sub>Constructor</sub></div>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>KnownFeatureKeys</sub><div style="width: 200px">| <sub>A list of already serialized FeatureDescriptor keys</sub><div style="width: 200px">| <br>
+| <div style="width:290px"><sub>KnownFeatureKeys</sub></div>| <div style="width:290px"><sub>A list of already serialized FeatureDescriptor keys</sub></div>| <br>
 
 

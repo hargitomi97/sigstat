@@ -10,12 +10,12 @@ Predefined color schemes for Excel
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<div style="width: 200px">| Primary<div style="width: 200px">| Primary color<div style="width: 200px">| <br>
-| 1<div style="width: 200px">| Secondary<div style="width: 200px">| Secondary color<div style="width: 200px">| <br>
-| 2<div style="width: 200px">| Succes<div style="width: 200px">| Succes color<div style="width: 200px">| <br>
-| 3<div style="width: 200px">| Danger<div style="width: 200px">| Danger color<div style="width: 200px">| <br>
-| 4<div style="width: 200px">| Warning<div style="width: 200px">| Warning color<div style="width: 200px">| <br>
-| 5<div style="width: 200px">| Info<div style="width: 200px">| Info color<div style="width: 200px">| <br>
-| 6<div style="width: 200px">| Transparent<div style="width: 200px">| Transparent color<div style="width: 200px">| <br>
+| <div style="width:290px">0</div>| <div style="width:290px">Primary</div>| <div style="width:290px">Primary color</div>| <br>
+| <div style="width:290px">1</div>| <div style="width:290px">Secondary</div>| <div style="width:290px">Secondary color</div>| <br>
+| <div style="width:290px">2</div>| <div style="width:290px">Succes</div>| <div style="width:290px">Succes color</div>| <br>
+| <div style="width:290px">3</div>| <div style="width:290px">Danger</div>| <div style="width:290px">Danger color</div>| <br>
+| <div style="width:290px">4</div>| <div style="width:290px">Warning</div>| <div style="width:290px">Warning color</div>| <br>
+| <div style="width:290px">5</div>| <div style="width:290px">Info</div>| <div style="width:290px">Info color</div>| <br>
+| <div style="width:290px">6</div>| <div style="width:290px">Transparent</div>| <div style="width:290px">Transparent color</div>| <br>
 
 

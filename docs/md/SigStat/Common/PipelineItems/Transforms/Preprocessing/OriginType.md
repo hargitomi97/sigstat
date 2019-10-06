@@ -10,9 +10,9 @@ Origin specification for [PipelineItems.Transforms.Preprocessing.TranslatePrepro
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<div style="width: 200px">| CenterOfGravity<div style="width: 200px">| Center of gravity<div style="width: 200px">| <br>
-| 1<div style="width: 200px">| Minimum<div style="width: 200px">| Minimum<div style="width: 200px">| <br>
-| 2<div style="width: 200px">| Maximum<div style="width: 200px">| Maximum<div style="width: 200px">| <br>
-| 3<div style="width: 200px">| Predefined<div style="width: 200px">| Predefined<div style="width: 200px">| <br>
+| <div style="width:290px">0</div>| <div style="width:290px">CenterOfGravity</div>| <div style="width:290px">Center of gravity</div>| <br>
+| <div style="width:290px">1</div>| <div style="width:290px">Minimum</div>| <div style="width:290px">Minimum</div>| <br>
+| <div style="width:290px">2</div>| <div style="width:290px">Maximum</div>| <div style="width:290px">Maximum</div>| <br>
+| <div style="width:290px">3</div>| <div style="width:290px">Predefined</div>| <div style="width:290px">Predefined</div>| <br>
 
 

@@ -13,21 +13,21 @@ Extracts the Centroid (aka. Center Of Gravity) of the input features.  <br> Defa
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>CentroidExtraction (  )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
+| <div style="width:290px"><sub>CentroidExtraction (  )</sub></div>| <div style="width:290px"><sub></sub></div>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Inputs</sub><div style="width: 200px">| <sub>List of features to process</sub><div style="width: 200px">| <br>
-| <sub>OutputCentroid</sub><div style="width: 200px">| <sub>List of centroid values</sub><div style="width: 200px">| <br>
+| <div style="width:290px"><sub>Inputs</sub></div>| <div style="width:290px"><sub>List of features to process</sub></div>| <br>
+| <div style="width:290px"><sub>OutputCentroid</sub></div>| <div style="width:290px"><sub>List of centroid values</sub></div>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/CentroidExtraction-100663554.md) ( [`Signature`](./../Signature.md) )</sub><div style="width: 200px">| <sub></sub><div style="width: 200px">| <br>
+| <div style="width:290px"><sub>[Transform](./Methods/CentroidExtraction-100663554.md) ( [`Signature`](./../Signature.md) )</sub></div>| <div style="width:290px"><sub></sub></div>| <br>
 
 

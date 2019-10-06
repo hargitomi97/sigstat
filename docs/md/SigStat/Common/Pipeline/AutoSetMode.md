@@ -10,8 +10,8 @@ Default strategy to set the value of a property
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<div style="width: 200px">| IfNull<div style="width: 200px">| Set the value if it is null<div style="width: 200px">| <br>
-| 1<div style="width: 200px">| Always<div style="width: 200px">| Always set the value<div style="width: 200px">| <br>
-| 2<div style="width: 200px">| Never<div style="width: 200px">| Never set the value<div style="width: 200px">| <br>
+| <div style="width:290px">0</div>| <div style="width:290px">IfNull</div>| <div style="width:290px">Set the value if it is null</div>| <br>
+| <div style="width:290px">1</div>| <div style="width:290px">Always</div>| <div style="width:290px">Always set the value</div>| <br>
+| <div style="width:290px">2</div>| <div style="width:290px">Never</div>| <div style="width:290px">Never set the value</div>| <br>
 
 

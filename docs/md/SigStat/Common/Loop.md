@@ -11,23 +11,23 @@ Represents a loop in a signature
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Loop (  )</sub><div style="width: 200px">| <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance</sub><div style="width: 200px">| <br>
-| <sub>Loop ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single), [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) )</sub><div style="width: 200px">| <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance and initializes the [Loop.Center](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) property</sub><div style="width: 200px">| <br>
+| <div style="width:290px"><sub>Loop (  )</sub></div>| <div style="width:290px"><sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance</sub></div>| <br>
+| <div style="width:290px"><sub>Loop ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single), [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) )</sub></div>| <div style="width:290px"><sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance and initializes the [Loop.Center](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) property</sub></div>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Bounds</sub><div style="width: 200px">| <sub>The bounding rectangle of the loop</sub><div style="width: 200px">| <br>
-| <sub>Center</sub><div style="width: 200px">| <sub>The geometrical center of the looop</sub><div style="width: 200px">| <br>
-| <sub>Points</sub><div style="width: 200px">| <sub>A list of defining points of the loop</sub><div style="width: 200px">| <br>
+| <div style="width:290px"><sub>Bounds</sub></div>| <div style="width:290px"><sub>The bounding rectangle of the loop</sub></div>| <br>
+| <div style="width:290px"><sub>Center</sub></div>| <div style="width:290px"><sub>The geometrical center of the looop</sub></div>| <br>
+| <div style="width:290px"><sub>Points</sub></div>| <div style="width:290px"><sub>A list of defining points of the loop</sub></div>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[ToString](./Methods/Loop-100663342.md) (  )</sub><div style="width: 200px">| <sub>Returns a string representation of the loop</sub><div style="width: 200px">| <br>
+| <div style="width:290px"><sub>[ToString](./Methods/Loop-100663342.md) (  )</sub></div>| <div style="width:290px"><sub>Returns a string representation of the loop</sub></div>| <br>
 
 

@@ -13,16 +13,16 @@ Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>CentroidTranslate (  )</sub><div style="width: 200px">| <sub>Initializes a new instance of the [Transforms.CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub><div style="width: 200px">| <br>
+| <div style="width:290px"><sub>CentroidTranslate (  )</sub></div>| <div style="width:290px"><sub>Initializes a new instance of the [Transforms.CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub></div>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputX</sub><div style="width: 200px">| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub><div style="width: 200px">| <br>
-| <sub>InputY</sub><div style="width: 200px">| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub><div style="width: 200px">| <br>
-| <sub>OutputX</sub><div style="width: 200px">| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub><div style="width: 200px">| <br>
-| <sub>OutputY</sub><div style="width: 200px">| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub><div style="width: 200px">| <br>
+| <div style="width:290px"><sub>InputX</sub></div>| <div style="width:290px"><sub>Gets or sets the input feature representing the X coordinates of an online signature</sub></div>| <br>
+| <div style="width:290px"><sub>InputY</sub></div>| <div style="width:290px"><sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub></div>| <br>
+| <div style="width:290px"><sub>OutputX</sub></div>| <div style="width:290px"><sub>Gets or sets the output feature representing the X coordinates of an online signature</sub></div>| <br>
+| <div style="width:290px"><sub>OutputY</sub></div>| <div style="width:290px"><sub>Gets or sets the output feature representing the X coordinates of an online signature</sub></div>| <br>
 
 
