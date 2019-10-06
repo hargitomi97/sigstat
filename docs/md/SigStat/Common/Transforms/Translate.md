@@ -13,17 +13,17 @@ Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi
 
 NameSummary
 
-<sub></sub><sub></sub><br>
-<sub></sub><sub></sub><br>
+<div style="text-align: right"><sub></sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+<div style="text-align: right"><sub></sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
 
 
 ## Properties
 
 NameSummary
 
-<sub>InputX</sub><sub>The feature representing the horizontal coordinates of an online signature</sub><br>
-<sub>InputY</sub><sub>The feature representing the vertical coordinates of an online signature</sub><br>
-<sub>OutputX</sub><sub>Target feature for storing the transformed horizontal coordinates</sub><br>
-<sub>OutputY</sub><sub>Target feature for storing the transformed vertical coordinates</sub><br>
+<div style="text-align: right"><sub>InputX</sub></ div ><div style="text-align: right"><sub>The feature representing the horizontal coordinates of an online signature</sub></ div ><br>
+<div style="text-align: right"><sub>InputY</sub></ div ><div style="text-align: right"><sub>The feature representing the vertical coordinates of an online signature</sub></ div ><br>
+<div style="text-align: right"><sub>OutputX</sub></ div ><div style="text-align: right"><sub>Target feature for storing the transformed horizontal coordinates</sub></ div ><br>
+<div style="text-align: right"><sub>OutputY</sub></ div ><div style="text-align: right"><sub>Target feature for storing the transformed vertical coordinates</sub></ div ><br>
 
 

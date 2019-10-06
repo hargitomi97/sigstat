@@ -13,13 +13,13 @@ Renders an image of the signature based on the available online information (X,Y
 
 NameSummary
 
-<sub></sub><sub></sub><br>
+<div style="text-align: right"><sub></sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Transform](./Methods/SimpleRenderingTransformation-100663459.md) ( [`Signature`](./Signature.md) )</sub><sub></sub><br>
+<div style="text-align: right"><sub>[Transform](./Methods/SimpleRenderingTransformation-100663459.md) ( [`Signature`](./Signature.md) )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
 
 

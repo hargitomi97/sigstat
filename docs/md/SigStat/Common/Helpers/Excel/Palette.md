@@ -9,15 +9,15 @@ Assembly: SigStat.Common.dll
 
 NameSummary
 
-<sub>Initializes a new instance of the [Helpers.Excel.Palette](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/Excel/Palette.md) class.</sub><sub>Initializes a new instance of the [Helpers.Excel.Palette](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/Excel/Palette.md) class.</sub><br>
+<div style="text-align: right"><sub>Initializes a new instance of the [Helpers.Excel.Palette](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/Excel/Palette.md) class.</sub></ div ><div style="text-align: right"><sub>Initializes a new instance of the [Helpers.Excel.Palette](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/Excel/Palette.md) class.</sub></ div ><br>
 
 
 ## Properties
 
 NameSummary
 
-<sub>DarkColor</sub><sub>Gets or sets the color for rendering darker elements</sub><br>
-<sub>LightColor</sub><sub>Gets or sets the color for rendering bright elements</sub><br>
-<sub>MainColor</sub><sub>Gets or sets the main color used in the palette</sub><br>
+<div style="text-align: right"><sub>DarkColor</sub></ div ><div style="text-align: right"><sub>Gets or sets the color for rendering darker elements</sub></ div ><br>
+<div style="text-align: right"><sub>LightColor</sub></ div ><div style="text-align: right"><sub>Gets or sets the color for rendering bright elements</sub></ div ><br>
+<div style="text-align: right"><sub>MainColor</sub></ div ><div style="text-align: right"><sub>Gets or sets the main color used in the palette</sub></ div ><br>
 
 

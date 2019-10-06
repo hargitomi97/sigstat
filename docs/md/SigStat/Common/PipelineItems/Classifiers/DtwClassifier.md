@@ -13,24 +13,24 @@ Classifies Signatures with the [Algorithms.Dtw](https://github.com/hargitomi97/s
 
 NameSummary
 
-<sub>Initializes a new instance of the [PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md) class with the default Manhattan distance method.</sub><sub>Initializes a new instance of the [PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md) class with the default Manhattan distance method.</sub><br>
-<sub>Initializes a new instance of the [PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md) class with a specified distance method.</sub><sub>Initializes a new instance of the [PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md) class with a specified distance method.</sub><br>
+<div style="text-align: right"><sub>Initializes a new instance of the [PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md) class with the default Manhattan distance method.</sub></ div ><div style="text-align: right"><sub>Initializes a new instance of the [PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md) class with the default Manhattan distance method.</sub></ div ><br>
+<div style="text-align: right"><sub>Initializes a new instance of the [PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md) class with a specified distance method.</sub></ div ><div style="text-align: right"><sub>Initializes a new instance of the [PipelineItems.Classifiers.DtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md) class with a specified distance method.</sub></ div ><br>
 
 
 ## Properties
 
 NameSummary
 
-<sub>DistanceFunction</sub><sub>The function used to calculate the distance between two data points during DTW calculation</sub><br>
-<sub>Features</sub><sub>Gets or sets the features to consider during distance calculation</sub><br>
-<sub>MultiplicationFactor</sub><sub>Gets or sets the multiplication factor to be used during threshold calculation</sub><br>
+<div style="text-align: right"><sub>DistanceFunction</sub></ div ><div style="text-align: right"><sub>The function used to calculate the distance between two data points during DTW calculation</sub></ div ><br>
+<div style="text-align: right"><sub>Features</sub></ div ><div style="text-align: right"><sub>Gets or sets the features to consider during distance calculation</sub></ div ><br>
+<div style="text-align: right"><sub>MultiplicationFactor</sub></ div ><div style="text-align: right"><sub>Gets or sets the multiplication factor to be used during threshold calculation</sub></ div ><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Test](./Methods/DtwClassifier-100663857.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub><sub></sub><br>
-<sub>[Train](./Methods/DtwClassifier-100663856.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub><sub></sub><br>
+<div style="text-align: right"><sub>[Test](./Methods/DtwClassifier-100663857.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
+<div style="text-align: right"><sub>[Train](./Methods/DtwClassifier-100663856.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
 
 

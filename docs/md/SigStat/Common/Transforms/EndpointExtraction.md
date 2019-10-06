@@ -13,22 +13,22 @@ Extracts EndPoints and CrossingPoints from Skeleton.  <br>Default Pipeline Input
 
 NameSummary
 
-<sub></sub><sub></sub><br>
+<div style="text-align: right"><sub></sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
 
 
 ## Properties
 
 NameSummary
 
-<sub>OutputCrossingPoints</sub><sub>OutputCrossingPoints</sub><br>
-<sub>OutputEndpoints</sub><sub>OutputEndpoints</sub><br>
-<sub>Skeleton</sub><sub>Binary representation of an image</sub><br>
+<div style="text-align: right"><sub>OutputCrossingPoints</sub></ div ><div style="text-align: right"><sub>OutputCrossingPoints</sub></ div ><br>
+<div style="text-align: right"><sub>OutputEndpoints</sub></ div ><div style="text-align: right"><sub>OutputEndpoints</sub></ div ><br>
+<div style="text-align: right"><sub>Skeleton</sub></ div ><div style="text-align: right"><sub>Binary representation of an image</sub></ div ><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Transform](./Methods/EndpointExtraction-100663588.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub><br>
+<div style="text-align: right"><sub>[Transform](./Methods/EndpointExtraction-100663588.md) ( [`Signature`](./../Signature.md) )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
 
 

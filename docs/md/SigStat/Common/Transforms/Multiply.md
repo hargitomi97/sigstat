@@ -13,21 +13,21 @@ Multiplies the values of a feature with a given constant.  <br>Pipeline Input ty
 
 NameSummary
 
-<sub>Initializes a new instance of the [Transforms.Multiply](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Multiply.md) class with specified settings.</sub><sub>Initializes a new instance of the [Transforms.Multiply](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Multiply.md) class with specified settings.</sub><br>
+<div style="text-align: right"><sub>Initializes a new instance of the [Transforms.Multiply](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Multiply.md) class with specified settings.</sub></ div ><div style="text-align: right"><sub>Initializes a new instance of the [Transforms.Multiply](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Multiply.md) class with specified settings.</sub></ div ><br>
 
 
 ## Properties
 
 NameSummary
 
-<sub>InputList</sub><sub>Input</sub><br>
-<sub>Output</sub><sub>Output</sub><br>
+<div style="text-align: right"><sub>InputList</sub></ div ><div style="text-align: right"><sub>Input</sub></ div ><br>
+<div style="text-align: right"><sub>Output</sub></ div ><div style="text-align: right"><sub>Output</sub></ div ><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Transform](./Methods/Multiply-100663629.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub><br>
+<div style="text-align: right"><sub>[Transform](./Methods/Multiply-100663629.md) ( [`Signature`](./../Signature.md) )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
 
 

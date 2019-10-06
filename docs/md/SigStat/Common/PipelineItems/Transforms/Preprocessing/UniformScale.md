@@ -13,26 +13,26 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 NameSummary
 
-<sub></sub><sub></sub><br>
+<div style="text-align: right"><sub></sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
 
 
 ## Properties
 
 NameSummary
 
-<sub>BaseDimension</sub><sub>Gets or sets the base dimension.</sub><br>
-<sub>BaseDimensionOutput</sub><sub>Gets or sets the output base dimension output.</sub><br>
-<sub>NewMaxBaseValue</sub><sub>Upper bound of the interval, in which the base dimension will be scaled</sub><br>
-<sub>NewMinBaseValue</sub><sub>Lower bound of the interval, in which the base dimension will be scaled</sub><br>
-<sub>NewMinProportionalValue</sub><sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub><br>
-<sub>ProportionalDimension</sub><sub>Gets or sets the ProportionalDimension.</sub><br>
-<sub>ProportionalDimensionOutput</sub><sub>Gets or sets the output proportional dimension output.</sub><br>
+<div style="text-align: right"><sub>BaseDimension</sub></ div ><div style="text-align: right"><sub>Gets or sets the base dimension.</sub></ div ><br>
+<div style="text-align: right"><sub>BaseDimensionOutput</sub></ div ><div style="text-align: right"><sub>Gets or sets the output base dimension output.</sub></ div ><br>
+<div style="text-align: right"><sub>NewMaxBaseValue</sub></ div ><div style="text-align: right"><sub>Upper bound of the interval, in which the base dimension will be scaled</sub></ div ><br>
+<div style="text-align: right"><sub>NewMinBaseValue</sub></ div ><div style="text-align: right"><sub>Lower bound of the interval, in which the base dimension will be scaled</sub></ div ><br>
+<div style="text-align: right"><sub>NewMinProportionalValue</sub></ div ><div style="text-align: right"><sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub></ div ><br>
+<div style="text-align: right"><sub>ProportionalDimension</sub></ div ><div style="text-align: right"><sub>Gets or sets the ProportionalDimension.</sub></ div ><br>
+<div style="text-align: right"><sub>ProportionalDimensionOutput</sub></ div ><div style="text-align: right"><sub>Gets or sets the output proportional dimension output.</sub></ div ><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Transform](./Methods/UniformScale-100663843.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub><br>
+<div style="text-align: right"><sub>[Transform](./Methods/UniformScale-100663843.md) ( [`Signature`](./../../../Signature.md) )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
 
 

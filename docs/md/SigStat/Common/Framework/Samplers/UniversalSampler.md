@@ -11,14 +11,14 @@ Selects a given number of signatures for training and testing
 
 NameSummary
 
-<sub>Constructor</sub><sub>Constructor</sub><br>
+<div style="text-align: right"><sub>Constructor</sub></ div ><div style="text-align: right"><sub>Constructor</sub></ div ><br>
 
 
 ## Properties
 
 NameSummary
 
-<sub>TestCount</sub><sub>Count of signatures to use for testing</sub><br>
-<sub>TrainingCount</sub><sub>Count of signatures to use for training</sub><br>
+<div style="text-align: right"><sub>TestCount</sub></ div ><div style="text-align: right"><sub>Count of signatures to use for testing</sub></ div ><br>
+<div style="text-align: right"><sub>TrainingCount</sub></ div ><div style="text-align: right"><sub>Count of signatures to use for training</sub></ div ><br>
 
 

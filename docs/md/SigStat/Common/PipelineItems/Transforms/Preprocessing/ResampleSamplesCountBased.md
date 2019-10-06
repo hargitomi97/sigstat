@@ -13,25 +13,25 @@ Resamples an online signature to a specific sample count using the specified [Pi
 
 NameSummary
 
-<sub></sub><sub></sub><br>
+<div style="text-align: right"><sub></sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
 
 
 ## Properties
 
 NameSummary
 
-<sub>InputFeatures</sub><sub>Gets or sets the input features.</sub><br>
-<sub>InterpolationType</sub><sub>Gets or sets the type of the interpolation. <seealso cref="T:SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation" /></sub><br>
-<sub>NumOfSamples</sub><sub>Gets or sets the number of samples.</sub><br>
-<sub>OriginalTFeature</sub><sub>Gets or sets the input timestamp feature.</sub><br>
-<sub>OutputFeatures</sub><sub>Gets or sets the resampled  features.</sub><br>
-<sub>ResampledTFeature</sub><sub>Gets or sets the resampled timestamp feature.</sub><br>
+<div style="text-align: right"><sub>InputFeatures</sub></ div ><div style="text-align: right"><sub>Gets or sets the input features.</sub></ div ><br>
+<div style="text-align: right"><sub>InterpolationType</sub></ div ><div style="text-align: right"><sub>Gets or sets the type of the interpolation. <seealso cref="T:SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation" /></sub></ div ><br>
+<div style="text-align: right"><sub>NumOfSamples</sub></ div ><div style="text-align: right"><sub>Gets or sets the number of samples.</sub></ div ><br>
+<div style="text-align: right"><sub>OriginalTFeature</sub></ div ><div style="text-align: right"><sub>Gets or sets the input timestamp feature.</sub></ div ><br>
+<div style="text-align: right"><sub>OutputFeatures</sub></ div ><div style="text-align: right"><sub>Gets or sets the resampled  features.</sub></ div ><br>
+<div style="text-align: right"><sub>ResampledTFeature</sub></ div ><div style="text-align: right"><sub>Gets or sets the resampled timestamp feature.</sub></ div ><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Transform](./Methods/ResampleSamplesCountBased-100663801.md) ( [`Signature`](./../../../Signature.md) )</sub><sub></sub><br>
+<div style="text-align: right"><sub>[Transform](./Methods/ResampleSamplesCountBased-100663801.md) ( [`Signature`](./../../../Signature.md) )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
 
 

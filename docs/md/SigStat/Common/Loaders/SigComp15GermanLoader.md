@@ -13,28 +13,28 @@ Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerOb
 
 NameSummary
 
-<sub>Initializes a new instance of the [Loaders.SigComp15GermanLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp15GermanLoader.md) class.</sub><sub>Initializes a new instance of the [Loaders.SigComp15GermanLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp15GermanLoader.md) class.</sub><br>
+<div style="text-align: right"><sub>Initializes a new instance of the [Loaders.SigComp15GermanLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp15GermanLoader.md) class.</sub></ div ><div style="text-align: right"><sub>Initializes a new instance of the [Loaders.SigComp15GermanLoader](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loaders/SigComp15GermanLoader.md) class.</sub></ div ><br>
 
 
 ## Properties
 
 NameSummary
 
-<sub>DatabasePath</sub><sub>Gets or sets the database path.</sub><br>
-<sub>StandardFeatures</sub><sub>Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub><br>
+<div style="text-align: right"><sub>DatabasePath</sub></ div ><div style="text-align: right"><sub>Gets or sets the database path.</sub></ div ><br>
+<div style="text-align: right"><sub>StandardFeatures</sub></ div ><div style="text-align: right"><sub>Gets or sets a value indicating whether features are also loaded as [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub></ div ><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[EnumerateSigners](./Methods/SigComp15GermanLoader-100663923.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><sub></sub><br>
+<div style="text-align: right"><sub>[EnumerateSigners](./Methods/SigComp15GermanLoader-100663923.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
 
 
 ## Static Methods
 
 NameSummary
 
-<sub>[LoadSignature](./Methods/SigComp15GermanLoader-100663924.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub><sub>Loads one signature from specified stream.</sub><br>
+<div style="text-align: right"><sub>[LoadSignature](./Methods/SigComp15GermanLoader-100663924.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub></ div ><div style="text-align: right"><sub>Loads one signature from specified stream.</sub></ div ><br>
 
 

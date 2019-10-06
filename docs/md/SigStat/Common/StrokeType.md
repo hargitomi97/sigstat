@@ -10,8 +10,8 @@ Describes the type of a stroke
 
 ValueNameSummary
 
-0UnknownThe type of the stroke is not known<br>
-1UpThe stroke was made in the air (the pen did not tuch the tablet/paper)<br>
-2DownThe stroke was made on the writing surface (tablet, paper etc.)<br>
+<div style="text-align: right">0</ div ><div style="text-align: right">Unknown</ div ><div style="text-align: right">The type of the stroke is not known</ div ><br>
+<div style="text-align: right">1</ div ><div style="text-align: right">Up</ div ><div style="text-align: right">The stroke was made in the air (the pen did not tuch the tablet/paper)</ div ><br>
+<div style="text-align: right">2</ div ><div style="text-align: right">Down</ div ><div style="text-align: right">The stroke was made on the writing surface (tablet, paper etc.)</ div ><br>
 
 

@@ -13,23 +13,23 @@ Extracts unsorted components by tracing through the binary Skeleton raster.  <br
 
 NameSummary
 
-<sub>Initializes a new instance of the [Transforms.ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution.</sub><sub>Initializes a new instance of the [Transforms.ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution.</sub><br>
+<div style="text-align: right"><sub>Initializes a new instance of the [Transforms.ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution.</sub></ div ><div style="text-align: right"><sub>Initializes a new instance of the [Transforms.ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution.</sub></ div ><br>
 
 
 ## Properties
 
 NameSummary
 
-<sub>CrossingPoints</sub><sub>crossing points</sub><br>
-<sub>EndPoints</sub><sub>endpoints</sub><br>
-<sub>OutputComponents</sub><sub>Output components</sub><br>
-<sub>Skeleton</sub><sub>binary representation of a signature image</sub><br>
+<div style="text-align: right"><sub>CrossingPoints</sub></ div ><div style="text-align: right"><sub>crossing points</sub></ div ><br>
+<div style="text-align: right"><sub>EndPoints</sub></ div ><div style="text-align: right"><sub>endpoints</sub></ div ><br>
+<div style="text-align: right"><sub>OutputComponents</sub></ div ><div style="text-align: right"><sub>Output components</sub></ div ><br>
+<div style="text-align: right"><sub>Skeleton</sub></ div ><div style="text-align: right"><sub>binary representation of a signature image</sub></ div ><br>
 
 
 ## Methods
 
 NameSummary
 
-<sub>[Transform](./Methods/ComponentExtraction-100663565.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub><br>
+<div style="text-align: right"><sub>[Transform](./Methods/ComponentExtraction-100663565.md) ( [`Signature`](./../Signature.md) )</sub></ div ><div style="text-align: right"><sub></sub></ div ><br>
 
 
