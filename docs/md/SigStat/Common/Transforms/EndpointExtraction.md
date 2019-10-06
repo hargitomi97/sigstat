@@ -12,23 +12,23 @@ Extracts EndPoints and CrossingPoints from Skeleton.  <br>Default Pipeline Input
 ## Constructors
 
 | Name | Summary | 
-| --- | --- | 
-| EndpointExtraction (  ) | <sub></sub> | 
+
+EndpointExtraction (  )<sub></sub>
 
 
 ## Properties
 
 | Type | Name | Summary | 
-| --- | --- | --- | 
-| [FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Point](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Point)>> | <sub>OutputCrossingPoints</sub> | <sub>OutputCrossingPoints</sub> | 
-| [FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Point](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Point)>> | <sub>OutputEndpoints</sub> | <sub>OutputEndpoints</sub> | 
-| [FeatureDescriptor](./../FeatureDescriptor-1.md)\<[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]> | <sub>Skeleton</sub> | <sub>Binary representation of an image</sub> | 
+
+[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Point](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Point)>><sub>OutputCrossingPoints</sub><sub>OutputCrossingPoints</sub>
+[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Point](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Point)>><sub>OutputEndpoints</sub><sub>OutputEndpoints</sub>
+[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]><sub>Skeleton</sub><sub>Binary representation of an image</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
-| --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | <sub>[Transform](./Methods/EndpointExtraction-100663588.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
+
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[Transform](./Methods/EndpointExtraction-100663588.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 
 

@@ -9,10 +9,10 @@ Origin specification for [PipelineItems.Transforms.Preprocessing.TranslatePrepro
 ##	Enum
 
 | Value | Name | Summary | 
-| --- | --- | --- | 
-| 0 | CenterOfGravity | Center of gravity | 
-| 1 | Minimum | Minimum | 
-| 2 | Maximum | Maximum | 
-| 3 | Predefined | Predefined | 
+
+0CenterOfGravityCenter of gravity
+1MinimumMinimum
+2MaximumMaximum
+3PredefinedPredefined
 
 

@@ -12,14 +12,14 @@ init Pressure, Altitude, Azimuth features with default values.  <br>Default Pipe
 ## Constructors
 
 | Name | Summary | 
-| --- | --- | 
-| ApproximateOnlineFeatures (  ) | <sub></sub> | 
+
+ApproximateOnlineFeatures (  )<sub></sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
-| --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | <sub>[Transform](./Methods/ApproximateOnlineFeatures-100663548.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
+
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[Transform](./Methods/ApproximateOnlineFeatures-100663548.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 
 

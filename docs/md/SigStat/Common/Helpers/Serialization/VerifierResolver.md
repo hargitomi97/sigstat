@@ -12,7 +12,7 @@ Custom resolver for customizing the json serialization
 ## Constructors
 
 | Name | Summary | 
-| --- | --- | 
-| VerifierResolver (  ) | <sub></sub> | 
+
+VerifierResolver (  )<sub></sub>
 
 

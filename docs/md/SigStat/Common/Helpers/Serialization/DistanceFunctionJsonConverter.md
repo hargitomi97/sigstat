@@ -10,16 +10,16 @@ Helper class for serializing distance functions
 ## Constructors
 
 | Name | Summary | 
-| --- | --- | 
-| DistanceFunctionJsonConverter (  ) | <sub></sub> | 
+
+DistanceFunctionJsonConverter (  )<sub></sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
-| --- | --- | --- | 
-| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | <sub>[CanConvert](./Methods/DistanceFunctionJsonConverter-100664042.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub> | <sub></sub> | 
-| [Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object) | <sub>[ReadJson](./Methods/DistanceFunctionJsonConverter-100664043.md) ( [`JsonReader`](./DistanceFunctionJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub> | <sub></sub> | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | <sub>[WriteJson](./Methods/DistanceFunctionJsonConverter-100664044.md) ( [`JsonWriter`](./DistanceFunctionJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub> | <sub></sub> | 
+
+[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)<sub>[CanConvert](./Methods/DistanceFunctionJsonConverter-100664042.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub><sub></sub>
+[Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object)<sub>[ReadJson](./Methods/DistanceFunctionJsonConverter-100664043.md) ( [`JsonReader`](./DistanceFunctionJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub><sub></sub>
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[WriteJson](./Methods/DistanceFunctionJsonConverter-100664044.md) ( [`JsonWriter`](./DistanceFunctionJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub><sub></sub>
 
 

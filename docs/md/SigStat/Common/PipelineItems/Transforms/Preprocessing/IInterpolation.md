@@ -10,15 +10,15 @@ Represents an interploation algorithm
 ## Properties
 
 | Type | Name | Summary | 
-| --- | --- | --- | 
-| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> | <sub>FeatureValues</sub> | <sub>Gets or sets the feature values.</sub> | 
-| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> | <sub>TimeValues</sub> | <sub>Timestamps</sub> | 
+
+[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)><sub>FeatureValues</sub><sub>Gets or sets the feature values.</sub>
+[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)><sub>TimeValues</sub><sub>Timestamps</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
-| --- | --- | --- | 
-| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | <sub>[GetValue](./Methods/IInterpolation-100663760.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub> | <sub>Gets the interpolated value at a given timestamp</sub> | 
+
+[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)<sub>[GetValue](./Methods/IInterpolation-100663760.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><sub>Gets the interpolated value at a given timestamp</sub>
 
 

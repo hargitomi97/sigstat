@@ -12,14 +12,14 @@ Renders an image of the signature based on the available online information (X,Y
 ## Constructors
 
 | Name | Summary | 
-| --- | --- | 
-| SimpleRenderingTransformation (  ) | <sub></sub> | 
+
+SimpleRenderingTransformation (  )<sub></sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
-| --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | <sub>[Transform](./Methods/SimpleRenderingTransformation-100663459.md) ( [`Signature`](./Signature.md) )</sub> | <sub></sub> | 
+
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[Transform](./Methods/SimpleRenderingTransformation-100663459.md) ( [`Signature`](./Signature.md) )</sub><sub></sub>
 
 

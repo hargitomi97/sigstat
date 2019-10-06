@@ -12,7 +12,7 @@ Trains classification models based on reference signatures, by calculating the d
 ## Properties
 
 | Type | Name | Summary | 
-| --- | --- | --- | 
-| [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> | <sub>DistanceFunction</sub> | <sub>A function to calculate the distance between two online signature points</sub> | 
+
+[Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)><sub>DistanceFunction</sub><sub>A function to calculate the distance between two online signature points</sub>
 
 

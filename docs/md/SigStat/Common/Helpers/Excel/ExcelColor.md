@@ -9,13 +9,13 @@ Predefined color schemes for Excel
 ##	Enum
 
 | Value | Name | Summary | 
-| --- | --- | --- | 
-| 0 | Primary | Primary color | 
-| 1 | Secondary | Secondary color | 
-| 2 | Succes | Succes color | 
-| 3 | Danger | Danger color | 
-| 4 | Warning | Warning color | 
-| 5 | Info | Info color | 
-| 6 | Transparent | Transparent color | 
+
+0PrimaryPrimary color
+1SecondarySecondary color
+2SuccesSucces color
+3DangerDanger color
+4WarningWarning color
+5InfoInfo color
+6TransparentTransparent color
 
 

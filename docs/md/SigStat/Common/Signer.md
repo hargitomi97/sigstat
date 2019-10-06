@@ -10,22 +10,22 @@ Represents a person as an [Signer.ID](https://github.com/hargitomi97/sigstat/blo
 ## Constructors
 
 | Name | Summary | 
-| --- | --- | 
-| Signer (  ) | <sub></sub> | 
+
+Signer (  )<sub></sub>
 
 
 ## Properties
 
 | Type | Name | Summary | 
-| --- | --- | --- | 
-| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | <sub>ID</sub> | <sub>An identifier for the Signer. Keep it unique to be useful for logs.</sub> | 
-| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Signature](./Signature.md)> | <sub>Signatures</sub> | <sub>List of signatures that belong to the signer.  (Their origin is not constrained to be genuine.)</sub> | 
+
+[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)<sub>ID</sub><sub>An identifier for the Signer. Keep it unique to be useful for logs.</sub>
+[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Signature](./Signature.md)><sub>Signatures</sub><sub>List of signatures that belong to the signer.  (Their origin is not constrained to be genuine.)</sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
-| --- | --- | --- | 
-| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | <sub>[ToString](./Methods/Signer-100663452.md) (  )</sub> | <sub>Returns a string representation of a Signer</sub> | 
+
+[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)<sub>[ToString](./Methods/Signer-100663452.md) (  )</sub><sub>Returns a string representation of a Signer</sub>
 
 

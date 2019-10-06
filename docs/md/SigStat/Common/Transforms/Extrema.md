@@ -12,14 +12,14 @@ Extracts minimum and maximum values of given feature.  <br>Default Pipeline Outp
 ## Constructors
 
 | Name | Summary | 
-| --- | --- | 
-| Extrema (  ) | <sub></sub> | 
+
+Extrema (  )<sub></sub>
 
 
 ## Methods
 
 | Return | Name | Summary | 
-| --- | --- | --- | 
-| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | <sub>[Transform](./Methods/Extrema-100663616.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
+
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<sub>[Transform](./Methods/Extrema-100663616.md) ( [`Signature`](./../Signature.md) )</sub><sub></sub>
 
 

@@ -9,9 +9,9 @@ Represents our knowledge on the origin of a signature.
 ##	Enum
 
 | Value | Name | Summary | 
-| --- | --- | --- | 
-| 0 | Unknown | Use this in practice before a signature is verified. | 
-| 1 | Genuine | The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)'s origin is verified to be from [Signature.Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md) | 
-| 2 | Forged | The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md) is a forgery. | 
+
+0UnknownUse this in practice before a signature is verified.
+1GenuineThe [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)'s origin is verified to be from [Signature.Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)
+2ForgedThe [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md) is a forgery.
 
 
