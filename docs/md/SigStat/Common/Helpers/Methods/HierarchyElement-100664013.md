@@ -2,8 +2,8 @@
 
 Return the hierarchy's depth from this node
 
-| Return | Name | Summary | 
-| --- | --- | --- | 
-| <sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub><img width=200/>| <sub>[GetDepth](./HierarchyElement-100664013.md) (  )</sub>| <sub>Return the hierarchy's depth from this node</sub><img width=200/>| <br>
+| Return | Name | 
+| --- | --- | 
+| <sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub><img width=200/>| <sub>[GetDepth](./HierarchyElement-100664013.md) (  )</sub>| <br>
 
 

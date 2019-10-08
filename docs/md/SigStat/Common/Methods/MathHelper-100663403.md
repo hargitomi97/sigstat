@@ -2,8 +2,8 @@
 
 Calculates the median of the given data series
 
-| Return | Name | Summary | 
-| --- | --- | --- | 
-| <sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub><img width=200/>| <sub>[Median](./MathHelper-100663403.md) ( [`IEnumerable`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub>| <sub>Calculates the median of the given data series</sub><img width=200/>| <br>
+| Return | Name | 
+| --- | --- | 
+| <sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub><img width=200/>| <sub>[Median](./MathHelper-100663403.md) ( [`IEnumerable`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub>| <br>
 
 
