@@ -1,8 +1,8 @@
 # [RotMatch](./PatternMatching3x3-100664168.md)
 
 Match the 3x3 input with the 3x3 pattern from all 4 directions.
-
-Returns<img width=200/>Name
-<sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub><img width=200/><sub>[RotMatch](./PatternMatching3x3-100664168.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><br>
+Returns<img width=500/>Name
+<br>
+<sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub><img width=500/><sub>[RotMatch](./PatternMatching3x3-100664168.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><br>
 
 
