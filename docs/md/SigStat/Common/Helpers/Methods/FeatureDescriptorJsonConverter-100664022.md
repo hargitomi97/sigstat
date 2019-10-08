@@ -2,6 +2,7 @@
 
 
 
+Returns<img width=200/>Name
 <sub>[Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object)</sub><img width=200/><sub>[ReadJson](./FeatureDescriptorJsonConverter-100664022.md) ( [`JsonReader`](./FeatureDescriptorJsonConverter-100664022.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorJsonConverter-100664022.md) )</sub><br>
 
 

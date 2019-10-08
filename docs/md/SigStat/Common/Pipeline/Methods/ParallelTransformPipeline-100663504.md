@@ -2,6 +2,7 @@
 
 Add new transform to the list.
 
+Returns<img width=200/>Name
 <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/><sub>[Add](./ParallelTransformPipeline-100663504.md) ( [`ITransformation`](./../../ITransformation.md) )</sub><br>
 
 
