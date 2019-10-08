@@ -2,7 +2,8 @@
 
 Returns a string represenatation of the FeatureDescriptor
 <br>
-Returns<img width=500/>Name
+<hr>
+Returns<img width=550/>Name
 <br>
 <sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub><img width=500/><sub>[ToString](./FeatureDescriptor-100663420.md) (  )</sub><br>
 

@@ -2,7 +2,8 @@
 
 Enumerates all signers of the database
 <br>
-Returns<img width=500/>Name
+<hr>
+Returns<img width=550/>Name
 <br>
 <sub>[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../../Signer.md)></sub><img width=500/><sub>[EnumerateSigners](./IDataSetLoader-100663882.md) (  )</sub><br>
 

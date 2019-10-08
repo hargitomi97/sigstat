@@ -2,7 +2,8 @@
 
 Does one step of the thinning. Call it iteratively while ResultChanged.
 <br>
-Returns<img width=500/>Name
+<hr>
+Returns<img width=550/>Name
 <br>
 <sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]</sub><img width=500/><sub>[Scan](./HSCPThinningStep-100664158.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><br>
 

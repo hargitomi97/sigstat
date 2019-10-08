@@ -2,7 +2,8 @@
 
 Executes the transform on the `signature` parameter.  This function gets called by the pipeline.
 <br>
-Returns<img width=500/>Name
+<hr>
+Returns<img width=550/>Name
 <br>
 <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=500/><sub>[Transform](./ITransformation-100663463.md) ( [`Signature`](./../Signature.md) )</sub><br>
 

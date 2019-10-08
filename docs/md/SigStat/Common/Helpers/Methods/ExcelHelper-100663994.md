@@ -2,7 +2,8 @@
 
 Insert table from key-value pairs
 <br>
-Returns<img width=500/>Name
+<hr>
+Returns<img width=550/>Name
 <br>
 <sub>[ExcelRange](./ExcelHelper-100663994.md)</sub><img width=500/><sub>[InsertDictionary](./ExcelHelper-100663994.md) ( [`ExcelWorksheet`](./ExcelHelper-100663994.md), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`IEnumerable`](./ExcelHelper-100663994.md)\<[`KeyValuePair`](./ExcelHelper-100663994.md)\<[`TKey`](./ExcelHelper-100663994.md), [`TValue`](./ExcelHelper-100663994.md)>>, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`ExcelColor`](./../Excel/ExcelColor.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><br>
 

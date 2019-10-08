@@ -2,7 +2,8 @@
 
 
 <br>
-Returns<img width=500/>Name
+<hr>
+Returns<img width=550/>Name
 <br>
 <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=500/><sub>[Transform](./RealisticImageGenerator-100663701.md) ( [`Signature`](./../../Signature.md) )</sub><br>
 

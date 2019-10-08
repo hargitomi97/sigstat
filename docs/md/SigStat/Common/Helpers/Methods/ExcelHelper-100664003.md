@@ -2,7 +2,8 @@
 
 Inserts text into the defined cell, and format to match text level
 <br>
-Returns<img width=500/>Name
+<hr>
+Returns<img width=550/>Name
 <br>
 <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=500/><sub>[InsertText](./ExcelHelper-100664003.md) ( [`ExcelWorksheet`](./ExcelHelper-100664003.md), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`TextLevel`](./../Excel/TextLevel.md) )</sub><br>
 
