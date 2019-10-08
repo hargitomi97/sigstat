@@ -4,6 +4,6 @@
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[Add](./HierarchyElement-100664012.md) ( [`HierarchyElement`](./../HierarchyElement.md) )</sub>| <br>
+| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[Add](./HierarchyElement-100664012.md) ( [`HierarchyElement`](./../HierarchyElement.md) child )</sub>| <br>
 
 
