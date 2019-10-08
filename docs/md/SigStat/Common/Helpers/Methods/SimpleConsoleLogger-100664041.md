@@ -1,4 +1,4 @@
-# [Log](./SimpleConsoleLogger-100664041.md)
+# [BeginScope](./SimpleConsoleLogger-100664041.md)
 
 
 Return type:
@@ -6,6 +6,6 @@ Return type:
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[Log](./SimpleConsoleLogger-100664041.md) ( [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel), [`EventId`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.EventId), [`TState`](./SimpleConsoleLogger-100664041.md), [`Exception`](https://docs.microsoft.com/en-us/dotnet/api/System.Exception), [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`TState`](./SimpleConsoleLogger-100664041.md), [`Exception`](https://docs.microsoft.com/en-us/dotnet/api/System.Exception), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)> )</sub>| <sub></sub><img width=200/>| <br>
+| <sub>[IDisposable](https://docs.microsoft.com/en-us/dotnet/api/System.IDisposable)</sub><img width=200/>| <sub>[BeginScope](./SimpleConsoleLogger-100664041.md) ( [`TState`](./SimpleConsoleLogger-100664041.md) )</sub>| <sub></sub><img width=200/>| <br>
 
 

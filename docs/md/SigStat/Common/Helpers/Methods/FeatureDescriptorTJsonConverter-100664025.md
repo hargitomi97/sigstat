@@ -1,11 +1,11 @@
-# [WriteJson](./FeatureDescriptorTJsonConverter-100664025.md)
+# [CanConvert](./FeatureDescriptorTJsonConverter-100664025.md)
 
-
+Tells if the current object is of the correct type
 Return type:
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[WriteJson](./FeatureDescriptorTJsonConverter-100664025.md) ( [`JsonWriter`](./FeatureDescriptorTJsonConverter-100664025.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorTJsonConverter-100664025.md) )</sub>| <sub></sub><img width=200/>| <br>
+| <sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub><img width=200/>| <sub>[CanConvert](./FeatureDescriptorTJsonConverter-100664025.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub>| <sub>Tells if the current object is of the correct type</sub><img width=200/>| <br>
 
 

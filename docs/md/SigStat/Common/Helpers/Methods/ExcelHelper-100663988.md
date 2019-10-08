@@ -1,11 +1,11 @@
-# [FormatAsTableWithTitle](./ExcelHelper-100663988.md)
+# [Merge](./ExcelHelper-100663988.md)
 
-Format cells in the range into a table with possible title
+Merge all cells into one in the range.
 Return type:
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| <sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub><img width=200/>| <sub>[FormatAsTableWithTitle](./ExcelHelper-100663988.md) ( [`ExcelRange`](./ExcelHelper-100663988.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`ExcelColor`](./../Excel/ExcelColor.md), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub>| <sub>Format cells in the range into a table with possible title</sub><img width=200/>| <br>
+| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[Merge](./ExcelHelper-100663988.md) ( [`ExcelRangeBase`](./ExcelHelper-100663988.md) )</sub>| <sub>Merge all cells into one in the range.</sub><img width=200/>| <br>
 
 

@@ -1,11 +1,11 @@
-# [InsertLineChart](./ExcelHelper-100663999.md)
+# [InsertLink](./ExcelHelper-100663999.md)
 
-Draws a line chart for the given data
+Creates a link to selected cells in given sheet
 Return type:
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[InsertLineChart](./ExcelHelper-100663999.md) ( [`ExcelWorksheet`](./ExcelHelper-100663999.md), [`ExcelRange`](./ExcelHelper-100663999.md), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`ExcelRange`](./ExcelHelper-100663999.md), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub>Draws a line chart for the given data</sub><img width=200/>| <br>
+| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[InsertLink](./ExcelHelper-100663999.md) ( [`ExcelRange`](./ExcelHelper-100663999.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub>Creates a link to selected cells in given sheet</sub><img width=200/>| <br>
 
 

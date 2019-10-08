@@ -28,6 +28,6 @@ Sorts Component order by comparing each starting X value, and finding nearest co
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/ComponentSorter-100663515.md) ( [`Signature`](./../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/ComponentSorter-100663517.md) ( [`Signature`](./../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
 
 

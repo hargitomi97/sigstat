@@ -1,11 +1,11 @@
-# [GetCount](./HierarchyElement-100664012.md)
+# [Add](./HierarchyElement-100664012.md)
 
-Returns number of elements under this node and itself
+
 Return type:
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| <sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub><img width=200/>| <sub>[GetCount](./HierarchyElement-100664012.md) (  )</sub>| <sub>Returns number of elements under this node and itself</sub><img width=200/>| <br>
+| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[Add](./HierarchyElement-100664012.md) ( [`HierarchyElement`](./../HierarchyElement.md) )</sub>| <sub></sub><img width=200/>| <br>
 
 

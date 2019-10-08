@@ -33,6 +33,6 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/UniformScale-100663843.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/UniformScale-100663845.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
 
 

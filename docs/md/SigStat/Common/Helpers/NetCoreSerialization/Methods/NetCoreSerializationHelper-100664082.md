@@ -1,4 +1,4 @@
-# [Serialize](./NetCoreSerializationHelper-100664082.md)
+# [GetSettings](./NetCoreSerializationHelper-100664082.md)
 
 
 Return type:
@@ -6,6 +6,6 @@ Return type:
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| <sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub><img width=200/>| <sub>[Serialize](./NetCoreSerializationHelper-100664082.md) ( [`T`](./NetCoreSerializationHelper-100664082.md) )</sub>| <sub></sub><img width=200/>| <br>
+| <sub>[JsonSerializerOptions](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions)</sub><img width=200/>| <sub>[GetSettings](./NetCoreSerializationHelper-100664082.md) (  )</sub>| <sub></sub><img width=200/>| <br>
 
 

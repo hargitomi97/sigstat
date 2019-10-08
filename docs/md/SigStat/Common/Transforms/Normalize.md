@@ -28,6 +28,6 @@ Maps values of a feature to 0.0 - 1.0 range.  <br>Pipeline Input type: List{doub
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/Normalize-100663634.md) ( [`Signature`](./../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/Normalize-100663636.md) ( [`Signature`](./../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
 
 

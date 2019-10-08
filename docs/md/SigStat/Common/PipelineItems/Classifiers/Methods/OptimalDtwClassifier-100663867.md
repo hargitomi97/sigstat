@@ -1,4 +1,4 @@
-# [Test](./OptimalDtwClassifier-100663867.md)
+# [Train](./OptimalDtwClassifier-100663867.md)
 
 
 Return type:
@@ -6,6 +6,6 @@ Return type:
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| <sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub><img width=200/>| <sub>[Test](./OptimalDtwClassifier-100663867.md) ( [`ISignerModel`](./../../../Pipeline/ISignerModel.md), [`Signature`](./../../../Signature.md) )</sub>| <sub></sub><img width=200/>| <br>
+| <sub>[ISignerModel](./../../../Pipeline/ISignerModel.md)</sub><img width=200/>| <sub>[Train](./OptimalDtwClassifier-100663867.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../../Signature.md)> )</sub>| <sub></sub><img width=200/>| <br>
 
 

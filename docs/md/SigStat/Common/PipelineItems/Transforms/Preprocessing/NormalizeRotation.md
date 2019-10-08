@@ -31,6 +31,6 @@ Performs rotation normalization on the online signature
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/NormalizeRotation-100663777.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/NormalizeRotation-100663779.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
 
 

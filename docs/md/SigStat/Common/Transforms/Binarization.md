@@ -29,6 +29,6 @@ Generates a binary raster version of the input image with the iterative threshol
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/Binarization-100663642.md) ( [`Signature`](./../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/Binarization-100663644.md) ( [`Signature`](./../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
 
 

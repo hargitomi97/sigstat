@@ -32,9 +32,9 @@ Benchmarking class to test error rates of a [Model.Verifier](https://github.com/
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Dump](./Methods/VerifierBenchmark-100663370.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`IEnumerable`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[`KeyValuePair`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.KeyValuePair-2)\<[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)>> )</sub><img width=200/>| <sub>Dumps the results of the benchmark in a file.</sub>| <br>
-| <sub>[Execute](./Methods/VerifierBenchmark-100663382.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub><img width=200/>| <sub>Execute the benchmarking process.</sub>| <br>
-| <sub>[Execute](./Methods/VerifierBenchmark-100663383.md) ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><img width=200/>| <sub>Execute the benchmarking process with a degree of parallelism.</sub>| <br>
+| <sub>[Dump](./Methods/VerifierBenchmark-100663372.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`IEnumerable`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[`KeyValuePair`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.KeyValuePair-2)\<[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)>> )</sub><img width=200/>| <sub>Dumps the results of the benchmark in a file.</sub>| <br>
+| <sub>[Execute](./Methods/VerifierBenchmark-100663384.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub><img width=200/>| <sub>Execute the benchmarking process.</sub>| <br>
+| <sub>[Execute](./Methods/VerifierBenchmark-100663385.md) ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><img width=200/>| <sub>Execute the benchmarking process with a degree of parallelism.</sub>| <br>
 
 
 ## Events

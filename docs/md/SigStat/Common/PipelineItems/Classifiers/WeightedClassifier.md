@@ -27,9 +27,9 @@ Classifies Signatures by weighing other Classifier results.
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Add](./Methods/WeightedClassifier-100663869.md) ( [`ValueTuple`](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[`IClassifier`](./../../Pipeline/IClassifier.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub><img width=200/>| <sub>Add a new classifier with given weight to the list of items.</sub>| <br>
-| <sub>[GetEnumerator](./Methods/WeightedClassifier-100663868.md) (  )</sub><img width=200/>| <sub></sub>| <br>
-| <sub>[Test](./Methods/WeightedClassifier-100663871.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
-| <sub>[Train](./Methods/WeightedClassifier-100663870.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[Add](./Methods/WeightedClassifier-100663871.md) ( [`ValueTuple`](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[`IClassifier`](./../../Pipeline/IClassifier.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub><img width=200/>| <sub>Add a new classifier with given weight to the list of items.</sub>| <br>
+| <sub>[GetEnumerator](./Methods/WeightedClassifier-100663870.md) (  )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[Test](./Methods/WeightedClassifier-100663873.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[Train](./Methods/WeightedClassifier-100663872.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub><img width=200/>| <sub></sub>| <br>
 
 

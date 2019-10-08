@@ -28,6 +28,6 @@ Cubic interpolation algorithm
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[GetValue](./Methods/CubicInterpolation-100663727.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><img width=200/>| <sub>Gets the value.</sub>| <br>
+| <sub>[GetValue](./Methods/CubicInterpolation-100663729.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><img width=200/>| <sub>Gets the value.</sub>| <br>
 
 

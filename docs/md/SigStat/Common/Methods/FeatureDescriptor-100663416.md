@@ -1,11 +1,11 @@
-# [GetAll](./FeatureDescriptor-100663416.md)
+# [Register](./FeatureDescriptor-100663416.md)
 
-Gets a dictionary of all registered feature descriptors
+Registers a new [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) with a given key.  If the FeatureDescriptor is allready registered, this function will  return a reference to the originally registered FeatureDescriptor.  to the a
 Return type:
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| <sub>[Dictionary](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.Dictionary-2)\<[String](https://docs.microsoft.com/en-us/dotnet/api/System.String), [FeatureDescriptor](./../FeatureDescriptor.md)></sub><img width=200/>| <sub>[GetAll](./FeatureDescriptor-100663416.md) (  )</sub>| <sub>Gets a dictionary of all registered feature descriptors</sub><img width=200/>| <br>
+| <sub>[FeatureDescriptor](./../FeatureDescriptor.md)</sub><img width=200/>| <sub>[Register](./FeatureDescriptor-100663416.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub>| <sub>Registers a new [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) with a given key.  If the FeatureDescriptor is allready registered, this function will  return a reference to the originally registered FeatureDescriptor.  to the a</sub><img width=200/>| <br>
 
 

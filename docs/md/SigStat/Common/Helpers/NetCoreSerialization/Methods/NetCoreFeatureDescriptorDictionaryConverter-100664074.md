@@ -1,4 +1,4 @@
-# [Write](./NetCoreFeatureDescriptorDictionaryConverter-100664074.md)
+# [CanConvert](./NetCoreFeatureDescriptorDictionaryConverter-100664074.md)
 
 
 Return type:
@@ -6,6 +6,6 @@ Return type:
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[Write](./NetCoreFeatureDescriptorDictionaryConverter-100664074.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`Dictionary`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.Dictionary-2)\<[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`FeatureDescriptor`](./../../../FeatureDescriptor.md)>, [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub>| <sub></sub><img width=200/>| <br>
+| <sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub><img width=200/>| <sub>[CanConvert](./NetCoreFeatureDescriptorDictionaryConverter-100664074.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub>| <sub></sub><img width=200/>| <br>
 
 

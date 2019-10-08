@@ -1,4 +1,4 @@
-# [DeserializeFromFile](./NetCoreSerializationHelper-100664084.md)
+# [Serialize](./NetCoreSerializationHelper-100664084.md)
 
 
 Return type:
@@ -6,6 +6,6 @@ Return type:
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| <sub>[T](./NetCoreSerializationHelper-100664084.md)</sub><img width=200/>| <sub>[DeserializeFromFile](./NetCoreSerializationHelper-100664084.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub></sub><img width=200/>| <br>
+| <sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub><img width=200/>| <sub>[Serialize](./NetCoreSerializationHelper-100664084.md) ( [`T`](./NetCoreSerializationHelper-100664084.md) )</sub>| <sub></sub><img width=200/>| <br>
 
 

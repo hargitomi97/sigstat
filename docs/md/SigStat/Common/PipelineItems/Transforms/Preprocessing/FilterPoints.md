@@ -31,6 +31,6 @@ Removes samples based on a criteria from online signature time series
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/FilterPoints-100663753.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/FilterPoints-100663755.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
 
 

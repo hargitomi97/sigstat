@@ -1,11 +1,11 @@
-# [InsertHierarchicalList](./ExcelHelper-100663993.md)
+# [InsertTable](./ExcelHelper-100663993.md)
 
-Insert a hierarchical list in tree style into the worksheet
+Insert a table filled with data from an IEnumerable
 Return type:
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[InsertHierarchicalList](./ExcelHelper-100663993.md) ( [`ExcelWorksheet`](./ExcelHelper-100663993.md), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`HierarchyElement`](./../HierarchyElement.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`ExcelColor`](./../Excel/ExcelColor.md) )</sub>| <sub>Insert a hierarchical list in tree style into the worksheet</sub><img width=200/>| <br>
+| <sub>[ExcelRange](./ExcelHelper-100663993.md)</sub><img width=200/>| <sub>[InsertTable](./ExcelHelper-100663993.md) ( [`ExcelWorksheet`](./ExcelHelper-100663993.md), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[`T`](./ExcelHelper-100663993.md)>, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`ExcelColor`](./../Excel/ExcelColor.md), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub>Insert a table filled with data from an IEnumerable</sub><img width=200/>| <br>
 
 

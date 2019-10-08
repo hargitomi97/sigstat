@@ -26,6 +26,6 @@ Represents a person as an [Signer.ID](https://github.com/hargitomi97/sigstat/blo
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[ToString](./Methods/Signer-100663452.md) (  )</sub><img width=200/>| <sub>Returns a string representation of a Signer</sub>| <br>
+| <sub>[ToString](./Methods/Signer-100663454.md) (  )</sub><img width=200/>| <sub>Returns a string representation of a Signer</sub>| <br>
 
 

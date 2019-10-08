@@ -16,10 +16,10 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Deserialize](./Methods/NetCoreSerializationHelper-100664081.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img width=200/>| <sub></sub>| <br>
-| <sub>[DeserializeFromFile](./Methods/NetCoreSerializationHelper-100664084.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img width=200/>| <sub></sub>| <br>
-| <sub>[GetSettings](./Methods/NetCoreSerializationHelper-100664080.md) (  )</sub><img width=200/>| <sub></sub>| <br>
-| <sub>[Serialize](./Methods/NetCoreSerializationHelper-100664082.md) ( [`T`](./NetCoreSerializationHelper.md) )</sub><img width=200/>| <sub></sub>| <br>
-| <sub>[SerializeToFile](./Methods/NetCoreSerializationHelper-100664083.md) ( [`T`](./NetCoreSerializationHelper.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[Deserialize](./Methods/NetCoreSerializationHelper-100664083.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[DeserializeFromFile](./Methods/NetCoreSerializationHelper-100664086.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[GetSettings](./Methods/NetCoreSerializationHelper-100664082.md) (  )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[Serialize](./Methods/NetCoreSerializationHelper-100664084.md) ( [`T`](./NetCoreSerializationHelper.md) )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[SerializeToFile](./Methods/NetCoreSerializationHelper-100664085.md) ( [`T`](./NetCoreSerializationHelper.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img width=200/>| <sub></sub>| <br>
 
 

@@ -1,11 +1,11 @@
-# [InsertDictionary](./ExcelHelper-100663992.md)
+# [InsertTable](./ExcelHelper-100663992.md)
 
-Insert table from key-value pairs
+Insert table filled with data from a 2D array
 Return type:
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| <sub>[ExcelRange](./ExcelHelper-100663992.md)</sub><img width=200/>| <sub>[InsertDictionary](./ExcelHelper-100663992.md) ( [`ExcelWorksheet`](./ExcelHelper-100663992.md), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`IEnumerable`](./ExcelHelper-100663992.md)\<[`KeyValuePair`](./ExcelHelper-100663992.md)\<[`TKey`](./ExcelHelper-100663992.md), [`TValue`](./ExcelHelper-100663992.md)>>, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`ExcelColor`](./../Excel/ExcelColor.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub>Insert table from key-value pairs</sub><img width=200/>| <br>
+| <sub>[ExcelRange](./ExcelHelper-100663992.md)</sub><img width=200/>| <sub>[InsertTable](./ExcelHelper-100663992.md) ( [`ExcelWorksheet`](./ExcelHelper-100663992.md), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`ExcelColor`](./../Excel/ExcelColor.md), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub>Insert table filled with data from a 2D array</sub><img width=200/>| <br>
 
 

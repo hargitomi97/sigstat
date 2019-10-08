@@ -1,11 +1,11 @@
-# [GetEnumerator](./HierarchyElement-100664014.md)
+# [GetCount](./HierarchyElement-100664014.md)
 
-Returns an enumerator that iterates through the collection.
+Returns number of elements under this node and itself
 Return type:
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| <sub>[IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerator-1)\<[HierarchyElement](./../HierarchyElement.md)></sub><img width=200/>| <sub>[GetEnumerator](./HierarchyElement-100664014.md) (  )</sub>| <sub>Returns an enumerator that iterates through the collection.</sub><img width=200/>| <br>
+| <sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub><img width=200/>| <sub>[GetCount](./HierarchyElement-100664014.md) (  )</sub>| <sub>Returns number of elements under this node and itself</sub><img width=200/>| <br>
 
 

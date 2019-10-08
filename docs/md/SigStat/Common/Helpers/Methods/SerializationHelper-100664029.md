@@ -1,11 +1,11 @@
-# [DeserializeFromFile](./SerializationHelper-100664029.md)
+# [GetSettings](./SerializationHelper-100664029.md)
 
-Constructs object from file given by a path
+Settings used for the serialization methods
 Return type:
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| <sub>[T](./SerializationHelper-100664029.md)</sub><img width=200/>| <sub>[DeserializeFromFile](./SerializationHelper-100664029.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub>Constructs object from file given by a path</sub><img width=200/>| <br>
+| <sub>[JsonSerializerSettings](./SerializationHelper-100664029.md)</sub><img width=200/>| <sub>[GetSettings](./SerializationHelper-100664029.md) (  )</sub>| <sub>Settings used for the serialization methods</sub><img width=200/>| <br>
 
 

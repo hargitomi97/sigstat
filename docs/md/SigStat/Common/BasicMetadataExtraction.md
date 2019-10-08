@@ -20,7 +20,7 @@ Extracts basic statistical signature (like [Features.Bounds](https://github.com/
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/BasicMetadataExtraction-100663456.md) ( [`Signature`](./Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/BasicMetadataExtraction-100663458.md) ( [`Signature`](./Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
 
 
 ## Static Properties

@@ -1,11 +1,11 @@
-# [ToString](./FeatureDescriptor-100663418.md)
+# [GetAll](./FeatureDescriptor-100663418.md)
 
-Returns a string represenatation of the FeatureDescriptor
+Gets a dictionary of all registered feature descriptors
 Return type:
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| <sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub><img width=200/>| <sub>[ToString](./FeatureDescriptor-100663418.md) (  )</sub>| <sub>Returns a string represenatation of the FeatureDescriptor</sub><img width=200/>| <br>
+| <sub>[Dictionary](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.Dictionary-2)\<[String](https://docs.microsoft.com/en-us/dotnet/api/System.String), [FeatureDescriptor](./../FeatureDescriptor.md)></sub><img width=200/>| <sub>[GetAll](./FeatureDescriptor-100663418.md) (  )</sub>| <sub>Gets a dictionary of all registered feature descriptors</sub><img width=200/>| <br>
 
 

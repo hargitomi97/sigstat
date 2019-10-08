@@ -1,4 +1,4 @@
-# [Train](./WeightedClassifier-100663870.md)
+# [GetEnumerator](./WeightedClassifier-100663870.md)
 
 
 Return type:
@@ -6,6 +6,6 @@ Return type:
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| <sub>[ISignerModel](./../../../Pipeline/ISignerModel.md)</sub><img width=200/>| <sub>[Train](./WeightedClassifier-100663870.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../../Signature.md)> )</sub>| <sub></sub><img width=200/>| <br>
+| <sub>[IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerator)</sub><img width=200/>| <sub>[GetEnumerator](./WeightedClassifier-100663870.md) (  )</sub>| <sub></sub><img width=200/>| <br>
 
 

@@ -28,13 +28,13 @@ Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerOb
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[EnumerateSigners](./Methods/SigComp13JapaneseLoader-100663915.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[EnumerateSigners](./Methods/SigComp13JapaneseLoader-100663917.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub><img width=200/>| <sub></sub>| <br>
 
 
 ## Static Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[LoadSignature](./Methods/SigComp13JapaneseLoader-100663916.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub><img width=200/>| <sub>Loads one signature from specified stream.</sub>| <br>
+| <sub>[LoadSignature](./Methods/SigComp13JapaneseLoader-100663918.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub><img width=200/>| <sub>Loads one signature from specified stream.</sub>| <br>
 
 

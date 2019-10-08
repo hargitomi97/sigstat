@@ -25,6 +25,6 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[ToString](./Methods/Baseline-100663332.md) (  )</sub><img width=200/>| <sub>Returns a string representation of the baseline</sub>| <br>
+| <sub>[ToString](./Methods/Baseline-100663334.md) (  )</sub><img width=200/>| <sub>Returns a string representation of the baseline</sub>| <br>
 
 

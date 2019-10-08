@@ -1,11 +1,11 @@
-# [InsertTable](./ExcelHelper-100663990.md)
+# [FormatAsTableWithTitle](./ExcelHelper-100663990.md)
 
-Insert table filled with data from a 2D array
+Format cells in the range into a table with possible title
 Return type:
 ## Methods
 
 | Return | Name | Summary | 
 | --- | --- | --- | 
-| <sub>[ExcelRange](./ExcelHelper-100663990.md)</sub><img width=200/>| <sub>[InsertTable](./ExcelHelper-100663990.md) ( [`ExcelWorksheet`](./ExcelHelper-100663990.md), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`ExcelColor`](./../Excel/ExcelColor.md), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub>Insert table filled with data from a 2D array</sub><img width=200/>| <br>
+| <sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub><img width=200/>| <sub>[FormatAsTableWithTitle](./ExcelHelper-100663990.md) ( [`ExcelRange`](./ExcelHelper-100663990.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`ExcelColor`](./../Excel/ExcelColor.md), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub>| <sub>Format cells in the range into a table with possible title</sub><img width=200/>| <br>
 
 
