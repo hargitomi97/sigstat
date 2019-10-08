@@ -1,7 +1,7 @@
 # [GetSettings](./SerializationHelper-100664029.md)
 
 Settings used for the serialization methods
-Return type:
+
 | Return | Name | Summary | 
 | --- | --- | --- | 
 | <sub>[JsonSerializerSettings](./SerializationHelper-100664029.md)</sub><img width=200/>| <sub>[GetSettings](./SerializationHelper-100664029.md) (  )</sub>| <sub>Settings used for the serialization methods</sub><img width=200/>| <br>
