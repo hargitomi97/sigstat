@@ -2,8 +2,7 @@
 
 Converts to string.
 <br>
-<hr>
-Returns<img width=550/>Name
+Returns<img width=542/>Name
 <br>
 <sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub><img width=500/><sub>[ToString](./HierarchyElement-100664015.md) (  )</sub><br>
 

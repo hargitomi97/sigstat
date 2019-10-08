@@ -2,8 +2,7 @@
 
 Draws a line chart for the given data
 <br>
-<hr>
-Returns<img width=550/>Name
+Returns<img width=542/>Name
 <br>
 <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=500/><sub>[InsertLineChart](./ExcelHelper-100664001.md) ( [`ExcelWorksheet`](./ExcelHelper-100664001.md), [`ExcelRange`](./ExcelHelper-100664001.md), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`ExcelRange`](./ExcelHelper-100664001.md), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><br>
 

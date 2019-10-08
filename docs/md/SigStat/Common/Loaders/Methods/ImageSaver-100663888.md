@@ -2,8 +2,7 @@
 
 Saves a png image file to the specified `path`.
 <br>
-<hr>
-Returns<img width=550/>Name
+Returns<img width=542/>Name
 <br>
 <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=500/><sub>[Save](./ImageSaver-100663888.md) ( [`Signature`](./../../Signature.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><br>
 
