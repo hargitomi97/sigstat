@@ -13,21 +13,21 @@ Iteratively thins the input binary raster with the [Algorithms.HSCPThinningStep]
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>HSCPThinning (  )</sub>| <sub></sub>| <br>
+| <sub>HSCPThinning (  )</sub><img width=200/>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Input</sub>| <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub>| <br>
-| <sub>Output</sub>| <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub>| <br>
+| <sub>Input</sub><img width=200/>| <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub>| <br>
+| <sub>Output</sub><img width=200/>| <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/HSCPThinning-100663664.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/HSCPThinning-100663664.md) ( [`Signature`](./../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
 
 

@@ -13,26 +13,26 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>UniformScale (  )</sub>| <sub></sub>| <br>
+| <sub>UniformScale (  )</sub><img width=200/>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>BaseDimension</sub>| <sub>Gets or sets the base dimension.</sub>| <br>
-| <sub>BaseDimensionOutput</sub>| <sub>Gets or sets the output base dimension output.</sub>| <br>
-| <sub>NewMaxBaseValue</sub>| <sub>Upper bound of the interval, in which the base dimension will be scaled</sub>| <br>
-| <sub>NewMinBaseValue</sub>| <sub>Lower bound of the interval, in which the base dimension will be scaled</sub>| <br>
-| <sub>NewMinProportionalValue</sub>| <sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub>| <br>
-| <sub>ProportionalDimension</sub>| <sub>Gets or sets the ProportionalDimension.</sub>| <br>
-| <sub>ProportionalDimensionOutput</sub>| <sub>Gets or sets the output proportional dimension output.</sub>| <br>
+| <sub>BaseDimension</sub><img width=200/>| <sub>Gets or sets the base dimension.</sub>| <br>
+| <sub>BaseDimensionOutput</sub><img width=200/>| <sub>Gets or sets the output base dimension output.</sub>| <br>
+| <sub>NewMaxBaseValue</sub><img width=200/>| <sub>Upper bound of the interval, in which the base dimension will be scaled</sub>| <br>
+| <sub>NewMinBaseValue</sub><img width=200/>| <sub>Lower bound of the interval, in which the base dimension will be scaled</sub>| <br>
+| <sub>NewMinProportionalValue</sub><img width=200/>| <sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub>| <br>
+| <sub>ProportionalDimension</sub><img width=200/>| <sub>Gets or sets the ProportionalDimension.</sub>| <br>
+| <sub>ProportionalDimensionOutput</sub><img width=200/>| <sub>Gets or sets the output proportional dimension output.</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/UniformScale-100663845.md) ( [`Signature`](./../../../Signature.md) )</sub>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/UniformScale-100663845.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
 
 
