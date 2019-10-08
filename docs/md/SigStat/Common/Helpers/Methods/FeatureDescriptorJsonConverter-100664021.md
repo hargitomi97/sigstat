@@ -1,9 +1,8 @@
 # [CanConvert](./FeatureDescriptorJsonConverter-100664021.md)
 
 Tells if the current object is of the correct type
-<br><br>
-Returns<img width=542/>Name
-<br>
-<sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub><img width=500/><sub>[CanConvert](./FeatureDescriptorJsonConverter-100664021.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub><br>
+| Return | Name | 
+| --- | --- | 
+| <sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub><img width=200/>| <sub>[CanConvert](./FeatureDescriptorJsonConverter-100664021.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub>| <br>
 
 
