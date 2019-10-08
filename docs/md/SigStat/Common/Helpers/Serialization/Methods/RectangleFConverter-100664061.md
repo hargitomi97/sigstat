@@ -1,7 +1,7 @@
 # [ReadJson](./RectangleFConverter-100664061.md)
 
 
-<br>
+<br><br>
 Returns<img width=542/>Name
 <br>
 <sub>[Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object)</sub><img width=500/><sub>[ReadJson](./RectangleFConverter-100664061.md) ( [`JsonReader`](./RectangleFConverter-100664061.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./RectangleFConverter-100664061.md) )</sub><br>

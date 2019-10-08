@@ -1,7 +1,7 @@
 # [ReadJson](./DistanceFunctionJsonConverter-100664045.md)
 
 
-<br>
+<br><br>
 Returns<img width=542/>Name
 <br>
 <sub>[Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object)</sub><img width=500/><sub>[ReadJson](./DistanceFunctionJsonConverter-100664045.md) ( [`JsonReader`](./DistanceFunctionJsonConverter-100664045.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter-100664045.md) )</sub><br>
