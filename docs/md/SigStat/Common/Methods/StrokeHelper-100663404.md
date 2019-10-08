@@ -4,6 +4,6 @@ Gets the strokes from an online signature with standard features. Note that  the
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[StrokeInterval](./../StrokeInterval.md)></sub><img width=200/>| <sub>[GetStrokes](./StrokeHelper-100663404.md) ( [`Signature`](./../Signature.md) signature )</sub>| <br>
+| <sub>[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[StrokeInterval](./../StrokeInterval.md)></sub>| <sub>[GetStrokes](./StrokeHelper-100663404.md) ( [`Signature`](./../Signature.md) signature )</sub>| <br>
 
 

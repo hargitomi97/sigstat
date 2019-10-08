@@ -4,6 +4,6 @@ Gets the given relative or absolute path in a platform neutral form
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub><img width=200/>| <sub>[GetPath](./IOExtensions-100663401.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path )</sub>| <br>
+| <sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub>| <sub>[GetPath](./IOExtensions-100663401.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path )</sub>| <br>
 
 

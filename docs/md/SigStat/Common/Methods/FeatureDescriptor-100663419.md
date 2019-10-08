@@ -4,6 +4,6 @@ Gets the [FeatureDescriptor-1](https://github.com/hargitomi97/sigstat/blob/maste
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[T](./FeatureDescriptor-100663419.md)></sub><img width=200/>| <sub>[Get](./FeatureDescriptor-100663419.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) key )</sub>| <br>
+| <sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[T](./FeatureDescriptor-100663419.md)></sub>| <sub>[Get](./FeatureDescriptor-100663419.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) key )</sub>| <br>
 
 

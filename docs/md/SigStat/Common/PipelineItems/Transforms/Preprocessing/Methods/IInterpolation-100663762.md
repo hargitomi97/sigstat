@@ -4,6 +4,6 @@ Gets the interpolated value at a given timestamp
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub><img width=200/>| <sub>[GetValue](./IInterpolation-100663762.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) timestamp )</sub>| <br>
+| <sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub>| <sub>[GetValue](./IInterpolation-100663762.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) timestamp )</sub>| <br>
 
 

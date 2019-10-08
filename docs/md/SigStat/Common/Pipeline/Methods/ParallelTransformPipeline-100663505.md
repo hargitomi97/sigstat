@@ -4,6 +4,6 @@ Executes transform [Pipeline.ParallelTransformPipeline.Items](https://github.com
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[Transform](./ParallelTransformPipeline-100663505.md) ( [`Signature`](./../../Signature.md) signature )</sub>| <br>
+| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub>| <sub>[Transform](./ParallelTransformPipeline-100663505.md) ( [`Signature`](./../../Signature.md) signature )</sub>| <br>
 
 

@@ -11,21 +11,21 @@ Represents a person as an [Signer.ID](https://github.com/hargitomi97/sigstat/blo
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Signer (  )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>Signer (  )</sub>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ID</sub><img width=200/>| <sub>An identifier for the Signer. Keep it unique to be useful for logs.</sub>| <br>
-| <sub>Signatures</sub><img width=200/>| <sub>List of signatures that belong to the signer.  (Their origin is not constrained to be genuine.)</sub>| <br>
+| <sub>ID</sub>| <sub>An identifier for the Signer. Keep it unique to be useful for logs.</sub>| <br>
+| <sub>Signatures</sub>| <sub>List of signatures that belong to the signer.  (Their origin is not constrained to be genuine.)</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[ToString](./Methods/Signer-100663454.md) (  )</sub><img width=200/>| <sub>Returns a string representation of a Signer</sub>| <br>
+| <sub>[ToString](./Methods/Signer-100663454.md) (  )</sub>| <sub>Returns a string representation of a Signer</sub>| <br>
 
 

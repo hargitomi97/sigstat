@@ -4,6 +4,6 @@ Executes transform [Pipeline.SequentialTransformPipeline.Items](https://github.c
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[Transform](./SequentialTransformPipeline-100663511.md) ( [`Signature`](./../../Signature.md) signature )</sub>| <br>
+| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub>| <sub>[Transform](./SequentialTransformPipeline-100663511.md) ( [`Signature`](./../../Signature.md) signature )</sub>| <br>
 
 
