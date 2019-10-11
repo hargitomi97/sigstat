@@ -10,12 +10,12 @@ Predefined color schemes for Excel
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<div style="pointer-events:none; cursor:default; width=200;"></div>| Primary| Primary color<div style="pointer-events:none; cursor:default; width=200;"></div>| <br>
-| 1<div style="pointer-events:none; cursor:default; width=200;"></div>| Secondary| Secondary color<div style="pointer-events:none; cursor:default; width=200;"></div>| <br>
-| 2<div style="pointer-events:none; cursor:default; width=200;"></div>| Succes| Succes color<div style="pointer-events:none; cursor:default; width=200;"></div>| <br>
-| 3<div style="pointer-events:none; cursor:default; width=200;"></div>| Danger| Danger color<div style="pointer-events:none; cursor:default; width=200;"></div>| <br>
-| 4<div style="pointer-events:none; cursor:default; width=200;"></div>| Warning| Warning color<div style="pointer-events:none; cursor:default; width=200;"></div>| <br>
-| 5<div style="pointer-events:none; cursor:default; width=200;"></div>| Info| Info color<div style="pointer-events:none; cursor:default; width=200;"></div>| <br>
-| 6<div style="pointer-events:none; cursor:default; width=200;"></div>| Transparent| Transparent color<div style="pointer-events:none; cursor:default; width=200;"></div>| <br>
+| 0<div style="pointer-events:none; cursor:default; width=500px;"></div>| Primary| Primary color<div style="pointer-events:none; cursor:default; width=500px;"></div>| <br>
+| 1<div style="pointer-events:none; cursor:default; width=500px;"></div>| Secondary| Secondary color<div style="pointer-events:none; cursor:default; width=500px;"></div>| <br>
+| 2<div style="pointer-events:none; cursor:default; width=500px;"></div>| Succes| Succes color<div style="pointer-events:none; cursor:default; width=500px;"></div>| <br>
+| 3<div style="pointer-events:none; cursor:default; width=500px;"></div>| Danger| Danger color<div style="pointer-events:none; cursor:default; width=500px;"></div>| <br>
+| 4<div style="pointer-events:none; cursor:default; width=500px;"></div>| Warning| Warning color<div style="pointer-events:none; cursor:default; width=500px;"></div>| <br>
+| 5<div style="pointer-events:none; cursor:default; width=500px;"></div>| Info| Info color<div style="pointer-events:none; cursor:default; width=500px;"></div>| <br>
+| 6<div style="pointer-events:none; cursor:default; width=500px;"></div>| Transparent| Transparent color<div style="pointer-events:none; cursor:default; width=500px;"></div>| <br>
 
 

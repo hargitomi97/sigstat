@@ -13,20 +13,20 @@ Extracts basic statistical signature (like [Bounds](https://github.com/hargitomi
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>BasicMetadataExtraction (  )</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub></sub>| <br>
+| <sub>BasicMetadataExtraction (  )</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub></sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/BasicMetadataExtraction-100663458.md) ( [`Signature`](./Signature.md) )</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/BasicMetadataExtraction-100663458.md) ( [`Signature`](./Signature.md) )</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub></sub>| <br>
 
 
 ## Static Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Trim</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub>Represents theratio of significant pixels that should be trimmed  from each side while calculating [TrimmedBounds](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub>| <br>
+| <sub>Trim</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub>Represents theratio of significant pixels that should be trimmed  from each side while calculating [TrimmedBounds](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub>| <br>
 
 

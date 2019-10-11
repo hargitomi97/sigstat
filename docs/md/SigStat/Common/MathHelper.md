@@ -11,7 +11,7 @@ Common mathematical functions used by the SigStat framework
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Median](./Methods/MathHelper-100663403.md) ( [`IEnumerable`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub>Calculates the median of the given data series</sub>| <br>
-| <sub>[Min](./Methods/MathHelper-100663402.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub>Returns the smallest of the three double parameters</sub>| <br>
+| <sub>[Median](./Methods/MathHelper-100663403.md) ( [`IEnumerable`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub>Calculates the median of the given data series</sub>| <br>
+| <sub>[Min](./Methods/MathHelper-100663402.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub>Returns the smallest of the three double parameters</sub>| <br>
 
 

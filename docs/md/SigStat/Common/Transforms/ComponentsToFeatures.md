@@ -13,23 +13,23 @@ Extracts standard [Features](https://github.com/hargitomi97/sigstat/blob/master/
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ComponentsToFeatures (  )</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub></sub>| <br>
+| <sub>ComponentsToFeatures (  )</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Button</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub>Button</sub>| <br>
-| <sub>InputComponents</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub>Components</sub>| <br>
-| <sub>X</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub>X</sub>| <br>
-| <sub>Y</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub>Y</sub>| <br>
+| <sub>Button</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub>Button</sub>| <br>
+| <sub>InputComponents</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub>Components</sub>| <br>
+| <sub>X</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub>X</sub>| <br>
+| <sub>Y</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub>Y</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/ComponentsToFeatures-100663582.md) ( [`Signature`](./../Signature.md) )</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/ComponentsToFeatures-100663582.md) ( [`Signature`](./../Signature.md) )</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub></sub>| <br>
 
 
