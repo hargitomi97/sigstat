@@ -11,21 +11,21 @@ Represents a person as an [ID](https://github.com/hargitomi97/sigstat/blob/maste
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Signer (  )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
+| <sub>Signer (  )</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ID</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>An identifier for the Signer. Keep it unique to be useful for logs.</sub>| <br>
-| <sub>Signatures</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>List of signatures that belong to the signer.  (Their origin is not constrained to be genuine.)</sub>| <br>
+| <sub>ID</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub>An identifier for the Signer. Keep it unique to be useful for logs.</sub>| <br>
+| <sub>Signatures</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub>List of signatures that belong to the signer.  (Their origin is not constrained to be genuine.)</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[ToString](./Methods/Signer-100663454.md) (  )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Returns a string representation of a Signer</sub>| <br>
+| <sub>[ToString](./Methods/Signer-100663454.md) (  )</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub>Returns a string representation of a Signer</sub>| <br>
 
 

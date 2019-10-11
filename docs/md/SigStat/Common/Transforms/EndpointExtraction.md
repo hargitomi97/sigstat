@@ -13,22 +13,22 @@ Extracts EndPoints and CrossingPoints from Skeleton.  <br>Default Pipeline Input
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>EndpointExtraction (  )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
+| <sub>EndpointExtraction (  )</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>OutputCrossingPoints</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>OutputCrossingPoints</sub>| <br>
-| <sub>OutputEndpoints</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>OutputEndpoints</sub>| <br>
-| <sub>Skeleton</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Binary representation of an image</sub>| <br>
+| <sub>OutputCrossingPoints</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub>OutputCrossingPoints</sub>| <br>
+| <sub>OutputEndpoints</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub>OutputEndpoints</sub>| <br>
+| <sub>Skeleton</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub>Binary representation of an image</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/EndpointExtraction-100663590.md) ( [`Signature`](./../Signature.md) )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/EndpointExtraction-100663590.md) ( [`Signature`](./../Signature.md) )</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub></sub>| <br>
 
 

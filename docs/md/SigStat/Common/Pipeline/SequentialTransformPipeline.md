@@ -13,30 +13,30 @@ Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the l
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>SequentialTransformPipeline (  )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
+| <sub>SequentialTransformPipeline (  )</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub></sub>| <br>
 
 
 ## Fields
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Items</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>List of transforms to be run in sequence.</sub>| <br>
+| <sub>Items</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub>List of transforms to be run in sequence.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>PipelineInputs</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets the pipeline inputs.</sub>| <br>
-| <sub>PipelineOutputs</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets the pipeline outputs.</sub>| <br>
+| <sub>PipelineInputs</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub>Gets the pipeline inputs.</sub>| <br>
+| <sub>PipelineOutputs</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub>Gets the pipeline outputs.</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Add](./Methods/SequentialTransformPipeline-100663510.md) ( [`ITransformation`](./../ITransformation.md) )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Add new transform to the list.</sub>| <br>
-| <sub>[GetEnumerator](./Methods/SequentialTransformPipeline-100663509.md) (  )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
-| <sub>[Transform](./Methods/SequentialTransformPipeline-100663511.md) ( [`Signature`](./../Signature.md) )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Executes transform [Items](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) in sequence.  Passes input features for each.  Output is the output of the last Item in the sequence.</sub>| <br>
+| <sub>[Add](./Methods/SequentialTransformPipeline-100663510.md) ( [`ITransformation`](./../ITransformation.md) )</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub>Add new transform to the list.</sub>| <br>
+| <sub>[GetEnumerator](./Methods/SequentialTransformPipeline-100663509.md) (  )</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/SequentialTransformPipeline-100663511.md) ( [`Signature`](./../Signature.md) )</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub>Executes transform [Items](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) in sequence.  Passes input features for each.  Output is the output of the last Item in the sequence.</sub>| <br>
 
 
