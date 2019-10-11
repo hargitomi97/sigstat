@@ -8,4 +8,4 @@ Calculates the center of gravity, assuming that each cell contains  a weight val
 
 
 #### Parameters
- `weightMartix`[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[]
+ weightMartix[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[]

@@ -8,4 +8,4 @@
 
 
 #### Parameters
- `file`[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+ file[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)

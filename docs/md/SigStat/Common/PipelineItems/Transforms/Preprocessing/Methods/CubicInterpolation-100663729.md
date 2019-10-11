@@ -8,4 +8,4 @@ Gets the value.
 
 
 #### Parameters
- `timestamp`[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)
+ timestamp[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)

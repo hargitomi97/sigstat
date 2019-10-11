@@ -8,4 +8,4 @@
 
 
 #### Parameters
- `s`[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+ s[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)

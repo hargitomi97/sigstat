@@ -8,4 +8,4 @@ Merge all cells into one in the range.
 
 
 #### Parameters
- `range`[`ExcelRangeBase`](./ExcelHelper-100664029.md)
+ range[`ExcelRangeBase`](./ExcelHelper-100664029.md)

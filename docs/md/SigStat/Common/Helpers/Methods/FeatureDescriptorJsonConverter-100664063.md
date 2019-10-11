@@ -8,4 +8,4 @@
 
 
 #### Parameters
- `reader`[`JsonReader`](./FeatureDescriptorJsonConverter-100664063.md),  `objectType`[`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type),  `existingValue`[`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object),  `serializer`[`JsonSerializer`](./FeatureDescriptorJsonConverter-100664063.md)
+ reader[`JsonReader`](./FeatureDescriptorJsonConverter-100664063.md)<br> objectType[`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)<br> existingValue[`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)<br> serializer[`JsonSerializer`](./FeatureDescriptorJsonConverter-100664063.md)

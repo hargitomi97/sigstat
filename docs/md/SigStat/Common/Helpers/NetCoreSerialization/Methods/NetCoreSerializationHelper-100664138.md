@@ -8,4 +8,4 @@
 
 
 #### Parameters
- `path`[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+ path[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
