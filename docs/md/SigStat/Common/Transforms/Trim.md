@@ -13,21 +13,21 @@ Trims unnecessary empty space from a binary raster.  <br>Pipeline Input type: bo
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Trim ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
+| <sub>Trim ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Input</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub>| <br>
-| <sub>Output</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the trimed image of the signature</sub>| <br>
+| <sub>Input</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub>| <br>
+| <sub>Output</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the trimed image of the signature</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/Trim-100663724.md) ( [`Signature`](./../Signature.md) )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/Trim-100663724.md) ( [`Signature`](./../Signature.md) )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
 
 

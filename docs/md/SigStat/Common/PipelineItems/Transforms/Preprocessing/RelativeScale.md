@@ -13,22 +13,22 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>RelativeScale (  )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
+| <sub>RelativeScale (  )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputFeature</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the input feature.</sub>| <br>
-| <sub>OutputFeature</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the output feature.</sub>| <br>
-| <sub>ReferenceFeature</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the reference feature.</sub>| <br>
+| <sub>InputFeature</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the input feature.</sub>| <br>
+| <sub>OutputFeature</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the output feature.</sub>| <br>
+| <sub>ReferenceFeature</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the reference feature.</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/RelativeScale-100663815.md) ( [`Signature`](./../../../Signature.md) )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/RelativeScale-100663815.md) ( [`Signature`](./../../../Signature.md) )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
 
 

@@ -11,15 +11,15 @@ Custom serializer for [FeatureDescriptor-1](https://github.com/hargitomi97/sigst
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>FeatureDescriptorTJsonConverter (  )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
+| <sub>FeatureDescriptorTJsonConverter (  )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[CanConvert](./Methods/FeatureDescriptorTJsonConverter-100664066.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Tells if the current object is of the correct type</sub>| <br>
-| <sub>[ReadJson](./Methods/FeatureDescriptorTJsonConverter-100664067.md) ( [`JsonReader`](./FeatureDescriptorTJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorTJsonConverter.md) )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
-| <sub>[WriteJson](./Methods/FeatureDescriptorTJsonConverter-100664068.md) ( [`JsonWriter`](./FeatureDescriptorTJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorTJsonConverter.md) )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
+| <sub>[CanConvert](./Methods/FeatureDescriptorTJsonConverter-100664066.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Tells if the current object is of the correct type</sub>| <br>
+| <sub>[ReadJson](./Methods/FeatureDescriptorTJsonConverter-100664067.md) ( [`JsonReader`](./FeatureDescriptorTJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorTJsonConverter.md) )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
+| <sub>[WriteJson](./Methods/FeatureDescriptorTJsonConverter-100664068.md) ( [`JsonWriter`](./FeatureDescriptorTJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorTJsonConverter.md) )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
 
 

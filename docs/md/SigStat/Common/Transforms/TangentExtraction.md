@@ -13,22 +13,22 @@ Extracts tangent values of the standard X, Y [Features](https://github.com/hargi
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>TangentExtraction (  )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
+| <sub>TangentExtraction (  )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>OutputTangent</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the output feature representing the tangent angles of an online signature</sub>| <br>
-| <sub>X</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>| <br>
-| <sub>Y</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
+| <sub>OutputTangent</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the output feature representing the tangent angles of an online signature</sub>| <br>
+| <sub>X</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>| <br>
+| <sub>Y</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/TangentExtraction-100663598.md) ( [`Signature`](./../Signature.md) )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/TangentExtraction-100663598.md) ( [`Signature`](./../Signature.md) )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
 
 

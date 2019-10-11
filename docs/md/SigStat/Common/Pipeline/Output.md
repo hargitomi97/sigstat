@@ -11,14 +11,14 @@ Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/b
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Output ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Initializes a new instance of the [Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>| <br>
-| <sub>Output (  )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Initializes a new instance of the [Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>| <br>
+| <sub>Output ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Initializes a new instance of the [Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>| <br>
+| <sub>Output (  )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Initializes a new instance of the [Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>| <br>
 
 
 ## Fields
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Default</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>The default value for the property</sub>| <br>
+| <sub>Default</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>The default value for the property</sub>| <br>
 
 

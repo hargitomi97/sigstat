@@ -13,16 +13,16 @@ Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>CentroidTranslate (  )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Initializes a new instance of the [CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub>| <br>
+| <sub>CentroidTranslate (  )</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Initializes a new instance of the [CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputX</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>| <br>
-| <sub>InputY</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
-| <sub>OutputX</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub>| <br>
-| <sub>OutputY</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub>| <br>
+| <sub>InputX</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>| <br>
+| <sub>InputY</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
+| <sub>OutputX</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub>| <br>
+| <sub>OutputY</sub><div style="z-index: 1; position: absolute;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub>| <br>
 
 
