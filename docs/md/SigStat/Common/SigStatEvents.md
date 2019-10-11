@@ -11,7 +11,7 @@ Standard event identifiers used by the SigStat system
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>BenchmarkEvent</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub>Events originating from a benchmark</sub>| <br>
-| <sub>VerifierEvent</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub>Events originating from a verifier</sub>| <br>
+| <sub>BenchmarkEvent</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Events originating from a benchmark</sub>| <br>
+| <sub>VerifierEvent</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Events originating from a verifier</sub>| <br>
 
 

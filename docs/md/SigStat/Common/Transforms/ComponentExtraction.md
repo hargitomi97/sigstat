@@ -13,23 +13,23 @@ Extracts unsorted components by tracing through the binary Skeleton raster.  <br
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ComponentExtraction ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub>Initializes a new instance of the [ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution.</sub>| <br>
+| <sub>ComponentExtraction ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Initializes a new instance of the [ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>CrossingPoints</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub>crossing points</sub>| <br>
-| <sub>EndPoints</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub>endpoints</sub>| <br>
-| <sub>OutputComponents</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub>Output components</sub>| <br>
-| <sub>Skeleton</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub>binary representation of a signature image</sub>| <br>
+| <sub>CrossingPoints</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>crossing points</sub>| <br>
+| <sub>EndPoints</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>endpoints</sub>| <br>
+| <sub>OutputComponents</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Output components</sub>| <br>
+| <sub>Skeleton</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>binary representation of a signature image</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/ComponentExtraction-100663567.md) ( [`Signature`](./../Signature.md) )</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/ComponentExtraction-100663567.md) ( [`Signature`](./../Signature.md) )</sub><img style="cursor:not-allowed; width:200px;"/>| <sub></sub>| <br>
 
 

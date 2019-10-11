@@ -13,21 +13,21 @@ Extracts the Centroid (aka. Center Of Gravity) of the input features.  <br> Defa
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>CentroidExtraction (  )</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub></sub>| <br>
+| <sub>CentroidExtraction (  )</sub><img style="cursor:not-allowed; width:200px;"/>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Inputs</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub>List of features to process</sub>| <br>
-| <sub>OutputCentroid</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub>List of centroid values</sub>| <br>
+| <sub>Inputs</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>List of features to process</sub>| <br>
+| <sub>OutputCentroid</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>List of centroid values</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/CentroidExtraction-100663556.md) ( [`Signature`](./../Signature.md) )</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/CentroidExtraction-100663556.md) ( [`Signature`](./../Signature.md) )</sub><img style="cursor:not-allowed; width:200px;"/>| <sub></sub>| <br>
 
 

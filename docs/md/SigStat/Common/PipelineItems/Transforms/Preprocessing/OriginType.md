@@ -10,9 +10,9 @@ Origin specification for [TranslatePreproc](https://github.com/hargitomi97/sigst
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<img style="cursor:not-allowed;"> width=200/></div>| CenterOfGravity| Center of gravity<img style="cursor:not-allowed;"> width=200/></div>| <br>
-| 1<img style="cursor:not-allowed;"> width=200/></div>| Minimum| Minimum<img style="cursor:not-allowed;"> width=200/></div>| <br>
-| 2<img style="cursor:not-allowed;"> width=200/></div>| Maximum| Maximum<img style="cursor:not-allowed;"> width=200/></div>| <br>
-| 3<img style="cursor:not-allowed;"> width=200/></div>| Predefined| Predefined<img style="cursor:not-allowed;"> width=200/></div>| <br>
+| 0<img style="cursor:not-allowed; width:200px;"/>| CenterOfGravity| Center of gravity<img style="cursor:not-allowed; width:200px;"/>| <br>
+| 1<img style="cursor:not-allowed; width:200px;"/>| Minimum| Minimum<img style="cursor:not-allowed; width:200px;"/>| <br>
+| 2<img style="cursor:not-allowed; width:200px;"/>| Maximum| Maximum<img style="cursor:not-allowed; width:200px;"/>| <br>
+| 3<img style="cursor:not-allowed; width:200px;"/>| Predefined| Predefined<img style="cursor:not-allowed; width:200px;"/>| <br>
 
 

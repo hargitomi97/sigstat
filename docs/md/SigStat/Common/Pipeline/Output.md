@@ -11,14 +11,14 @@ Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/b
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Output ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub>Initializes a new instance of the [Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>| <br>
-| <sub>Output (  )</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub>Initializes a new instance of the [Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>| <br>
+| <sub>Output ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Initializes a new instance of the [Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>| <br>
+| <sub>Output (  )</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Initializes a new instance of the [Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>| <br>
 
 
 ## Fields
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Default</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub>The default value for the property</sub>| <br>
+| <sub>Default</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>The default value for the property</sub>| <br>
 
 
