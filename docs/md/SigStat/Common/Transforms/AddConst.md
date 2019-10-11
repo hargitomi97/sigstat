@@ -13,21 +13,21 @@ Adds a constant value to a feature. Works with collection features too.  <br>Def
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Initializes a new instance of the [AddConst](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) class with specified settings.</sub>| <br>
+| <sub>AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><img style="cursor:not-allowed;" width=200/>| <sub>Initializes a new instance of the [AddConst](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) class with specified settings.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Input</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Input values for trasformation</sub>| <br>
-| <sub>Output</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Output feature to store results</sub>| <br>
+| <sub>Input</sub><img style="cursor:not-allowed;" width=200/>| <sub>Input values for trasformation</sub>| <br>
+| <sub>Output</sub><img style="cursor:not-allowed;" width=200/>| <sub>Output feature to store results</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/AddConst-100663605.md) ( [`Signature`](./../Signature.md) )</sub><img style="cursor:not-allowed; width:200px;"/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/AddConst-100663605.md) ( [`Signature`](./../Signature.md) )</sub><img style="cursor:not-allowed;" width=200/>| <sub></sub>| <br>
 
 

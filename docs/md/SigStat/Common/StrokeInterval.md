@@ -11,15 +11,15 @@ Represents a stroke in an online signature
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>StrokeInterval ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`StrokeType`](./StrokeType.md) )</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Initializes a new instance of the [StrokeInterval](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) struct.</sub>| <br>
+| <sub>StrokeInterval ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`StrokeType`](./StrokeType.md) )</sub><img style="cursor:not-allowed;" width=200/>| <sub>Initializes a new instance of the [StrokeInterval](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) struct.</sub>| <br>
 
 
 ## Fields
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>EndIndex</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>The index of the last element</sub>| <br>
-| <sub>StartIndex</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>The index of the firs element</sub>| <br>
-| <sub>StrokeType</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>The [StrokeType](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) of the stroke.</sub>| <br>
+| <sub>EndIndex</sub><img style="cursor:not-allowed;" width=200/>| <sub>The index of the last element</sub>| <br>
+| <sub>StartIndex</sub><img style="cursor:not-allowed;" width=200/>| <sub>The index of the firs element</sub>| <br>
+| <sub>StrokeType</sub><img style="cursor:not-allowed;" width=200/>| <sub>The [StrokeType](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) of the stroke.</sub>| <br>
 
 

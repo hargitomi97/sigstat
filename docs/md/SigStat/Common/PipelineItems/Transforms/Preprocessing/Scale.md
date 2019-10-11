@@ -13,23 +13,23 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Scale (  )</sub><img style="cursor:not-allowed; width:200px;"/>| <sub></sub>| <br>
+| <sub>Scale (  )</sub><img style="cursor:not-allowed;" width=200/>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputFeature</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Gets or sets the input feature.</sub>| <br>
-| <sub>NewMaxValue</sub><img style="cursor:not-allowed; width:200px;"/>| <sub><br>NewMaxValue: upper bound of the interval, in which the input feature will be scaled</sub>| <br>
-| <sub>NewMinValue</sub><img style="cursor:not-allowed; width:200px;"/>| <sub><br>NewMinValue: lower bound of the interval, in which the input feature will be scaled</sub>| <br>
-| <sub>OutputFeature</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Gets or sets the output feature.</sub>| <br>
+| <sub>InputFeature</sub><img style="cursor:not-allowed;" width=200/>| <sub>Gets or sets the input feature.</sub>| <br>
+| <sub>NewMaxValue</sub><img style="cursor:not-allowed;" width=200/>| <sub><br>NewMaxValue: upper bound of the interval, in which the input feature will be scaled</sub>| <br>
+| <sub>NewMinValue</sub><img style="cursor:not-allowed;" width=200/>| <sub><br>NewMinValue: lower bound of the interval, in which the input feature will be scaled</sub>| <br>
+| <sub>OutputFeature</sub><img style="cursor:not-allowed;" width=200/>| <sub>Gets or sets the output feature.</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/Scale-100663855.md) ( [`Signature`](./../../../Signature.md) )</sub><img style="cursor:not-allowed; width:200px;"/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/Scale-100663855.md) ( [`Signature`](./../../../Signature.md) )</sub><img style="cursor:not-allowed;" width=200/>| <sub></sub>| <br>
 
 

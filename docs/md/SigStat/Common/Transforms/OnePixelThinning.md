@@ -13,21 +13,21 @@ Iteratively thins the input binary raster with the [OnePixelThinningStep](https:
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>OnePixelThinning (  )</sub><img style="cursor:not-allowed; width:200px;"/>| <sub></sub>| <br>
+| <sub>OnePixelThinning (  )</sub><img style="cursor:not-allowed;" width=200/>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Input</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub>| <br>
-| <sub>Output</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub>| <br>
+| <sub>Input</sub><img style="cursor:not-allowed;" width=200/>| <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub>| <br>
+| <sub>Output</sub><img style="cursor:not-allowed;" width=200/>| <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/OnePixelThinning-100663684.md) ( [`Signature`](./../Signature.md) )</sub><img style="cursor:not-allowed; width:200px;"/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/OnePixelThinning-100663684.md) ( [`Signature`](./../Signature.md) )</sub><img style="cursor:not-allowed;" width=200/>| <sub></sub>| <br>
 
 

@@ -13,21 +13,21 @@ Maps values of a feature to a specified range.  <br>Pipeline Input type: List{do
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Map ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Initializes a new instance of the [Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings.</sub>| <br>
+| <sub>Map ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><img style="cursor:not-allowed;" width=200/>| <sub>Initializes a new instance of the [Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Input</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Input</sub>| <br>
-| <sub>Output</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Output</sub>| <br>
+| <sub>Input</sub><img style="cursor:not-allowed;" width=200/>| <sub>Input</sub>| <br>
+| <sub>Output</sub><img style="cursor:not-allowed;" width=200/>| <sub>Output</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/Map-100663625.md) ( [`Signature`](./../Signature.md) )</sub><img style="cursor:not-allowed; width:200px;"/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/Map-100663625.md) ( [`Signature`](./../Signature.md) )</sub><img style="cursor:not-allowed;" width=200/>| <sub></sub>| <br>
 
 

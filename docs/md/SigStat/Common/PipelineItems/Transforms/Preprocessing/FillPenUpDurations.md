@@ -13,24 +13,24 @@ This transformation will fill "holes" in the "Time" feature by interpolating the
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>FillPenUpDurations (  )</sub><img style="cursor:not-allowed; width:200px;"/>| <sub></sub>| <br>
+| <sub>FillPenUpDurations (  )</sub><img style="cursor:not-allowed;" width=200/>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputFeatures</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Gets or sets the features of an online signature that need to be altered</sub>| <br>
-| <sub>InterpolationType</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>An implementation of [IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md)</sub>| <br>
-| <sub>OutputFeatures</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Gets or sets the features of an online signature that were altered</sub>| <br>
-| <sub>TimeInputFeature</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Gets or sets the feature representing the timestamps of an online signature</sub>| <br>
-| <sub>TimeOutputFeature</sub><img style="cursor:not-allowed; width:200px;"/>| <sub>Gets or sets the feature representing the modified timestamps of an online signature</sub>| <br>
+| <sub>InputFeatures</sub><img style="cursor:not-allowed;" width=200/>| <sub>Gets or sets the features of an online signature that need to be altered</sub>| <br>
+| <sub>InterpolationType</sub><img style="cursor:not-allowed;" width=200/>| <sub>An implementation of [IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md)</sub>| <br>
+| <sub>OutputFeatures</sub><img style="cursor:not-allowed;" width=200/>| <sub>Gets or sets the features of an online signature that were altered</sub>| <br>
+| <sub>TimeInputFeature</sub><img style="cursor:not-allowed;" width=200/>| <sub>Gets or sets the feature representing the timestamps of an online signature</sub>| <br>
+| <sub>TimeOutputFeature</sub><img style="cursor:not-allowed;" width=200/>| <sub>Gets or sets the feature representing the modified timestamps of an online signature</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/FillPenUpDurations-100663741.md) ( [`Signature`](./../../../Signature.md) )</sub><img style="cursor:not-allowed; width:200px;"/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/FillPenUpDurations-100663741.md) ( [`Signature`](./../../../Signature.md) )</sub><img style="cursor:not-allowed;" width=200/>| <sub></sub>| <br>
 
 
