@@ -13,23 +13,23 @@ Extracts unsorted components by tracing through the binary Skeleton raster.  <br
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ComponentExtraction ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Initializes a new instance of the [ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution.</sub>| <br>
+| <sub>ComponentExtraction ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>Initializes a new instance of the [ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>CrossingPoints</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>crossing points</sub>| <br>
-| <sub>EndPoints</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>endpoints</sub>| <br>
-| <sub>OutputComponents</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Output components</sub>| <br>
-| <sub>Skeleton</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>binary representation of a signature image</sub>| <br>
+| <sub>CrossingPoints</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>crossing points</sub>| <br>
+| <sub>EndPoints</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>endpoints</sub>| <br>
+| <sub>OutputComponents</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>Output components</sub>| <br>
+| <sub>Skeleton</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>binary representation of a signature image</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/ComponentExtraction-100663567.md) ( [`Signature`](./../Signature.md) )</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/ComponentExtraction-100663567.md) ( [`Signature`](./../Signature.md) )</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub></sub>| <br>
 
 

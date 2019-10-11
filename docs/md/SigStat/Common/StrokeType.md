@@ -10,8 +10,8 @@ Describes the type of a stroke
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| Unknown| The type of the stroke is not known<div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <br>
-| 1<div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| Up| The stroke was made in the air (the pen did not tuch the tablet/paper)<div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <br>
-| 2<div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| Down| The stroke was made on the writing surface (tablet, paper etc.)<div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <br>
+| 0<div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| Unknown| The type of the stroke is not known<div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <br>
+| 1<div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| Up| The stroke was made in the air (the pen did not tuch the tablet/paper)<div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <br>
+| 2<div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| Down| The stroke was made on the writing surface (tablet, paper etc.)<div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <br>
 
 

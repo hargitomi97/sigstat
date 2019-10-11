@@ -13,13 +13,13 @@ Generates a realistic looking image of the Signature based on standard features.
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>RealisticImageGenerator ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Initializes a new instance of the [RealisticImageGenerator](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/RealisticImageGenerator.md) class with specified settings.</sub>| <br>
+| <sub>RealisticImageGenerator ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>Initializes a new instance of the [RealisticImageGenerator](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/RealisticImageGenerator.md) class with specified settings.</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/RealisticImageGenerator-100663701.md) ( [`Signature`](./../Signature.md) )</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/RealisticImageGenerator-100663701.md) ( [`Signature`](./../Signature.md) )</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub></sub>| <br>
 
 

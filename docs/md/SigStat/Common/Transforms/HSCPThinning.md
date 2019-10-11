@@ -13,21 +13,21 @@ Iteratively thins the input binary raster with the [HSCPThinningStep](https://gi
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>HSCPThinning (  )</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub></sub>| <br>
+| <sub>HSCPThinning (  )</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Input</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub>| <br>
-| <sub>Output</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub>| <br>
+| <sub>Input</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub>| <br>
+| <sub>Output</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/HSCPThinning-100663664.md) ( [`Signature`](./../Signature.md) )</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/HSCPThinning-100663664.md) ( [`Signature`](./../Signature.md) )</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub></sub>| <br>
 
 

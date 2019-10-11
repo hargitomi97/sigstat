@@ -11,13 +11,13 @@ Annotates an input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/bl
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Input ( [`AutoSetMode`](./AutoSetMode.md) )</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Initializes a new instance of the [Input](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Input.md) class.</sub>| <br>
+| <sub>Input ( [`AutoSetMode`](./AutoSetMode.md) )</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>Initializes a new instance of the [Input](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Input.md) class.</sub>| <br>
 
 
 ## Fields
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>AutoSetMode</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>The automatic set mode</sub>| <br>
+| <sub>AutoSetMode</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>The automatic set mode</sub>| <br>
 
 
