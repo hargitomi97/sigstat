@@ -8,4 +8,4 @@ Gets the strokes from an online signature with standard features. Note that  the
 
 
 #### Parameters
-[`Signature`](./../Signature.md)
+[`Signature`](./../Signature.md) signature

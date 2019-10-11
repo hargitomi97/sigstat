@@ -8,4 +8,4 @@ Returns the smallest of the three double parameters
 
 
 #### Parameters
-[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)
+[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) d1, [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) d2, [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) d3

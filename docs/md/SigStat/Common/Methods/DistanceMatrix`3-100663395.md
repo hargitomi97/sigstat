@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[`TRowKey`](./DistanceMatrix`3-100663395.md), [`TColumnKey`](./DistanceMatrix`3-100663395.md), out [`TValue`](./DistanceMatrix`3-100663395.md)
+[`TRowKey`](./DistanceMatrix`3-100663395.md) row, [`TColumnKey`](./DistanceMatrix`3-100663395.md) column, out [`TValue`](./DistanceMatrix`3-100663395.md) value

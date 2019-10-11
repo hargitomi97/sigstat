@@ -8,4 +8,4 @@ Saves a png image file to the specified `path`.
 
 
 #### Parameters
-[`Signature`](./../../Signature.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+[`Signature`](./../../Signature.md) signature, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path

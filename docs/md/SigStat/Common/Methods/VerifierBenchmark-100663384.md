@@ -8,4 +8,4 @@ Execute the benchmarking process.
 
 
 #### Parameters
-[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)
+[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) ParallelMode

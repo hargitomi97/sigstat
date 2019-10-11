@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[`ISignerModel`](./../../../Pipeline/ISignerModel.md), [`Signature`](./../../../Signature.md)
+[`ISignerModel`](./../../../Pipeline/ISignerModel.md) signerModel, [`Signature`](./../../../Signature.md) signature

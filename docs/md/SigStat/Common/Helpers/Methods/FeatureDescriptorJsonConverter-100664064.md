@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[`JsonWriter`](./FeatureDescriptorJsonConverter-100664064.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorJsonConverter-100664064.md)
+[`JsonWriter`](./FeatureDescriptorJsonConverter-100664064.md) writer, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) value, [`JsonSerializer`](./FeatureDescriptorJsonConverter-100664064.md) serializer

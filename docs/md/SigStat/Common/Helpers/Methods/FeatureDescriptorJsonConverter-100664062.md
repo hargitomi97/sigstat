@@ -8,4 +8,4 @@ Tells if the current object is of the correct type
 
 
 #### Parameters
-[`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)
+[`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType

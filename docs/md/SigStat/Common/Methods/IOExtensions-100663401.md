@@ -8,4 +8,4 @@ Gets the given relative or absolute path in a platform neutral form
 
 
 #### Parameters
-[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path

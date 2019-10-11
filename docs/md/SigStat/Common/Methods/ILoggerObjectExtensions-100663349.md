@@ -8,4 +8,4 @@ Formats and writes an informational log message.
 
 
 #### Parameters
-[`ILoggerObject`](./../ILoggerObject.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[]
+[`ILoggerObject`](./../ILoggerObject.md) obj, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) message, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[] args

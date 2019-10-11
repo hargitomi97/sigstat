@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[`HierarchyElement`](./../HierarchyElement.md)
+[`HierarchyElement`](./../HierarchyElement.md) child

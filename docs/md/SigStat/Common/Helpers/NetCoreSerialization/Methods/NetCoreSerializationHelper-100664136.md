@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[`T`](./NetCoreSerializationHelper-100664136.md)
+[`T`](./NetCoreSerializationHelper-100664136.md) o

@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[`T`](./NetCoreSerializationHelper-100664137.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+[`T`](./NetCoreSerializationHelper-100664137.md) o, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path
