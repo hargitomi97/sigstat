@@ -10,10 +10,10 @@ Paragraph style setting
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<div style="z-index: 1; position: absolute;"><img width=200/></div>| Title| Main title<div style="z-index: 1; position: absolute;"><img width=200/></div>| <br>
-| 1<div style="z-index: 1; position: absolute;"><img width=200/></div>| Heading1| Level 1 heading<div style="z-index: 1; position: absolute;"><img width=200/></div>| <br>
-| 2<div style="z-index: 1; position: absolute;"><img width=200/></div>| Heading2| Level 2 heading<div style="z-index: 1; position: absolute;"><img width=200/></div>| <br>
-| 3<div style="z-index: 1; position: absolute;"><img width=200/></div>| Heading3| Level 3 heading<div style="z-index: 1; position: absolute;"><img width=200/></div>| <br>
-| 4<div style="z-index: 1; position: absolute;"><img width=200/></div>| Normal| Normal document body style<div style="z-index: 1; position: absolute;"><img width=200/></div>| <br>
+| 0<img style="pointer-events: none;"width=200/></div>| Title| Main title<img style="pointer-events: none;"width=200/></div>| <br>
+| 1<img style="pointer-events: none;"width=200/></div>| Heading1| Level 1 heading<img style="pointer-events: none;"width=200/></div>| <br>
+| 2<img style="pointer-events: none;"width=200/></div>| Heading2| Level 2 heading<img style="pointer-events: none;"width=200/></div>| <br>
+| 3<img style="pointer-events: none;"width=200/></div>| Heading3| Level 3 heading<img style="pointer-events: none;"width=200/></div>| <br>
+| 4<img style="pointer-events: none;"width=200/></div>| Normal| Normal document body style<img style="pointer-events: none;"width=200/></div>| <br>
 
 

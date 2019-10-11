@@ -13,23 +13,23 @@ TODO: Ideiglenes osztaly, C# 8.0 ban ezt atalakitani default implementacios inte
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>PipelineBase (  )</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub>Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.</sub>| <br>
+| <sub>PipelineBase (  )</sub><img style="pointer-events: none;"width=200/></div>| <sub>Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Logger</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub></sub>| <br>
-| <sub>PipelineInputs</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub>A collection of inputs for the pipeline elements</sub>| <br>
-| <sub>PipelineOutputs</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub>A collection of outputs for the pipeline elements</sub>| <br>
-| <sub>Progress</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub></sub>| <br>
+| <sub>Logger</sub><img style="pointer-events: none;"width=200/></div>| <sub></sub>| <br>
+| <sub>PipelineInputs</sub><img style="pointer-events: none;"width=200/></div>| <sub>A collection of inputs for the pipeline elements</sub>| <br>
+| <sub>PipelineOutputs</sub><img style="pointer-events: none;"width=200/></div>| <sub>A collection of outputs for the pipeline elements</sub>| <br>
+| <sub>Progress</sub><img style="pointer-events: none;"width=200/></div>| <sub></sub>| <br>
 
 
 ## Events
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ProgressChanged</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub>The event is raised whenever the value of [Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) changes</sub>| <br>
+| <sub>ProgressChanged</sub><img style="pointer-events: none;"width=200/></div>| <sub>The event is raised whenever the value of [Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) changes</sub>| <br>
 
 

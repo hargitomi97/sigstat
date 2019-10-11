@@ -13,21 +13,21 @@ Maps values of a feature to 0.0 - 1.0 range.  <br>Pipeline Input type: List{doub
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Normalize (  )</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub></sub>| <br>
+| <sub>Normalize (  )</sub><img style="pointer-events: none;"width=200/></div>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Input</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub>Input</sub>| <br>
-| <sub>Output</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub>Output</sub>| <br>
+| <sub>Input</sub><img style="pointer-events: none;"width=200/></div>| <sub>Input</sub>| <br>
+| <sub>Output</sub><img style="pointer-events: none;"width=200/></div>| <sub>Output</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/Normalize-100663636.md) ( [`Signature`](./../Signature.md) )</sub><div style="z-index: 1; position: absolute;"><img width=200/></div>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/Normalize-100663636.md) ( [`Signature`](./../Signature.md) )</sub><img style="pointer-events: none;"width=200/></div>| <sub></sub>| <br>
 
 
