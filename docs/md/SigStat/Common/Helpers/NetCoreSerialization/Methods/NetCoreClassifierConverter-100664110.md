@@ -1,11 +1,9 @@
 # [Write](./NetCoreClassifierConverter-100664110.md)
 
 
-Return type:
-## Methods
 
-| Return | Name | Summary | 
-| --- | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[Write](./NetCoreClassifierConverter-100664110.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`OptimalDtwClassifier`](./../../../PipelineItems/Classifiers/OptimalDtwClassifier.md), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub>| <sub></sub><img width=200/>| <br>
+| Return | Name | 
+| --- | --- | 
+| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub>| <sub>[Write](./NetCoreClassifierConverter-100664110.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter) writer, [`OptimalDtwClassifier`](./../../../PipelineItems/Classifiers/OptimalDtwClassifier.md) value, [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) options )</sub>| <br>
 
 
