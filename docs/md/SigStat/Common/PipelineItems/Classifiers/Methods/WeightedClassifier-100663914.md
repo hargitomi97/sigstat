@@ -7,3 +7,5 @@
 | <sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub>| <sub>[Test](./WeightedClassifier-100663914.md) ( [`ISignerModel`](./../../../Pipeline/ISignerModel.md) model, [`Signature`](./../../../Signature.md) signature )</sub>| <br>
 
 
+#### Parameters
+[Test](./WeightedClassifier-100663914.md) ( [`ISignerModel`](./../../../Pipeline/ISignerModel.md) model, [`Signature`](./../../../Signature.md) signature )

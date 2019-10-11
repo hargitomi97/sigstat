@@ -7,3 +7,5 @@ Gets the [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/
 | <sub>[FeatureDescriptor](./../FeatureDescriptor.md)</sub>| <sub>[Get](./FeatureDescriptor-100663417.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) key )</sub>| <br>
 
 
+#### Parameters
+[Get](./FeatureDescriptor-100663417.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) key )

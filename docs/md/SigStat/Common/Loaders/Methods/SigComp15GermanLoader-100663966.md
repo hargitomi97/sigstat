@@ -7,3 +7,5 @@
 | <sub>[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../../Signer.md)></sub>| <sub>[EnumerateSigners](./SigComp15GermanLoader-100663966.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../../Signer.md)> signerFilter )</sub>| <br>
 
 
+#### Parameters
+[EnumerateSigners](./SigComp15GermanLoader-100663966.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../../Signer.md)> signerFilter )

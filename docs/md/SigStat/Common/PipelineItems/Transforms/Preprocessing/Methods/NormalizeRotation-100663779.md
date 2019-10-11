@@ -7,3 +7,5 @@
 | <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub>| <sub>[Transform](./NormalizeRotation-100663779.md) ( [`Signature`](./../../../../Signature.md) signature )</sub>| <br>
 
 
+#### Parameters
+[Transform](./NormalizeRotation-100663779.md) ( [`Signature`](./../../../../Signature.md) signature )

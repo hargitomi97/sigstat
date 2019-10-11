@@ -7,3 +7,5 @@ Match the 3x3 input with the 3x3 pattern.
 | <sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub>| <sub>[Match](./PatternMatching3x3-100664219.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] input )</sub>| <br>
 
 
+#### Parameters
+[Match](./PatternMatching3x3-100664219.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] input )

@@ -7,3 +7,5 @@ Constructs object from file given by a path
 | <sub>[T](./SerializationHelper-100664072.md)</sub>| <sub>[DeserializeFromFile](./SerializationHelper-100664072.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path )</sub>| <br>
 
 
+#### Parameters
+[DeserializeFromFile](./SerializationHelper-100664072.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path )

@@ -7,3 +7,5 @@ Return the hierarchy's depth from this node
 | <sub>[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)</sub>| <sub>[GetDepth](./HierarchyElement-100664054.md) (  )</sub>| <br>
 
 
+#### Parameters
+[GetDepth](./HierarchyElement-100664054.md) (  )

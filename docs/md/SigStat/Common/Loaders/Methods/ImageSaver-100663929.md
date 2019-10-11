@@ -7,3 +7,5 @@ Saves a png image file to the specified `path`.
 | <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub>| <sub>[Save](./ImageSaver-100663929.md) ( [`Signature`](./../../Signature.md) signature, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path )</sub>| <br>
 
 
+#### Parameters
+[Save](./ImageSaver-100663929.md) ( [`Signature`](./../../Signature.md) signature, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path )

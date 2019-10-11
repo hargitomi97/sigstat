@@ -7,3 +7,5 @@ Trains a model based on the signatures and returns the trained model
 | <sub>[ISignerModel](./../ISignerModel.md)</sub>| <sub>[Train](./IClassifier-100663478.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> signatures )</sub>| <br>
 
 
+#### Parameters
+[Train](./IClassifier-100663478.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> signatures )

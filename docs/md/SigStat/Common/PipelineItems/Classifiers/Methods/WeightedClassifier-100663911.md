@@ -7,3 +7,5 @@
 | <sub>[IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerator)</sub>| <sub>[GetEnumerator](./WeightedClassifier-100663911.md) (  )</sub>| <br>
 
 
+#### Parameters
+[GetEnumerator](./WeightedClassifier-100663911.md) (  )

@@ -7,3 +7,5 @@
 | <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub>| <sub>[Transform](./BinaryRasterizer-100663656.md) ( [`Signature`](./../../Signature.md) signature )</sub>| <br>
 
 
+#### Parameters
+[Transform](./BinaryRasterizer-100663656.md) ( [`Signature`](./../../Signature.md) signature )

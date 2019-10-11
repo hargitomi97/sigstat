@@ -7,3 +7,5 @@ Does one step of the thinning. Call it iteratively while ResultChanged.
 | <sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]</sub>| <sub>[Scan](./HSCPThinningStep-100664210.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] b )</sub>| <br>
 
 
+#### Parameters
+[Scan](./HSCPThinningStep-100664210.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] b )

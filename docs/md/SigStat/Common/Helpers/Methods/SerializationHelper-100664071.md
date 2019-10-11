@@ -7,3 +7,5 @@ Constructs object from strings that were serialized previously
 | <sub>[T](./SerializationHelper-100664071.md)</sub>| <sub>[Deserialize](./SerializationHelper-100664071.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) s )</sub>| <br>
 
 
+#### Parameters
+[Deserialize](./SerializationHelper-100664071.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) s )

@@ -7,3 +7,5 @@ Settings used for the serialization methods
 | <sub>[JsonSerializerSettings](./SerializationHelper-100664070.md)</sub>| <sub>[GetSettings](./SerializationHelper-100664070.md) (  )</sub>| <br>
 
 
+#### Parameters
+[GetSettings](./SerializationHelper-100664070.md) (  )

@@ -7,3 +7,5 @@ Executes transform [Items](https://github.com/hargitomi97/sigstat/blob/master/do
 | <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub>| <sub>[Transform](./SequentialTransformPipeline-100663511.md) ( [`Signature`](./../../Signature.md) signature )</sub>| <br>
 
 
+#### Parameters
+[Transform](./SequentialTransformPipeline-100663511.md) ( [`Signature`](./../../Signature.md) signature )

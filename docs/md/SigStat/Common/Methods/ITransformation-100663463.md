@@ -7,3 +7,5 @@ Executes the transform on the `signature` parameter.  This function gets called 
 | <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub>| <sub>[Transform](./ITransformation-100663463.md) ( [`Signature`](./../Signature.md) signature )</sub>| <br>
 
 
+#### Parameters
+[Transform](./ITransformation-100663463.md) ( [`Signature`](./../Signature.md) signature )
