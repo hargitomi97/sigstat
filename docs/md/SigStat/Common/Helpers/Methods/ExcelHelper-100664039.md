@@ -8,4 +8,4 @@ Creates a link to given sheet
 
 
 #### Parameters
- range[`ExcelRange`](./ExcelHelper-100664039.md)<br> sheet[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+ range  [`ExcelRange`](./ExcelHelper-100664039.md)<br> sheet  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)

@@ -8,4 +8,4 @@
 
 
 #### Parameters
- reader[`JsonReader`](./DistanceFunctionJsonConverter-100664086.md)<br> objectType[`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)<br> existingValue[`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)<br> serializer[`JsonSerializer`](./DistanceFunctionJsonConverter-100664086.md)
+ reader  [`JsonReader`](./DistanceFunctionJsonConverter-100664086.md)<br> objectType  [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)<br> existingValue  [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)<br> serializer  [`JsonSerializer`](./DistanceFunctionJsonConverter-100664086.md)

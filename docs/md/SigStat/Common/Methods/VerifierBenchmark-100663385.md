@@ -8,4 +8,4 @@ Execute the benchmarking process with a degree of parallelism.
 
 
 #### Parameters
- degreeOfParallelism[`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)
+ degreeOfParallelism  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)

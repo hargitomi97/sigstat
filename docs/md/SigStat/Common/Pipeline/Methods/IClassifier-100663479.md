@@ -8,4 +8,4 @@
 
 
 #### Parameters
- model[`ISignerModel`](./../ISignerModel.md)<br> signature[`Signature`](./../../Signature.md)
+ model  [`ISignerModel`](./../ISignerModel.md)<br> signature  [`Signature`](./../../Signature.md)

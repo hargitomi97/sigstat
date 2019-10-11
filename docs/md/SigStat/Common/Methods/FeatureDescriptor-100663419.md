@@ -8,4 +8,4 @@ Gets the [FeatureDescriptor-1](https://github.com/hargitomi97/sigstat/blob/maste
 
 
 #### Parameters
- key[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+ key  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)

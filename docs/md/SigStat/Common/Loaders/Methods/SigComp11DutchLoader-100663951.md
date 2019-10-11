@@ -8,4 +8,4 @@ Loads one signature from specified stream.
 
 
 #### Parameters
- signature[`Signature`](./../../Signature.md)<br> stream[`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream)<br> standardFeatures[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)
+ signature  [`Signature`](./../../Signature.md)<br> stream  [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream)<br> standardFeatures  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)
