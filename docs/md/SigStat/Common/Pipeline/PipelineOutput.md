@@ -11,18 +11,18 @@ Represents an output for a [PipelineItem](https://github.com/hargitomi97/sigstat
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub><p>&nbsp;</p>| <sub>Initializes a new instance of the [PipelineOutput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineOutput.md) class.</sub>| <br>
+| <p>&nbsp;</p><sub>PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Initializes a new instance of the [PipelineOutput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineOutput.md) class.</sub><p>&nbsp;</p>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Default</sub><p>&nbsp;</p>| <sub>Gets the default value</sub>| <br>
-| <sub>FD</sub><p>&nbsp;</p>| <sub>Gets or sets the fd.</sub>| <br>
-| <sub>IsCollectionOfFeatureDescriptors</sub><p>&nbsp;</p>| <sub>Gets a value indicating whether this instance is collection of feature descriptors.</sub>| <br>
-| <sub>IsTemporary</sub><p>&nbsp;</p>| <sub>Gets a value indicating whether this instance is temporary.</sub>| <br>
-| <sub>PropName</sub><p>&nbsp;</p>| <sub>Gets the name of the property.</sub>| <br>
-| <sub>Type</sub><p>&nbsp;</p>| <sub>Gets the type of the property</sub>| <br>
+| <p>&nbsp;</p><sub>Default</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets the default value</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>FD</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets or sets the fd.</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>IsCollectionOfFeatureDescriptors</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets a value indicating whether this instance is collection of feature descriptors.</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>IsTemporary</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets a value indicating whether this instance is temporary.</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>PropName</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets the name of the property.</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>Type</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets the type of the property</sub><p>&nbsp;</p>| <br>
 
 

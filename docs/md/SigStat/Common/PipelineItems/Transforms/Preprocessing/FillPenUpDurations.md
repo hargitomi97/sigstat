@@ -13,24 +13,24 @@ This transformation will fill "holes" in the "Time" feature by interpolating the
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>FillPenUpDurations (  )</sub><p>&nbsp;</p>| <sub></sub>| <br>
+| <p>&nbsp;</p><sub>FillPenUpDurations (  )</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub></sub><p>&nbsp;</p>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputFeatures</sub><p>&nbsp;</p>| <sub>Gets or sets the features of an online signature that need to be altered</sub>| <br>
-| <sub>InterpolationType</sub><p>&nbsp;</p>| <sub>An implementation of [IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md)</sub>| <br>
-| <sub>OutputFeatures</sub><p>&nbsp;</p>| <sub>Gets or sets the features of an online signature that were altered</sub>| <br>
-| <sub>TimeInputFeature</sub><p>&nbsp;</p>| <sub>Gets or sets the feature representing the timestamps of an online signature</sub>| <br>
-| <sub>TimeOutputFeature</sub><p>&nbsp;</p>| <sub>Gets or sets the feature representing the modified timestamps of an online signature</sub>| <br>
+| <p>&nbsp;</p><sub>InputFeatures</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets or sets the features of an online signature that need to be altered</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>InterpolationType</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>An implementation of [IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md)</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>OutputFeatures</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets or sets the features of an online signature that were altered</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>TimeInputFeature</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets or sets the feature representing the timestamps of an online signature</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>TimeOutputFeature</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets or sets the feature representing the modified timestamps of an online signature</sub><p>&nbsp;</p>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/FillPenUpDurations-100663741.md) ( [`Signature`](./../../../Signature.md) )</sub><p>&nbsp;</p>| <sub></sub>| <br>
+| <p>&nbsp;</p><sub>[Transform](./Methods/FillPenUpDurations-100663741.md) ( [`Signature`](./../../../Signature.md) )</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub></sub><p>&nbsp;</p>| <br>
 
 

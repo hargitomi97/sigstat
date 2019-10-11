@@ -10,10 +10,10 @@ Paragraph style setting
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<p>&nbsp;</p>| Title| Main title<p>&nbsp;</p>| <br>
-| 1<p>&nbsp;</p>| Heading1| Level 1 heading<p>&nbsp;</p>| <br>
-| 2<p>&nbsp;</p>| Heading2| Level 2 heading<p>&nbsp;</p>| <br>
-| 3<p>&nbsp;</p>| Heading3| Level 3 heading<p>&nbsp;</p>| <br>
-| 4<p>&nbsp;</p>| Normal| Normal document body style<p>&nbsp;</p>| <br>
+| <p>&nbsp;</p>0<p>&nbsp;</p>| <p>&nbsp;</p>Title<p>&nbsp;</p>| <p>&nbsp;</p>Main title<p>&nbsp;</p>| <br>
+| <p>&nbsp;</p>1<p>&nbsp;</p>| <p>&nbsp;</p>Heading1<p>&nbsp;</p>| <p>&nbsp;</p>Level 1 heading<p>&nbsp;</p>| <br>
+| <p>&nbsp;</p>2<p>&nbsp;</p>| <p>&nbsp;</p>Heading2<p>&nbsp;</p>| <p>&nbsp;</p>Level 2 heading<p>&nbsp;</p>| <br>
+| <p>&nbsp;</p>3<p>&nbsp;</p>| <p>&nbsp;</p>Heading3<p>&nbsp;</p>| <p>&nbsp;</p>Level 3 heading<p>&nbsp;</p>| <br>
+| <p>&nbsp;</p>4<p>&nbsp;</p>| <p>&nbsp;</p>Normal<p>&nbsp;</p>| <p>&nbsp;</p>Normal document body style<p>&nbsp;</p>| <br>
 
 

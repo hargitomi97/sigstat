@@ -13,24 +13,24 @@ Performs rotation normalization on the online signature
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>NormalizeRotation (  )</sub><p>&nbsp;</p>| <sub></sub>| <br>
+| <p>&nbsp;</p><sub>NormalizeRotation (  )</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub></sub><p>&nbsp;</p>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputT</sub><p>&nbsp;</p>| <sub>Gets or sets the input feature representing the timestamps of an online signature</sub>| <br>
-| <sub>InputX</sub><p>&nbsp;</p>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>| <br>
-| <sub>InputY</sub><p>&nbsp;</p>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
-| <sub>OutputX</sub><p>&nbsp;</p>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub>| <br>
-| <sub>OutputY</sub><p>&nbsp;</p>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
+| <p>&nbsp;</p><sub>InputT</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets or sets the input feature representing the timestamps of an online signature</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>InputX</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets or sets the input feature representing the X coordinates of an online signature</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>InputY</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>OutputX</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets or sets the output feature representing the X coordinates of an online signature</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>OutputY</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub><p>&nbsp;</p>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/NormalizeRotation-100663779.md) ( [`Signature`](./../../../Signature.md) )</sub><p>&nbsp;</p>| <sub></sub>| <br>
+| <p>&nbsp;</p><sub>[Transform](./Methods/NormalizeRotation-100663779.md) ( [`Signature`](./../../../Signature.md) )</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub></sub><p>&nbsp;</p>| <br>
 
 

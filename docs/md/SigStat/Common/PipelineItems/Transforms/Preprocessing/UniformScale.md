@@ -13,26 +13,26 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>UniformScale (  )</sub><p>&nbsp;</p>| <sub></sub>| <br>
+| <p>&nbsp;</p><sub>UniformScale (  )</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub></sub><p>&nbsp;</p>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>BaseDimension</sub><p>&nbsp;</p>| <sub>Gets or sets the base dimension.</sub>| <br>
-| <sub>BaseDimensionOutput</sub><p>&nbsp;</p>| <sub>Gets or sets the output base dimension output.</sub>| <br>
-| <sub>NewMaxBaseValue</sub><p>&nbsp;</p>| <sub>Upper bound of the interval, in which the base dimension will be scaled</sub>| <br>
-| <sub>NewMinBaseValue</sub><p>&nbsp;</p>| <sub>Lower bound of the interval, in which the base dimension will be scaled</sub>| <br>
-| <sub>NewMinProportionalValue</sub><p>&nbsp;</p>| <sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub>| <br>
-| <sub>ProportionalDimension</sub><p>&nbsp;</p>| <sub>Gets or sets the ProportionalDimension.</sub>| <br>
-| <sub>ProportionalDimensionOutput</sub><p>&nbsp;</p>| <sub>Gets or sets the output proportional dimension output.</sub>| <br>
+| <p>&nbsp;</p><sub>BaseDimension</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets or sets the base dimension.</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>BaseDimensionOutput</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets or sets the output base dimension output.</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>NewMaxBaseValue</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Upper bound of the interval, in which the base dimension will be scaled</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>NewMinBaseValue</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Lower bound of the interval, in which the base dimension will be scaled</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>NewMinProportionalValue</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>ProportionalDimension</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets or sets the ProportionalDimension.</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>ProportionalDimensionOutput</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Gets or sets the output proportional dimension output.</sub><p>&nbsp;</p>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/UniformScale-100663886.md) ( [`Signature`](./../../../Signature.md) )</sub><p>&nbsp;</p>| <sub></sub>| <br>
+| <p>&nbsp;</p><sub>[Transform](./Methods/UniformScale-100663886.md) ( [`Signature`](./../../../Signature.md) )</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub></sub><p>&nbsp;</p>| <br>
 
 

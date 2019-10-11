@@ -10,8 +10,8 @@ Represents our knowledge on the origin of a signature.
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<p>&nbsp;</p>| Unknown| Use this in practice before a signature is verified.<p>&nbsp;</p>| <br>
-| 1<p>&nbsp;</p>| Genuine| The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)'s origin is verified to be from [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)<p>&nbsp;</p>| <br>
-| 2<p>&nbsp;</p>| Forged| The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md) is a forgery.<p>&nbsp;</p>| <br>
+| <p>&nbsp;</p>0<p>&nbsp;</p>| <p>&nbsp;</p>Unknown<p>&nbsp;</p>| <p>&nbsp;</p>Use this in practice before a signature is verified.<p>&nbsp;</p>| <br>
+| <p>&nbsp;</p>1<p>&nbsp;</p>| <p>&nbsp;</p>Genuine<p>&nbsp;</p>| <p>&nbsp;</p>The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)'s origin is verified to be from [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)<p>&nbsp;</p>| <br>
+| <p>&nbsp;</p>2<p>&nbsp;</p>| <p>&nbsp;</p>Forged<p>&nbsp;</p>| <p>&nbsp;</p>The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md) is a forgery.<p>&nbsp;</p>| <br>
 
 

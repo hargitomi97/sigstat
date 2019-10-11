@@ -13,23 +13,23 @@ TODO: Ideiglenes osztaly, C# 8.0 ban ezt atalakitani default implementacios inte
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>PipelineBase (  )</sub><p>&nbsp;</p>| <sub>Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.</sub>| <br>
+| <p>&nbsp;</p><sub>PipelineBase (  )</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>Initializes a new instance of the [PipelineBase](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) class.</sub><p>&nbsp;</p>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Logger</sub><p>&nbsp;</p>| <sub></sub>| <br>
-| <sub>PipelineInputs</sub><p>&nbsp;</p>| <sub>A collection of inputs for the pipeline elements</sub>| <br>
-| <sub>PipelineOutputs</sub><p>&nbsp;</p>| <sub>A collection of outputs for the pipeline elements</sub>| <br>
-| <sub>Progress</sub><p>&nbsp;</p>| <sub></sub>| <br>
+| <p>&nbsp;</p><sub>Logger</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub></sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>PipelineInputs</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>A collection of inputs for the pipeline elements</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>PipelineOutputs</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>A collection of outputs for the pipeline elements</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>Progress</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub></sub><p>&nbsp;</p>| <br>
 
 
 ## Events
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ProgressChanged</sub><p>&nbsp;</p>| <sub>The event is raised whenever the value of [Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) changes</sub>| <br>
+| <p>&nbsp;</p><sub>ProgressChanged</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>The event is raised whenever the value of [Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineBase.md) changes</sub><p>&nbsp;</p>| <br>
 
 
