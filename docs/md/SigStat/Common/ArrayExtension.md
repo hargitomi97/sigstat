@@ -11,8 +11,8 @@ Helper methods for processing arrays
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[GetCog](./Methods/ArrayExtension-100663392.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Calculates the center of gravity, assuming that each cell contains  a weight value</sub>| <br>
-| <sub>[GetValues](./Methods/ArrayExtension-100663387.md) ( [`T`](./ArrayExtension.md)[] )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Enumerates all values in a two dimensional array</sub>| <br>
-| <sub>[SetValues](./Methods/ArrayExtension-100663388.md) ( [`T`](./ArrayExtension.md)[], [`T`](./ArrayExtension.md) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Sets all values in a two dimensional array to `value`</sub>| <br>
+| <sub>[GetCog](./Methods/ArrayExtension-100663392.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )</sub><button style="pointer-events: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <sub>Calculates the center of gravity, assuming that each cell contains  a weight value</sub>| <br>
+| <sub>[GetValues](./Methods/ArrayExtension-100663387.md) ( [`T`](./ArrayExtension.md)[] )</sub><button style="pointer-events: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <sub>Enumerates all values in a two dimensional array</sub>| <br>
+| <sub>[SetValues](./Methods/ArrayExtension-100663388.md) ( [`T`](./ArrayExtension.md)[], [`T`](./ArrayExtension.md) )</sub><button style="pointer-events: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <sub>Sets all values in a two dimensional array to `value`</sub>| <br>
 
 

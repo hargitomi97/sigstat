@@ -11,21 +11,21 @@ Represents a person as an [ID](https://github.com/hargitomi97/sigstat/blob/maste
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Signer (  )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
+| <sub>Signer (  )</sub><button style="pointer-events: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ID</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>An identifier for the Signer. Keep it unique to be useful for logs.</sub>| <br>
-| <sub>Signatures</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>List of signatures that belong to the signer.  (Their origin is not constrained to be genuine.)</sub>| <br>
+| <sub>ID</sub><button style="pointer-events: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <sub>An identifier for the Signer. Keep it unique to be useful for logs.</sub>| <br>
+| <sub>Signatures</sub><button style="pointer-events: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <sub>List of signatures that belong to the signer.  (Their origin is not constrained to be genuine.)</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[ToString](./Methods/Signer-100663454.md) (  )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Returns a string representation of a Signer</sub>| <br>
+| <sub>[ToString](./Methods/Signer-100663454.md) (  )</sub><button style="pointer-events: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <sub>Returns a string representation of a Signer</sub>| <br>
 
 

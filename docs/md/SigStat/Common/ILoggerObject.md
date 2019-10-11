@@ -11,6 +11,6 @@ Represents a type, that contains an ILogger property that can be used to perform
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Logger</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Gets or sets the ILogger implementation used to perform logging</sub>| <br>
+| <sub>Logger</sub><button style="pointer-events: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <sub>Gets or sets the ILogger implementation used to perform logging</sub>| <br>
 
 

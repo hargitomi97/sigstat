@@ -11,6 +11,6 @@ Represents a feature with the type `T`
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Get](./Methods/FeatureDescriptor`1-100663424.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
+| <sub>[Get](./Methods/FeatureDescriptor`1-100663424.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><button style="pointer-events: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <sub></sub>| <br>
 
 

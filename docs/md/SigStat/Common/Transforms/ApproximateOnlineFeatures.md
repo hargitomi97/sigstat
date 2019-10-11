@@ -13,13 +13,13 @@ init Pressure, Altitude, Azimuth features with default values.  <br>Default Pipe
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ApproximateOnlineFeatures (  )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
+| <sub>ApproximateOnlineFeatures (  )</sub><button style="pointer-events: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <sub></sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/ApproximateOnlineFeatures-100663550.md) ( [`Signature`](./../Signature.md) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/ApproximateOnlineFeatures-100663550.md) ( [`Signature`](./../Signature.md) )</sub><button style="pointer-events: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <sub></sub>| <br>
 
 
