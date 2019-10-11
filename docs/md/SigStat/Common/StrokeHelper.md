@@ -11,6 +11,6 @@ Helper class for locating and manipulating strokes in an online signature
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[GetStrokes](./Methods/StrokeHelper-100663404.md) ( [`Signature`](./Signature.md) )</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub>Gets the strokes from an online signature with standard features. Note that  the signature has to contain [T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) and [Pressure](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub>| <br>
+| <sub>[GetStrokes](./Methods/StrokeHelper-100663404.md) ( [`Signature`](./Signature.md) )</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub>Gets the strokes from an online signature with standard features. Note that  the signature has to contain [T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) and [Pressure](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub>| <br>
 
 
