@@ -11,21 +11,21 @@ Represents a person as an [ID](https://github.com/hargitomi97/sigstat/blob/maste
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Signer (  )</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub></sub>| <br>
+| <sub>Signer (  )</sub><p>&nbsp;</p>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ID</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub>An identifier for the Signer. Keep it unique to be useful for logs.</sub>| <br>
-| <sub>Signatures</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub>List of signatures that belong to the signer.  (Their origin is not constrained to be genuine.)</sub>| <br>
+| <sub>ID</sub><p>&nbsp;</p>| <sub>An identifier for the Signer. Keep it unique to be useful for logs.</sub>| <br>
+| <sub>Signatures</sub><p>&nbsp;</p>| <sub>List of signatures that belong to the signer.  (Their origin is not constrained to be genuine.)</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[ToString](./Methods/Signer-100663454.md) (  )</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub>Returns a string representation of a Signer</sub>| <br>
+| <sub>[ToString](./Methods/Signer-100663454.md) (  )</sub><p>&nbsp;</p>| <sub>Returns a string representation of a Signer</sub>| <br>
 
 

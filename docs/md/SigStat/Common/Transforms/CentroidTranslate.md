@@ -13,16 +13,16 @@ Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>CentroidTranslate (  )</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub>Initializes a new instance of the [CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub>| <br>
+| <sub>CentroidTranslate (  )</sub><p>&nbsp;</p>| <sub>Initializes a new instance of the [CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputX</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>| <br>
-| <sub>InputY</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
-| <sub>OutputX</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub>| <br>
-| <sub>OutputY</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub>| <br>
+| <sub>InputX</sub><p>&nbsp;</p>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>| <br>
+| <sub>InputY</sub><p>&nbsp;</p>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
+| <sub>OutputX</sub><p>&nbsp;</p>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub>| <br>
+| <sub>OutputY</sub><p>&nbsp;</p>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub>| <br>
 
 

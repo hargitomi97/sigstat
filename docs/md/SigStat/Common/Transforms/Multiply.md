@@ -13,21 +13,21 @@ Multiplies the values of a feature with a given constant.  <br>Pipeline Input ty
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Multiply ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub>Initializes a new instance of the [Multiply](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Multiply.md) class with specified settings.</sub>| <br>
+| <sub>Multiply ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><p>&nbsp;</p>| <sub>Initializes a new instance of the [Multiply](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Multiply.md) class with specified settings.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputList</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub>Input</sub>| <br>
-| <sub>Output</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub>Output</sub>| <br>
+| <sub>InputList</sub><p>&nbsp;</p>| <sub>Input</sub>| <br>
+| <sub>Output</sub><p>&nbsp;</p>| <sub>Output</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/Multiply-100663631.md) ( [`Signature`](./../Signature.md) )</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/Multiply-100663631.md) ( [`Signature`](./../Signature.md) )</sub><p>&nbsp;</p>| <sub></sub>| <br>
 
 

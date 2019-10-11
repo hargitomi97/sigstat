@@ -13,21 +13,21 @@ Adds a constant value to a feature. Works with collection features too.  <br>Def
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub>Initializes a new instance of the [AddConst](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) class with specified settings.</sub>| <br>
+| <sub>AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><p>&nbsp;</p>| <sub>Initializes a new instance of the [AddConst](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) class with specified settings.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Input</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub>Input values for trasformation</sub>| <br>
-| <sub>Output</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub>Output feature to store results</sub>| <br>
+| <sub>Input</sub><p>&nbsp;</p>| <sub>Input values for trasformation</sub>| <br>
+| <sub>Output</sub><p>&nbsp;</p>| <sub>Output feature to store results</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/AddConst-100663605.md) ( [`Signature`](./../Signature.md) )</sub><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/AddConst-100663605.md) ( [`Signature`](./../Signature.md) )</sub><p>&nbsp;</p>| <sub></sub>| <br>
 
 

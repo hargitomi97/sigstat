@@ -10,8 +10,8 @@ Default strategy to set the value of a property
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| IfNull| Set the value if it is null<em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <br>
-| 1<em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| Always| Always set the value<em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <br>
-| 2<em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| Never| Never set the value<em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>| <br>
+| 0<p>&nbsp;</p>| IfNull| Set the value if it is null<p>&nbsp;</p>| <br>
+| 1<p>&nbsp;</p>| Always| Always set the value<p>&nbsp;</p>| <br>
+| 2<p>&nbsp;</p>| Never| Never set the value<p>&nbsp;</p>| <br>
 
 
