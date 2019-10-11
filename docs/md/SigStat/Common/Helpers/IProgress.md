@@ -11,13 +11,13 @@ Enables progress tracking by expsoing the [Progress](https://github.com/hargitom
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Progress</sub><img style="pointer-events: none;"width=200/></div>| <sub>Gets the current progress in percentage.</sub>| <br>
+| <sub>Progress</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub>Gets the current progress in percentage.</sub>| <br>
 
 
 ## Events
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ProgressChanged</sub><img style="pointer-events: none;"width=200/></div>| <sub>Invoked whenever the [Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/IProgress.md) property is changed.</sub>| <br>
+| <sub>ProgressChanged</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub>Invoked whenever the [Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/IProgress.md) property is changed.</sub>| <br>
 
 

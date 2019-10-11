@@ -9,15 +9,15 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>NetCoreClassifierConverter (  )</sub><img style="pointer-events: none;"width=200/></div>| <sub></sub>| <br>
+| <sub>NetCoreClassifierConverter (  )</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub></sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[CanConvert](./Methods/NetCoreClassifierConverter-100664108.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub><img style="pointer-events: none;"width=200/></div>| <sub></sub>| <br>
-| <sub>[Read](./Methods/NetCoreClassifierConverter-100664109.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub><img style="pointer-events: none;"width=200/></div>| <sub></sub>| <br>
-| <sub>[Write](./Methods/NetCoreClassifierConverter-100664110.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`OptimalDtwClassifier`](./../../PipelineItems/Classifiers/OptimalDtwClassifier.md), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub><img style="pointer-events: none;"width=200/></div>| <sub></sub>| <br>
+| <sub>[CanConvert](./Methods/NetCoreClassifierConverter-100664108.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub></sub>| <br>
+| <sub>[Read](./Methods/NetCoreClassifierConverter-100664109.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub></sub>| <br>
+| <sub>[Write](./Methods/NetCoreClassifierConverter-100664110.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`OptimalDtwClassifier`](./../../PipelineItems/Classifiers/OptimalDtwClassifier.md), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub><img style="cursor:not-allowed;"> width=200/></div>| <sub></sub>| <br>
 
 
