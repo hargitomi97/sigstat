@@ -13,17 +13,17 @@ Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Translate ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub></sub>| <br>
-| <sub>Translate ( [`FeatureDescriptor`](./../FeatureDescriptor-1.md)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> )</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub></sub>| <br>
+| <sub>Translate ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub></sub>| <br>
+| <sub>Translate ( [`FeatureDescriptor`](./../FeatureDescriptor-1.md)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> )</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputX</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>The feature representing the horizontal coordinates of an online signature</sub>| <br>
-| <sub>InputY</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>The feature representing the vertical coordinates of an online signature</sub>| <br>
-| <sub>OutputX</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>Target feature for storing the transformed horizontal coordinates</sub>| <br>
-| <sub>OutputY</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>Target feature for storing the transformed vertical coordinates</sub>| <br>
+| <sub>InputX</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>The feature representing the horizontal coordinates of an online signature</sub>| <br>
+| <sub>InputY</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>The feature representing the vertical coordinates of an online signature</sub>| <br>
+| <sub>OutputX</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Target feature for storing the transformed horizontal coordinates</sub>| <br>
+| <sub>OutputY</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Target feature for storing the transformed vertical coordinates</sub>| <br>
 
 

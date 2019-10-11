@@ -13,26 +13,26 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>UniformScale (  )</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub></sub>| <br>
+| <sub>UniformScale (  )</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>BaseDimension</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>Gets or sets the base dimension.</sub>| <br>
-| <sub>BaseDimensionOutput</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>Gets or sets the output base dimension output.</sub>| <br>
-| <sub>NewMaxBaseValue</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>Upper bound of the interval, in which the base dimension will be scaled</sub>| <br>
-| <sub>NewMinBaseValue</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>Lower bound of the interval, in which the base dimension will be scaled</sub>| <br>
-| <sub>NewMinProportionalValue</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub>| <br>
-| <sub>ProportionalDimension</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>Gets or sets the ProportionalDimension.</sub>| <br>
-| <sub>ProportionalDimensionOutput</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>Gets or sets the output proportional dimension output.</sub>| <br>
+| <sub>BaseDimension</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Gets or sets the base dimension.</sub>| <br>
+| <sub>BaseDimensionOutput</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Gets or sets the output base dimension output.</sub>| <br>
+| <sub>NewMaxBaseValue</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Upper bound of the interval, in which the base dimension will be scaled</sub>| <br>
+| <sub>NewMinBaseValue</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Lower bound of the interval, in which the base dimension will be scaled</sub>| <br>
+| <sub>NewMinProportionalValue</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub>| <br>
+| <sub>ProportionalDimension</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Gets or sets the ProportionalDimension.</sub>| <br>
+| <sub>ProportionalDimensionOutput</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Gets or sets the output proportional dimension output.</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/UniformScale-100663886.md) ( [`Signature`](./../../../Signature.md) )</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/UniformScale-100663886.md) ( [`Signature`](./../../../Signature.md) )</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub></sub>| <br>
 
 

@@ -13,21 +13,21 @@ Multiplies the values of a feature with a given constant.  <br>Pipeline Input ty
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Multiply ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>Initializes a new instance of the [Multiply](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Multiply.md) class with specified settings.</sub>| <br>
+| <sub>Multiply ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Initializes a new instance of the [Multiply](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Multiply.md) class with specified settings.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputList</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>Input</sub>| <br>
-| <sub>Output</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>Output</sub>| <br>
+| <sub>InputList</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Input</sub>| <br>
+| <sub>Output</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Output</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/Multiply-100663631.md) ( [`Signature`](./../Signature.md) )</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/Multiply-100663631.md) ( [`Signature`](./../Signature.md) )</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub></sub>| <br>
 
 

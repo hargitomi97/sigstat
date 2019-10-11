@@ -11,6 +11,6 @@ Get the [Image](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigSt
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Save](./Methods/ImageSaver-100663929.md) ( [`Signature`](./../Signature.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>Saves a png image file to the specified `path`.</sub>| <br>
+| <sub>[Save](./Methods/ImageSaver-100663929.md) ( [`Signature`](./../Signature.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div style="pointer-events: none; cursor: default;"><img "width=200"/></div>| <sub>Saves a png image file to the specified `path`.</sub>| <br>
 
 
