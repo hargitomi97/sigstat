@@ -9,7 +9,7 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Palette ( [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color), [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color), [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) )</sub><img width=200/>| <sub>Initializes a new instance of the [Helpers.Excel.Palette](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/Excel/Palette.md) class.</sub>| <br>
+| <sub>Palette ( [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color), [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color), [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) )</sub><img width=200/>| <sub>Initializes a new instance of the [Palette](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/Excel/Palette.md) class.</sub>| <br>
 
 
 ## Properties

@@ -7,13 +7,13 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./ILoggerObject.md)
 
 ## Summary
-Benchmarking class to test error rates of a [Model.Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md)
+Benchmarking class to test error rates of a [Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md)
 
 ## Constructors
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>VerifierBenchmark (  )</sub><img width=200/>| <sub>Initializes a new instance of the [VerifierBenchmark](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/VerifierBenchmark.md) class.  Sets the [Sampler](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Sampler.md) to the default [Framework.Samplers.FirstNSampler](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Framework/Samplers/FirstNSampler.md).</sub>| <br>
+| <sub>VerifierBenchmark (  )</sub><img width=200/>| <sub>Initializes a new instance of the [VerifierBenchmark](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/VerifierBenchmark.md) class.  Sets the [Sampler](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Sampler.md) to the default [FirstNSampler](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Framework/Samplers/FirstNSampler.md).</sub>| <br>
 
 
 ## Properties
@@ -25,7 +25,7 @@ Benchmarking class to test error rates of a [Model.Verifier](https://github.com/
 | <sub>Parameters</sub><img width=200/>| <sub>A key value store that can be used to store custom information about the benchmark</sub>| <br>
 | <sub>Progress</sub><img width=200/>| <sub></sub>| <br>
 | <sub>Sampler</sub><img width=200/>| <sub>The [Sampler](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Sampler.md) to be used for benchmarking</sub>| <br>
-| <sub>Verifier</sub><img width=200/>| <sub>Gets or sets the [Model.Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to be benchmarked.</sub>| <br>
+| <sub>Verifier</sub><img width=200/>| <sub>Gets or sets the [Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to be benchmarked.</sub>| <br>
 
 
 ## Methods
