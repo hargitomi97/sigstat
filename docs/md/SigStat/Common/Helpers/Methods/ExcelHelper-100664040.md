@@ -8,4 +8,4 @@ Creates a link to selected cells in given sheet
 
 
 #### Parameters
-[`ExcelRange`](./ExcelHelper-100664040.md) range, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) sheet, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) cells
+ `range`[`ExcelRange`](./ExcelHelper-100664040.md),  `sheet`[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String),  `cells`[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)

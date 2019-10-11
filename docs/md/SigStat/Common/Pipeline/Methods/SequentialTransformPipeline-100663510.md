@@ -8,4 +8,4 @@ Add new transform to the list.
 
 
 #### Parameters
-[`ITransformation`](./../../ITransformation.md) newItem
+ `newItem`[`ITransformation`](./../../ITransformation.md)

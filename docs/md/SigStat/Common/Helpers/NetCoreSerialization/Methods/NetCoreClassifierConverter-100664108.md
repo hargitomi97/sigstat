@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) typeToConvert
+ `typeToConvert`[`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)

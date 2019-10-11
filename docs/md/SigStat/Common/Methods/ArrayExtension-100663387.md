@@ -8,4 +8,4 @@ Enumerates all values in a two dimensional array
 
 
 #### Parameters
-[`T`](./ArrayExtension-100663387.md)[] array
+ `array`[`T`](./ArrayExtension-100663387.md)[]

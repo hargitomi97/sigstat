@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[`TState`](./SimpleConsoleLogger-100664082.md) state
+ `state`[`TState`](./SimpleConsoleLogger-100664082.md)

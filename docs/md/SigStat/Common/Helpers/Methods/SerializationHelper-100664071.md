@@ -8,4 +8,4 @@ Constructs object from strings that were serialized previously
 
 
 #### Parameters
-[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) s
+ `s`[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)

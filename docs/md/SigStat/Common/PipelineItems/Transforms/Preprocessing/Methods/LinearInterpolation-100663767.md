@@ -8,4 +8,4 @@ Gets the interpolated value at a given timestamp
 
 
 #### Parameters
-[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) timestamp
+ `timestamp`[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)

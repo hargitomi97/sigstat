@@ -8,4 +8,4 @@ Creates json string from object
 
 
 #### Parameters
-[`T`](./SerializationHelper-100664074.md) o
+ `o`[`T`](./SerializationHelper-100664074.md)

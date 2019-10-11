@@ -8,4 +8,4 @@ Format cells in the range into a table with possible title
 
 
 #### Parameters
-[`ExcelRange`](./ExcelHelper-100664031.md) range, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) title, [`ExcelColor`](./../Excel/ExcelColor.md) color, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) showColumnHeader, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) showRowHeader
+ `range`[`ExcelRange`](./ExcelHelper-100664031.md),  `title`[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String),  `color`[`ExcelColor`](./../Excel/ExcelColor.md),  `showColumnHeader`[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean),  `showRowHeader`[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)

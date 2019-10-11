@@ -8,4 +8,4 @@ Sets all values in a two dimensional array to `value`
 
 
 #### Parameters
-[`T`](./ArrayExtension-100663388.md)[] array, [`T`](./ArrayExtension-100663388.md) value
+ `array`[`T`](./ArrayExtension-100663388.md)[],  `value`[`T`](./ArrayExtension-100663388.md)

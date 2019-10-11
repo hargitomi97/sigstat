@@ -8,4 +8,4 @@ Constructs object from file given by a path
 
 
 #### Parameters
-[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path
+ `path`[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)

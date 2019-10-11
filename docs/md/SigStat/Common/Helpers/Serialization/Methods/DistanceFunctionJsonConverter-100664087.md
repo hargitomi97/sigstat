@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[`JsonWriter`](./DistanceFunctionJsonConverter-100664087.md) writer, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) value, [`JsonSerializer`](./DistanceFunctionJsonConverter-100664087.md) serializer
+ `writer`[`JsonWriter`](./DistanceFunctionJsonConverter-100664087.md),  `value`[`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object),  `serializer`[`JsonSerializer`](./DistanceFunctionJsonConverter-100664087.md)

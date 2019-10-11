@@ -8,4 +8,4 @@ Inserts text into the defined cell, and format to match text level
 
 
 #### Parameters
-[`ExcelWorksheet`](./ExcelHelper-100664044.md) ws, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) row, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) col, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) text, [`TextLevel`](./../Excel/TextLevel.md) level
+ `ws`[`ExcelWorksheet`](./ExcelHelper-100664044.md),  `row`[`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32),  `col`[`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32),  `text`[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String),  `level`[`TextLevel`](./../Excel/TextLevel.md)
