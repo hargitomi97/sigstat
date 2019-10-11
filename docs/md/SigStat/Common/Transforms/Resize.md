@@ -13,24 +13,24 @@ Resizes the image to a specified width and height
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Resize (  )</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub></sub>| <br>
+| <sub>Resize (  )</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Height</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>The new height. Leave it as null, if you do not want to explicitly specify a given height</sub>| <br>
-| <sub>InputImage</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub>| <br>
-| <sub>OutputImage</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the resized image of the signature</sub>| <br>
-| <sub>ResizeFunction</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>Set a resize function if you want to dynamically calculate the new width and height of the image</sub>| <br>
-| <sub>Width</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>The new width. Leave it as null, if you do not want to explicitly specify a given width</sub>| <br>
+| <sub>Height</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub>The new height. Leave it as null, if you do not want to explicitly specify a given height</sub>| <br>
+| <sub>InputImage</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub>| <br>
+| <sub>OutputImage</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the resized image of the signature</sub>| <br>
+| <sub>ResizeFunction</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub>Set a resize function if you want to dynamically calculate the new width and height of the image</sub>| <br>
+| <sub>Width</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub>The new width. Leave it as null, if you do not want to explicitly specify a given width</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/Resize-100663716.md) ( [`Signature`](./../Signature.md) )</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/Resize-100663716.md) ( [`Signature`](./../Signature.md) )</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub></sub>| <br>
 
 

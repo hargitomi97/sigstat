@@ -11,14 +11,14 @@ Selects a given number of signatures for training and testing
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>UniversalSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>Constructor</sub>| <br>
+| <sub>UniversalSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub>Constructor</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>TestCount</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>Count of signatures to use for testing</sub>| <br>
-| <sub>TrainingCount</sub><div style="pointer-events:none; cursor:default; width=200"><img style="max-height:100%; max-width:100%/></div>| <sub>Count of signatures to use for training</sub>| <br>
+| <sub>TestCount</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub>Count of signatures to use for testing</sub>| <br>
+| <sub>TrainingCount</sub><div style="pointer-events:none; cursor:default; width=200;"></div>| <sub>Count of signatures to use for training</sub>| <br>
 
 
