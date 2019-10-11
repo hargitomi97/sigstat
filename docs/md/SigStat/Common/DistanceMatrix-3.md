@@ -11,21 +11,21 @@ A Sparse Matrix representation of a distance graph.
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>DistanceMatrix (  )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
+| <sub>DistanceMatrix (  )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Item [ [`TRowKey`](./DistanceMatrix-3.md) ]</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets or sets a distance for a given row and column</sub>| <br>
+| <sub>Item [ [`TRowKey`](./DistanceMatrix-3.md) ]</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Gets or sets a distance for a given row and column</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[ContainsKey](./Methods/DistanceMatrix`3-100663396.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
-| <sub>[TryGetValue](./Methods/DistanceMatrix`3-100663395.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md), out [`TValue`](./DistanceMatrix-3.md) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
+| <sub>[ContainsKey](./Methods/DistanceMatrix`3-100663396.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
+| <sub>[TryGetValue](./Methods/DistanceMatrix`3-100663395.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md), out [`TValue`](./DistanceMatrix-3.md) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
 
 

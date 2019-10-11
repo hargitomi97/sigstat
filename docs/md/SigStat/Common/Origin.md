@@ -10,8 +10,8 @@ Represents our knowledge on the origin of a signature.
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Unknown| Use this in practice before a signature is verified.<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
-| 1<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Genuine| The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)'s origin is verified to be from [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
-| 2<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Forged| The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md) is a forgery.<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
+| 0<button style="pointer-events: none;">Hover or focus over me too</button>| Unknown| Use this in practice before a signature is verified.<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
+| 1<button style="pointer-events: none;">Hover or focus over me too</button>| Genuine| The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)'s origin is verified to be from [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
+| 2<button style="pointer-events: none;">Hover or focus over me too</button>| Forged| The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md) is a forgery.<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
 
 

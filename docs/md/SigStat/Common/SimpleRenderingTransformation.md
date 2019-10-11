@@ -13,13 +13,13 @@ Renders an image of the signature based on the available online information (X,Y
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>SimpleRenderingTransformation (  )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
+| <sub>SimpleRenderingTransformation (  )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/SimpleRenderingTransformation-100663461.md) ( [`Signature`](./Signature.md) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/SimpleRenderingTransformation-100663461.md) ( [`Signature`](./Signature.md) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
 
 

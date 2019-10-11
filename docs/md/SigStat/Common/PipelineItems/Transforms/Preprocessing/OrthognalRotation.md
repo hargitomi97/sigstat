@@ -13,24 +13,24 @@ Performs rotation normalization on the online signature
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>OrthognalRotation (  )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
+| <sub>OrthognalRotation (  )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputT</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets or sets the input feature representing the timestamps of an online signature</sub>| <br>
-| <sub>InputX</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>| <br>
-| <sub>InputY</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
-| <sub>OutputX</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub>| <br>
-| <sub>OutputY</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
+| <sub>InputT</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Gets or sets the input feature representing the timestamps of an online signature</sub>| <br>
+| <sub>InputX</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>| <br>
+| <sub>InputY</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
+| <sub>OutputX</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub>| <br>
+| <sub>OutputY</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/OrthognalRotation-100663807.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/OrthognalRotation-100663807.md) ( [`Signature`](./../../../Signature.md) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
 
 

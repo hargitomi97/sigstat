@@ -13,23 +13,23 @@ Extracts standard [Features](https://github.com/hargitomi97/sigstat/blob/master/
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ComponentsToFeatures (  )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
+| <sub>ComponentsToFeatures (  )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Button</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Button</sub>| <br>
-| <sub>InputComponents</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Components</sub>| <br>
-| <sub>X</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>X</sub>| <br>
-| <sub>Y</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Y</sub>| <br>
+| <sub>Button</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Button</sub>| <br>
+| <sub>InputComponents</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Components</sub>| <br>
+| <sub>X</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>X</sub>| <br>
+| <sub>Y</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Y</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/ComponentsToFeatures-100663582.md) ( [`Signature`](./../Signature.md) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/ComponentsToFeatures-100663582.md) ( [`Signature`](./../Signature.md) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
 
 

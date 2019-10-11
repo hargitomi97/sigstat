@@ -10,8 +10,8 @@ Default strategy to set the value of a property
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| IfNull| Set the value if it is null<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
-| 1<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Always| Always set the value<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
-| 2<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Never| Never set the value<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
+| 0<button style="pointer-events: none;">Hover or focus over me too</button>| IfNull| Set the value if it is null<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
+| 1<button style="pointer-events: none;">Hover or focus over me too</button>| Always| Always set the value<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
+| 2<button style="pointer-events: none;">Hover or focus over me too</button>| Never| Never set the value<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
 
 

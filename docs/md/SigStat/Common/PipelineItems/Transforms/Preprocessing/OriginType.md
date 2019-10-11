@@ -10,9 +10,9 @@ Origin specification for [TranslatePreproc](https://github.com/hargitomi97/sigst
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| CenterOfGravity| Center of gravity<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
-| 1<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Minimum| Minimum<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
-| 2<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Maximum| Maximum<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
-| 3<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Predefined| Predefined<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
+| 0<button style="pointer-events: none;">Hover or focus over me too</button>| CenterOfGravity| Center of gravity<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
+| 1<button style="pointer-events: none;">Hover or focus over me too</button>| Minimum| Minimum<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
+| 2<button style="pointer-events: none;">Hover or focus over me too</button>| Maximum| Maximum<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
+| 3<button style="pointer-events: none;">Hover or focus over me too</button>| Predefined| Predefined<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
 
 

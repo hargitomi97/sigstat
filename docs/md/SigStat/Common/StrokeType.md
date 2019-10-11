@@ -10,8 +10,8 @@ Describes the type of a stroke
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Unknown| The type of the stroke is not known<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
-| 1<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Up| The stroke was made in the air (the pen did not tuch the tablet/paper)<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
-| 2<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Down| The stroke was made on the writing surface (tablet, paper etc.)<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
+| 0<button style="pointer-events: none;">Hover or focus over me too</button>| Unknown| The type of the stroke is not known<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
+| 1<button style="pointer-events: none;">Hover or focus over me too</button>| Up| The stroke was made in the air (the pen did not tuch the tablet/paper)<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
+| 2<button style="pointer-events: none;">Hover or focus over me too</button>| Down| The stroke was made on the writing surface (tablet, paper etc.)<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
 
 

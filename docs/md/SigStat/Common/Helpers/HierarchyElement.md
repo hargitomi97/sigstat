@@ -13,26 +13,26 @@ Hierarchical structure to store object
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>HierarchyElement (  )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Create an emty element</sub>| <br>
-| <sub>HierarchyElement ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Create a new element with content</sub>| <br>
+| <sub>HierarchyElement (  )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Create an emty element</sub>| <br>
+| <sub>HierarchyElement ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Create a new element with content</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Children</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets the children.</sub>| <br>
-| <sub>Content</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets or sets the content.</sub>| <br>
+| <sub>Children</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Gets the children.</sub>| <br>
+| <sub>Content</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Gets or sets the content.</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Add](./Methods/HierarchyElement-100664053.md) ( [`HierarchyElement`](./HierarchyElement.md) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
-| <sub>[GetCount](./Methods/HierarchyElement-100664055.md) (  )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Returns number of elements under this node and itself</sub>| <br>
-| <sub>[GetDepth](./Methods/HierarchyElement-100664054.md) (  )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Return the hierarchy's depth from this node</sub>| <br>
-| <sub>[GetEnumerator](./Methods/HierarchyElement-100664057.md) (  )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Returns an enumerator that iterates through the collection.</sub>| <br>
-| <sub>[ToString](./Methods/HierarchyElement-100664056.md) (  )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Converts to string.</sub>| <br>
+| <sub>[Add](./Methods/HierarchyElement-100664053.md) ( [`HierarchyElement`](./HierarchyElement.md) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
+| <sub>[GetCount](./Methods/HierarchyElement-100664055.md) (  )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Returns number of elements under this node and itself</sub>| <br>
+| <sub>[GetDepth](./Methods/HierarchyElement-100664054.md) (  )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Return the hierarchy's depth from this node</sub>| <br>
+| <sub>[GetEnumerator](./Methods/HierarchyElement-100664057.md) (  )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Returns an enumerator that iterates through the collection.</sub>| <br>
+| <sub>[ToString](./Methods/HierarchyElement-100664056.md) (  )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Converts to string.</sub>| <br>
 
 

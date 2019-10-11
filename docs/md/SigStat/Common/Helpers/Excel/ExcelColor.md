@@ -10,12 +10,12 @@ Predefined color schemes for Excel
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Primary| Primary color<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
-| 1<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Secondary| Secondary color<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
-| 2<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Succes| Succes color<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
-| 3<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Danger| Danger color<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
-| 4<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Warning| Warning color<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
-| 5<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Info| Info color<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
-| 6<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Transparent| Transparent color<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
+| 0<button style="pointer-events: none;">Hover or focus over me too</button>| Primary| Primary color<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
+| 1<button style="pointer-events: none;">Hover or focus over me too</button>| Secondary| Secondary color<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
+| 2<button style="pointer-events: none;">Hover or focus over me too</button>| Succes| Succes color<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
+| 3<button style="pointer-events: none;">Hover or focus over me too</button>| Danger| Danger color<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
+| 4<button style="pointer-events: none;">Hover or focus over me too</button>| Warning| Warning color<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
+| 5<button style="pointer-events: none;">Hover or focus over me too</button>| Info| Info color<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
+| 6<button style="pointer-events: none;">Hover or focus over me too</button>| Transparent| Transparent color<button style="pointer-events: none;">Hover or focus over me too</button>| <br>
 
 

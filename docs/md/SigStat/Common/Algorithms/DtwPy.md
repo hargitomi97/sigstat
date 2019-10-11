@@ -11,7 +11,7 @@ A simple implementation of the DTW algorithm.
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Dtw](./Methods/DtwPy-100664206.md) ( [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[`P`](./DtwPy.md)>, [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[`P`](./DtwPy.md)>, [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`P`](./DtwPy.md), [`P`](./DtwPy.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Calculates the distance between two time sequences</sub>| <br>
-| <sub>[EuclideanDistance](./Methods/DtwPy-100664207.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Calculates the euclidean distance of two vectors</sub>| <br>
+| <sub>[Dtw](./Methods/DtwPy-100664206.md) ( [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[`P`](./DtwPy.md)>, [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[`P`](./DtwPy.md)>, [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`P`](./DtwPy.md), [`P`](./DtwPy.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Calculates the distance between two time sequences</sub>| <br>
+| <sub>[EuclideanDistance](./Methods/DtwPy-100664207.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Calculates the euclidean distance of two vectors</sub>| <br>
 
 

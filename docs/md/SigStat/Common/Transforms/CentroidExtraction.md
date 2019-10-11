@@ -13,21 +13,21 @@ Extracts the Centroid (aka. Center Of Gravity) of the input features.  <br> Defa
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>CentroidExtraction (  )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
+| <sub>CentroidExtraction (  )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Inputs</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>List of features to process</sub>| <br>
-| <sub>OutputCentroid</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>List of centroid values</sub>| <br>
+| <sub>Inputs</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>List of features to process</sub>| <br>
+| <sub>OutputCentroid</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>List of centroid values</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/CentroidExtraction-100663556.md) ( [`Signature`](./../Signature.md) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/CentroidExtraction-100663556.md) ( [`Signature`](./../Signature.md) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
 
 

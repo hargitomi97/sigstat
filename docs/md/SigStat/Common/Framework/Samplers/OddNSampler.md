@@ -11,13 +11,13 @@ Selects the first N signatures with odd index for training
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>OddNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Constructor</sub>| <br>
+| <sub>OddNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Constructor</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>N</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Count of signatures used for training</sub>| <br>
+| <sub>N</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Count of signatures used for training</sub>| <br>
 
 

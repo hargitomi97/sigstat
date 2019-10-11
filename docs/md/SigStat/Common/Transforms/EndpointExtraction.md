@@ -13,22 +13,22 @@ Extracts EndPoints and CrossingPoints from Skeleton.  <br>Default Pipeline Input
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>EndpointExtraction (  )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
+| <sub>EndpointExtraction (  )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>OutputCrossingPoints</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>OutputCrossingPoints</sub>| <br>
-| <sub>OutputEndpoints</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>OutputEndpoints</sub>| <br>
-| <sub>Skeleton</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Binary representation of an image</sub>| <br>
+| <sub>OutputCrossingPoints</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>OutputCrossingPoints</sub>| <br>
+| <sub>OutputEndpoints</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>OutputEndpoints</sub>| <br>
+| <sub>Skeleton</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Binary representation of an image</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/EndpointExtraction-100663590.md) ( [`Signature`](./../Signature.md) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/EndpointExtraction-100663590.md) ( [`Signature`](./../Signature.md) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
 
 

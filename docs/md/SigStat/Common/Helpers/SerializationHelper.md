@@ -11,17 +11,17 @@ Json serialization and deserialization using the custom resolver  [VerifierResol
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>SerializationHelper (  )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
+| <sub>SerializationHelper (  )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
 
 
 ## Static Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Deserialize](./Methods/SerializationHelper-100664071.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Constructs object from strings that were serialized previously</sub>| <br>
-| <sub>[DeserializeFromFile](./Methods/SerializationHelper-100664072.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Constructs object from file given by a path</sub>| <br>
-| <sub>[GetSettings](./Methods/SerializationHelper-100664070.md) (  )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Settings used for the serialization methods</sub>| <br>
-| <sub>[JsonSerialize](./Methods/SerializationHelper-100664074.md) ( [`T`](./SerializationHelper.md) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Creates json string from object</sub>| <br>
-| <sub>[JsonSerializeToFile](./Methods/SerializationHelper-100664073.md) ( [`T`](./SerializationHelper.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Writes object to file to the given by path in json format</sub>| <br>
+| <sub>[Deserialize](./Methods/SerializationHelper-100664071.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Constructs object from strings that were serialized previously</sub>| <br>
+| <sub>[DeserializeFromFile](./Methods/SerializationHelper-100664072.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Constructs object from file given by a path</sub>| <br>
+| <sub>[GetSettings](./Methods/SerializationHelper-100664070.md) (  )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Settings used for the serialization methods</sub>| <br>
+| <sub>[JsonSerialize](./Methods/SerializationHelper-100664074.md) ( [`T`](./SerializationHelper.md) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Creates json string from object</sub>| <br>
+| <sub>[JsonSerializeToFile](./Methods/SerializationHelper-100664073.md) ( [`T`](./SerializationHelper.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Writes object to file to the given by path in json format</sub>| <br>
 
 

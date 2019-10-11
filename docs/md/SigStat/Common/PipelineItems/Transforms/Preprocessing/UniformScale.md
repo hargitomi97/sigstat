@@ -13,26 +13,26 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>UniformScale (  )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
+| <sub>UniformScale (  )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>BaseDimension</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets or sets the base dimension.</sub>| <br>
-| <sub>BaseDimensionOutput</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets or sets the output base dimension output.</sub>| <br>
-| <sub>NewMaxBaseValue</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Upper bound of the interval, in which the base dimension will be scaled</sub>| <br>
-| <sub>NewMinBaseValue</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Lower bound of the interval, in which the base dimension will be scaled</sub>| <br>
-| <sub>NewMinProportionalValue</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub>| <br>
-| <sub>ProportionalDimension</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets or sets the ProportionalDimension.</sub>| <br>
-| <sub>ProportionalDimensionOutput</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets or sets the output proportional dimension output.</sub>| <br>
+| <sub>BaseDimension</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Gets or sets the base dimension.</sub>| <br>
+| <sub>BaseDimensionOutput</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Gets or sets the output base dimension output.</sub>| <br>
+| <sub>NewMaxBaseValue</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Upper bound of the interval, in which the base dimension will be scaled</sub>| <br>
+| <sub>NewMinBaseValue</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Lower bound of the interval, in which the base dimension will be scaled</sub>| <br>
+| <sub>NewMinProportionalValue</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub>| <br>
+| <sub>ProportionalDimension</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Gets or sets the ProportionalDimension.</sub>| <br>
+| <sub>ProportionalDimensionOutput</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub>Gets or sets the output proportional dimension output.</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/UniformScale-100663886.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/UniformScale-100663886.md) ( [`Signature`](./../../../Signature.md) )</sub><button style="pointer-events: none;">Hover or focus over me too</button>| <sub></sub>| <br>
 
 
