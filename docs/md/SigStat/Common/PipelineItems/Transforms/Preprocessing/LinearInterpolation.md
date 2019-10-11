@@ -13,21 +13,21 @@ Performs linear interpolation on the input
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>LinearInterpolation (  )</sub><img style="cursor:not-allowed;" width=200/>| <sub></sub>| <br>
+| <sub>LinearInterpolation (  )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>FeatureValues</sub><img style="cursor:not-allowed;" width=200/>| <sub></sub>| <br>
-| <sub>TimeValues</sub><img style="cursor:not-allowed;" width=200/>| <sub></sub>| <br>
+| <sub>FeatureValues</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
+| <sub>TimeValues</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[GetValue](./Methods/LinearInterpolation-100663767.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><img style="cursor:not-allowed;" width=200/>| <sub>Gets the interpolated value at a given timestamp</sub>| <br>
+| <sub>[GetValue](./Methods/LinearInterpolation-100663767.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets the interpolated value at a given timestamp</sub>| <br>
 
 

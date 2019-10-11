@@ -10,8 +10,8 @@ Represents our knowledge on the origin of a signature.
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<img style="cursor:not-allowed;" width=200/>| Unknown| Use this in practice before a signature is verified.<img style="cursor:not-allowed;" width=200/>| <br>
-| 1<img style="cursor:not-allowed;" width=200/>| Genuine| The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)'s origin is verified to be from [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)<img style="cursor:not-allowed;" width=200/>| <br>
-| 2<img style="cursor:not-allowed;" width=200/>| Forged| The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md) is a forgery.<img style="cursor:not-allowed;" width=200/>| <br>
+| 0<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Unknown| Use this in practice before a signature is verified.<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
+| 1<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Genuine| The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)'s origin is verified to be from [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
+| 2<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Forged| The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md) is a forgery.<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
 
 

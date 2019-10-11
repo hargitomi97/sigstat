@@ -9,15 +9,15 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Palette ( [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color), [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color), [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) )</sub><img style="cursor:not-allowed;" width=200/>| <sub>Initializes a new instance of the [Palette](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/Excel/Palette.md) class.</sub>| <br>
+| <sub>Palette ( [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color), [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color), [`Color`](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.Color) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Initializes a new instance of the [Palette](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/Excel/Palette.md) class.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>DarkColor</sub><img style="cursor:not-allowed;" width=200/>| <sub>Gets or sets the color for rendering darker elements</sub>| <br>
-| <sub>LightColor</sub><img style="cursor:not-allowed;" width=200/>| <sub>Gets or sets the color for rendering bright elements</sub>| <br>
-| <sub>MainColor</sub><img style="cursor:not-allowed;" width=200/>| <sub>Gets or sets the main color used in the palette</sub>| <br>
+| <sub>DarkColor</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets or sets the color for rendering darker elements</sub>| <br>
+| <sub>LightColor</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets or sets the color for rendering bright elements</sub>| <br>
+| <sub>MainColor</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets or sets the main color used in the palette</sub>| <br>
 
 

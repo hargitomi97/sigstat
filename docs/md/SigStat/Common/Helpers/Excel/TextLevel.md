@@ -10,10 +10,10 @@ Paragraph style setting
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<img style="cursor:not-allowed;" width=200/>| Title| Main title<img style="cursor:not-allowed;" width=200/>| <br>
-| 1<img style="cursor:not-allowed;" width=200/>| Heading1| Level 1 heading<img style="cursor:not-allowed;" width=200/>| <br>
-| 2<img style="cursor:not-allowed;" width=200/>| Heading2| Level 2 heading<img style="cursor:not-allowed;" width=200/>| <br>
-| 3<img style="cursor:not-allowed;" width=200/>| Heading3| Level 3 heading<img style="cursor:not-allowed;" width=200/>| <br>
-| 4<img style="cursor:not-allowed;" width=200/>| Normal| Normal document body style<img style="cursor:not-allowed;" width=200/>| <br>
+| 0<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Title| Main title<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
+| 1<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Heading1| Level 1 heading<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
+| 2<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Heading2| Level 2 heading<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
+| 3<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Heading3| Level 3 heading<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
+| 4<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Normal| Normal document body style<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
 
 

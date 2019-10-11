@@ -10,12 +10,12 @@ Predefined color schemes for Excel
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<img style="cursor:not-allowed;" width=200/>| Primary| Primary color<img style="cursor:not-allowed;" width=200/>| <br>
-| 1<img style="cursor:not-allowed;" width=200/>| Secondary| Secondary color<img style="cursor:not-allowed;" width=200/>| <br>
-| 2<img style="cursor:not-allowed;" width=200/>| Succes| Succes color<img style="cursor:not-allowed;" width=200/>| <br>
-| 3<img style="cursor:not-allowed;" width=200/>| Danger| Danger color<img style="cursor:not-allowed;" width=200/>| <br>
-| 4<img style="cursor:not-allowed;" width=200/>| Warning| Warning color<img style="cursor:not-allowed;" width=200/>| <br>
-| 5<img style="cursor:not-allowed;" width=200/>| Info| Info color<img style="cursor:not-allowed;" width=200/>| <br>
-| 6<img style="cursor:not-allowed;" width=200/>| Transparent| Transparent color<img style="cursor:not-allowed;" width=200/>| <br>
+| 0<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Primary| Primary color<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
+| 1<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Secondary| Secondary color<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
+| 2<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Succes| Succes color<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
+| 3<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Danger| Danger color<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
+| 4<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Warning| Warning color<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
+| 5<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Info| Info color<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
+| 6<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| Transparent| Transparent color<img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <br>
 
 

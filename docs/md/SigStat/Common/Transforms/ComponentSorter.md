@@ -13,21 +13,21 @@ Sorts Component order by comparing each starting X value, and finding nearest co
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ComponentSorter (  )</sub><img style="cursor:not-allowed;" width=200/>| <sub></sub>| <br>
+| <sub>ComponentSorter (  )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Input</sub><img style="cursor:not-allowed;" width=200/>| <sub>Gets or sets the input.</sub>| <br>
-| <sub>Output</sub><img style="cursor:not-allowed;" width=200/>| <sub>Gets or sets the output.</sub>| <br>
+| <sub>Input</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets or sets the input.</sub>| <br>
+| <sub>Output</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub>Gets or sets the output.</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/ComponentSorter-100663517.md) ( [`Signature`](./../Signature.md) )</sub><img style="cursor:not-allowed;" width=200/>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/ComponentSorter-100663517.md) ( [`Signature`](./../Signature.md) )</sub><img width=200 style="cursor:not-allowed;pointer-events:none;"/>| <sub></sub>| <br>
 
 
