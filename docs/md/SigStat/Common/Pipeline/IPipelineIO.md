@@ -11,7 +11,7 @@ Supports the definition of [PipelineInput](https://github.com/hargitomi97/sigsta
 
 | Name | Summary | 
 | --- | --- | 
-| <p>&nbsp;</p><sub>PipelineInputs</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>A collection of inputs for the pipeline elements</sub><p>&nbsp;</p>| <br>
-| <p>&nbsp;</p><sub>PipelineOutputs</sub><p>&nbsp;</p>| <p>&nbsp;</p><sub>A collection of outputs for the pipeline elements</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>PipelineInputs</sub><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>| <p>&nbsp;</p><sub>A collection of inputs for the pipeline elements</sub><p>&nbsp;</p>| <br>
+| <p>&nbsp;</p><sub>PipelineOutputs</sub><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>| <p>&nbsp;</p><sub>A collection of outputs for the pipeline elements</sub><p>&nbsp;</p>| <br>
 
 
