@@ -9,22 +9,22 @@ Assembly: SigStat.Common.dll
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Baseline (  )</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub>Initializes a Baseline instance</sub>| <br>
-| <sub>Baseline ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub>Initializes a Baseline instance with the given startpoint and endpoint</sub>| <br>
+| <sub>Baseline (  )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Initializes a Baseline instance</sub>| <br>
+| <sub>Baseline ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Initializes a Baseline instance with the given startpoint and endpoint</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>End</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub>Endpoint of the baseline</sub>| <br>
-| <sub>Start</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub>Starting point of the baseline</sub>| <br>
+| <sub>End</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Endpoint of the baseline</sub>| <br>
+| <sub>Start</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Starting point of the baseline</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[ToString](./Methods/Baseline-100663334.md) (  )</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub>Returns a string representation of the baseline</sub>| <br>
+| <sub>[ToString](./Methods/Baseline-100663334.md) (  )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Returns a string representation of the baseline</sub>| <br>
 
 

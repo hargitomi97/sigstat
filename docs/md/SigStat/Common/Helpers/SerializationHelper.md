@@ -11,17 +11,17 @@ Json serialization and deserialization using the custom resolver  [VerifierResol
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>SerializationHelper (  )</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub></sub>| <br>
+| <sub>SerializationHelper (  )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub></sub>| <br>
 
 
 ## Static Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Deserialize](./Methods/SerializationHelper-100664071.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub>Constructs object from strings that were serialized previously</sub>| <br>
-| <sub>[DeserializeFromFile](./Methods/SerializationHelper-100664072.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub>Constructs object from file given by a path</sub>| <br>
-| <sub>[GetSettings](./Methods/SerializationHelper-100664070.md) (  )</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub>Settings used for the serialization methods</sub>| <br>
-| <sub>[JsonSerialize](./Methods/SerializationHelper-100664074.md) ( [`T`](./SerializationHelper.md) )</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub>Creates json string from object</sub>| <br>
-| <sub>[JsonSerializeToFile](./Methods/SerializationHelper-100664073.md) ( [`T`](./SerializationHelper.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div style="pointer-events:none; cursor:default; width=500px;"></div>| <sub>Writes object to file to the given by path in json format</sub>| <br>
+| <sub>[Deserialize](./Methods/SerializationHelper-100664071.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Constructs object from strings that were serialized previously</sub>| <br>
+| <sub>[DeserializeFromFile](./Methods/SerializationHelper-100664072.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Constructs object from file given by a path</sub>| <br>
+| <sub>[GetSettings](./Methods/SerializationHelper-100664070.md) (  )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Settings used for the serialization methods</sub>| <br>
+| <sub>[JsonSerialize](./Methods/SerializationHelper-100664074.md) ( [`T`](./SerializationHelper.md) )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Creates json string from object</sub>| <br>
+| <sub>[JsonSerializeToFile](./Methods/SerializationHelper-100664073.md) ( [`T`](./SerializationHelper.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><div style="pointer-events:none;cursor:default;"><img width=200 style="max-height:100%;max-width:100%;"/></div>| <sub>Writes object to file to the given by path in json format</sub>| <br>
 
 
