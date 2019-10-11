@@ -8,3 +8,6 @@ Gets a dictionary of all registered feature descriptors
 
 
 #### Parameters
+
+#### Returns
+[Dictionary](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.Dictionary-2)\<[String](https://docs.microsoft.com/en-us/dotnet/api/System.String), [FeatureDescriptor](./../FeatureDescriptor.md)>

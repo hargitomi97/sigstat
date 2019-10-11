@@ -9,3 +9,5 @@
 
 #### Parameters
  o  [`T`](./NetCoreSerializationHelper-100664136.md)
+#### Returns
+[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)

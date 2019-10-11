@@ -9,3 +9,5 @@ Constructs object from file given by a path
 
 #### Parameters
  path  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+#### Returns
+[T](./SerializationHelper-100664072.md)

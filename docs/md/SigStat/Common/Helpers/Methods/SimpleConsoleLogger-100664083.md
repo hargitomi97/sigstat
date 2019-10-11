@@ -9,3 +9,5 @@
 
 #### Parameters
  logLevel  [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel)
+#### Returns
+[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)

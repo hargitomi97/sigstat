@@ -9,3 +9,5 @@ Executes the transform on the `signature` parameter.  This function gets called 
 
 #### Parameters
  signature  [`Signature`](./../Signature.md)
+#### Returns
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

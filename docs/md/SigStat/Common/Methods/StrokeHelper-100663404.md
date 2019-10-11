@@ -9,3 +9,5 @@ Gets the strokes from an online signature with standard features. Note that  the
 
 #### Parameters
  signature  [`Signature`](./../Signature.md)
+#### Returns
+[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[StrokeInterval](./../StrokeInterval.md)>

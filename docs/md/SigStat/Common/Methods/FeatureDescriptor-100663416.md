@@ -9,3 +9,5 @@ Registers a new [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/
 
 #### Parameters
  featureKey  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br> type  [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)
+#### Returns
+[FeatureDescriptor](./../FeatureDescriptor.md)

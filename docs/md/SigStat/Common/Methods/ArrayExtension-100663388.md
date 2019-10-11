@@ -9,3 +9,5 @@ Sets all values in a two dimensional array to `value`
 
 #### Parameters
  array  [`T`](./ArrayExtension-100663388.md)[]<br> value  [`T`](./ArrayExtension-100663388.md)
+#### Returns
+[T](./ArrayExtension-100663388.md)[]

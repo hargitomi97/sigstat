@@ -9,3 +9,5 @@
 
 #### Parameters
  state  [`TState`](./SimpleConsoleLogger-100664082.md)
+#### Returns
+[IDisposable](https://docs.microsoft.com/en-us/dotnet/api/System.IDisposable)

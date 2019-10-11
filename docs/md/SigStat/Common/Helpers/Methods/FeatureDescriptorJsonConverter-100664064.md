@@ -9,3 +9,5 @@
 
 #### Parameters
  writer  [`JsonWriter`](./FeatureDescriptorJsonConverter-100664064.md)<br> value  [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)<br> serializer  [`JsonSerializer`](./FeatureDescriptorJsonConverter-100664064.md)
+#### Returns
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

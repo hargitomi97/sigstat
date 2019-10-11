@@ -9,3 +9,5 @@ Formats and writes an debug log message.
 
 #### Parameters
  obj  [`ILoggerObject`](./../ILoggerObject.md)<br> message  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br> args  [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[]
+#### Returns
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

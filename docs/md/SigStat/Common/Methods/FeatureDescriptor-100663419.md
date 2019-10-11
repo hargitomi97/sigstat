@@ -9,3 +9,5 @@ Gets the [FeatureDescriptor-1](https://github.com/hargitomi97/sigstat/blob/maste
 
 #### Parameters
  key  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+#### Returns
+[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[T](./FeatureDescriptor-100663419.md)>

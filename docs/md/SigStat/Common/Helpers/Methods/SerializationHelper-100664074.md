@@ -9,3 +9,5 @@ Creates json string from object
 
 #### Parameters
  o  [`T`](./SerializationHelper-100664074.md)
+#### Returns
+[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)

@@ -9,3 +9,5 @@
 
 #### Parameters
  model  [`ISignerModel`](./../ISignerModel.md)<br> signature  [`Signature`](./../../Signature.md)
+#### Returns
+[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)

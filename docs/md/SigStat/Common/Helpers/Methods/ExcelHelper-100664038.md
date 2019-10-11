@@ -9,3 +9,5 @@ Insert legend
 
 #### Parameters
  range  [`ExcelRange`](./ExcelHelper-100664038.md)<br> text  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br> title  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br> color  [`ExcelColor`](./../Excel/ExcelColor.md)
+#### Returns
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

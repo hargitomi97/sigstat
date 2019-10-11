@@ -9,3 +9,5 @@
 
 #### Parameters
  row  [`TRowKey`](./DistanceMatrix`3-100663396.md)<br> column  [`TColumnKey`](./DistanceMatrix`3-100663396.md)
+#### Returns
+[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)

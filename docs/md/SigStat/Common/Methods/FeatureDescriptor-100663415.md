@@ -9,3 +9,5 @@ Returns true, if there is a FeatureDescriptor registered with the given key
 
 #### Parameters
  featureKey  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+#### Returns
+[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)

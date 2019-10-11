@@ -8,3 +8,6 @@ Returns a string represenatation of the FeatureDescriptor
 
 
 #### Parameters
+
+#### Returns
+[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)

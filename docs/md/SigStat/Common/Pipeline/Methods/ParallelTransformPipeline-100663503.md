@@ -8,3 +8,6 @@
 
 
 #### Parameters
+
+#### Returns
+[IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerator)

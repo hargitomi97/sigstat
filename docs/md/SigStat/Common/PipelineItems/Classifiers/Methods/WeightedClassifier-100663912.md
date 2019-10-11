@@ -9,3 +9,5 @@ Add a new classifier with given weight to the list of items.
 
 #### Parameters
  newItem  [`ValueTuple`](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[`IClassifier`](./../../../Pipeline/IClassifier.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>
+#### Returns
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

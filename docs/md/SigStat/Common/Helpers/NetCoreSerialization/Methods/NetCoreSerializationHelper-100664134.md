@@ -8,3 +8,6 @@
 
 
 #### Parameters
+
+#### Returns
+[JsonSerializerOptions](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions)

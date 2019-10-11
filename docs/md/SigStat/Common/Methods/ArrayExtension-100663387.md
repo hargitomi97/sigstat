@@ -9,3 +9,5 @@ Enumerates all values in a two dimensional array
 
 #### Parameters
  array  [`T`](./ArrayExtension-100663387.md)[]
+#### Returns
+[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[T](./ArrayExtension-100663387.md)>

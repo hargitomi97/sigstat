@@ -8,3 +8,6 @@ Settings used for the serialization methods
 
 
 #### Parameters
+
+#### Returns
+[JsonSerializerSettings](./SerializationHelper-100664070.md)

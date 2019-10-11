@@ -8,3 +8,6 @@ Return the hierarchy's depth from this node
 
 
 #### Parameters
+
+#### Returns
+[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)
