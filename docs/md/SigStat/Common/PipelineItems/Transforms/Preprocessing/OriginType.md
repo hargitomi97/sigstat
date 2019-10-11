@@ -10,9 +10,9 @@ Origin specification for [TranslatePreproc](https://github.com/hargitomi97/sigst
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| CenterOfGravity| Center of gravity<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <br>
-| 1<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| Minimum| Minimum<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <br>
-| 2<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| Maximum| Maximum<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <br>
-| 3<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| Predefined| Predefined<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <br>
+| 0<div pointer-events: none; cursor: default;><img width=200/></div>| CenterOfGravity| Center of gravity<div pointer-events: none; cursor: default;><img width=200/></div>| <br>
+| 1<div pointer-events: none; cursor: default;><img width=200/></div>| Minimum| Minimum<div pointer-events: none; cursor: default;><img width=200/></div>| <br>
+| 2<div pointer-events: none; cursor: default;><img width=200/></div>| Maximum| Maximum<div pointer-events: none; cursor: default;><img width=200/></div>| <br>
+| 3<div pointer-events: none; cursor: default;><img width=200/></div>| Predefined| Predefined<div pointer-events: none; cursor: default;><img width=200/></div>| <br>
 
 

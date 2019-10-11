@@ -10,8 +10,8 @@ Represents our knowledge on the origin of a signature.
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| Unknown| Use this in practice before a signature is verified.<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <br>
-| 1<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| Genuine| The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)'s origin is verified to be from [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <br>
-| 2<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| Forged| The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md) is a forgery.<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <br>
+| 0<div pointer-events: none; cursor: default;><img width=200/></div>| Unknown| Use this in practice before a signature is verified.<div pointer-events: none; cursor: default;><img width=200/></div>| <br>
+| 1<div pointer-events: none; cursor: default;><img width=200/></div>| Genuine| The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)'s origin is verified to be from [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)<div pointer-events: none; cursor: default;><img width=200/></div>| <br>
+| 2<div pointer-events: none; cursor: default;><img width=200/></div>| Forged| The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md) is a forgery.<div pointer-events: none; cursor: default;><img width=200/></div>| <br>
 
 

@@ -13,21 +13,21 @@ Represents a trained model for [DtwClassifier](https://github.com/hargitomi97/si
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>DtwSignerModel (  )</sub><!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <sub></sub>| <br>
+| <sub>DtwSignerModel (  )</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub></sub>| <br>
 
 
 ## Fields
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>DistanceMatrix</sub><!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <sub>DTW distance matrix of the genuine signatures</sub>| <br>
-| <sub>Threshold</sub><!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <sub>A threshold, that will be used for classification. Signatures with  an average DTW distance from the genuines above this threshold will  be classified as forgeries</sub>| <br>
+| <sub>DistanceMatrix</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>DTW distance matrix of the genuine signatures</sub>| <br>
+| <sub>Threshold</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>A threshold, that will be used for classification. Signatures with  an average DTW distance from the genuines above this threshold will  be classified as forgeries</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>GenuineSignatures</sub><!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <sub>A list a of genuine signatures used for training</sub>| <br>
+| <sub>GenuineSignatures</sub><div pointer-events: none; cursor: default;><img width=200/></div>| <sub>A list a of genuine signatures used for training</sub>| <br>
 
 

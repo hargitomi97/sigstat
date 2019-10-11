@@ -10,12 +10,12 @@ Predefined color schemes for Excel
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| Primary| Primary color<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <br>
-| 1<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| Secondary| Secondary color<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <br>
-| 2<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| Succes| Succes color<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <br>
-| 3<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| Danger| Danger color<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <br>
-| 4<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| Warning| Warning color<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <br>
-| 5<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| Info| Info color<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <br>
-| 6<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| Transparent| Transparent color<!--aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->| <br>
+| 0<div pointer-events: none; cursor: default;><img width=200/></div>| Primary| Primary color<div pointer-events: none; cursor: default;><img width=200/></div>| <br>
+| 1<div pointer-events: none; cursor: default;><img width=200/></div>| Secondary| Secondary color<div pointer-events: none; cursor: default;><img width=200/></div>| <br>
+| 2<div pointer-events: none; cursor: default;><img width=200/></div>| Succes| Succes color<div pointer-events: none; cursor: default;><img width=200/></div>| <br>
+| 3<div pointer-events: none; cursor: default;><img width=200/></div>| Danger| Danger color<div pointer-events: none; cursor: default;><img width=200/></div>| <br>
+| 4<div pointer-events: none; cursor: default;><img width=200/></div>| Warning| Warning color<div pointer-events: none; cursor: default;><img width=200/></div>| <br>
+| 5<div pointer-events: none; cursor: default;><img width=200/></div>| Info| Info color<div pointer-events: none; cursor: default;><img width=200/></div>| <br>
+| 6<div pointer-events: none; cursor: default;><img width=200/></div>| Transparent| Transparent color<div pointer-events: none; cursor: default;><img width=200/></div>| <br>
 
 
