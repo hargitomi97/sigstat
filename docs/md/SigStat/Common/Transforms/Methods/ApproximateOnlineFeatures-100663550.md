@@ -1,9 +1,11 @@
 # [Transform](./ApproximateOnlineFeatures-100663550.md)
 
 
+Return type:
+## Methods
 
-| Return | Name | 
-| --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub>| <sub>[Transform](./ApproximateOnlineFeatures-100663550.md) ( [`Signature`](./../../Signature.md) signature )</sub>| <br>
+| Return | Name | Summary | 
+| --- | --- | --- | 
+| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[Transform](./ApproximateOnlineFeatures-100663550.md) ( [`Signature`](./../../Signature.md) )</sub>| <sub></sub><img width=200/>| <br>
 
 

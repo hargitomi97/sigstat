@@ -1,0 +1,11 @@
+# [Merge](./ExcelHelper-100664029.md)
+
+Merge all cells into one in the range.
+Return type:
+## Methods
+
+| Return | Name | Summary | 
+| --- | --- | --- | 
+| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub><img width=200/>| <sub>[Merge](./ExcelHelper-100664029.md) ( [`ExcelRangeBase`](./ExcelHelper-100664029.md) )</sub>| <sub>Merge all cells into one in the range.</sub><img width=200/>| <br>
+
+

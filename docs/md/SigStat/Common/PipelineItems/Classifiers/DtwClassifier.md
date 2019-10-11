@@ -30,7 +30,7 @@ Classifies Signatures with the [Algorithms.Dtw](https://github.com/hargitomi97/s
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Test](./Methods/DtwClassifier-100663859.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
-| <sub>[Train](./Methods/DtwClassifier-100663858.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[Test](./Methods/DtwClassifier-100663900.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[Train](./Methods/DtwClassifier-100663899.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub><img width=200/>| <sub></sub>| <br>
 
 

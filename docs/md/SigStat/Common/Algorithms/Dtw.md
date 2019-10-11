@@ -26,7 +26,7 @@ Dynamic Time Warping algorithm
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Compute](./Methods/Dtw-100664152.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )</sub><img width=200/>| <sub></sub>| <br>
-| <sub>[Distance](./Methods/Dtw-100664153.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )</sub><img width=200/>| <sub>Calculates distance between two points.  Distance method can be set in ctor.</sub>| <br>
+| <sub>[Compute](./Methods/Dtw-100664204.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )</sub><img width=200/>| <sub></sub>| <br>
+| <sub>[Distance](./Methods/Dtw-100664205.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] )</sub><img width=200/>| <sub>Calculates distance between two points.  Distance method can be set in ctor.</sub>| <br>
 
 

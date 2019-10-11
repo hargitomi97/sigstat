@@ -1,9 +1,11 @@
 # [Execute](./VerifierBenchmark-100663385.md)
 
 Execute the benchmarking process with a degree of parallelism.
+Return type:
+## Methods
 
-| Return | Name | 
-| --- | --- | 
-| <sub>[BenchmarkResults](./../BenchmarkResults.md)</sub>| <sub>[Execute](./VerifierBenchmark-100663385.md) ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) degreeOfParallelism )</sub>| <br>
+| Return | Name | Summary | 
+| --- | --- | --- | 
+| <sub>[BenchmarkResults](./../BenchmarkResults.md)</sub><img width=200/>| <sub>[Execute](./VerifierBenchmark-100663385.md) ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub>| <sub>Execute the benchmarking process with a degree of parallelism.</sub><img width=200/>| <br>
 
 

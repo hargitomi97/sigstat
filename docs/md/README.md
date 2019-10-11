@@ -142,10 +142,16 @@ This is the root summary
 	- Performs linear interpolation on the input
 - [`NormalizeRotation`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/NormalizeRotation.md)
 	- Performs rotation normalization on the online signature
+- [`NormalizeRotationForX`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/NormalizeRotationForX.md)
+	- Performs rotation normalization on the online signature
+- [`OrthognalRotation`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/OrthognalRotation.md)
+	- Performs rotation normalization on the online signature
 - [`RelativeScale`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/RelativeScale.md)
 	- Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled.<br>OutputFeature: output feature for scaled InputFeature
 - [`ResampleSamplesCountBased`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/ResampleSamplesCountBased.md)
 	- Resamples an online signature to a specific sample count using the specified [PipelineItems.Transforms.Preprocessing.IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md) algorithm
+- [`SampleRate`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/SampleRate.md)
+	- Performs rotation normalization on the online signature
 - [`Scale`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/Scale.md)
 	- Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled.<br>OutputFeature: output feature for scaled InputFeature
 - [`TranslatePreproc`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/TranslatePreproc.md)
@@ -216,9 +222,12 @@ This is the root summary
 	- Custom resolver for customizing the json serialization
 ### [SigStat.Common.Helpers.NetCoreSerialization](./SigStat/Common/Helpers/NetCoreSerialization/README.md)
 
+- [`NetCoreClassifierConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreClassifierConverter.md)
 - [`NetCoreFeatureDescriptorConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreFeatureDescriptorConverter.md)
 - [`NetCoreFeatureDescriptorDictionaryConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreFeatureDescriptorDictionaryConverter.md)
+- [`NetCoreFeatureDescriptorListConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreFeatureDescriptorListConverter.md)
 - [`NetCoreFeatureDescriptorTConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreFeatureDescriptorTConverter.md)
+- [`NetCoreSamplerConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreSamplerConverter.md)
 - [`NetCoreSerializationHelper`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreSerializationHelper.md)
 ### [SigStat.Common.Helpers.Excel](./SigStat/Common/Helpers/Excel/README.md)
 

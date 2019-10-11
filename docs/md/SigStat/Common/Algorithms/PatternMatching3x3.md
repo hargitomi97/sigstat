@@ -18,7 +18,7 @@ Binary 3x3 pattern matcher with rotating option.
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Match](./Methods/PatternMatching3x3-100664167.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><img width=200/>| <sub>Match the 3x3 input with the 3x3 pattern.</sub>| <br>
-| <sub>[RotMatch](./Methods/PatternMatching3x3-100664168.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><img width=200/>| <sub>Match the 3x3 input with the 3x3 pattern from all 4 directions.</sub>| <br>
+| <sub>[Match](./Methods/PatternMatching3x3-100664219.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><img width=200/>| <sub>Match the 3x3 input with the 3x3 pattern.</sub>| <br>
+| <sub>[RotMatch](./Methods/PatternMatching3x3-100664220.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] )</sub><img width=200/>| <sub>Match the 3x3 input with the 3x3 pattern from all 4 directions.</sub>| <br>
 
 
