@@ -8,4 +8,3 @@
 
 
 #### Parameters
-[GetEnumerator](./WeightedClassifier-100663911.md) (  )

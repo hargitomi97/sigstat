@@ -8,4 +8,4 @@ Formats and writes an error log message.
 
 
 #### Parameters
-[LogError](./ILoggerObjectExtensions-100663348.md) ( [`ILoggerObject`](./../ILoggerObject.md) obj, [`Exception`](https://docs.microsoft.com/en-us/dotnet/api/System.Exception) exception, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) message, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[] args )
+[`ILoggerObject`](./../ILoggerObject.md), [`Exception`](https://docs.microsoft.com/en-us/dotnet/api/System.Exception), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[]

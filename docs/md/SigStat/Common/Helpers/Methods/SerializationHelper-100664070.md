@@ -8,4 +8,3 @@ Settings used for the serialization methods
 
 
 #### Parameters
-[GetSettings](./SerializationHelper-100664070.md) (  )

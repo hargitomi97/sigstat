@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Transform](./BinaryRasterizer-100663656.md) ( [`Signature`](./../../Signature.md) signature )
+[`Signature`](./../../Signature.md)

@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[CanConvert](./NetCoreSamplerConverter-100664130.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) typeToConvert )
+[`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)

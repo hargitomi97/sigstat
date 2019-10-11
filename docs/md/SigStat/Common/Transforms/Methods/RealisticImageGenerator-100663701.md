@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Transform](./RealisticImageGenerator-100663701.md) ( [`Signature`](./../../Signature.md) signature )
+[`Signature`](./../../Signature.md)

@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Transform](./OnePixelThinning-100663684.md) ( [`Signature`](./../../Signature.md) signature )
+[`Signature`](./../../Signature.md)

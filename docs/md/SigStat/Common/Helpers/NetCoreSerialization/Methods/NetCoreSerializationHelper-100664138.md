@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[DeserializeFromFile](./NetCoreSerializationHelper-100664138.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path )
+[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)

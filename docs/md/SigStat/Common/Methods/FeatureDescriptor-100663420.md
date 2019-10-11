@@ -8,4 +8,3 @@ Returns a string represenatation of the FeatureDescriptor
 
 
 #### Parameters
-[ToString](./FeatureDescriptor-100663420.md) (  )

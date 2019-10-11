@@ -8,4 +8,3 @@
 
 
 #### Parameters
-[GetEnumerator](./SequentialTransformPipeline-100663509.md) (  )

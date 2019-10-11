@@ -8,4 +8,3 @@ Returns number of elements under this node and itself
 
 
 #### Parameters
-[GetCount](./HierarchyElement-100664055.md) (  )

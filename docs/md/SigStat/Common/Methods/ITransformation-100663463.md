@@ -8,4 +8,4 @@ Executes the transform on the `signature` parameter.  This function gets called 
 
 
 #### Parameters
-[Transform](./ITransformation-100663463.md) ( [`Signature`](./../Signature.md) signature )
+[`Signature`](./../Signature.md)

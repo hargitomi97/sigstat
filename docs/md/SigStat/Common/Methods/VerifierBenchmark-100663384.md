@@ -8,4 +8,4 @@ Execute the benchmarking process.
 
 
 #### Parameters
-[Execute](./VerifierBenchmark-100663384.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) ParallelMode )
+[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)

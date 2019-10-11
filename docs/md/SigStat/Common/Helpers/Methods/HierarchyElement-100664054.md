@@ -8,4 +8,3 @@ Return the hierarchy's depth from this node
 
 
 #### Parameters
-[GetDepth](./HierarchyElement-100664054.md) (  )

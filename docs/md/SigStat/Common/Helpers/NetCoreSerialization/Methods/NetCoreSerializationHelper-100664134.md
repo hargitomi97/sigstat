@@ -8,4 +8,3 @@
 
 
 #### Parameters
-[GetSettings](./NetCoreSerializationHelper-100664134.md) (  )

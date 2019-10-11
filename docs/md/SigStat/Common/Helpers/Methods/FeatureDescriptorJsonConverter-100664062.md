@@ -8,4 +8,4 @@ Tells if the current object is of the correct type
 
 
 #### Parameters
-[CanConvert](./FeatureDescriptorJsonConverter-100664062.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType )
+[`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)

@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Get](./FeatureDescriptor`1-100663424.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) key )
+[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)

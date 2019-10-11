@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[EnumerateSigners](./SigComp19OnlineLoader-100663974.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../../Signer.md)> signerFilter )
+[`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../../Signer.md)>

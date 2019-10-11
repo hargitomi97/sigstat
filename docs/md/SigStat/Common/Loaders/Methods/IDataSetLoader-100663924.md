@@ -8,4 +8,4 @@ Enumerates all [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/
 
 
 #### Parameters
-[EnumerateSigners](./IDataSetLoader-100663924.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../../Signer.md)> signerFilter )
+[`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../../Signer.md)>

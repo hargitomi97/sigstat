@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Transform](./FilterPoints-100663755.md) ( [`Signature`](./../../../../Signature.md) signature )
+[`Signature`](./../../../../Signature.md)

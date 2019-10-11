@@ -8,4 +8,4 @@ Executes transform [Items](https://github.com/hargitomi97/sigstat/blob/master/do
 
 
 #### Parameters
-[Transform](./SequentialTransformPipeline-100663511.md) ( [`Signature`](./../../Signature.md) signature )
+[`Signature`](./../../Signature.md)

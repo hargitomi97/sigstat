@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Transform](./CentroidExtraction-100663556.md) ( [`Signature`](./../../Signature.md) signature )
+[`Signature`](./../../Signature.md)

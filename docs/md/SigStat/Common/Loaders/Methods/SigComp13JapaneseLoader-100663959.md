@@ -8,4 +8,4 @@ Loads one signature from specified stream.
 
 
 #### Parameters
-[LoadSignature](./SigComp13JapaneseLoader-100663959.md) ( [`Signature`](./../../Signature.md) signature, [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream) stream, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures )
+[`Signature`](./../../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)

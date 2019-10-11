@@ -8,4 +8,4 @@ Gets the interpolated value at a given timestamp
 
 
 #### Parameters
-[GetValue](./IInterpolation-100663762.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) timestamp )
+[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)

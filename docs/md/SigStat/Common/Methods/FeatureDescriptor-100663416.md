@@ -8,4 +8,4 @@ Registers a new [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/
 
 
 #### Parameters
-[Register](./FeatureDescriptor-100663416.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) featureKey, [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) type )
+[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)

@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Test](./DtwClassifier-100663900.md) ( [`ISignerModel`](./../../../Pipeline/ISignerModel.md) model, [`Signature`](./../../../Signature.md) signature )
+[`ISignerModel`](./../../../Pipeline/ISignerModel.md), [`Signature`](./../../../Signature.md)

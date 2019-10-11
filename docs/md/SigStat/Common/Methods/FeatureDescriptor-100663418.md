@@ -8,4 +8,3 @@ Gets a dictionary of all registered feature descriptors
 
 
 #### Parameters
-[GetAll](./FeatureDescriptor-100663418.md) (  )

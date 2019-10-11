@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Transform](./ComponentSorter-100663517.md) ( [`Signature`](./../../Signature.md) signature )
+[`Signature`](./../../Signature.md)

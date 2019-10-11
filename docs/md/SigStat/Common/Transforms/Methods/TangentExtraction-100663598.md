@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Transform](./TangentExtraction-100663598.md) ( [`Signature`](./../../Signature.md) signature )
+[`Signature`](./../../Signature.md)

@@ -8,4 +8,4 @@ Insert a hierarchical list in tree style into the worksheet
 
 
 #### Parameters
-[InsertHierarchicalList](./ExcelHelper-100664036.md) ( [`ExcelWorksheet`](./ExcelHelper-100664036.md) ws, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) row, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) col, [`HierarchyElement`](./../HierarchyElement.md) root, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) title, [`ExcelColor`](./../Excel/ExcelColor.md) color )
+[`ExcelWorksheet`](./ExcelHelper-100664036.md), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`HierarchyElement`](./../HierarchyElement.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`ExcelColor`](./../Excel/ExcelColor.md)

@@ -8,4 +8,4 @@ Insert legend
 
 
 #### Parameters
-[InsertLegend](./ExcelHelper-100664038.md) ( [`ExcelRange`](./ExcelHelper-100664038.md) range, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) text, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) title, [`ExcelColor`](./../Excel/ExcelColor.md) color )
+[`ExcelRange`](./ExcelHelper-100664038.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`ExcelColor`](./../Excel/ExcelColor.md)

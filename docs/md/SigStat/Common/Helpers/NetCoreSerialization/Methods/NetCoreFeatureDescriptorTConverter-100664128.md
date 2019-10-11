@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Write](./NetCoreFeatureDescriptorTConverter-100664128.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter) writer, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) value, [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) options )
+[`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions)

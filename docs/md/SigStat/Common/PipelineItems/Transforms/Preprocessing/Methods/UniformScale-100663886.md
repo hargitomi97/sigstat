@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Transform](./UniformScale-100663886.md) ( [`Signature`](./../../../../Signature.md) signature )
+[`Signature`](./../../../../Signature.md)

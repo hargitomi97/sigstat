@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Transform](./ComponentsToFeatures-100663582.md) ( [`Signature`](./../../Signature.md) signature )
+[`Signature`](./../../Signature.md)

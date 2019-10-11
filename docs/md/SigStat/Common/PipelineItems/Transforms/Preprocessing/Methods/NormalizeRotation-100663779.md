@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Transform](./NormalizeRotation-100663779.md) ( [`Signature`](./../../../../Signature.md) signature )
+[`Signature`](./../../../../Signature.md)

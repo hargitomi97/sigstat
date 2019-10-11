@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Transform](./HSCPThinning-100663664.md) ( [`Signature`](./../../Signature.md) signature )
+[`Signature`](./../../Signature.md)

@@ -8,4 +8,3 @@ Enumerates all signers of the database
 
 
 #### Parameters
-[EnumerateSigners](./IDataSetLoader-100663923.md) (  )

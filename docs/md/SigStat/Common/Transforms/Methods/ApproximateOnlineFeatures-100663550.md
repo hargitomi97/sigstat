@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Transform](./ApproximateOnlineFeatures-100663550.md) ( [`Signature`](./../../Signature.md) signature )
+[`Signature`](./../../Signature.md)

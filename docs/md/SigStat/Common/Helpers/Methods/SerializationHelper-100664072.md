@@ -8,4 +8,4 @@ Constructs object from file given by a path
 
 
 #### Parameters
-[DeserializeFromFile](./SerializationHelper-100664072.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path )
+[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)

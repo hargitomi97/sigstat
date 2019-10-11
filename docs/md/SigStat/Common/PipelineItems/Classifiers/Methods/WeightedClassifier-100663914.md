@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Test](./WeightedClassifier-100663914.md) ( [`ISignerModel`](./../../../Pipeline/ISignerModel.md) model, [`Signature`](./../../../Signature.md) signature )
+[`ISignerModel`](./../../../Pipeline/ISignerModel.md), [`Signature`](./../../../Signature.md)

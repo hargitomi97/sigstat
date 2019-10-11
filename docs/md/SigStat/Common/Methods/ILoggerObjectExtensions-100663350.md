@@ -8,4 +8,4 @@ Formats and writes an warning log message.
 
 
 #### Parameters
-[LogWarning](./ILoggerObjectExtensions-100663350.md) ( [`ILoggerObject`](./../ILoggerObject.md) obj, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) message, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[] args )
+[`ILoggerObject`](./../ILoggerObject.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[]

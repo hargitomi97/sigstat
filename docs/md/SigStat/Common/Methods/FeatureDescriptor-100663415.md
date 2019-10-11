@@ -8,4 +8,4 @@ Returns true, if there is a FeatureDescriptor registered with the given key
 
 
 #### Parameters
-[IsRegistered](./FeatureDescriptor-100663415.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) featureKey )
+[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)

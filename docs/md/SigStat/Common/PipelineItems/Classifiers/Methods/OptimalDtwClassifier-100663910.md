@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Test](./OptimalDtwClassifier-100663910.md) ( [`ISignerModel`](./../../../Pipeline/ISignerModel.md) signerModel, [`Signature`](./../../../Signature.md) signature )
+[`ISignerModel`](./../../../Pipeline/ISignerModel.md), [`Signature`](./../../../Signature.md)

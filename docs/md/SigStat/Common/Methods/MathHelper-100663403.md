@@ -8,4 +8,4 @@ Calculates the median of the given data series
 
 
 #### Parameters
-[Median](./MathHelper-100663403.md) ( [`IEnumerable`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> values )
+[`IEnumerable`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>

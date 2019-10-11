@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[CanConvert](./NetCoreFeatureDescriptorDictionaryConverter-100664119.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType )
+[`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)

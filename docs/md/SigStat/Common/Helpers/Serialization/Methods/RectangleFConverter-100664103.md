@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[WriteJson](./RectangleFConverter-100664103.md) ( [`JsonWriter`](./RectangleFConverter-100664103.md) writer, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) value, [`JsonSerializer`](./RectangleFConverter-100664103.md) serializer )
+[`JsonWriter`](./RectangleFConverter-100664103.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./RectangleFConverter-100664103.md)

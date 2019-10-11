@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Test](./IClassifier-100663479.md) ( [`ISignerModel`](./../ISignerModel.md) model, [`Signature`](./../../Signature.md) signature )
+[`ISignerModel`](./../ISignerModel.md), [`Signature`](./../../Signature.md)

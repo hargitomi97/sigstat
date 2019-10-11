@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Transform](./SampleRate-100663845.md) ( [`Signature`](./../../../../Signature.md) signature )
+[`Signature`](./../../../../Signature.md)

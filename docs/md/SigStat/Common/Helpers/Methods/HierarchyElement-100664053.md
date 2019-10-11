@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Add](./HierarchyElement-100664053.md) ( [`HierarchyElement`](./../HierarchyElement.md) child )
+[`HierarchyElement`](./../HierarchyElement.md)

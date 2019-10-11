@@ -8,4 +8,3 @@
 
 
 #### Parameters
-[GetEnumerator](./ParallelTransformPipeline-100663503.md) (  )

@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Transform](./SimpleRenderingTransformation-100663461.md) ( [`Signature`](./../Signature.md) signature )
+[`Signature`](./../Signature.md)

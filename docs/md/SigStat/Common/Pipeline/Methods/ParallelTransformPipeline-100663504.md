@@ -8,4 +8,4 @@ Add new transform to the list.
 
 
 #### Parameters
-[Add](./ParallelTransformPipeline-100663504.md) ( [`ITransformation`](./../../ITransformation.md) newItem )
+[`ITransformation`](./../../ITransformation.md)

@@ -8,4 +8,4 @@ Does one step of the thinning. Call it iteratively while ResultChanged.
 
 
 #### Parameters
-[Scan](./HSCPThinningStep-100664210.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] b )
+[`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]

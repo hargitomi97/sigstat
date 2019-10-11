@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[BeginScope](./SimpleConsoleLogger-100664082.md) ( [`TState`](./SimpleConsoleLogger-100664082.md) state )
+[`TState`](./SimpleConsoleLogger-100664082.md)

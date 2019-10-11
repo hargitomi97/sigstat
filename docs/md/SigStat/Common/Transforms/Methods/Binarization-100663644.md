@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Transform](./Binarization-100663644.md) ( [`Signature`](./../../Signature.md) signature )
+[`Signature`](./../../Signature.md)

@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Transform](./EndpointExtraction-100663590.md) ( [`Signature`](./../../Signature.md) signature )
+[`Signature`](./../../Signature.md)

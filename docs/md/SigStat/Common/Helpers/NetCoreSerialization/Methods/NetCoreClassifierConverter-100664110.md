@@ -8,4 +8,4 @@
 
 
 #### Parameters
-[Write](./NetCoreClassifierConverter-100664110.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter) writer, [`OptimalDtwClassifier`](./../../../PipelineItems/Classifiers/OptimalDtwClassifier.md) value, [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) options )
+[`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`OptimalDtwClassifier`](./../../../PipelineItems/Classifiers/OptimalDtwClassifier.md), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions)

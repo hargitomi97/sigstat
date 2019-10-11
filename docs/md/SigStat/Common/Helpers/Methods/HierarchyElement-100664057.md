@@ -8,4 +8,3 @@ Returns an enumerator that iterates through the collection.
 
 
 #### Parameters
-[GetEnumerator](./HierarchyElement-100664057.md) (  )
