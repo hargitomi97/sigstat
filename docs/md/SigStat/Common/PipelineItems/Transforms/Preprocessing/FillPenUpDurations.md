@@ -13,24 +13,24 @@ This transformation will fill "holes" in the "Time" feature by interpolating the
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>FillPenUpDurations (  )</sub><img width=50>| <sub></sub>| <br>
+| <sub>FillPenUpDurations (  )</sub><img width=80>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputFeatures</sub><img width=50>| <sub>Gets or sets the features of an online signature that need to be altered</sub>| <br>
-| <sub>InterpolationType</sub><img width=50>| <sub>An implementation of [IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md)</sub>| <br>
-| <sub>OutputFeatures</sub><img width=50>| <sub>Gets or sets the features of an online signature that were altered</sub>| <br>
-| <sub>TimeInputFeature</sub><img width=50>| <sub>Gets or sets the feature representing the timestamps of an online signature</sub>| <br>
-| <sub>TimeOutputFeature</sub><img width=50>| <sub>Gets or sets the feature representing the modified timestamps of an online signature</sub>| <br>
+| <sub>InputFeatures</sub><img width=80>| <sub>Gets or sets the features of an online signature that need to be altered</sub>| <br>
+| <sub>InterpolationType</sub><img width=80>| <sub>An implementation of [IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md)</sub>| <br>
+| <sub>OutputFeatures</sub><img width=80>| <sub>Gets or sets the features of an online signature that were altered</sub>| <br>
+| <sub>TimeInputFeature</sub><img width=80>| <sub>Gets or sets the feature representing the timestamps of an online signature</sub>| <br>
+| <sub>TimeOutputFeature</sub><img width=80>| <sub>Gets or sets the feature representing the modified timestamps of an online signature</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/FillPenUpDurations-100663741.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=50>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/FillPenUpDurations-100663741.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=80>| <sub></sub>| <br>
 
 

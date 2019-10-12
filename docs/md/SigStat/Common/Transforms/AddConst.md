@@ -13,21 +13,21 @@ Adds a constant value to a feature. Works with collection features too.  <br>Def
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><img width=50>| <sub>Initializes a new instance of the [AddConst](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) class with specified settings.</sub>| <br>
+| <sub>AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><img width=80>| <sub>Initializes a new instance of the [AddConst](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) class with specified settings.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Input</sub><img width=50>| <sub>Input values for trasformation</sub>| <br>
-| <sub>Output</sub><img width=50>| <sub>Output feature to store results</sub>| <br>
+| <sub>Input</sub><img width=80>| <sub>Input values for trasformation</sub>| <br>
+| <sub>Output</sub><img width=80>| <sub>Output feature to store results</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/AddConst-100663605.md) ( [`Signature`](./../Signature.md) )</sub><img width=50>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/AddConst-100663605.md) ( [`Signature`](./../Signature.md) )</sub><img width=80>| <sub></sub>| <br>
 
 

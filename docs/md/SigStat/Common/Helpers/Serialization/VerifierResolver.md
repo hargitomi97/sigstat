@@ -13,6 +13,6 @@ Custom resolver for customizing the json serialization
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>VerifierResolver (  )</sub><img width=50>| <sub></sub>| <br>
+| <sub>VerifierResolver (  )</sub><img width=80>| <sub></sub>| <br>
 
 

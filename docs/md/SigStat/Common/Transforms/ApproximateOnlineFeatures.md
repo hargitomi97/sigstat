@@ -13,13 +13,13 @@ init Pressure, Altitude, Azimuth features with default values.  <br>Default Pipe
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ApproximateOnlineFeatures (  )</sub><img width=50>| <sub></sub>| <br>
+| <sub>ApproximateOnlineFeatures (  )</sub><img width=80>| <sub></sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/ApproximateOnlineFeatures-100663550.md) ( [`Signature`](./../Signature.md) )</sub><img width=50>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/ApproximateOnlineFeatures-100663550.md) ( [`Signature`](./../Signature.md) )</sub><img width=80>| <sub></sub>| <br>
 
 

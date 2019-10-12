@@ -11,14 +11,14 @@ Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/b
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Output ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img width=50>| <sub>Initializes a new instance of the [Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>| <br>
-| <sub>Output (  )</sub><img width=50>| <sub>Initializes a new instance of the [Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>| <br>
+| <sub>Output ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img width=80>| <sub>Initializes a new instance of the [Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>| <br>
+| <sub>Output (  )</sub><img width=80>| <sub>Initializes a new instance of the [Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>| <br>
 
 
 ## Fields
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Default</sub><img width=50>| <sub>The default value for the property</sub>| <br>
+| <sub>Default</sub><img width=80>| <sub>The default value for the property</sub>| <br>
 
 
