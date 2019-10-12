@@ -9,7 +9,7 @@ Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/b
 
 ## Constructors
 
-| Name<img width=200> | Summary<img width=200> | 
+| Name<img width=300> | Summary<img width=300> | 
 | --- | --- | 
 | <sub>Output ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub>Initializes a new instance of the [Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>| <br>
 | <sub>Output (  )</sub>| <sub>Initializes a new instance of the [Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class.</sub>| <br>
@@ -17,7 +17,7 @@ Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/b
 
 ## Fields
 
-| Name<img width=200> | Summary<img width=200> | 
+| Name<img width=300> | Summary<img width=300> | 
 | --- | --- | 
 | <sub>Default</sub>| <sub>The default value for the property</sub>| <br>
 

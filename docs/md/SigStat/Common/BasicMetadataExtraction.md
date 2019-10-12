@@ -11,21 +11,21 @@ Extracts basic statistical signature (like [Bounds](https://github.com/hargitomi
 
 ## Constructors
 
-| Name<img width=200> | Summary<img width=200> | 
+| Name<img width=300> | Summary<img width=300> | 
 | --- | --- | 
 | <sub>BasicMetadataExtraction (  )</sub>| <sub></sub>| <br>
 
 
 ## Methods
 
-| Name<img width=200> | Summary<img width=200> | 
+| Name<img width=300> | Summary<img width=300> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/BasicMetadataExtraction-100663458.md) ( [`Signature`](./Signature.md) )</sub>| <sub></sub>| <br>
 
 
 ## Static Properties
 
-| Name<img width=200> | Summary<img width=200> | 
+| Name<img width=300> | Summary<img width=300> | 
 | --- | --- | 
 | <sub>Trim</sub>| <sub>Represents theratio of significant pixels that should be trimmed  from each side while calculating [TrimmedBounds](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub>| <br>
 

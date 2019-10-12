@@ -8,7 +8,7 @@ Default strategy to set the value of a property
 
 ##	Enum
 
-| Value<img width=200> | Name<img width=200> | Summary<img width=200> | 
+| Value<img width=300> | Name<img width=300> | Summary<img width=300> | 
 | --- | --- | --- | 
 | 0| IfNull| Set the value if it is null| <br>
 | 1| Always| Always set the value| <br>

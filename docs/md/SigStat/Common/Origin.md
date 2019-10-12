@@ -8,7 +8,7 @@ Represents our knowledge on the origin of a signature.
 
 ##	Enum
 
-| Value<img width=200> | Name<img width=200> | Summary<img width=200> | 
+| Value<img width=300> | Name<img width=300> | Summary<img width=300> | 
 | --- | --- | --- | 
 | 0| Unknown| Use this in practice before a signature is verified.| <br>
 | 1| Genuine| The [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)'s origin is verified to be from [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md)| <br>

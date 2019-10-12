@@ -11,14 +11,14 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 ## Constructors
 
-| Name<img width=200> | Summary<img width=200> | 
+| Name<img width=300> | Summary<img width=300> | 
 | --- | --- | 
 | <sub>UniformScale (  )</sub>| <sub></sub>| <br>
 
 
 ## Properties
 
-| Name<img width=200> | Summary<img width=200> | 
+| Name<img width=300> | Summary<img width=300> | 
 | --- | --- | 
 | <sub>BaseDimension</sub>| <sub>Gets or sets the base dimension.</sub>| <br>
 | <sub>BaseDimensionOutput</sub>| <sub>Gets or sets the output base dimension output.</sub>| <br>
@@ -31,7 +31,7 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 ## Methods
 
-| Name<img width=200> | Summary<img width=200> | 
+| Name<img width=300> | Summary<img width=300> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/UniformScale-100663886.md) ( [`Signature`](./../../../Signature.md) )</sub>| <sub></sub>| <br>
 

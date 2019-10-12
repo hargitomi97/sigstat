@@ -9,7 +9,7 @@ Standard event identifiers used by the SigStat system
 
 ## Static Fields
 
-| Name<img width=200> | Summary<img width=200> | 
+| Name<img width=300> | Summary<img width=300> | 
 | --- | --- | 
 | <sub>BenchmarkEvent</sub>| <sub>Events originating from a benchmark</sub>| <br>
 | <sub>VerifierEvent</sub>| <sub>Events originating from a verifier</sub>| <br>

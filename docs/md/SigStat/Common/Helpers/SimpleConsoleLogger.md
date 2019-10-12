@@ -11,7 +11,7 @@ A easy-to-use class to log pipeline messages, complete with filtering levels and
 
 ## Constructors
 
-| Name<img width=200> | Summary<img width=200> | 
+| Name<img width=300> | Summary<img width=300> | 
 | --- | --- | 
 | <sub>SimpleConsoleLogger (  )</sub>| <sub>Initializes a SimpleConsoleLogger instance with LogLevel set to LogLevel.Information</sub>| <br>
 | <sub>SimpleConsoleLogger ( [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel) )</sub>| <sub>Initializes an instance of SimpleConsoleLogger with a custom LogLevel</sub>| <br>
@@ -19,14 +19,14 @@ A easy-to-use class to log pipeline messages, complete with filtering levels and
 
 ## Properties
 
-| Name<img width=200> | Summary<img width=200> | 
+| Name<img width=300> | Summary<img width=300> | 
 | --- | --- | 
 | <sub>LogLevel</sub>| <sub>All events below this level will be filtered</sub>| <br>
 
 
 ## Methods
 
-| Name<img width=200> | Summary<img width=200> | 
+| Name<img width=300> | Summary<img width=300> | 
 | --- | --- | 
 | <sub>[BeginScope](./Methods/SimpleConsoleLogger-100664082.md) ( [`TState`](./SimpleConsoleLogger.md) )</sub>| <sub></sub>| <br>
 | <sub>[IsEnabled](./Methods/SimpleConsoleLogger-100664083.md) ( [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel) )</sub>| <sub></sub>| <br>
@@ -35,7 +35,7 @@ A easy-to-use class to log pipeline messages, complete with filtering levels and
 
 ## Events
 
-| Name<img width=200> | Summary<img width=200> | 
+| Name<img width=300> | Summary<img width=300> | 
 | --- | --- | 
 | <sub>Logged</sub>| <sub>Occurs when an error is logged</sub>| <br>
 
