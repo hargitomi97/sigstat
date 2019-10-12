@@ -13,30 +13,30 @@ Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the 
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ParallelTransformPipeline (  )</sub><img width=100>| <sub></sub>| <br>
+| <sub>ParallelTransformPipeline (  )</sub><img width=50>| <sub></sub>| <br>
 
 
 ## Fields
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Items</sub><img width=100>| <sub>List of transforms to be run parallel.</sub>| <br>
+| <sub>Items</sub><img width=50>| <sub>List of transforms to be run parallel.</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>PipelineInputs</sub><img width=100>| <sub>Gets the pipeline inputs.</sub>| <br>
-| <sub>PipelineOutputs</sub><img width=100>| <sub>Gets the pipeline outputs.</sub>| <br>
+| <sub>PipelineInputs</sub><img width=50>| <sub>Gets the pipeline inputs.</sub>| <br>
+| <sub>PipelineOutputs</sub><img width=50>| <sub>Gets the pipeline outputs.</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Add](./Methods/ParallelTransformPipeline-100663504.md) ( [`ITransformation`](./../ITransformation.md) )</sub><img width=100>| <sub>Add new transform to the list.</sub>| <br>
-| <sub>[GetEnumerator](./Methods/ParallelTransformPipeline-100663503.md) (  )</sub><img width=100>| <sub></sub>| <br>
-| <sub>[Transform](./Methods/ParallelTransformPipeline-100663505.md) ( [`Signature`](./../Signature.md) )</sub><img width=100>| <sub>Executes transform [Items](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) parallel.  Passes input features for each.  Output is a range of all the Item outputs.</sub>| <br>
+| <sub>[Add](./Methods/ParallelTransformPipeline-100663504.md) ( [`ITransformation`](./../ITransformation.md) )</sub><img width=50>| <sub>Add new transform to the list.</sub>| <br>
+| <sub>[GetEnumerator](./Methods/ParallelTransformPipeline-100663503.md) (  )</sub><img width=50>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/ParallelTransformPipeline-100663505.md) ( [`Signature`](./../Signature.md) )</sub><img width=50>| <sub>Executes transform [Items](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) parallel.  Passes input features for each.  Output is a range of all the Item outputs.</sub>| <br>
 
 

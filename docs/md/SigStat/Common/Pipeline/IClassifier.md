@@ -11,7 +11,7 @@ Trains classification models based on reference signatures
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Test](./Methods/IClassifier-100663479.md) ( [`ISignerModel`](./ISignerModel.md), [`Signature`](./../Signature.md) )</sub><img width=100>| <sub></sub>| <br>
-| <sub>[Train](./Methods/IClassifier-100663478.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> )</sub><img width=100>| <sub>Trains a model based on the signatures and returns the trained model</sub>| <br>
+| <sub>[Test](./Methods/IClassifier-100663479.md) ( [`ISignerModel`](./ISignerModel.md), [`Signature`](./../Signature.md) )</sub><img width=50>| <sub></sub>| <br>
+| <sub>[Train](./Methods/IClassifier-100663478.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> )</sub><img width=50>| <sub>Trains a model based on the signatures and returns the trained model</sub>| <br>
 
 

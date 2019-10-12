@@ -11,14 +11,14 @@ Represents an interploation algorithm
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>FeatureValues</sub><img width=100>| <sub>Gets or sets the feature values.</sub>| <br>
-| <sub>TimeValues</sub><img width=100>| <sub>Timestamps</sub>| <br>
+| <sub>FeatureValues</sub><img width=50>| <sub>Gets or sets the feature values.</sub>| <br>
+| <sub>TimeValues</sub><img width=50>| <sub>Timestamps</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[GetValue](./Methods/IInterpolation-100663762.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><img width=100>| <sub>Gets the interpolated value at a given timestamp</sub>| <br>
+| <sub>[GetValue](./Methods/IInterpolation-100663762.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><img width=50>| <sub>Gets the interpolated value at a given timestamp</sub>| <br>
 
 

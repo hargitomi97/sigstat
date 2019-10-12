@@ -11,13 +11,13 @@ Selects the first N signatures for training
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>LastNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><img width=100>| <sub>Constructor</sub>| <br>
+| <sub>LastNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub><img width=50>| <sub>Constructor</sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>N</sub><img width=100>| <sub>Count of signatures used for training</sub>| <br>
+| <sub>N</sub><img width=50>| <sub>Count of signatures used for training</sub>| <br>
 
 
