@@ -13,22 +13,22 @@ Generates a binary raster version of the input image with the iterative threshol
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>Binarization (  )</sub><img width=160>| <sub>Initializes a new instance of the [Binarization](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Binarization.md) class with default settings: Iterative threshold and [Dark](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md).</sub>| <br>
-| <sub>Binarization ( [`ForegroundType`](./Binarization.md), [`Nullable`](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub><img width=160>| <sub></sub>| <br>
+| <sub>Binarization (  )</sub><img width=100>| <sub>Initializes a new instance of the [Binarization](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Binarization.md) class with default settings: Iterative threshold and [Dark](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md).</sub>| <br>
+| <sub>Binarization ( [`ForegroundType`](./Binarization.md), [`Nullable`](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub><img width=100>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputImage</sub><img width=160>| <sub>Gets or sets the featuredescriptor of the input image.</sub>| <br>
-| <sub>OutputMask</sub><img width=160>| <sub>Gets or sets the featuredescriptor of a the binarized image.</sub>| <br>
+| <sub>InputImage</sub><img width=100>| <sub>Gets or sets the featuredescriptor of the input image.</sub>| <br>
+| <sub>OutputMask</sub><img width=100>| <sub>Gets or sets the featuredescriptor of a the binarized image.</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/Binarization-100663644.md) ( [`Signature`](./../Signature.md) )</sub><img width=160>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/Binarization-100663644.md) ( [`Signature`](./../Signature.md) )</sub><img width=100>| <sub></sub>| <br>
 
 

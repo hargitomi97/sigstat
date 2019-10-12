@@ -13,21 +13,21 @@ Cubic interpolation algorithm
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>CubicInterpolation (  )</sub><img width=160>| <sub></sub>| <br>
+| <sub>CubicInterpolation (  )</sub><img width=100>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>FeatureValues</sub><img width=160>| <sub>FeatureValues</sub>| <br>
-| <sub>TimeValues</sub><img width=160>| <sub>TimeValues</sub>| <br>
+| <sub>FeatureValues</sub><img width=100>| <sub>FeatureValues</sub>| <br>
+| <sub>TimeValues</sub><img width=100>| <sub>TimeValues</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[GetValue](./Methods/CubicInterpolation-100663729.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><img width=160>| <sub>Gets the value.</sub>| <br>
+| <sub>[GetValue](./Methods/CubicInterpolation-100663729.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub><img width=100>| <sub>Gets the value.</sub>| <br>
 
 

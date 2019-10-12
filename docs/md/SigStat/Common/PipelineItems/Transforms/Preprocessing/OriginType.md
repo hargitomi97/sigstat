@@ -10,9 +10,9 @@ Origin specification for [TranslatePreproc](https://github.com/hargitomi97/sigst
 
 | Value | Name | Summary | 
 | --- | --- | --- | 
-| 0<img width=160>| CenterOfGravity| Center of gravity<img width=160>| <br>
-| 1<img width=160>| Minimum| Minimum<img width=160>| <br>
-| 2<img width=160>| Maximum| Maximum<img width=160>| <br>
-| 3<img width=160>| Predefined| Predefined<img width=160>| <br>
+| 0<img width=100>| CenterOfGravity| Center of gravity<img width=100>| <br>
+| 1<img width=100>| Minimum| Minimum<img width=100>| <br>
+| 2<img width=100>| Maximum| Maximum<img width=100>| <br>
+| 3<img width=100>| Predefined| Predefined<img width=100>| <br>
 
 

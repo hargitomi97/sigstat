@@ -13,25 +13,25 @@ Resamples an online signature to a specific sample count using the specified [II
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>ResampleSamplesCountBased (  )</sub><img width=160>| <sub></sub>| <br>
+| <sub>ResampleSamplesCountBased (  )</sub><img width=100>| <sub></sub>| <br>
 
 
 ## Properties
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>InputFeatures</sub><img width=160>| <sub>Gets or sets the input features.</sub>| <br>
-| <sub>InterpolationType</sub><img width=160>| <sub>Gets or sets the type of the interpolation. <seealso cref="T:SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation" /></sub>| <br>
-| <sub>NumOfSamples</sub><img width=160>| <sub>Gets or sets the number of samples.</sub>| <br>
-| <sub>OriginalTFeature</sub><img width=160>| <sub>Gets or sets the input timestamp feature.</sub>| <br>
-| <sub>OutputFeatures</sub><img width=160>| <sub>Gets or sets the resampled  features.</sub>| <br>
-| <sub>ResampledTFeature</sub><img width=160>| <sub>Gets or sets the resampled timestamp feature.</sub>| <br>
+| <sub>InputFeatures</sub><img width=100>| <sub>Gets or sets the input features.</sub>| <br>
+| <sub>InterpolationType</sub><img width=100>| <sub>Gets or sets the type of the interpolation. <seealso cref="T:SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation" /></sub>| <br>
+| <sub>NumOfSamples</sub><img width=100>| <sub>Gets or sets the number of samples.</sub>| <br>
+| <sub>OriginalTFeature</sub><img width=100>| <sub>Gets or sets the input timestamp feature.</sub>| <br>
+| <sub>OutputFeatures</sub><img width=100>| <sub>Gets or sets the resampled  features.</sub>| <br>
+| <sub>ResampledTFeature</sub><img width=100>| <sub>Gets or sets the resampled timestamp feature.</sub>| <br>
 
 
 ## Methods
 
 | Name | Summary | 
 | --- | --- | 
-| <sub>[Transform](./Methods/ResampleSamplesCountBased-100663829.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=160>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/ResampleSamplesCountBased-100663829.md) ( [`Signature`](./../../../Signature.md) )</sub><img width=100>| <sub></sub>| <br>
 
 
