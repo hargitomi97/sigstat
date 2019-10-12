@@ -8,7 +8,7 @@ Describes the type of a stroke
 
 ##	Enum
 
-| Value<img width=400> | Name<img width=400> | Summary<img width=400> | 
+| Value<img width=450> | Name<img width=450> | Summary<img width=450> | 
 | --- | --- | --- | 
 | 0| Unknown| The type of the stroke is not known| <br>
 | 1| Up| The stroke was made in the air (the pen did not tuch the tablet/paper)| <br>

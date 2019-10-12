@@ -11,7 +11,7 @@ Sequential pipeline to reset time values to begin at 0.  The following Transform
 
 ## Constructors
 
-| Name<img width=400> | Summary<img width=400> | 
+| Name<img width=450> | Summary<img width=450> | 
 | --- | --- | 
 | <sub>TimeReset (  )</sub>| <sub>Initializes a new instance of the [TimeReset](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/TimeReset.md) class.</sub>| <br>
 

@@ -11,14 +11,14 @@ Extracts EndPoints and CrossingPoints from Skeleton.  <br>Default Pipeline Input
 
 ## Constructors
 
-| Name<img width=400> | Summary<img width=400> | 
+| Name<img width=450> | Summary<img width=450> | 
 | --- | --- | 
 | <sub>EndpointExtraction (  )</sub>| <sub></sub>| <br>
 
 
 ## Properties
 
-| Name<img width=400> | Summary<img width=400> | 
+| Name<img width=450> | Summary<img width=450> | 
 | --- | --- | 
 | <sub>OutputCrossingPoints</sub>| <sub>OutputCrossingPoints</sub>| <br>
 | <sub>OutputEndpoints</sub>| <sub>OutputEndpoints</sub>| <br>
@@ -27,7 +27,7 @@ Extracts EndPoints and CrossingPoints from Skeleton.  <br>Default Pipeline Input
 
 ## Methods
 
-| Name<img width=400> | Summary<img width=400> | 
+| Name<img width=450> | Summary<img width=450> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/EndpointExtraction-100663590.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| <br>
 
