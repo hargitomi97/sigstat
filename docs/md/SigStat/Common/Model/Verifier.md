@@ -11,7 +11,7 @@ Uses pipelines to transform, train on, and classify [Signature](https://github.c
 
 ## Constructors
 
-| Name<img width=300> | Summary<img width=300> | 
+| Name<img width=400> | Summary<img width=400> | 
 | --- | --- | 
 | <sub>Verifier ( [`ILogger`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger) )</sub>| <sub>Initializes a new instance of the [Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) class</sub>| <br>
 | <sub>Verifier (  )</sub>| <sub>Initializes a new instance of the [Verifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) class.</sub>| <br>
@@ -20,7 +20,7 @@ Uses pipelines to transform, train on, and classify [Signature](https://github.c
 
 ## Properties
 
-| Name<img width=300> | Summary<img width=300> | 
+| Name<img width=400> | Summary<img width=400> | 
 | --- | --- | 
 | <sub>AllFeatures</sub>| <sub>This property is used by the Serializer to access a list of all FeatureDescriptors</sub>| <br>
 | <sub>Classifier</sub>| <sub>Gets or sets the classifier pipeline. Hands over the Logger object.</sub>| <br>
@@ -31,7 +31,7 @@ Uses pipelines to transform, train on, and classify [Signature](https://github.c
 
 ## Methods
 
-| Name<img width=300> | Summary<img width=300> | 
+| Name<img width=400> | Summary<img width=400> | 
 | --- | --- | 
 | <sub>[Test](./Methods/Verifier-100664171.md) ( [`Signature`](./../Signature.md) )</sub>| <sub>Verifies the genuinity of `signature`.</sub>| <br>
 | <sub>[Train](./Methods/Verifier-100664170.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> )</sub>| <sub>Trains the verifier with a list of signatures. Uses the [Pipeline](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to extract features,  and [Classifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to find an optimized limit.</sub>| <br>

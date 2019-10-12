@@ -9,7 +9,7 @@ Common mathematical functions used by the SigStat framework
 
 ## Static Methods
 
-| Name<img width=300> | Summary<img width=300> | 
+| Name<img width=400> | Summary<img width=400> | 
 | --- | --- | 
 | <sub>[Median](./Methods/MathHelper-100663403.md) ( [`IEnumerable`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub>| <sub>Calculates the median of the given data series</sub>| <br>
 | <sub>[Min](./Methods/MathHelper-100663402.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub>| <sub>Returns the smallest of the three double parameters</sub>| <br>

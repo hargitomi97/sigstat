@@ -11,7 +11,7 @@ Custom resolver for customizing the json serialization
 
 ## Constructors
 
-| Name<img width=300> | Summary<img width=300> | 
+| Name<img width=400> | Summary<img width=400> | 
 | --- | --- | 
 | <sub>VerifierResolver (  )</sub>| <sub></sub>| <br>
 

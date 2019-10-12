@@ -9,14 +9,14 @@ Represents a person as an [ID](https://github.com/hargitomi97/sigstat/blob/maste
 
 ## Constructors
 
-| Name<img width=300> | Summary<img width=300> | 
+| Name<img width=400> | Summary<img width=400> | 
 | --- | --- | 
 | <sub>Signer (  )</sub>| <sub></sub>| <br>
 
 
 ## Properties
 
-| Name<img width=300> | Summary<img width=300> | 
+| Name<img width=400> | Summary<img width=400> | 
 | --- | --- | 
 | <sub>ID</sub>| <sub>An identifier for the Signer. Keep it unique to be useful for logs.</sub>| <br>
 | <sub>Signatures</sub>| <sub>List of signatures that belong to the signer.  (Their origin is not constrained to be genuine.)</sub>| <br>
@@ -24,7 +24,7 @@ Represents a person as an [ID](https://github.com/hargitomi97/sigstat/blob/maste
 
 ## Methods
 
-| Name<img width=300> | Summary<img width=300> | 
+| Name<img width=400> | Summary<img width=400> | 
 | --- | --- | 
 | <sub>[ToString](./Methods/Signer-100663454.md) (  )</sub>| <sub>Returns a string representation of a Signer</sub>| <br>
 

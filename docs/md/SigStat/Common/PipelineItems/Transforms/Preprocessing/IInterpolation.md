@@ -9,7 +9,7 @@ Represents an interploation algorithm
 
 ## Properties
 
-| Name<img width=300> | Summary<img width=300> | 
+| Name<img width=400> | Summary<img width=400> | 
 | --- | --- | 
 | <sub>FeatureValues</sub>| <sub>Gets or sets the feature values.</sub>| <br>
 | <sub>TimeValues</sub>| <sub>Timestamps</sub>| <br>
@@ -17,7 +17,7 @@ Represents an interploation algorithm
 
 ## Methods
 
-| Name<img width=300> | Summary<img width=300> | 
+| Name<img width=400> | Summary<img width=400> | 
 | --- | --- | 
 | <sub>[GetValue](./Methods/IInterpolation-100663762.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub>| <sub>Gets the interpolated value at a given timestamp</sub>| <br>
 
