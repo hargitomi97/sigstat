@@ -9,7 +9,7 @@ Represents a feature with name and type.
 
 ## Properties
 
-| Name<img width=450> | Summary<img width=450> | 
+| Name<img width=475> | Summary<img width=475> | 
 | --- | --- | 
 | <sub>FeatureType</sub>| <sub>Gets or sets the type of the feature.</sub>| <br>
 | <sub>IsCollection</sub>| <sub>Gets whether the type of the feature is List.</sub>| <br>
@@ -19,14 +19,14 @@ Represents a feature with name and type.
 
 ## Methods
 
-| Name<img width=450> | Summary<img width=450> | 
+| Name<img width=475> | Summary<img width=475> | 
 | --- | --- | 
 | <sub>[ToString](./Methods/FeatureDescriptor-100663420.md) (  )</sub>| <sub>Returns a string represenatation of the FeatureDescriptor</sub>| <br>
 
 
 ## Static Methods
 
-| Name<img width=450> | Summary<img width=450> | 
+| Name<img width=475> | Summary<img width=475> | 
 | --- | --- | 
 | <sub>[Get](./Methods/FeatureDescriptor-100663417.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub>Gets the [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) specified by `key`.  Throws [System.Collections.Generic.KeyNotFoundException](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.KeyNotFoundException) exception if there is no descriptor registered with the given key.</sub>| <br>
 | <sub>[Get](./Methods/FeatureDescriptor-100663419.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub>Gets the [FeatureDescriptor-1](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor-1.md) specified by `key`.  If the key is not registered yet, a new [FeatureDescriptor-1](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor-1.md) is automatically created with the given key and type.</sub>| <br>

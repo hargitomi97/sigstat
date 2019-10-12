@@ -11,14 +11,14 @@ Performs rotation normalization on the online signature
 
 ## Constructors
 
-| Name<img width=450> | Summary<img width=450> | 
+| Name<img width=475> | Summary<img width=475> | 
 | --- | --- | 
 | <sub>NormalizeRotation (  )</sub>| <sub></sub>| <br>
 
 
 ## Properties
 
-| Name<img width=450> | Summary<img width=450> | 
+| Name<img width=475> | Summary<img width=475> | 
 | --- | --- | 
 | <sub>InputT</sub>| <sub>Gets or sets the input feature representing the timestamps of an online signature</sub>| <br>
 | <sub>InputX</sub>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>| <br>
@@ -29,7 +29,7 @@ Performs rotation normalization on the online signature
 
 ## Methods
 
-| Name<img width=450> | Summary<img width=450> | 
+| Name<img width=475> | Summary<img width=475> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/NormalizeRotation-100663779.md) ( [`Signature`](./../../../Signature.md) )</sub>| <sub></sub>| <br>
 

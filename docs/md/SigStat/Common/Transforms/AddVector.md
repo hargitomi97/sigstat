@@ -11,14 +11,14 @@ Adds a vector feature's elements to other features.  <br>Default Pipeline Output
 
 ## Constructors
 
-| Name<img width=450> | Summary<img width=450> | 
+| Name<img width=475> | Summary<img width=475> | 
 | --- | --- | 
 | <sub>AddVector ( [`FeatureDescriptor`](./../FeatureDescriptor-1.md)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> )</sub>| <sub>Initializes a new instance of the [AddVector](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddVector.md) class with a vector feature.  Don't forget to add as many Inputs as the vector's dimension.</sub>| <br>
 
 
 ## Properties
 
-| Name<img width=450> | Summary<img width=450> | 
+| Name<img width=475> | Summary<img width=475> | 
 | --- | --- | 
 | <sub>Inputs</sub>| <sub>Inputs</sub>| <br>
 | <sub>Outputs</sub>| <sub>Outputs</sub>| <br>
@@ -26,7 +26,7 @@ Adds a vector feature's elements to other features.  <br>Default Pipeline Output
 
 ## Methods
 
-| Name<img width=450> | Summary<img width=450> | 
+| Name<img width=475> | Summary<img width=475> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/AddVector-100663611.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| <br>
 

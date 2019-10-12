@@ -11,7 +11,7 @@ Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi
 
 ## Constructors
 
-| Name<img width=450> | Summary<img width=450> | 
+| Name<img width=475> | Summary<img width=475> | 
 | --- | --- | 
 | <sub>Translate ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub>| <sub></sub>| <br>
 | <sub>Translate ( [`FeatureDescriptor`](./../FeatureDescriptor-1.md)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> )</sub>| <sub></sub>| <br>
@@ -19,7 +19,7 @@ Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi
 
 ## Properties
 
-| Name<img width=450> | Summary<img width=450> | 
+| Name<img width=475> | Summary<img width=475> | 
 | --- | --- | 
 | <sub>InputX</sub>| <sub>The feature representing the horizontal coordinates of an online signature</sub>| <br>
 | <sub>InputY</sub>| <sub>The feature representing the vertical coordinates of an online signature</sub>| <br>

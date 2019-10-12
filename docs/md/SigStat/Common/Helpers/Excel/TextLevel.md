@@ -8,7 +8,7 @@ Paragraph style setting
 
 ##	Enum
 
-| Value<img width=450> | Name<img width=450> | Summary<img width=450> | 
+| Value<img width=475> | Name<img width=475> | Summary<img width=475> | 
 | --- | --- | --- | 
 | 0| Title| Main title| <br>
 | 1| Heading1| Level 1 heading| <br>
