@@ -9,15 +9,15 @@ Enables progress tracking by expsoing the [Progress](https://github.com/hargitom
 
 ## Properties
 
-| Name | Summary | 
+| Name<img width=200> | Summary<img width=200> | 
 | --- | --- | 
-| <sub>Progress</sub><img width=80>| <sub>Gets the current progress in percentage.</sub>| <br>
+| <sub>Progress</sub>| <sub>Gets the current progress in percentage.</sub>| <br>
 
 
 ## Events
 
-| Name | Summary | 
+| Name<img width=200> | Summary<img width=200> | 
 | --- | --- | 
-| <sub>ProgressChanged</sub><img width=80>| <sub>Invoked whenever the [Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/IProgress.md) property is changed.</sub>| <br>
+| <sub>ProgressChanged</sub>| <sub>Invoked whenever the [Progress](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Helpers/IProgress.md) property is changed.</sub>| <br>
 
 

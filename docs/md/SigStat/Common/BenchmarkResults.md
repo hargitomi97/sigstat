@@ -9,9 +9,9 @@ Contains the benchmark results of every [Signer](https://github.com/hargitomi97/
 
 ## Fields
 
-| Name | Summary | 
+| Name<img width=200> | Summary<img width=200> | 
 | --- | --- | 
-| <sub>FinalResult</sub><img width=80>| <sub>Summarized, final result of the benchmark execution.</sub>| <br>
-| <sub>SignerResults</sub><img width=80>| <sub>List that contains the [Result](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Result.md)s for each [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md)</sub>| <br>
+| <sub>FinalResult</sub>| <sub>Summarized, final result of the benchmark execution.</sub>| <br>
+| <sub>SignerResults</sub>| <sub>List that contains the [Result](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Result.md)s for each [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md)</sub>| <br>
 
 

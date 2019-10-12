@@ -9,20 +9,20 @@ Represents an output for a [PipelineItem](https://github.com/hargitomi97/sigstat
 
 ## Constructors
 
-| Name | Summary | 
+| Name<img width=200> | Summary<img width=200> | 
 | --- | --- | 
-| <sub>PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub><img width=80>| <sub>Initializes a new instance of the [PipelineOutput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineOutput.md) class.</sub>| <br>
+| <sub>PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub>| <sub>Initializes a new instance of the [PipelineOutput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineOutput.md) class.</sub>| <br>
 
 
 ## Properties
 
-| Name | Summary | 
+| Name<img width=200> | Summary<img width=200> | 
 | --- | --- | 
-| <sub>Default</sub><img width=80>| <sub>Gets the default value</sub>| <br>
-| <sub>FD</sub><img width=80>| <sub>Gets or sets the fd.</sub>| <br>
-| <sub>IsCollectionOfFeatureDescriptors</sub><img width=80>| <sub>Gets a value indicating whether this instance is collection of feature descriptors.</sub>| <br>
-| <sub>IsTemporary</sub><img width=80>| <sub>Gets a value indicating whether this instance is temporary.</sub>| <br>
-| <sub>PropName</sub><img width=80>| <sub>Gets the name of the property.</sub>| <br>
-| <sub>Type</sub><img width=80>| <sub>Gets the type of the property</sub>| <br>
+| <sub>Default</sub>| <sub>Gets the default value</sub>| <br>
+| <sub>FD</sub>| <sub>Gets or sets the fd.</sub>| <br>
+| <sub>IsCollectionOfFeatureDescriptors</sub>| <sub>Gets a value indicating whether this instance is collection of feature descriptors.</sub>| <br>
+| <sub>IsTemporary</sub>| <sub>Gets a value indicating whether this instance is temporary.</sub>| <br>
+| <sub>PropName</sub>| <sub>Gets the name of the property.</sub>| <br>
+| <sub>Type</sub>| <sub>Gets the type of the property</sub>| <br>
 
 

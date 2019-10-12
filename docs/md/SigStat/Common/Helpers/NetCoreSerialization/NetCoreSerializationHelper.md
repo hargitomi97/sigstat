@@ -7,19 +7,19 @@ Assembly: SigStat.Common.dll
 
 ## Constructors
 
-| Name | Summary | 
+| Name<img width=200> | Summary<img width=200> | 
 | --- | --- | 
-| <sub>NetCoreSerializationHelper (  )</sub><img width=80>| <sub></sub>| <br>
+| <sub>NetCoreSerializationHelper (  )</sub>| <sub></sub>| <br>
 
 
 ## Static Methods
 
-| Name | Summary | 
+| Name<img width=200> | Summary<img width=200> | 
 | --- | --- | 
-| <sub>[Deserialize](./Methods/NetCoreSerializationHelper-100664135.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img width=80>| <sub></sub>| <br>
-| <sub>[DeserializeFromFile](./Methods/NetCoreSerializationHelper-100664138.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img width=80>| <sub></sub>| <br>
-| <sub>[GetSettings](./Methods/NetCoreSerializationHelper-100664134.md) (  )</sub><img width=80>| <sub></sub>| <br>
-| <sub>[Serialize](./Methods/NetCoreSerializationHelper-100664136.md) ( [`T`](./NetCoreSerializationHelper.md) )</sub><img width=80>| <sub></sub>| <br>
-| <sub>[SerializeToFile](./Methods/NetCoreSerializationHelper-100664137.md) ( [`T`](./NetCoreSerializationHelper.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub><img width=80>| <sub></sub>| <br>
+| <sub>[Deserialize](./Methods/NetCoreSerializationHelper-100664135.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub></sub>| <br>
+| <sub>[DeserializeFromFile](./Methods/NetCoreSerializationHelper-100664138.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub></sub>| <br>
+| <sub>[GetSettings](./Methods/NetCoreSerializationHelper-100664134.md) (  )</sub>| <sub></sub>| <br>
+| <sub>[Serialize](./Methods/NetCoreSerializationHelper-100664136.md) ( [`T`](./NetCoreSerializationHelper.md) )</sub>| <sub></sub>| <br>
+| <sub>[SerializeToFile](./Methods/NetCoreSerializationHelper-100664137.md) ( [`T`](./NetCoreSerializationHelper.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub></sub>| <br>
 
 

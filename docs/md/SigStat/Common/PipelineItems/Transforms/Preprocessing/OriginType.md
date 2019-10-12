@@ -8,11 +8,11 @@ Origin specification for [TranslatePreproc](https://github.com/hargitomi97/sigst
 
 ##	Enum
 
-| Value | Name | Summary | 
+| Value<img width=200> | Name<img width=200> | Summary<img width=200> | 
 | --- | --- | --- | 
-| 0<img width=80>| CenterOfGravity| Center of gravity<img width=80>| <br>
-| 1<img width=80>| Minimum| Minimum<img width=80>| <br>
-| 2<img width=80>| Maximum| Maximum<img width=80>| <br>
-| 3<img width=80>| Predefined| Predefined<img width=80>| <br>
+| 0| CenterOfGravity| Center of gravity| <br>
+| 1| Minimum| Minimum| <br>
+| 2| Maximum| Maximum| <br>
+| 3| Predefined| Predefined| <br>
 
 
