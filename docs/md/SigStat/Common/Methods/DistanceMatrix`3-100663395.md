@@ -8,6 +8,6 @@
 
 
 #### Parameters
- row  [`TRowKey`](./DistanceMatrix`3-100663395.md)<br> column  [`TColumnKey`](./DistanceMatrix`3-100663395.md)<br>out  value  [`TValue`](./DistanceMatrix`3-100663395.md)
+ row  [`TRowKey`](./DistanceMatrix`3-100663395.md)> column  [`TColumnKey`](./DistanceMatrix`3-100663395.md)>out  value  [`TValue`](./DistanceMatrix`3-100663395.md)
 #### Returns
 [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)

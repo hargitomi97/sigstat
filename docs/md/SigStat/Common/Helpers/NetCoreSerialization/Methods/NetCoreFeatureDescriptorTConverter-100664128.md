@@ -8,6 +8,6 @@
 
 
 #### Parameters
- writer  [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter)<br> value  [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)<br> options  [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions)
+ writer  [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter)> value  [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)> options  [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions)
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

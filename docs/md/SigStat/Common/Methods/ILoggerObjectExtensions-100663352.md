@@ -8,6 +8,6 @@ Formats and writes a trace log message.
 
 
 #### Parameters
- obj  [`ILoggerObject`](./../ILoggerObject.md)<br> message  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br> args  [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[]
+ obj  [`ILoggerObject`](./../ILoggerObject.md)> message  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)> args  [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[]
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)
