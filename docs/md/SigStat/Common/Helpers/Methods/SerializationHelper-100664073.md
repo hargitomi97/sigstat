@@ -8,6 +8,6 @@ Writes object to file to the given by path in json format
 
 
 #### Parameters
- o  [`T`](./SerializationHelper-100664073.md)> path  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+ o  [`T`](./SerializationHelper-100664073.md)<br> path  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

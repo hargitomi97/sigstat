@@ -8,6 +8,6 @@ Insert a table filled with data from an IEnumerable
 
 
 #### Parameters
- ws  [`ExcelWorksheet`](./ExcelHelper-100664034.md)> row  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)> col  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)> data  [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[`T`](./ExcelHelper-100664034.md)>> title  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)> color  [`ExcelColor`](./../Excel/ExcelColor.md)> showHeader  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)> Name  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+ ws  [`ExcelWorksheet`](./ExcelHelper-100664034.md)<br> row  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<br> col  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<br> data  [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[`T`](./ExcelHelper-100664034.md)><br> title  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br> color  [`ExcelColor`](./../Excel/ExcelColor.md)<br> showHeader  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)<br> Name  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
 #### Returns
 [ExcelRange](./ExcelHelper-100664034.md)
