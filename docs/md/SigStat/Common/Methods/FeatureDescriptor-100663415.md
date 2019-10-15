@@ -1,4 +1,4 @@
- featureKey  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)    The key to search for# [IsRegistered](./FeatureDescriptor-100663415.md)
+# [IsRegistered](./FeatureDescriptor-100663415.md)
 
 Returns true, if there is a FeatureDescriptor registered with the given key
 
@@ -8,6 +8,6 @@ Returns true, if there is a FeatureDescriptor registered with the given key
 
 
 #### Parameters
-
+ featureKey  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)    The key to search for
 #### Returns
 [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)

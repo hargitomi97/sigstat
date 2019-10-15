@@ -1,4 +1,4 @@
- array  [`T`](./ArrayExtension-100663387.md)[]    The array to enumerate# [GetValues](./ArrayExtension-100663387.md)
+# [GetValues](./ArrayExtension-100663387.md)
 
 Enumerates all values in a two dimensional array
 
@@ -8,6 +8,6 @@ Enumerates all values in a two dimensional array
 
 
 #### Parameters
-
+ array  [`T`](./ArrayExtension-100663387.md)[]    The array to enumerate
 #### Returns
 [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[T](./ArrayExtension-100663387.md)>

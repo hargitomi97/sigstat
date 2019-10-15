@@ -1,4 +1,4 @@
- input  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]    # [RotMatch](./PatternMatching3x3-100664220.md)
+# [RotMatch](./PatternMatching3x3-100664220.md)
 
 Match the 3x3 input with the 3x3 pattern from all 4 directions.
 
@@ -8,6 +8,6 @@ Match the 3x3 input with the 3x3 pattern from all 4 directions.
 
 
 #### Parameters
-
+ input  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]    
 #### Returns
 [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)

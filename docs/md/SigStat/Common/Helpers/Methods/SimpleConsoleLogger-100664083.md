@@ -1,4 +1,4 @@
- logLevel  [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel)    initial value for LogLevel# [IsEnabled](./SimpleConsoleLogger-100664083.md)
+# [IsEnabled](./SimpleConsoleLogger-100664083.md)
 
 
 
@@ -8,6 +8,6 @@
 
 
 #### Parameters
-
+ logLevel  [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel)    initial value for LogLevel
 #### Returns
 [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)

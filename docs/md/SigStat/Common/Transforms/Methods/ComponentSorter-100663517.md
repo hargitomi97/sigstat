@@ -1,4 +1,4 @@
- signature  [`Signature`](./../../Signature.md)    # [Transform](./ComponentSorter-100663517.md)
+# [Transform](./ComponentSorter-100663517.md)
 
 
 
@@ -8,6 +8,6 @@
 
 
 #### Parameters
-
+ signature  [`Signature`](./../../Signature.md)    
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

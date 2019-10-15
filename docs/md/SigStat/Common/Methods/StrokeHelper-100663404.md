@@ -1,4 +1,4 @@
- signature  [`Signature`](./../Signature.md)    # [GetStrokes](./StrokeHelper-100663404.md)
+# [GetStrokes](./StrokeHelper-100663404.md)
 
 Gets the strokes from an online signature with standard features. Note that  the signature has to contain [T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) and [Pressure](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)
 
@@ -8,6 +8,6 @@ Gets the strokes from an online signature with standard features. Note that  the
 
 
 #### Parameters
-
+ signature  [`Signature`](./../Signature.md)    
 #### Returns
 [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[StrokeInterval](./../StrokeInterval.md)>

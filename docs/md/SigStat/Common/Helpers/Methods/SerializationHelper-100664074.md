@@ -1,4 +1,4 @@
- o  [`T`](./SerializationHelper-100664074.md)    The object# [JsonSerialize](./SerializationHelper-100664074.md)
+# [JsonSerialize](./SerializationHelper-100664074.md)
 
 Creates json string from object
 
@@ -8,6 +8,6 @@ Creates json string from object
 
 
 #### Parameters
-
+ o  [`T`](./SerializationHelper-100664074.md)    The object
 #### Returns
 [String](https://docs.microsoft.com/en-us/dotnet/api/System.String)

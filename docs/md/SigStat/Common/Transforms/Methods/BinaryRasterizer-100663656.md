@@ -1,4 +1,4 @@
- signature  [`Signature`](./../../Signature.md)    # [Transform](./BinaryRasterizer-100663656.md)
+# [Transform](./BinaryRasterizer-100663656.md)
 
 
 
@@ -8,6 +8,6 @@
 
 
 #### Parameters
-
+ signature  [`Signature`](./../../Signature.md)    
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

@@ -1,4 +1,4 @@
- s  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)    The serialized string# [Deserialize](./NetCoreSerializationHelper-100664135.md)
+# [Deserialize](./NetCoreSerializationHelper-100664135.md)
 
 
 
@@ -8,6 +8,6 @@
 
 
 #### Parameters
-
+ s  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)    The serialized string
 #### Returns
 [T](./NetCoreSerializationHelper-100664135.md)

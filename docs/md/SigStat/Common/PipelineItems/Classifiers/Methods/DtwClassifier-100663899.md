@@ -1,4 +1,4 @@
- signatures  [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../../Signature.md)>    The list of signatures to train on.# [Train](./DtwClassifier-100663899.md)
+# [Train](./DtwClassifier-100663899.md)
 
 
 
@@ -8,6 +8,6 @@
 
 
 #### Parameters
-
+ signatures  [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../../Signature.md)>    The list of signatures to train on.
 #### Returns
 [ISignerModel](./../../../Pipeline/ISignerModel.md)

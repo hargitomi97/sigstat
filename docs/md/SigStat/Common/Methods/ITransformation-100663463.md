@@ -1,4 +1,4 @@
- signature  [`Signature`](./../Signature.md)    # [Transform](./ITransformation-100663463.md)
+# [Transform](./ITransformation-100663463.md)
 
 Executes the transform on the `signature` parameter.  This function gets called by the pipeline.
 
@@ -8,6 +8,6 @@ Executes the transform on the `signature` parameter.  This function gets called 
 
 
 #### Parameters
-
+ signature  [`Signature`](./../Signature.md)    
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

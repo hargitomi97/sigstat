@@ -1,4 +1,4 @@
- newItem  [`ITransformation`](./../../ITransformation.md)    Classifier with belonging weight.# [Add](./ParallelTransformPipeline-100663504.md)
+# [Add](./ParallelTransformPipeline-100663504.md)
 
 Add new transform to the list.
 
@@ -8,6 +8,6 @@ Add new transform to the list.
 
 
 #### Parameters
-
+ newItem  [`ITransformation`](./../../ITransformation.md)    Classifier with belonging weight.
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

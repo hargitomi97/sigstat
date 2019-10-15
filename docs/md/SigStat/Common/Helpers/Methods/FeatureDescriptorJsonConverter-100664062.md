@@ -1,4 +1,4 @@
- objectType  [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)    The type of the object# [CanConvert](./FeatureDescriptorJsonConverter-100664062.md)
+# [CanConvert](./FeatureDescriptorJsonConverter-100664062.md)
 
 Tells if the current object is of the correct type
 
@@ -8,6 +8,6 @@ Tells if the current object is of the correct type
 
 
 #### Parameters
-
+ objectType  [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)    The type of the object
 #### Returns
 [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)

@@ -1,4 +1,4 @@
- degreeOfParallelism  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)    Degree of parallelism is the maximum number of concurrently executing tasks.# [Execute](./VerifierBenchmark-100663385.md)
+# [Execute](./VerifierBenchmark-100663385.md)
 
 Execute the benchmarking process with a degree of parallelism.
 
@@ -8,6 +8,6 @@ Execute the benchmarking process with a degree of parallelism.
 
 
 #### Parameters
-
+ degreeOfParallelism  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)    Degree of parallelism is the maximum number of concurrently executing tasks.
 #### Returns
 [BenchmarkResults](./../BenchmarkResults.md)

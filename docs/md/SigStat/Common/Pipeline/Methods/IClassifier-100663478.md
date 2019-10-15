@@ -1,4 +1,4 @@
- signatures  [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)>    The list of signatures to train on.# [Train](./IClassifier-100663478.md)
+# [Train](./IClassifier-100663478.md)
 
 Trains a model based on the signatures and returns the trained model
 
@@ -8,6 +8,6 @@ Trains a model based on the signatures and returns the trained model
 
 
 #### Parameters
-
+ signatures  [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)>    The list of signatures to train on.
 #### Returns
 [ISignerModel](./../ISignerModel.md)

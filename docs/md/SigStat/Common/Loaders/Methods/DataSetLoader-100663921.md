@@ -1,4 +1,4 @@
- signerFilter  [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../../Signer.md)>    Filter to specify which Signers to load. Example: (p=>p=="01")# [EnumerateSigners](./DataSetLoader-100663921.md)
+# [EnumerateSigners](./DataSetLoader-100663921.md)
 
 
 
@@ -8,6 +8,6 @@
 
 
 #### Parameters
-
+ signerFilter  [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../../Signer.md)>    Filter to specify which Signers to load. Example: (p=>p=="01")
 #### Returns
 [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../../Signer.md)>
