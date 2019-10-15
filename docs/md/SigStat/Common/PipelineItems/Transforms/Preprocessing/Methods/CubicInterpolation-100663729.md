@@ -8,6 +8,6 @@ Gets the value.
 
 
 #### Parameters
-`**timestamp**`  `Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)<br>The timestamp.
+**`timestamp`**  [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)<br>The timestamp.
 #### Returns
 [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)

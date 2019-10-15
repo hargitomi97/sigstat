@@ -8,6 +8,6 @@
 
 
 #### Parameters
-`**file**`  `String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>
+**`file`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>
 #### Returns
 [Signature](./../../Signature.md)
