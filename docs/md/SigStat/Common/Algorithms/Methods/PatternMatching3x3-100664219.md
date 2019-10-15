@@ -8,6 +8,6 @@ Match the 3x3 input with the 3x3 pattern.
 
 
 #### Parameters
- input  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]    
+ input  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]<br>
 #### Returns
 [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)
