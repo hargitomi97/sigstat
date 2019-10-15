@@ -8,6 +8,6 @@
 
 
 #### Parameters
- path  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>
+`**path**`  `String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>
 #### Returns
 [T](./NetCoreSerializationHelper-100664138.md)
