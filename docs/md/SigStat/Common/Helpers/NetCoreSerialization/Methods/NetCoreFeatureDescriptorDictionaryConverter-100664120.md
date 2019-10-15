@@ -8,6 +8,6 @@
 
 
 #### Parameters
-out  reader  [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader)<br> typeToConvert  [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)<br> options  [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions)
+
 #### Returns
 [Dictionary](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.Dictionary-2)\<[String](https://docs.microsoft.com/en-us/dotnet/api/System.String), [FeatureDescriptor](./../../../FeatureDescriptor.md)>

@@ -1,4 +1,4 @@
-# [Transform](./CentroidExtraction-100663556.md)
+ signature  [`Signature`](./../../Signature.md)    # [Transform](./CentroidExtraction-100663556.md)
 
 
 
@@ -8,6 +8,6 @@
 
 
 #### Parameters
- signature  [`Signature`](./../../Signature.md)
+
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

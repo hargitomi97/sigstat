@@ -8,6 +8,6 @@
 
 
 #### Parameters
- typeToConvert  [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)
+
 #### Returns
 [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)

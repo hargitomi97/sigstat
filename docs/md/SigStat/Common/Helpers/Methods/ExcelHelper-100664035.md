@@ -8,6 +8,6 @@ Insert table from key-value pairs
 
 
 #### Parameters
- ws  [`ExcelWorksheet`](./ExcelHelper-100664035.md)<br> row  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<br> col  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<br> data  [`IEnumerable`](./ExcelHelper-100664035.md)\<[`KeyValuePair`](./ExcelHelper-100664035.md)\<[`TKey`](./ExcelHelper-100664035.md), [`TValue`](./ExcelHelper-100664035.md)>><br> title  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br> color  [`ExcelColor`](./../Excel/ExcelColor.md)<br> Name  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+
 #### Returns
 [ExcelRange](./ExcelHelper-100664035.md)

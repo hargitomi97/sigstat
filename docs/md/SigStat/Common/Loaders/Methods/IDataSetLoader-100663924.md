@@ -1,4 +1,4 @@
-# [EnumerateSigners](./IDataSetLoader-100663924.md)
+ signerFilter  [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../../Signer.md)>    Filter to specify which Signers to load. Example: (p=>p=="01")# [EnumerateSigners](./IDataSetLoader-100663924.md)
 
 Enumerates all [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md)s that match the `signerFilter`.
 
@@ -8,6 +8,6 @@ Enumerates all [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/
 
 
 #### Parameters
- signerFilter  [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../../Signer.md)>
+
 #### Returns
 [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../../Signer.md)>

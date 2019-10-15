@@ -8,6 +8,6 @@
 
 
 #### Parameters
- child  [`HierarchyElement`](./../HierarchyElement.md)
+
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

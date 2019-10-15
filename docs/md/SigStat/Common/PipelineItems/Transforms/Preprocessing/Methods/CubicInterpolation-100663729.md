@@ -1,4 +1,4 @@
-# [GetValue](./CubicInterpolation-100663729.md)
+ timestamp  [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)    The timestamp.# [GetValue](./CubicInterpolation-100663729.md)
 
 Gets the value.
 
@@ -8,6 +8,6 @@ Gets the value.
 
 
 #### Parameters
- timestamp  [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)
+
 #### Returns
 [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)

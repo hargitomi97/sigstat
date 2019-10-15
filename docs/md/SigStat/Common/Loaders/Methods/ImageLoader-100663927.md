@@ -1,4 +1,4 @@
-# [LoadSignature](./ImageLoader-100663927.md)
+ file  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)    # [LoadSignature](./ImageLoader-100663927.md)
 
 
 
@@ -8,6 +8,6 @@
 
 
 #### Parameters
- file  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+
 #### Returns
 [Signature](./../../Signature.md)

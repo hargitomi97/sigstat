@@ -1,4 +1,4 @@
-# [Transform](./NormalizeRotationForX-100663793.md)
+ signature  [`Signature`](./../../../../Signature.md)    # [Transform](./NormalizeRotationForX-100663793.md)
 
 
 
@@ -8,6 +8,6 @@
 
 
 #### Parameters
- signature  [`Signature`](./../../../../Signature.md)
+
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

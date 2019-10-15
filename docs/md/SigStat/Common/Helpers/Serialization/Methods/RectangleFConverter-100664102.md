@@ -8,6 +8,6 @@
 
 
 #### Parameters
- reader  [`JsonReader`](./RectangleFConverter-100664102.md)<br> objectType  [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)<br> existingValue  [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)<br> serializer  [`JsonSerializer`](./RectangleFConverter-100664102.md)
+
 #### Returns
 [Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object)

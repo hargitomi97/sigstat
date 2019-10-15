@@ -1,4 +1,4 @@
-# [Train](./WeightedClassifier-100663913.md)
+ signatures  [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../../Signature.md)>    The list of signatures to train on.# [Train](./WeightedClassifier-100663913.md)
 
 
 
@@ -8,6 +8,6 @@
 
 
 #### Parameters
- signatures  [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../../Signature.md)>
+
 #### Returns
 [ISignerModel](./../../../Pipeline/ISignerModel.md)

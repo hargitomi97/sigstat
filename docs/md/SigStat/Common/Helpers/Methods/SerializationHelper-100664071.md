@@ -1,4 +1,4 @@
-# [Deserialize](./SerializationHelper-100664071.md)
+ s  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)    The serialized string# [Deserialize](./SerializationHelper-100664071.md)
 
 Constructs object from strings that were serialized previously
 
@@ -8,6 +8,6 @@ Constructs object from strings that were serialized previously
 
 
 #### Parameters
- s  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+
 #### Returns
 [T](./SerializationHelper-100664071.md)

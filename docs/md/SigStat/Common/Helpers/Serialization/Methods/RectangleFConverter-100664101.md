@@ -1,4 +1,4 @@
-# [CanConvert](./RectangleFConverter-100664101.md)
+ objectType  [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)    The type of the object# [CanConvert](./RectangleFConverter-100664101.md)
 
 Tells if the current object is of the correct type
 
@@ -8,6 +8,6 @@ Tells if the current object is of the correct type
 
 
 #### Parameters
- objectType  [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)
+
 #### Returns
 [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)

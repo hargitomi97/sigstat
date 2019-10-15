@@ -1,4 +1,4 @@
-# [Execute](./VerifierBenchmark-100663384.md)
+ ParallelMode  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)    # [Execute](./VerifierBenchmark-100663384.md)
 
 Execute the benchmarking process.
 
@@ -8,6 +8,6 @@ Execute the benchmarking process.
 
 
 #### Parameters
- ParallelMode  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)
+
 #### Returns
 [BenchmarkResults](./../BenchmarkResults.md)

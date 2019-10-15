@@ -1,4 +1,4 @@
-# [Transform](./SampleRate-100663845.md)
+ signature  [`Signature`](./../../../../Signature.md)    # [Transform](./SampleRate-100663845.md)
 
 
 
@@ -8,6 +8,6 @@
 
 
 #### Parameters
- signature  [`Signature`](./../../../../Signature.md)
+
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

@@ -1,4 +1,4 @@
-# [Add](./WeightedClassifier-100663912.md)
+ newItem  [`ValueTuple`](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[`IClassifier`](./../../../Pipeline/IClassifier.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>    Classifier with belonging weight.# [Add](./WeightedClassifier-100663912.md)
 
 Add a new classifier with given weight to the list of items.
 
@@ -8,6 +8,6 @@ Add a new classifier with given weight to the list of items.
 
 
 #### Parameters
- newItem  [`ValueTuple`](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[`IClassifier`](./../../../Pipeline/IClassifier.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>
+
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

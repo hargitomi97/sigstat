@@ -1,4 +1,4 @@
-# [Scan](./HSCPThinningStep-100664210.md)
+ b  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]    Binary raster.# [Scan](./HSCPThinningStep-100664210.md)
 
 Does one step of the thinning. Call it iteratively while ResultChanged.
 
@@ -8,6 +8,6 @@ Does one step of the thinning. Call it iteratively while ResultChanged.
 
 
 #### Parameters
- b  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]
+
 #### Returns
 [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]

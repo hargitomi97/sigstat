@@ -1,4 +1,4 @@
-# [CanConvert](./DistanceFunctionJsonConverter-100664085.md)
+ objectType  [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)    The type of the object# [CanConvert](./DistanceFunctionJsonConverter-100664085.md)
 
 
 
@@ -8,6 +8,6 @@
 
 
 #### Parameters
- objectType  [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)
+
 #### Returns
 [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)

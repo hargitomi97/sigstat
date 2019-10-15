@@ -1,4 +1,4 @@
-# [EnumerateSigners](./SigComp11DutchLoader-100663950.md)
+ signerFilter  [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../../Signer.md)>    Filter to specify which Signers to load. Example: (p=>p=="01")# [EnumerateSigners](./SigComp11DutchLoader-100663950.md)
 
 
 
@@ -8,6 +8,6 @@
 
 
 #### Parameters
- signerFilter  [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../../Signer.md)>
+
 #### Returns
 [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[Signer](./../../Signer.md)>

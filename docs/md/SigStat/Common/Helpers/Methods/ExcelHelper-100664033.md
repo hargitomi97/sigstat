@@ -8,6 +8,6 @@ Insert table filled with data from a 2D array
 
 
 #### Parameters
- ws  [`ExcelWorksheet`](./ExcelHelper-100664033.md)<br> row  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<br> col  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<br> data  [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[]<br> title  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br> color  [`ExcelColor`](./../Excel/ExcelColor.md)<br> hasRowHeader  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)<br> hasColumnHeader  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)<br> name  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+
 #### Returns
 [ExcelRange](./ExcelHelper-100664033.md)

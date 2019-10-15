@@ -8,6 +8,6 @@
 
 
 #### Parameters
- logLevel  [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel)<br> eventId  [`EventId`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.EventId)<br> state  [`TState`](./SimpleConsoleLogger-100664084.md)<br> exception  [`Exception`](https://docs.microsoft.com/en-us/dotnet/api/System.Exception)<br> formatter  [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`TState`](./SimpleConsoleLogger-100664084.md), [`Exception`](https://docs.microsoft.com/en-us/dotnet/api/System.Exception), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)>
+
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

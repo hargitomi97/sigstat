@@ -1,4 +1,4 @@
-# [Serialize](./NetCoreSerializationHelper-100664136.md)
+ o  [`T`](./NetCoreSerializationHelper-100664136.md)    The object# [Serialize](./NetCoreSerializationHelper-100664136.md)
 
 
 
@@ -8,6 +8,6 @@
 
 
 #### Parameters
- o  [`T`](./NetCoreSerializationHelper-100664136.md)
+
 #### Returns
 [String](https://docs.microsoft.com/en-us/dotnet/api/System.String)
