@@ -11,21 +11,21 @@ Classifies Signatures by weighing other Classifier results.
 
 ## Constructors
 
-| Name<a href="#"><img width=300></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=220></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>WeightedClassifier (  )</sub>| <sub></sub>| <br>
 
 
 ## Fields
 
-| Name<a href="#"><img width=300></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=220></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>Items</sub>| <sub>List of classifiers and belonging weights.</sub>| <br>
 
 
 ## Methods
 
-| Name<a href="#"><img width=300></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=220></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>[Add](./Methods/WeightedClassifier-100663912.md) ( [`ValueTuple`](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[`IClassifier`](./../../Pipeline/IClassifier.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub>| <sub>Add a new classifier with given weight to the list of items.</sub>| <br>
 | <sub>[GetEnumerator](./Methods/WeightedClassifier-100663911.md) (  )</sub>| <sub></sub>| <br>

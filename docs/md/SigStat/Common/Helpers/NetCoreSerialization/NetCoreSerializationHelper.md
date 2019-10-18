@@ -7,14 +7,14 @@ Assembly: SigStat.Common.dll
 
 ## Constructors
 
-| Name<a href="#"><img width=300></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=220></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>NetCoreSerializationHelper (  )</sub>| <sub></sub>| <br>
 
 
 ## Static Methods
 
-| Name<a href="#"><img width=300></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=220></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>[Deserialize](./Methods/NetCoreSerializationHelper-100664207.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub></sub>| <br>
 | <sub>[DeserializeFromFile](./Methods/NetCoreSerializationHelper-100664210.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub></sub>| <br>
