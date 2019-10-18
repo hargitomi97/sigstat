@@ -20,13 +20,13 @@ DataSetLoader for Image type databases.  Similar format to Svc2004Loader, but fi
 
 | Name<img width=475> | Summary<img width=475> | 
 | --- | --- | 
-| <sub>[EnumerateSigners](./Methods/ImageLoader-100663926.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub>| <sub></sub>| <br>
+| <sub>[EnumerateSigners](./Methods/ImageLoader-100663994.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub>| <sub></sub>| <br>
 
 
 ## Static Methods
 
 | Name<img width=475> | Summary<img width=475> | 
 | --- | --- | 
-| <sub>[LoadSignature](./Methods/ImageLoader-100663927.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub></sub>| <br>
+| <sub>[LoadSignature](./Methods/ImageLoader-100663995.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub></sub>| <br>
 
 

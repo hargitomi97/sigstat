@@ -18,8 +18,8 @@ Helper class for serializing distance functions
 
 | Name<img width=475> | Summary<img width=475> | 
 | --- | --- | 
-| <sub>[CanConvert](./Methods/DistanceFunctionJsonConverter-100664085.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub>| <sub></sub>| <br>
-| <sub>[ReadJson](./Methods/DistanceFunctionJsonConverter-100664086.md) ( [`JsonReader`](./DistanceFunctionJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub>| <sub></sub>| <br>
-| <sub>[WriteJson](./Methods/DistanceFunctionJsonConverter-100664087.md) ( [`JsonWriter`](./DistanceFunctionJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub>| <sub></sub>| <br>
+| <sub>[CanConvert](./Methods/DistanceFunctionJsonConverter-100664153.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub>| <sub></sub>| <br>
+| <sub>[ReadJson](./Methods/DistanceFunctionJsonConverter-100664154.md) ( [`JsonReader`](./DistanceFunctionJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub>| <sub></sub>| <br>
+| <sub>[WriteJson](./Methods/DistanceFunctionJsonConverter-100664155.md) ( [`JsonWriter`](./DistanceFunctionJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub>| <sub></sub>| <br>
 
 

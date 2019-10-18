@@ -29,10 +29,10 @@ Hierarchical structure to store object
 
 | Name<img width=475> | Summary<img width=475> | 
 | --- | --- | 
-| <sub>[Add](./Methods/HierarchyElement-100664053.md) ( [`HierarchyElement`](./HierarchyElement.md) )</sub>| <sub></sub>| <br>
-| <sub>[GetCount](./Methods/HierarchyElement-100664055.md) (  )</sub>| <sub>Returns number of elements under this node and itself</sub>| <br>
-| <sub>[GetDepth](./Methods/HierarchyElement-100664054.md) (  )</sub>| <sub>Return the hierarchy's depth from this node</sub>| <br>
-| <sub>[GetEnumerator](./Methods/HierarchyElement-100664057.md) (  )</sub>| <sub>Returns an enumerator that iterates through the collection.</sub>| <br>
-| <sub>[ToString](./Methods/HierarchyElement-100664056.md) (  )</sub>| <sub>Converts to string.</sub>| <br>
+| <sub>[Add](./Methods/HierarchyElement-100664121.md) ( [`HierarchyElement`](./HierarchyElement.md) )</sub>| <sub></sub>| <br>
+| <sub>[GetCount](./Methods/HierarchyElement-100664123.md) (  )</sub>| <sub>Returns number of elements under this node and itself</sub>| <br>
+| <sub>[GetDepth](./Methods/HierarchyElement-100664122.md) (  )</sub>| <sub>Return the hierarchy's depth from this node</sub>| <br>
+| <sub>[GetEnumerator](./Methods/HierarchyElement-100664125.md) (  )</sub>| <sub>Returns an enumerator that iterates through the collection.</sub>| <br>
+| <sub>[ToString](./Methods/HierarchyElement-100664124.md) (  )</sub>| <sub>Converts to string.</sub>| <br>
 
 

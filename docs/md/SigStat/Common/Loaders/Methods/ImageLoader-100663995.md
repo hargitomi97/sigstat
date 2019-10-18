@@ -1,0 +1,13 @@
+# [LoadSignature](./ImageLoader-100663995.md)
+
+
+
+| Return | Name | 
+| --- | --- | 
+| <sub>[Signature](./../../Signature.md)</sub>| <sub>[LoadSignature](./ImageLoader-100663995.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) file )</sub>| <br>
+
+
+#### Parameters
+
+#### Returns
+[Signature](./../../Signature.md)

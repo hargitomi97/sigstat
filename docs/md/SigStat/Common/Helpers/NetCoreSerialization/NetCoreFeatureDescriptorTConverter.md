@@ -16,8 +16,8 @@ Assembly: SigStat.Common.dll
 
 | Name<img width=475> | Summary<img width=475> | 
 | --- | --- | 
-| <sub>[CanConvert](./Methods/NetCoreFeatureDescriptorTConverter-100664126.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub>| <sub></sub>| <br>
-| <sub>[Read](./Methods/NetCoreFeatureDescriptorTConverter-100664127.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub>| <sub></sub>| <br>
-| <sub>[Write](./Methods/NetCoreFeatureDescriptorTConverter-100664128.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub>| <sub></sub>| <br>
+| <sub>[CanConvert](./Methods/NetCoreFeatureDescriptorTConverter-100664194.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub>| <sub></sub>| <br>
+| <sub>[Read](./Methods/NetCoreFeatureDescriptorTConverter-100664195.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub>| <sub></sub>| <br>
+| <sub>[Write](./Methods/NetCoreFeatureDescriptorTConverter-100664196.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub>| <sub></sub>| <br>
 
 

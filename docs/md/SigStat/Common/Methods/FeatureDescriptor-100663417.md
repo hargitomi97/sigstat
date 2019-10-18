@@ -8,6 +8,6 @@ Gets the [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/
 
 
 #### Parameters
-**`key`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>
+
 #### Returns
 [FeatureDescriptor](./../FeatureDescriptor.md)

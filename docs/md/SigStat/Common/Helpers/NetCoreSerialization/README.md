@@ -7,6 +7,7 @@
 - [`NetCoreFeatureDescriptorDictionaryConverter`](./NetCoreFeatureDescriptorDictionaryConverter.md)
 - [`NetCoreFeatureDescriptorListConverter`](./NetCoreFeatureDescriptorListConverter.md)
 - [`NetCoreFeatureDescriptorTConverter`](./NetCoreFeatureDescriptorTConverter.md)
+- [`NetCoreObjectConverter`](./NetCoreObjectConverter.md)
 - [`NetCoreSamplerConverter`](./NetCoreSamplerConverter.md)
 - [`NetCoreSerializationHelper`](./NetCoreSerializationHelper.md)
 

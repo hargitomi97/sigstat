@@ -33,7 +33,7 @@ Uses pipelines to transform, train on, and classify [Signature](https://github.c
 
 | Name<img width=475> | Summary<img width=475> | 
 | --- | --- | 
-| <sub>[Test](./Methods/Verifier-100664171.md) ( [`Signature`](./../Signature.md) )</sub>| <sub>Verifies the genuinity of `signature`.</sub>| <br>
-| <sub>[Train](./Methods/Verifier-100664170.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> )</sub>| <sub>Trains the verifier with a list of signatures. Uses the [Pipeline](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to extract features,  and [Classifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to find an optimized limit.</sub>| <br>
+| <sub>[Test](./Methods/Verifier-100664243.md) ( [`Signature`](./../Signature.md) )</sub>| <sub>Verifies the genuinity of `signature`.</sub>| <br>
+| <sub>[Train](./Methods/Verifier-100664242.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> )</sub>| <sub>Trains the verifier with a list of signatures. Uses the [Pipeline](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to extract features,  and [Classifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to find an optimized limit.</sub>| <br>
 
 

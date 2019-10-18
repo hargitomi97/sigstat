@@ -168,6 +168,16 @@ This is the root summary
 	- This [IDistanceClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/IDistanceClassifier.md) implementation will consider both test and  training samples and claculate the threshold to separate the original and forged  signatures to approximate EER. Note that this classifier is not applicable for  real world scenarios. It was developed to test the theoratical boundaries of  threshold based classification
 - [`WeightedClassifier`](./SigStat/Common/PipelineItems/Classifiers/WeightedClassifier.md)
 	- Classifies Signatures by weighing other Classifier results.
+### [SigStat.Common.Logging](./SigStat/Common/Logging/README.md)
+
+- [`BenchmarkKeyValueLogState`](./SigStat/Common/Logging/BenchmarkKeyValueLogState.md)
+- [`BenchmarkLogState`](./SigStat/Common/Logging/BenchmarkLogState.md)
+- [`BenchmarkSignerLogState`](./SigStat/Common/Logging/BenchmarkSignerLogState.md)
+- [`ClassifierDistanceLogState`](./SigStat/Common/Logging/ClassifierDistanceLogState.md)
+- [`SignatureKeyValueLogState`](./SigStat/Common/Logging/SignatureKeyValueLogState.md)
+- [`SignerKeyValueLogState`](./SigStat/Common/Logging/SignerKeyValueLogState.md)
+- [`SigStatLogState`](./SigStat/Common/Logging/SigStatLogState.md)
+- [`TransformLogState`](./SigStat/Common/Logging/TransformLogState.md)
 ### [SigStat.Common.Loaders](./SigStat/Common/Loaders/README.md)
 
 - [`DataSetLoader`](./SigStat/Common/Loaders/DataSetLoader.md)
@@ -227,6 +237,7 @@ This is the root summary
 - [`NetCoreFeatureDescriptorDictionaryConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreFeatureDescriptorDictionaryConverter.md)
 - [`NetCoreFeatureDescriptorListConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreFeatureDescriptorListConverter.md)
 - [`NetCoreFeatureDescriptorTConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreFeatureDescriptorTConverter.md)
+- [`NetCoreObjectConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreObjectConverter.md)
 - [`NetCoreSamplerConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreSamplerConverter.md)
 - [`NetCoreSerializationHelper`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreSerializationHelper.md)
 ### [SigStat.Common.Helpers.Excel](./SigStat/Common/Helpers/Excel/README.md)
