@@ -10,4 +10,4 @@
 #### Parameters
 
 #### Returns
-[OptimalDtwClassifier](./../../../PipelineItems/Classifiers/OptimalDtwClassifier.md)
+[OptimalDtwClassifier](./../../../PipelineItems/Classifiers/OptimalDtwClassifier.md)<br>

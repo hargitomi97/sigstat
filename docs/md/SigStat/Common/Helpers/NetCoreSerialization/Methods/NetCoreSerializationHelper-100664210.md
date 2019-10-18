@@ -10,4 +10,4 @@
 #### Parameters
 **`path`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>
 #### Returns
-[T](./NetCoreSerializationHelper-100664210.md)
+[T](./NetCoreSerializationHelper-100664210.md)<br>

@@ -10,4 +10,4 @@ Creates json string from object
 #### Parameters
 **`o`**  [`T`](./SerializationHelper-100664142.md)<br>The object
 #### Returns
-[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)
+[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>

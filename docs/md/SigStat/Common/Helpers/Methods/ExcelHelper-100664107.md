@@ -10,4 +10,4 @@ Creates a link to given sheet
 #### Parameters
 **`range`**  [`ExcelRange`](./ExcelHelper-100664107.md)<br>Cells to merge<br><br>**`sheet`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>Destination sheet's name
 #### Returns
-[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<br>

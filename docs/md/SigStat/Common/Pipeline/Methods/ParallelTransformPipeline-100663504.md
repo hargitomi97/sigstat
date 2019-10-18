@@ -10,4 +10,4 @@ Add new transform to the list.
 #### Parameters
 **`newItem`**  [`ITransformation`](./../../ITransformation.md)<br>Classifier with belonging weight.
 #### Returns
-[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<br>

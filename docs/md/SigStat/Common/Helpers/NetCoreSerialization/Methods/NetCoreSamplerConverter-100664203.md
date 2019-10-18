@@ -10,4 +10,4 @@
 #### Parameters
 
 #### Returns
-[Sampler](./../../../Sampler.md)
+[Sampler](./../../../Sampler.md)<br>

@@ -10,5 +10,5 @@ Insert a table filled with data from an IEnumerable
 #### Parameters
 
 #### Returns
-[ExcelRange](./ExcelHelper-100664102.md)
+[ExcelRange](./ExcelHelper-100664102.md)<br>
 Range of the inserted data

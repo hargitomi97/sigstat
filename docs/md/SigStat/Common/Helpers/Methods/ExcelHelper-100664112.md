@@ -10,4 +10,4 @@ Inserts text into the defined cell, and format to match text level
 #### Parameters
 
 #### Returns
-[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<br>

@@ -10,4 +10,4 @@ Execute the benchmarking process.
 #### Parameters
 **`ParallelMode`**  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)<br>
 #### Returns
-[BenchmarkResults](./../BenchmarkResults.md)
+[BenchmarkResults](./../BenchmarkResults.md)<br>

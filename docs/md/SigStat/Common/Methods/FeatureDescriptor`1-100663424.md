@@ -10,4 +10,4 @@
 #### Parameters
 **`key`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>
 #### Returns
-[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[T](./FeatureDescriptor`1-100663424.md)>
+[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[T](./FeatureDescriptor`1-100663424.md)><br>

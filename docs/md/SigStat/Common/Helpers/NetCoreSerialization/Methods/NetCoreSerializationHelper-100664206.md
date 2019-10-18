@@ -10,5 +10,5 @@
 #### Parameters
 
 #### Returns
-[JsonSerializerOptions](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions)
+[JsonSerializerOptions](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions)<br>
 A new settings object

@@ -10,4 +10,4 @@ Format cells in the range into a table with possible title
 #### Parameters
 
 #### Returns
-[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)
+[Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<br>

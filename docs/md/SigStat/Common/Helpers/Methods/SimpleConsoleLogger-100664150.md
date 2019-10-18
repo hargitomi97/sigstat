@@ -10,4 +10,4 @@
 #### Parameters
 
 #### Returns
-[IDisposable](https://docs.microsoft.com/en-us/dotnet/api/System.IDisposable)
+[IDisposable](https://docs.microsoft.com/en-us/dotnet/api/System.IDisposable)<br>

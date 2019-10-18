@@ -10,4 +10,4 @@ Returns true, if there is a FeatureDescriptor registered with the given key
 #### Parameters
 **`featureKey`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>The key to search for
 #### Returns
-[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)
+[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)<br>

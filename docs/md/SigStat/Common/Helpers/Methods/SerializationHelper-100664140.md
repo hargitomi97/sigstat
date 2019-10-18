@@ -10,4 +10,4 @@ Constructs object from file given by a path
 #### Parameters
 **`path`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>
 #### Returns
-[T](./SerializationHelper-100664140.md)
+[T](./SerializationHelper-100664140.md)<br>

@@ -10,5 +10,5 @@ Insert table filled with data from a 2D array
 #### Parameters
 
 #### Returns
-[ExcelRange](./ExcelHelper-100664100.md)
+[ExcelRange](./ExcelHelper-100664100.md)<br>
 Range of the inserted data

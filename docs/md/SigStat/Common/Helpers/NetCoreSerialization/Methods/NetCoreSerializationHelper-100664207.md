@@ -10,4 +10,4 @@
 #### Parameters
 **`s`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>The serialized string
 #### Returns
-[T](./NetCoreSerializationHelper-100664207.md)
+[T](./NetCoreSerializationHelper-100664207.md)<br>

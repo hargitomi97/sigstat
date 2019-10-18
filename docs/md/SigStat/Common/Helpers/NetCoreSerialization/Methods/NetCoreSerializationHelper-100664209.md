@@ -10,4 +10,4 @@
 #### Parameters
 **`o`**  [`T`](./NetCoreSerializationHelper-100664209.md)<br>The object<br><br>**`path`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>
 #### Returns
-[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<br>

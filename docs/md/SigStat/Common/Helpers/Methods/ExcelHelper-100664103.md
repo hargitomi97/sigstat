@@ -10,4 +10,4 @@ Insert table from key-value pairs
 #### Parameters
 
 #### Returns
-[ExcelRange](./ExcelHelper-100664103.md)
+[ExcelRange](./ExcelHelper-100664103.md)<br>
