@@ -9,14 +9,14 @@ Custom serializer for [System.Drawing.RectangleF](https://docs.microsoft.com/en-
 
 ## Constructors
 
-| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=400></a> | 
 | --- | --- | 
 | <sub>RectangleFConverter (  )</sub>| <sub></sub>| <br>
 
 
 ## Methods
 
-| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=400></a> | 
 | --- | --- | 
 | <sub>[CanConvert](./Methods/RectangleFConverter-100664169.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub>| <sub>Tells if the current object is of the correct type</sub>| <br>
 | <sub>[ReadJson](./Methods/RectangleFConverter-100664170.md) ( [`JsonReader`](./RectangleFConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./RectangleFConverter.md) )</sub>| <sub></sub>| <br>

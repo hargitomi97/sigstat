@@ -9,7 +9,7 @@ Helper class for locating and manipulating strokes in an online signature
 
 ## Static Methods
 
-| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=400></a> | 
 | --- | --- | 
 | <sub>[GetStrokes](./Methods/StrokeHelper-100663404.md) ( [`Signature`](./Signature.md) )</sub>| <sub>Gets the strokes from an online signature with standard features. Note that  the signature has to contain [T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) and [Pressure](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)</sub>| <br>
 
