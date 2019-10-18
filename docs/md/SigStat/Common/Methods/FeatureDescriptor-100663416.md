@@ -8,6 +8,6 @@ Registers a new [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/
 
 
 #### Parameters
-
+**`featureKey`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>The key to search for<br><br>**`type`**  [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)<br>The type of the current property
 #### Returns
 [FeatureDescriptor](./../FeatureDescriptor.md)

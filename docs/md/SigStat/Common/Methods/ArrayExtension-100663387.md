@@ -8,6 +8,6 @@ Enumerates all values in a two dimensional array
 
 
 #### Parameters
-
+**`array`**  [`T`](./ArrayExtension-100663387.md)[]<br>The array to enumerate
 #### Returns
 [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[T](./ArrayExtension-100663387.md)>

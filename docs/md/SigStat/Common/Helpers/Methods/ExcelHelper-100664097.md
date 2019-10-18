@@ -8,6 +8,6 @@ Merge all cells into one in the range.
 
 
 #### Parameters
-
+**`range`**  [`ExcelRangeBase`](./ExcelHelper-100664097.md)<br>Cells to merge
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)
