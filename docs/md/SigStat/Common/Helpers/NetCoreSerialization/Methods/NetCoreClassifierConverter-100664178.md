@@ -8,6 +8,6 @@
 
 
 #### Parameters
-
+**`value`**  [`OptimalDtwClassifier`](./../../../PipelineItems/Classifiers/OptimalDtwClassifier.md)<br> options  [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions)<br>New value for the array elements
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)

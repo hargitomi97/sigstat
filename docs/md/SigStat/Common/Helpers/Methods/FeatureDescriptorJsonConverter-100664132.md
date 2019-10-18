@@ -8,6 +8,6 @@
 
 
 #### Parameters
-
+**`value`**  [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)<br> serializer  [`JsonSerializer`](./FeatureDescriptorJsonConverter-100664132.md)<br>New value for the array elements
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)
