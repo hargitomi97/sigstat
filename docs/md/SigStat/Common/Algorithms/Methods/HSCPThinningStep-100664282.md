@@ -11,3 +11,4 @@ Does one step of the thinning. Call it iteratively while ResultChanged.
 **`b`**  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]<br>Binary raster.
 #### Returns
 [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]
+Thinned binary raster.

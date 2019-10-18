@@ -1,6 +1,6 @@
 # [GetCog](./ArrayExtension-100663392.md)
 
-Calculates the center of gravity, assuming that each cell contains  a weight value
+Calculates the center of gravity, assuming that each cell contains a weight value
 
 | Return | Name | 
 | --- | --- | 

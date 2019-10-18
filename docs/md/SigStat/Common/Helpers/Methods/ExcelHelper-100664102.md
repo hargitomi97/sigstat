@@ -11,3 +11,4 @@ Insert a table filled with data from an IEnumerable
 
 #### Returns
 [ExcelRange](./ExcelHelper-100664102.md)
+Range of the inserted data

@@ -11,3 +11,4 @@
 
 #### Returns
 [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)
+If the object can be converted or not

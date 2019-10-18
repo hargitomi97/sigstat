@@ -11,3 +11,4 @@ Settings used for the serialization methods
 
 #### Returns
 [JsonSerializerSettings](./SerializationHelper-100664138.md)
+A new settings object

@@ -11,3 +11,4 @@ Match the 3x3 input with the 3x3 pattern.
 **`input`**  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[]<br>
 #### Returns
 [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)
+True if the pattern matches.

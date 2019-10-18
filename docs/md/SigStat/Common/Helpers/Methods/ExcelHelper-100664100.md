@@ -11,3 +11,4 @@ Insert table filled with data from a 2D array
 
 #### Returns
 [ExcelRange](./ExcelHelper-100664100.md)
+Range of the inserted data

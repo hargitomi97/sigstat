@@ -11,3 +11,4 @@ Tells if the current object is of the correct type
 **`objectType`**  [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)<br>The type of the object
 #### Returns
 [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)
+If the object can be converted or not
