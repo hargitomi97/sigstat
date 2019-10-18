@@ -11,3 +11,4 @@ Creates json string from object
 **`o`**  [`T`](./SerializationHelper-100664142.md)<br>The object
 #### Returns
 [String](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>
+The json string constructed from the object

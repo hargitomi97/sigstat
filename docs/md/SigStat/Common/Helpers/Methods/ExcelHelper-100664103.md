@@ -11,3 +11,4 @@ Insert table from key-value pairs
 
 #### Returns
 [ExcelRange](./ExcelHelper-100664103.md)<br>
+Range of the inserted data

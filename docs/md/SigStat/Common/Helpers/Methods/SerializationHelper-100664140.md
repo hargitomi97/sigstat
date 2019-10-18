@@ -11,3 +11,4 @@ Constructs object from file given by a path
 **`path`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>
 #### Returns
 [T](./SerializationHelper-100664140.md)<br>
+The object that was serialized to the file

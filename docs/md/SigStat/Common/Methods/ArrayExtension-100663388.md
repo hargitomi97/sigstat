@@ -11,3 +11,4 @@ Sets all values in a two dimensional array to `value`
 **`array`**  [`T`](./ArrayExtension-100663388.md)[]<br>The array to enumerate<br><br>**`value`**  [`T`](./ArrayExtension-100663388.md)<br>New value for the array elements
 #### Returns
 [T](./ArrayExtension-100663388.md)[]<br>
+A reference to  (allows chaining)
