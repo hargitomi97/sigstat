@@ -8,6 +8,6 @@
 
 
 #### Parameters
-**`row`**  [`TRowKey`](./DistanceMatrix`3-100663395.md)<br>The row, to sum<br><br>**`column`**  [`TColumnKey`](./DistanceMatrix`3-100663395.md)<br>The column, to sum<br><br>**`out  value`**  alue  [`TValue`](./DistanceMatrix`3-100663395.md)<br>
+**`row`**  [`TRowKey`](./DistanceMatrix`3-100663395.md)<br>The row, to sum<br><br>**`column`**  [`TColumnKey`](./DistanceMatrix`3-100663395.md)<br>The column, to sum<br><br>**`out  value`**  [`TValue`](./DistanceMatrix`3-100663395.md)<br>
 #### Returns
 [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)
