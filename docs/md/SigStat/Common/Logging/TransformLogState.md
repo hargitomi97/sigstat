@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 
 ## Constructors
 
-| Name<a href="#"><img width=400></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=300></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>TransformLogState (  )</sub>| <sub></sub>| <br>
 

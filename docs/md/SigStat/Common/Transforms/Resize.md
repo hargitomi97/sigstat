@@ -11,14 +11,14 @@ Resizes the image to a specified width and height
 
 ## Constructors
 
-| Name<a href="#"><img width=400></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=300></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>Resize (  )</sub>| <sub></sub>| <br>
 
 
 ## Properties
 
-| Name<a href="#"><img width=400></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=300></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>Height</sub>| <sub>The new height. Leave it as null, if you do not want to explicitly specify a given height</sub>| <br>
 | <sub>InputImage</sub>| <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub>| <br>
@@ -29,7 +29,7 @@ Resizes the image to a specified width and height
 
 ## Methods
 
-| Name<a href="#"><img width=400></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=300></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/Resize-100663716.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| <br>
 

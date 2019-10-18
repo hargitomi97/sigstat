@@ -11,14 +11,14 @@ Extracts the Centroid (aka. Center Of Gravity) of the input features.  <br> Defa
 
 ## Constructors
 
-| Name<a href="#"><img width=400></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=300></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>CentroidExtraction (  )</sub>| <sub></sub>| <br>
 
 
 ## Properties
 
-| Name<a href="#"><img width=400></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=300></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>Inputs</sub>| <sub>List of features to process</sub>| <br>
 | <sub>OutputCentroid</sub>| <sub>List of centroid values</sub>| <br>
@@ -26,7 +26,7 @@ Extracts the Centroid (aka. Center Of Gravity) of the input features.  <br> Defa
 
 ## Methods
 
-| Name<a href="#"><img width=400></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=300></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/CentroidExtraction-100663556.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| <br>
 
