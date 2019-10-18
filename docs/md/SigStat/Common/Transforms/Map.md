@@ -11,14 +11,14 @@ Maps values of a feature to a specified range.  <br>Pipeline Input type: List{do
 
 ## Constructors
 
-| Name<a href="#"><img width=150></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>Map ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub>| <sub>Initializes a new instance of the [Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings.</sub>| <br>
 
 
 ## Properties
 
-| Name<a href="#"><img width=150></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>Input</sub>| <sub>Input</sub>| <br>
 | <sub>Output</sub>| <sub>Output</sub>| <br>
@@ -26,7 +26,7 @@ Maps values of a feature to a specified range.  <br>Pipeline Input type: List{do
 
 ## Methods
 
-| Name<a href="#"><img width=150></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/Map-100663625.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| <br>
 
