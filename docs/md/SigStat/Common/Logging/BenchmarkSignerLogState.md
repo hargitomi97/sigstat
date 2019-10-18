@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 
 ## Constructors
 
-| Name<a href="#"><img width=220></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=150></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>BenchmarkSignerLogState (  )</sub>| <sub></sub>| <br>
 

@@ -11,14 +11,14 @@ Converts standard features to a binary raster.  <br>Default Pipeline Input: Stan
 
 ## Constructors
 
-| Name<a href="#"><img width=220></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=150></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>BinaryRasterizer ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) )</sub>| <sub>Initializes a new instance of the [BinaryRasterizer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/BinaryRasterizer.md) class with specified raster size and pen width.</sub>| <br>
 
 
 ## Properties
 
-| Name<a href="#"><img width=220></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=150></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>InputButton</sub>| <sub>Gets or sets the [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) representing the stroke endings of an online signature</sub>| <br>
 | <sub>InputX</sub>| <sub>Gets or sets the [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) representing the X coordinates of an online signature</sub>| <br>
@@ -28,7 +28,7 @@ Converts standard features to a binary raster.  <br>Default Pipeline Input: Stan
 
 ## Methods
 
-| Name<a href="#"><img width=220></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=150></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/BinaryRasterizer-100663656.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| <br>
 
