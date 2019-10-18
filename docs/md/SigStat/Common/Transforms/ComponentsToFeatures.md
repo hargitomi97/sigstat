@@ -11,14 +11,14 @@ Extracts standard [Features](https://github.com/hargitomi97/sigstat/blob/master/
 
 ## Constructors
 
-| Name<a href="#"><img width=475></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=400></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>ComponentsToFeatures (  )</sub>| <sub></sub>| <br>
 
 
 ## Properties
 
-| Name<a href="#"><img width=475></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=400></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>Button</sub>| <sub>Button</sub>| <br>
 | <sub>InputComponents</sub>| <sub>Components</sub>| <br>
@@ -28,7 +28,7 @@ Extracts standard [Features](https://github.com/hargitomi97/sigstat/blob/master/
 
 ## Methods
 
-| Name<a href="#"><img width=475></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=400></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/ComponentsToFeatures-100663582.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| <br>
 

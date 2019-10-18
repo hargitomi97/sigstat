@@ -11,7 +11,7 @@ Custom resolver for customizing the json serialization
 
 ## Constructors
 
-| Name<a href="#"><img width=475></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=400></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>VerifierResolver (  )</sub>| <sub></sub>| <br>
 

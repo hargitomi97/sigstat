@@ -11,14 +11,14 @@ Extracts unsorted components by tracing through the binary Skeleton raster.  <br
 
 ## Constructors
 
-| Name<a href="#"><img width=475></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=400></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>ComponentExtraction ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub>| <sub>Initializes a new instance of the [ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution.</sub>| <br>
 
 
 ## Properties
 
-| Name<a href="#"><img width=475></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=400></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>CrossingPoints</sub>| <sub>crossing points</sub>| <br>
 | <sub>EndPoints</sub>| <sub>endpoints</sub>| <br>
@@ -28,7 +28,7 @@ Extracts unsorted components by tracing through the binary Skeleton raster.  <br
 
 ## Methods
 
-| Name<a href="#"><img width=475></a> | Summary<a href="#"><img width=475></a> | 
+| Name<a href="#"><img width=400></a> | Summary<a href="#"><img width=475></a> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/ComponentExtraction-100663567.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| <br>
 
