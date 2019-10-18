@@ -8,6 +8,6 @@
 
 
 #### Parameters
-**`value`**  [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`FeatureDescriptor`](./../../../FeatureDescriptor.md)><br> options  [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions)<br>New value for the array elements
+**`value`**  [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)<br>New value for the array elements
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)
