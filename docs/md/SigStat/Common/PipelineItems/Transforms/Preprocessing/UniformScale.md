@@ -11,14 +11,14 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 ## Constructors
 
-| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
+| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>UniformScale (  )</sub>| <sub></sub>| <br>
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
+| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>BaseDimension</sub>| <sub>Gets or sets the base dimension.</sub>| <br>
 | <sub>BaseDimensionOutput</sub>| <sub>Gets or sets the output base dimension output.</sub>| <br>
@@ -31,7 +31,7 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 ## Methods
 
-| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
+| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/UniformScale-100663886.md) ( [`Signature`](./../../../Signature.md) )</sub>| <sub></sub>| <br>
 

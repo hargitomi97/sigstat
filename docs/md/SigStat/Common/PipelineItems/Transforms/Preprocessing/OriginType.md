@@ -8,7 +8,7 @@ Origin specification for [TranslatePreproc](https://github.com/hargitomi97/sigst
 
 ##	Enum
 
-| Value<div><a href="#"><img width=160></a></div> | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=160></a></div> | 
+| Value<div><a href="#"><img width=400></a></div> | Name<div><a href="#"><img width=475></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
 | --- | --- | --- | 
 | 0| CenterOfGravity| Center of gravity| <br>
 | 1| Minimum| Minimum| <br>

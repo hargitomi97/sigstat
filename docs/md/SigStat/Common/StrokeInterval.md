@@ -9,14 +9,14 @@ Represents a stroke in an online signature
 
 ## Constructors
 
-| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
+| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>StrokeInterval ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`StrokeType`](./StrokeType.md) )</sub>| <sub>Initializes a new instance of the [StrokeInterval](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/StrokeInterval.md) struct.</sub>| <br>
 
 
 ## Fields
 
-| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
+| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>EndIndex</sub>| <sub>The index of the last element</sub>| <br>
 | <sub>StartIndex</sub>| <sub>The index of the firs element</sub>| <br>

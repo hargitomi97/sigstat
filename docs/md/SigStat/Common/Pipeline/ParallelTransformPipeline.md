@@ -11,21 +11,21 @@ Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the 
 
 ## Constructors
 
-| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
+| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>ParallelTransformPipeline (  )</sub>| <sub></sub>| <br>
 
 
 ## Fields
 
-| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
+| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>Items</sub>| <sub>List of transforms to be run parallel.</sub>| <br>
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
+| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>PipelineInputs</sub>| <sub>Gets the pipeline inputs.</sub>| <br>
 | <sub>PipelineOutputs</sub>| <sub>Gets the pipeline outputs.</sub>| <br>
@@ -33,7 +33,7 @@ Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the 
 
 ## Methods
 
-| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
+| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Add](./Methods/ParallelTransformPipeline-100663504.md) ( [`ITransformation`](./../ITransformation.md) )</sub>| <sub>Add new transform to the list.</sub>| <br>
 | <sub>[GetEnumerator](./Methods/ParallelTransformPipeline-100663503.md) (  )</sub>| <sub></sub>| <br>
