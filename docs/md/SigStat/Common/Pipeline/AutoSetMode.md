@@ -8,7 +8,7 @@ Default strategy to set the value of a property
 
 ##	Enum
 
-| Value<a href="#"><img width=160></a> | Name<a href="#"><img width=400></a> | Summary<a href="#"><img width=160></a> | 
+| Value<div><a href="#"><img width=160></a></div> | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=160></a></div> | 
 | --- | --- | --- | 
 | 0| IfNull| Set the value if it is null| <br>
 | 1| Always| Always set the value| <br>

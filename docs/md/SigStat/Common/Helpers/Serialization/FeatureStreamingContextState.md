@@ -9,14 +9,14 @@ SerializationContext for serializing SigStat objects
 
 ## Constructors
 
-| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=400></a> | 
+| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
 | --- | --- | 
 | <sub>FeatureStreamingContextState (  )</sub>| <sub>Constructor</sub>| <br>
 
 
 ## Properties
 
-| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=400></a> | 
+| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
 | --- | --- | 
 | <sub>KnownFeatureKeys</sub>| <sub>A list of already serialized FeatureDescriptor keys</sub>| <br>
 

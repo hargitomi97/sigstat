@@ -11,14 +11,14 @@ Abstract loader class to inherit from. Implements ILogger.
 
 ## Properties
 
-| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=400></a> | 
+| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
 | --- | --- | 
 | <sub>Logger</sub>| <sub></sub>| <br>
 
 
 ## Methods
 
-| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=400></a> | 
+| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
 | --- | --- | 
 | <sub>[EnumerateSigners](./Methods/DataSetLoader-100663988.md) (  )</sub>| <sub></sub>| <br>
 | <sub>[EnumerateSigners](./Methods/DataSetLoader-100663989.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub>| <sub></sub>| <br>

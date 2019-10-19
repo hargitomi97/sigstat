@@ -11,14 +11,14 @@ Sorts Component order by comparing each starting X value, and finding nearest co
 
 ## Constructors
 
-| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=400></a> | 
+| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
 | --- | --- | 
 | <sub>ComponentSorter (  )</sub>| <sub></sub>| <br>
 
 
 ## Properties
 
-| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=400></a> | 
+| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
 | --- | --- | 
 | <sub>Input</sub>| <sub>Gets or sets the input.</sub>| <br>
 | <sub>Output</sub>| <sub>Gets or sets the output.</sub>| <br>
@@ -26,7 +26,7 @@ Sorts Component order by comparing each starting X value, and finding nearest co
 
 ## Methods
 
-| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=400></a> | 
+| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/ComponentSorter-100663517.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| <br>
 

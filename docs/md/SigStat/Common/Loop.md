@@ -9,7 +9,7 @@ Represents a loop in a signature
 
 ## Constructors
 
-| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=400></a> | 
+| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
 | --- | --- | 
 | <sub>Loop (  )</sub>| <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance</sub>| <br>
 | <sub>Loop ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single), [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) )</sub>| <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance and initializes the [Center](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) property</sub>| <br>
@@ -17,7 +17,7 @@ Represents a loop in a signature
 
 ## Properties
 
-| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=400></a> | 
+| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
 | --- | --- | 
 | <sub>Bounds</sub>| <sub>The bounding rectangle of the loop</sub>| <br>
 | <sub>Center</sub>| <sub>The geometrical center of the looop</sub>| <br>
@@ -26,7 +26,7 @@ Represents a loop in a signature
 
 ## Methods
 
-| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=400></a> | 
+| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
 | --- | --- | 
 | <sub>[ToString](./Methods/Loop-100663344.md) (  )</sub>| <sub>Returns a string representation of the loop</sub>| <br>
 

@@ -11,7 +11,7 @@ Represents a signature as a collection of features, containing the data that flo
 
 ## Constructors
 
-| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=400></a> | 
+| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
 | --- | --- | 
 | <sub>Signature (  )</sub>| <sub>Initializes a signature instance</sub>| <br>
 | <sub>Signature ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Origin`](./Origin.md), [`Signer`](./Signer.md) )</sub>| <sub>Initializes a signature instance with the given properties</sub>| <br>
@@ -19,7 +19,7 @@ Represents a signature as a collection of features, containing the data that flo
 
 ## Properties
 
-| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=400></a> | 
+| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
 | --- | --- | 
 | <sub>ID</sub>| <sub>An identifier for the Signature. Keep it unique to be useful for logs.</sub>| <br>
 | <sub>Item [ [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ]</sub>| <sub>Gets or sets the specified feature.</sub>| <br>
@@ -30,7 +30,7 @@ Represents a signature as a collection of features, containing the data that flo
 
 ## Methods
 
-| Name<a href="#"><img width=160></a> | Summary<a href="#"><img width=400></a> | 
+| Name<div><a href="#"><img width=160></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
 | --- | --- | 
 | <sub>[GetAggregateFeature](./Methods/Signature-100663444.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`FeatureDescriptor`](./FeatureDescriptor.md)> )</sub>| <sub>Aggregate multiple features into one. Example: X, Y features -&gt; P.xy feature.  Use this for example at DTW algorithm input.</sub>| <br>
 | <sub>[GetEnumerator](./Methods/Signature-100663448.md) (  )</sub>| <sub>Returns an enumerator that iterates through the features.</sub>| <br>
