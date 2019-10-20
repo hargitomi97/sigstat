@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Multiplies the values of a feature with a given constant.  <br>Pipeline Input type: List{double}<br>Default Pipeline Output: (List{double}) Input
+Multiplies the values of a feature with a given constant.  <br>Pipeline Input type: List{double}\<br>Default Pipeline Output: (List{double}) Input\
 
 ## Constructors
 
