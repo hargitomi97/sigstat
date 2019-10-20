@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Adds a constant value to a feature. Works with collection features too.  <br>Default Pipeline Output: Pipeline Input\
+Adds a constant value to a feature. Works with collection features too.  \Default Pipeline Output: Pipeline Input\
 
 ## Constructors
 

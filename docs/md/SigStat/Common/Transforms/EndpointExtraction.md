@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Extracts EndPoints and CrossingPoints from Skeleton.  <br>Default Pipeline Input: (bool[,]) Skeleton\<br>Default Pipeline Output: (List{Point}) EndPoints, (List{Point}) CrossingPoints \
+Extracts EndPoints and CrossingPoints from Skeleton.  \Default Pipeline Input: (bool[,]) Skeleton\\Default Pipeline Output: (List{Point}) EndPoints, (List{Point}) CrossingPoints \
 
 ## Constructors
 
