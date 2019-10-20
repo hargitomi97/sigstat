@@ -11,15 +11,15 @@ Custom serializer for [FeatureDescriptor](https://github.com/hargitomi97/sigstat
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>FeatureDescriptorJsonConverter (  )</sub>| <sub></sub>| 
+| <sub>FeatureDescriptorJsonConverter (  )</sub> | <sub></sub> | 
 
 
 ## Methods
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[CanConvert](./Methods/FeatureDescriptorJsonConverter-100664130.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub>| <sub>Tells if the current object is of the correct type</sub>| 
-| <sub>[ReadJson](./Methods/FeatureDescriptorJsonConverter-100664131.md) ( [`JsonReader`](./FeatureDescriptorJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorJsonConverter.md) )</sub>| <sub></sub>| 
-| <sub>[WriteJson](./Methods/FeatureDescriptorJsonConverter-100664132.md) ( [`JsonWriter`](./FeatureDescriptorJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorJsonConverter.md) )</sub>| <sub></sub>| 
+| <sub>[CanConvert](./Methods/FeatureDescriptorJsonConverter-100664130.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub> | <sub>Tells if the current object is of the correct type</sub> | 
+| <sub>[ReadJson](./Methods/FeatureDescriptorJsonConverter-100664131.md) ( [`JsonReader`](./FeatureDescriptorJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorJsonConverter.md) )</sub> | <sub></sub> | 
+| <sub>[WriteJson](./Methods/FeatureDescriptorJsonConverter-100664132.md) ( [`JsonWriter`](./FeatureDescriptorJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorJsonConverter.md) )</sub> | <sub></sub> | 
 
 

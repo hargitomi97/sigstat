@@ -10,12 +10,12 @@ Predefined color schemes for Excel
 
 | Value<div><a href="#"><img width=400></a></div> | Name<div><a href="#"><img width=475></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
 | --- | --- | --- | 
-| 0| Primary| Primary color| 
-| 1| Secondary| Secondary color| 
-| 2| Succes| Succes color| 
-| 3| Danger| Danger color| 
-| 4| Warning| Warning color| 
-| 5| Info| Info color| 
-| 6| Transparent| Transparent color| 
+| 0 | Primary | Primary color | 
+| 1 | Secondary | Secondary color | 
+| 2 | Succes | Succes color | 
+| 3 | Danger | Danger color | 
+| 4 | Warning | Warning color | 
+| 5 | Info | Info color | 
+| 6 | Transparent | Transparent color | 
 
 

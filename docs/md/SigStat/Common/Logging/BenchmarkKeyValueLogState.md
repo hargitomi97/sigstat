@@ -9,6 +9,6 @@ Assembly: SigStat.Common.dll
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>BenchmarkKeyValueLogState (  )</sub>| <sub></sub>| 
+| <sub>BenchmarkKeyValueLogState (  )</sub> | <sub></sub> | 
 
 

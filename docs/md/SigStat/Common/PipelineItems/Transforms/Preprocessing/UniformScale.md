@@ -13,26 +13,26 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>UniformScale (  )</sub>| <sub></sub>| 
+| <sub>UniformScale (  )</sub> | <sub></sub> | 
 
 
 ## Properties
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>BaseDimension</sub>| <sub>Gets or sets the base dimension.</sub>| 
-| <sub>BaseDimensionOutput</sub>| <sub>Gets or sets the output base dimension output.</sub>| 
-| <sub>NewMaxBaseValue</sub>| <sub>Upper bound of the interval, in which the base dimension will be scaled</sub>| 
-| <sub>NewMinBaseValue</sub>| <sub>Lower bound of the interval, in which the base dimension will be scaled</sub>| 
-| <sub>NewMinProportionalValue</sub>| <sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub>| 
-| <sub>ProportionalDimension</sub>| <sub>Gets or sets the ProportionalDimension.</sub>| 
-| <sub>ProportionalDimensionOutput</sub>| <sub>Gets or sets the output proportional dimension output.</sub>| 
+| <sub>BaseDimension</sub> | <sub>Gets or sets the base dimension.</sub> | 
+| <sub>BaseDimensionOutput</sub> | <sub>Gets or sets the output base dimension output.</sub> | 
+| <sub>NewMaxBaseValue</sub> | <sub>Upper bound of the interval, in which the base dimension will be scaled</sub> | 
+| <sub>NewMinBaseValue</sub> | <sub>Lower bound of the interval, in which the base dimension will be scaled</sub> | 
+| <sub>NewMinProportionalValue</sub> | <sub>Lower bound of the interval, in which the proportional dimension will be scaled</sub> | 
+| <sub>ProportionalDimension</sub> | <sub>Gets or sets the ProportionalDimension.</sub> | 
+| <sub>ProportionalDimensionOutput</sub> | <sub>Gets or sets the output proportional dimension output.</sub> | 
 
 
 ## Methods
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/UniformScale-100663886.md) ( [`Signature`](./../../../Signature.md) )</sub>| <sub></sub>| 
+| <sub>[Transform](./Methods/UniformScale-100663886.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | 
 
 
