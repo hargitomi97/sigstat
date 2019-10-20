@@ -30,6 +30,6 @@ Extracts unsorted components by tracing through the binary Skeleton raster.  <br
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/ComponentExtraction-100663567.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
+| <sub>[Transform](./Methods/ComponentExtraction-Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 
 

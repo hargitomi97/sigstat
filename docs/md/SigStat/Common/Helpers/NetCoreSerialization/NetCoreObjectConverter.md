@@ -16,8 +16,8 @@ Assembly: SigStat.Common.dll
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[CanConvert](./Methods/NetCoreObjectConverter-100664198.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub> | <sub></sub> | 
-| <sub>[Read](./Methods/NetCoreObjectConverter-100664199.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub> | <sub></sub> | 
-| <sub>[Write](./Methods/NetCoreObjectConverter-100664200.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub> | <sub></sub> | 
+| <sub>[CanConvert](./Methods/NetCoreObjectConverter-CanConvert.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub> | <sub></sub> | 
+| <sub>[Read](./Methods/NetCoreObjectConverter-Read.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub> | <sub></sub> | 
+| <sub>[Write](./Methods/NetCoreObjectConverter-Write.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub> | <sub></sub> | 
 
 

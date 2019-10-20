@@ -20,7 +20,7 @@ Extracts basic statistical signature (like [Bounds](https://github.com/hargitomi
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/BasicMetadataExtraction-100663458.md) ( [`Signature`](./Signature.md) )</sub> | <sub></sub> | 
+| <sub>[Transform](./Methods/BasicMetadataExtraction-Transform.md) ( [`Signature`](./Signature.md) )</sub> | <sub></sub> | 
 
 
 ## Static Properties

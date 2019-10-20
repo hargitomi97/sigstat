@@ -30,6 +30,6 @@ Extracts standard [Features](https://github.com/hargitomi97/sigstat/blob/master/
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/ComponentsToFeatures-100663582.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
+| <sub>[Transform](./Methods/ComponentsToFeatures-Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 
 

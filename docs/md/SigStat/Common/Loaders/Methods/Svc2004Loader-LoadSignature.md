@@ -1,0 +1,13 @@
+# [LoadSignature](./Svc2004Loader-LoadSignature.md)
+
+Loads one signature from specified stream.
+
+| Return | Name | 
+| --- | --- | 
+| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub> | <sub>[LoadSignature](./Svc2004Loader-LoadSignature.md) ( [`Signature`](./../../Signature.md) signature, [`Stream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.Stream) stream, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures )</sub> | 
+
+
+#### Parameters
+**`signature`**  [`Signature`](./../../Signature.md)<br><br><br>**`stream`**  [`Stream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.Stream)<br>Stream to read MCYT data from.<br><br>**`standardFeatures`**  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)<br>if set to true features will be also stored in .
+#### Returns
+[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<br>

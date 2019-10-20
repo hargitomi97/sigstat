@@ -29,6 +29,6 @@ Extracts tangent values of the standard X, Y [Features](https://github.com/hargi
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/TangentExtraction-100663598.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
+| <sub>[Transform](./Methods/TangentExtraction-Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 
 

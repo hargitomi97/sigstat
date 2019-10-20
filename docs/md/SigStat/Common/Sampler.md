@@ -27,8 +27,8 @@ Takes samples from a set of [Signature](https://github.com/hargitomi97/sigstat/b
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[SampleForgeryTests](./Methods/Sampler-100663364.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)> )</sub> | <sub></sub> | 
-| <sub>[SampleGenuineTests](./Methods/Sampler-100663363.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)> )</sub> | <sub></sub> | 
-| <sub>[SampleReferences](./Methods/Sampler-100663362.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)> )</sub> | <sub></sub> | 
+| <sub>[SampleForgeryTests](./Methods/Sampler-SampleForgeryTests.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)> )</sub> | <sub></sub> | 
+| <sub>[SampleGenuineTests](./Methods/Sampler-SampleGenuineTests.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)> )</sub> | <sub></sub> | 
+| <sub>[SampleReferences](./Methods/Sampler-SampleReferences.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./Signature.md)> )</sub> | <sub></sub> | 
 
 

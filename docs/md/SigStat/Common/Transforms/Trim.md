@@ -28,6 +28,6 @@ Trims unnecessary empty space from a binary raster.  <br>Pipeline Input type: bo
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/Trim-100663724.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
+| <sub>[Transform](./Methods/Trim-Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 
 

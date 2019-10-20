@@ -33,6 +33,6 @@ Generates an image feature out of a binary raster.  Optionally, saves the image 
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/ImageGenerator-100663679.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
+| <sub>[Transform](./Methods/ImageGenerator-Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 
 

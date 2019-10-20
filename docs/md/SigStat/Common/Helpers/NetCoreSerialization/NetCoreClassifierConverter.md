@@ -16,8 +16,8 @@ Assembly: SigStat.Common.dll
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[CanConvert](./Methods/NetCoreClassifierConverter-100664176.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub> | <sub></sub> | 
-| <sub>[Read](./Methods/NetCoreClassifierConverter-100664177.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub> | <sub></sub> | 
-| <sub>[Write](./Methods/NetCoreClassifierConverter-100664178.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`OptimalDtwClassifier`](./../../PipelineItems/Classifiers/OptimalDtwClassifier.md), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub> | <sub></sub> | 
+| <sub>[CanConvert](./Methods/NetCoreClassifierConverter-CanConvert.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub> | <sub></sub> | 
+| <sub>[Read](./Methods/NetCoreClassifierConverter-Read.md) ( out [`Utf8JsonReader`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonReader), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub> | <sub></sub> | 
+| <sub>[Write](./Methods/NetCoreClassifierConverter-Write.md) ( [`Utf8JsonWriter`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.Utf8JsonWriter), [`OptimalDtwClassifier`](./../../PipelineItems/Classifiers/OptimalDtwClassifier.md), [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions) )</sub> | <sub></sub> | 
 
 

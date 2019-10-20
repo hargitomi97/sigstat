@@ -31,6 +31,6 @@ Performs rotation normalization on the online signature
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/OrthognalRotation-100663807.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | 
+| <sub>[Transform](./Methods/OrthognalRotation-Transform.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | 
 
 
