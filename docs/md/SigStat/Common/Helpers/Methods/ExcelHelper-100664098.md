@@ -4,7 +4,7 @@ Format cells in the range into a table
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub>| <sub>[FormatAsTable](./ExcelHelper-100664098.md) ( [`ExcelRange`](./ExcelHelper-100664098.md) range, [`ExcelColor`](./../Excel/ExcelColor.md) color, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) showColumnHeader, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) showRowHeader )</sub>| <br>
+| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub> | <sub>[FormatAsTable](./ExcelHelper-100664098.md) ( [`ExcelRange`](./ExcelHelper-100664098.md) range, [`ExcelColor`](./../Excel/ExcelColor.md) color, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) showColumnHeader, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) showRowHeader )</sub> | 
 
 
 #### Parameters

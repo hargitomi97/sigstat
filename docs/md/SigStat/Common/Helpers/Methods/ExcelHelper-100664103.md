@@ -4,7 +4,7 @@ Insert table from key-value pairs
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[ExcelRange](./ExcelHelper-100664103.md)</sub>| <sub>[InsertDictionary](./ExcelHelper-100664103.md) ( [`ExcelWorksheet`](./ExcelHelper-100664103.md) ws, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) row, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) col, [`IEnumerable`](./ExcelHelper-100664103.md)\<[`KeyValuePair`](./ExcelHelper-100664103.md)\<[`TKey`](./ExcelHelper-100664103.md), [`TValue`](./ExcelHelper-100664103.md)>> data, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) title, [`ExcelColor`](./../Excel/ExcelColor.md) color, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) Name )</sub>| <br>
+| <sub>[ExcelRange](./ExcelHelper-100664103.md)</sub> | <sub>[InsertDictionary](./ExcelHelper-100664103.md) ( [`ExcelWorksheet`](./ExcelHelper-100664103.md) ws, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) row, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) col, [`IEnumerable`](./ExcelHelper-100664103.md)\<[`KeyValuePair`](./ExcelHelper-100664103.md)\<[`TKey`](./ExcelHelper-100664103.md), [`TValue`](./ExcelHelper-100664103.md)>> data, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) title, [`ExcelColor`](./../Excel/ExcelColor.md) color, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) Name )</sub> | 
 
 
 #### Parameters

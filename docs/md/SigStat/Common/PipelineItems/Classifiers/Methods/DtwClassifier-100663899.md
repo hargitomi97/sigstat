@@ -4,7 +4,7 @@
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[ISignerModel](./../../../Pipeline/ISignerModel.md)</sub>| <sub>[Train](./DtwClassifier-100663899.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../../Signature.md)> signatures )</sub>| <br>
+| <sub>[ISignerModel](./../../../Pipeline/ISignerModel.md)</sub> | <sub>[Train](./DtwClassifier-100663899.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../../Signature.md)> signatures )</sub> | 
 
 
 #### Parameters

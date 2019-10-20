@@ -4,7 +4,7 @@ Registers a new [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[FeatureDescriptor](./../FeatureDescriptor.md)</sub>| <sub>[Register](./FeatureDescriptor-100663416.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) featureKey, [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) type )</sub>| <br>
+| <sub>[FeatureDescriptor](./../FeatureDescriptor.md)</sub> | <sub>[Register](./FeatureDescriptor-100663416.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) featureKey, [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) type )</sub> | 
 
 
 #### Parameters

@@ -4,7 +4,7 @@ Gets the [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[FeatureDescriptor](./../FeatureDescriptor.md)</sub>| <sub>[Get](./FeatureDescriptor-100663417.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) key )</sub>| <br>
+| <sub>[FeatureDescriptor](./../FeatureDescriptor.md)</sub> | <sub>[Get](./FeatureDescriptor-100663417.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) key )</sub> | 
 
 
 #### Parameters
