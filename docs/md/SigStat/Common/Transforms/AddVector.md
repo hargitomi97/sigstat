@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Adds a vector feature's elements to other features.  Default Pipeline Output: Pipeline Input
+Adds a vector feature's elements to other features.    Default Pipeline Output: Pipeline Input
 
 ## Constructors
 

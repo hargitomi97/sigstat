@@ -71,63 +71,63 @@ This is the root summary
 - [`Output`](./SigStat/Common/Pipeline/Output.md)
 	- Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) in a transformation pipeline
 - [`ParallelTransformPipeline`](./SigStat/Common/Pipeline/ParallelTransformPipeline.md)
-	- Runs pipeline items in parallel.  Default Pipeline Output: Range of all the Item outputs.
+	- Runs pipeline items in parallel.    Default Pipeline Output: Range of all the Item outputs.
 - [`PipelineInput`](./SigStat/Common/Pipeline/PipelineInput.md)
 	- Represents an input for a [PipelineItem](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md)
 - [`PipelineOutput`](./SigStat/Common/Pipeline/PipelineOutput.md)
 	- Represents an output for a [PipelineItem](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md)
 - [`SequentialTransformPipeline`](./SigStat/Common/Pipeline/SequentialTransformPipeline.md)
-	- Runs pipeline items in a sequence.  Default Pipeline Output: Output of the last Item in the sequence.
+	- Runs pipeline items in a sequence.    Default Pipeline Output: Output of the last Item in the sequence.
 ### [SigStat.Common.Transforms](./SigStat/Common/Transforms/README.md)
 
 - [`AddConst`](./SigStat/Common/Transforms/AddConst.md)
-	- Adds a constant value to a feature. Works with collection features too.  Default Pipeline Output: Pipeline Input
+	- Adds a constant value to a feature. Works with collection features too.    Default Pipeline Output: Pipeline Input
 - [`AddVector`](./SigStat/Common/Transforms/AddVector.md)
-	- Adds a vector feature's elements to other features.  Default Pipeline Output: Pipeline Input
+	- Adds a vector feature's elements to other features.    Default Pipeline Output: Pipeline Input
 - [`ApproximateOnlineFeatures`](./SigStat/Common/Transforms/ApproximateOnlineFeatures.md)
-	- init Pressure, Altitude, Azimuth features with default values.  Default Pipeline Output: Features.Pressure, Features.Altitude, Features.Azimuth
+	- init Pressure, Altitude, Azimuth features with default values.    Default Pipeline Output: Features.Pressure, Features.Altitude, Features.Azimuth
 - [`Binarization`](./SigStat/Common/Transforms/Binarization.md)
-	- Generates a binary raster version of the input image with the iterative threshold method.  Pipeline Input type: Image{Rgba32}    Default Pipeline Output: (bool[,]) Binarized
+	- Generates a binary raster version of the input image with the iterative threshold method.    Pipeline Input type: Image{Rgba32}    Default Pipeline Output: (bool[,]) Binarized
 - [`BinaryRasterizer`](./SigStat/Common/Transforms/BinaryRasterizer.md)
-	- Converts standard features to a binary raster.  Default Pipeline Input: Standard [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)    Default Pipeline Output: (bool[,]) Binarized
+	- Converts standard features to a binary raster.    Default Pipeline Input: Standard [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)    Default Pipeline Output: (bool[,]) Binarized
 - [`CentroidExtraction`](./SigStat/Common/Transforms/CentroidExtraction.md)
-	- Extracts the Centroid (aka. Center Of Gravity) of the input features.  Default Pipeline Output: (List{double}) Centroid.
+	- Extracts the Centroid (aka. Center Of Gravity) of the input features.    Default Pipeline Output: (List{double}) Centroid.
 - [`CentroidTranslate`](./SigStat/Common/Transforms/CentroidTranslate.md)
 	- Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) to Centroid.  The following Transforms are called: [CentroidExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidExtraction.md), [Multiply](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Multiply.md)(-1), [Translate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Translate.md)  Default Pipeline Input: [X](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md), [Y](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)    Default Pipeline Output: (List{double}) Centroid
 - [`ComponentExtraction`](./SigStat/Common/Transforms/ComponentExtraction.md)
-	- Extracts unsorted components by tracing through the binary Skeleton raster.  Default Pipeline Input: (bool[,]) Skeleton, (List{Point}) EndPoints, (List{Point}) CrossingPoints    Default Pipeline Output: (List{List{PointF}}) Components
+	- Extracts unsorted components by tracing through the binary Skeleton raster.    Default Pipeline Input: (bool[,]) Skeleton, (List{Point}) EndPoints, (List{Point}) CrossingPoints    Default Pipeline Output: (List{List{PointF}}) Components
 - [`ComponentSorter`](./SigStat/Common/Transforms/ComponentSorter.md)
-	- Sorts Component order by comparing each starting X value, and finding nearest components.  Default Pipeline Input: (bool[,]) Components    Default Pipeline Output: (bool[,]) Components
+	- Sorts Component order by comparing each starting X value, and finding nearest components.    Default Pipeline Input: (bool[,]) Components    Default Pipeline Output: (bool[,]) Components
 - [`ComponentsToFeatures`](./SigStat/Common/Transforms/ComponentsToFeatures.md)
-	- Extracts standard [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) from sorted Components.  Default Pipeline Input: (List{List{PointF}}) Components    Default Pipeline Output: X, Y, Button [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)
+	- Extracts standard [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) from sorted Components.    Default Pipeline Input: (List{List{PointF}}) Components    Default Pipeline Output: X, Y, Button [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)
 - [`EndpointExtraction`](./SigStat/Common/Transforms/EndpointExtraction.md)
-	- Extracts EndPoints and CrossingPoints from Skeleton.  Default Pipeline Input: (bool[,]) Skeleton    Default Pipeline Output: (List{Point}) EndPoints, (List{Point}) CrossingPoints
+	- Extracts EndPoints and CrossingPoints from Skeleton.    Default Pipeline Input: (bool[,]) Skeleton    Default Pipeline Output: (List{Point}) EndPoints, (List{Point}) CrossingPoints
 - [`Extrema`](./SigStat/Common/Transforms/Extrema.md)
-	- Extracts minimum and maximum values of given feature.  Default Pipeline Output: (List{double}) Min, (List{double}) Max
+	- Extracts minimum and maximum values of given feature.    Default Pipeline Output: (List{double}) Min, (List{double}) Max
 - [`HSCPThinning`](./SigStat/Common/Transforms/HSCPThinning.md)
-	- Iteratively thins the input binary raster with the [HSCPThinningStep](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Algorithms/HSCPThinningStep.md) algorithm.  Pipeline Input type: bool[,]    Default Pipeline Output: (bool[,]) HSCPThinningResult
+	- Iteratively thins the input binary raster with the [HSCPThinningStep](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Algorithms/HSCPThinningStep.md) algorithm.    Pipeline Input type: bool[,]    Default Pipeline Output: (bool[,]) HSCPThinningResult
 - [`ImageGenerator`](./SigStat/Common/Transforms/ImageGenerator.md)
-	- Generates an image feature out of a binary raster.  Optionally, saves the image to a png file.  Useful for debugging pipeline steps.  Pipeline Input type: bool[,]    Default Pipeline Output: (bool[,]) Input, (Image{Rgba32}) InputImage
+	- Generates an image feature out of a binary raster.  Optionally, saves the image to a png file.  Useful for debugging pipeline steps.    Pipeline Input type: bool[,]    Default Pipeline Output: (bool[,]) Input, (Image{Rgba32}) InputImage
 - [`Map`](./SigStat/Common/Transforms/Map.md)
-	- Maps values of a feature to a specified range.  Pipeline Input type: List{double}    Default Pipeline Output: (List{double}) MapResult
+	- Maps values of a feature to a specified range.    Pipeline Input type: List{double}    Default Pipeline Output: (List{double}) MapResult
 - [`Multiply`](./SigStat/Common/Transforms/Multiply.md)
-	- Multiplies the values of a feature with a given constant.  Pipeline Input type: List{double}    Default Pipeline Output: (List{double}) Input
+	- Multiplies the values of a feature with a given constant.    Pipeline Input type: List{double}    Default Pipeline Output: (List{double}) Input
 - [`Normalize`](./SigStat/Common/Transforms/Normalize.md)
-	- Maps values of a feature to 0.0 - 1.0 range.  Pipeline Input type: List{double}    Default Pipeline Output: (List{double}) NormalizationResult
+	- Maps values of a feature to 0.0 - 1.0 range.    Pipeline Input type: List{double}    Default Pipeline Output: (List{double}) NormalizationResult
 - [`OnePixelThinning`](./SigStat/Common/Transforms/OnePixelThinning.md)
-	- Iteratively thins the input binary raster with the [OnePixelThinningStep](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Algorithms/OnePixelThinningStep.md) algorithm.  Pipeline Input type: bool[,]    Default Pipeline Output: (bool[,]) OnePixelThinningResult
+	- Iteratively thins the input binary raster with the [OnePixelThinningStep](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Algorithms/OnePixelThinningStep.md) algorithm.    Pipeline Input type: bool[,]    Default Pipeline Output: (bool[,]) OnePixelThinningResult
 - [`RealisticImageGenerator`](./SigStat/Common/Transforms/RealisticImageGenerator.md)
-	- Generates a realistic looking image of the Signature based on standard features. Uses blue ink and white paper. It does NOT save the image to file.  Default Pipeline Input: X, Y, Button, Pressure, Azimuth, Altitude [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)    Default Pipeline Output: [Image](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)
+	- Generates a realistic looking image of the Signature based on standard features. Uses blue ink and white paper. It does NOT save the image to file.    Default Pipeline Input: X, Y, Button, Pressure, Azimuth, Altitude [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)    Default Pipeline Output: [Image](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)
 - [`Resize`](./SigStat/Common/Transforms/Resize.md)
 	- Resizes the image to a specified width and height
 - [`TangentExtraction`](./SigStat/Common/Transforms/TangentExtraction.md)
 	- Extracts tangent values of the standard X, Y [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)  Default Pipeline Input: X, Y [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)    Default Pipeline Output: (List{double})  Tangent
 - [`TimeReset`](./SigStat/Common/Transforms/TimeReset.md)
-	- Sequential pipeline to reset time values to begin at 0.  The following Transforms are called: Extrema, Multiply, AddVector.  Default Pipeline Input: [T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)    Default Pipeline Output: [T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)
+	- Sequential pipeline to reset time values to begin at 0.  The following Transforms are called: Extrema, Multiply, AddVector.    Default Pipeline Input: [T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)    Default Pipeline Output: [T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)
 - [`Translate`](./SigStat/Common/Transforms/Translate.md)
-	- Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) by specified vector (constant or feature).  The following Transforms are called: [AddConst](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) twice, or [AddVector](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddVector.md).  Default Pipeline Input: [X](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md), [Y](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)    Default Pipeline Output: [X](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md), [Y](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)
+	- Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) by specified vector (constant or feature).  The following Transforms are called: [AddConst](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) twice, or [AddVector](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddVector.md).    Default Pipeline Input: [X](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md), [Y](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)    Default Pipeline Output: [X](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md), [Y](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)
 - [`Trim`](./SigStat/Common/Transforms/Trim.md)
-	- Trims unnecessary empty space from a binary raster.  Pipeline Input type: bool[,]    Default Pipeline Output: (bool[,]) Trimmed
+	- Trims unnecessary empty space from a binary raster.    Pipeline Input type: bool[,]    Default Pipeline Output: (bool[,]) Trimmed
 ### [SigStat.Common.PipelineItems.Transforms.Preprocessing](./SigStat/Common/PipelineItems/Transforms/Preprocessing/README.md)
 
 - [`CubicInterpolation`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/CubicInterpolation.md)
@@ -147,17 +147,17 @@ This is the root summary
 - [`OrthognalRotation`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/OrthognalRotation.md)
 	- Performs rotation normalization on the online signature
 - [`RelativeScale`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/RelativeScale.md)
-	- Maps values of a feature to a specific range.  InputFeature: feature to be scaled.    OutputFeature: output feature for scaled InputFeature
+	- Maps values of a feature to a specific range.    InputFeature: feature to be scaled.    OutputFeature: output feature for scaled InputFeature
 - [`ResampleSamplesCountBased`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/ResampleSamplesCountBased.md)
 	- Resamples an online signature to a specific sample count using the specified [IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md) algorithm
 - [`SampleRate`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/SampleRate.md)
 	- Performs rotation normalization on the online signature
 - [`Scale`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/Scale.md)
-	- Maps values of a feature to a specific range.  InputFeature: feature to be scaled.    OutputFeature: output feature for scaled InputFeature
+	- Maps values of a feature to a specific range.    InputFeature: feature to be scaled.    OutputFeature: output feature for scaled InputFeature
 - [`TranslatePreproc`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/TranslatePreproc.md)
 	- This transformations can be used to translate the coordinates of an online signature
 - [`UniformScale`](./SigStat/Common/PipelineItems/Transforms/Preprocessing/UniformScale.md)
-	- Maps values of a feature to a specific range and another proportional.  BaseDimension: feature modelled the base dimension of the scaling.     ProportionalDimension: feature modelled the dimension scaled proportionally to the base dimension.     BaseDimensionOutput: output feature for scaled BaseDimension    ProportionalDimensionOutput: output feature for scaled ProportionalDimension
+	- Maps values of a feature to a specific range and another proportional.    BaseDimension: feature modelled the base dimension of the scaling.    ProportionalDimension: feature modelled the dimension scaled proportionally to the base dimension.    BaseDimensionOutput: output feature for scaled BaseDimension    ProportionalDimensionOutput: output feature for scaled ProportionalDimension
 ### [SigStat.Common.PipelineItems.Classifiers](./SigStat/Common/PipelineItems/Classifiers/README.md)
 
 - [`DtwClassifier`](./SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md)

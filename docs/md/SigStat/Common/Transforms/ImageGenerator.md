@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Generates an image feature out of a binary raster.  Optionally, saves the image to a png file.  Useful for debugging pipeline steps.  Pipeline Input type: bool[,]    Default Pipeline Output: (bool[,]) Input, (Image{Rgba32}) InputImage
+Generates an image feature out of a binary raster.  Optionally, saves the image to a png file.  Useful for debugging pipeline steps.    Pipeline Input type: bool[,]    Default Pipeline Output: (bool[,]) Input, (Image{Rgba32}) InputImage
 
 ## Constructors
 

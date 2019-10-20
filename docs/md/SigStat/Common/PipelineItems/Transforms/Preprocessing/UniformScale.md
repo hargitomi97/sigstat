@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../../../ILoggerObject.md), [IProgress](./../../../Helpers/IProgress.md), [IPipelineIO](./../../../Pipeline/IPipelineIO.md), [ITransformation](./../../../ITransformation.md)
 
 ## Summary
-Maps values of a feature to a specific range and another proportional.  BaseDimension: feature modelled the base dimension of the scaling.     ProportionalDimension: feature modelled the dimension scaled proportionally to the base dimension.     BaseDimensionOutput: output feature for scaled BaseDimension    ProportionalDimensionOutput: output feature for scaled ProportionalDimension
+Maps values of a feature to a specific range and another proportional.    BaseDimension: feature modelled the base dimension of the scaling.    ProportionalDimension: feature modelled the dimension scaled proportionally to the base dimension.    BaseDimensionOutput: output feature for scaled BaseDimension    ProportionalDimensionOutput: output feature for scaled ProportionalDimension
 
 ## Constructors
 
