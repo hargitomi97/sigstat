@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./IPipelineIO.md), [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerable), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Runs pipeline items in parallel.  <para>Default Pipeline Output: Range of all the Item outputs.
+Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the Item outputs.
 
 ## Constructors
 

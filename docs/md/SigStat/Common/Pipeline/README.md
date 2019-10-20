@@ -15,11 +15,11 @@
 - [`Output`](./Output.md)
 	- Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) in a transformation pipeline
 - [`ParallelTransformPipeline`](./ParallelTransformPipeline.md)
-	- Runs pipeline items in parallel.  <para>Default Pipeline Output: Range of all the Item outputs.
+	- Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the Item outputs.
 - [`PipelineInput`](./PipelineInput.md)
 	- Represents an input for a [PipelineItem](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md)
 - [`PipelineOutput`](./PipelineOutput.md)
 	- Represents an output for a [PipelineItem](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md)
 - [`SequentialTransformPipeline`](./SequentialTransformPipeline.md)
-	- Runs pipeline items in a sequence.  <para>Default Pipeline Output: Output of the last Item in the sequence.
+	- Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the last Item in the sequence.
 

@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../../../ILoggerObject.md), [IProgress](./../../../Helpers/IProgress.md), [IPipelineIO](./../../../Pipeline/IPipelineIO.md), [ITransformation](./../../../ITransformation.md)
 
 ## Summary
-Maps values of a feature to a specific range.  <para>InputFeature: feature to be scaled.<para>OutputFeature: output feature for scaled InputFeature
+Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled.<br>OutputFeature: output feature for scaled InputFeature
 
 ## Constructors
 
@@ -21,8 +21,8 @@ Maps values of a feature to a specific range.  <para>InputFeature: feature to be
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>InputFeature</sub> | <sub>Gets or sets the input feature.</sub> | 
-| <sub>NewMaxValue</sub> | <sub><para>NewMaxValue: upper bound of the interval, in which the input feature will be scaled</sub> | 
-| <sub>NewMinValue</sub> | <sub><para>NewMinValue: lower bound of the interval, in which the input feature will be scaled</sub> | 
+| <sub>NewMaxValue</sub> | <sub><br>NewMaxValue: upper bound of the interval, in which the input feature will be scaled</sub> | 
+| <sub>NewMinValue</sub> | <sub><br>NewMinValue: lower bound of the interval, in which the input feature will be scaled</sub> | 
 | <sub>OutputFeature</sub> | <sub>Gets or sets the output feature.</sub> | 
 
 

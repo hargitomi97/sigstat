@@ -19,15 +19,15 @@
 - [`OrthognalRotation`](./OrthognalRotation.md)
 	- Performs rotation normalization on the online signature
 - [`RelativeScale`](./RelativeScale.md)
-	- Maps values of a feature to a specific range.  <para>InputFeature: feature to be scaled.<para>OutputFeature: output feature for scaled InputFeature
+	- Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled.<br>OutputFeature: output feature for scaled InputFeature
 - [`ResampleSamplesCountBased`](./ResampleSamplesCountBased.md)
 	- Resamples an online signature to a specific sample count using the specified [IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md) algorithm
 - [`SampleRate`](./SampleRate.md)
 	- Performs rotation normalization on the online signature
 - [`Scale`](./Scale.md)
-	- Maps values of a feature to a specific range.  <para>InputFeature: feature to be scaled.<para>OutputFeature: output feature for scaled InputFeature
+	- Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled.<br>OutputFeature: output feature for scaled InputFeature
 - [`TranslatePreproc`](./TranslatePreproc.md)
 	- This transformations can be used to translate the coordinates of an online signature
 - [`UniformScale`](./UniformScale.md)
-	- Maps values of a feature to a specific range and another proportional.  <para>BaseDimension: feature modelled the base dimension of the scaling. <para>ProportionalDimension: feature modelled the dimension scaled proportionally to the base dimension. <para>BaseDimensionOutput: output feature for scaled BaseDimension<para>ProportionalDimensionOutput: output feature for scaled ProportionalDimension
+	- Maps values of a feature to a specific range and another proportional.  <br>BaseDimension: feature modelled the base dimension of the scaling. <br>ProportionalDimension: feature modelled the dimension scaled proportionally to the base dimension. <br>BaseDimensionOutput: output feature for scaled BaseDimension<br>ProportionalDimensionOutput: output feature for scaled ProportionalDimension
 
