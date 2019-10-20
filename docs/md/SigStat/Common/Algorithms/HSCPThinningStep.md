@@ -18,7 +18,7 @@ HSCP thinning algorithm  http://www.ppgia.pucpr.br/~facon/Afinamento/1987holt.pd
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>ResultChanged</sub> | <sub>Gets whether the last [Boolean](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Algorithms/HSCPThinningStep/Scan(System/Boolean.md) call was effective.</sub> | 
+| <sub>ResultChanged</sub> | <sub>Gets whether the last [Scan](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Algorithms/HSCPThinningStep/Scan.md) call was effective.</sub> | 
 
 
 ## Methods
