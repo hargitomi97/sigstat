@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Extracts unsorted components by tracing through the binary Skeleton raster.  \Default Pipeline Input: (bool[,]) Skeleton, (List{Point}) EndPoints, (List{Point}) CrossingPoints\\Default Pipeline Output: (List{List{PointF}}) Components\
+Extracts unsorted components by tracing through the binary Skeleton raster.  \  Default Pipeline Input: (bool[,]) Skeleton, (List{Point}) EndPoints, (List{Point}) CrossingPoints\  \  Default Pipeline Output: (List{List{PointF}}) Components\
 
 ## Constructors
 

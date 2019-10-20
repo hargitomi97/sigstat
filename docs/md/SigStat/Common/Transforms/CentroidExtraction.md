@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Extracts the Centroid (aka. Center Of Gravity) of the input features.  \ Default Pipeline Output: (List{double}) Centroid. \
+Extracts the Centroid (aka. Center Of Gravity) of the input features.  \  Default Pipeline Output: (List{double}) Centroid. \
 
 ## Constructors
 
