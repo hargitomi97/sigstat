@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Maps values of a feature to 0.0 - 1.0 range.  \  Pipeline Input type: List{double}\  \  Default Pipeline Output: (List{double}) NormalizationResult\
+Maps values of a feature to 0.0 - 1.0 range.  Pipeline Input type: List{double}    Default Pipeline Output: (List{double}) NormalizationResult
 
 ## Constructors
 

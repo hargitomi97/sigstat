@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Extracts minimum and maximum values of given feature.  \  Default Pipeline Output: (List{double}) Min, (List{double}) Max \
+Extracts minimum and maximum values of given feature.  Default Pipeline Output: (List{double}) Min, (List{double}) Max
 
 ## Constructors
 
