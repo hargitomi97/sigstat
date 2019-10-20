@@ -11,15 +11,19 @@ Custom serializer for [System.Drawing.RectangleF](https://docs.microsoft.com/en-
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>RectangleFConverter (  )</sub>| <sub></sub>| <br>
+| <sub>RectangleFConverter (  )</sub>| <sub></sub>| 
+
 
 
 ## Methods
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[CanConvert](./Methods/RectangleFConverter-100664169.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub>| <sub>Tells if the current object is of the correct type</sub>| <br>
-| <sub>[ReadJson](./Methods/RectangleFConverter-100664170.md) ( [`JsonReader`](./RectangleFConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./RectangleFConverter.md) )</sub>| <sub></sub>| <br>
-| <sub>[WriteJson](./Methods/RectangleFConverter-100664171.md) ( [`JsonWriter`](./RectangleFConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./RectangleFConverter.md) )</sub>| <sub></sub>| <br>
+| <sub>[CanConvert](./Methods/RectangleFConverter-100664169.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub>| <sub>Tells if the current object is of the correct type</sub>| 
+
+| <sub>[ReadJson](./Methods/RectangleFConverter-100664170.md) ( [`JsonReader`](./RectangleFConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./RectangleFConverter.md) )</sub>| <sub></sub>| 
+
+| <sub>[WriteJson](./Methods/RectangleFConverter-100664171.md) ( [`JsonWriter`](./RectangleFConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./RectangleFConverter.md) )</sub>| <sub></sub>| 
+
 
 

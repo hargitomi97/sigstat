@@ -13,24 +13,31 @@ Performs rotation normalization on the online signature
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>NormalizeRotation (  )</sub>| <sub></sub>| <br>
+| <sub>NormalizeRotation (  )</sub>| <sub></sub>| 
+
 
 
 ## Properties
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>InputT</sub>| <sub>Gets or sets the input feature representing the timestamps of an online signature</sub>| <br>
-| <sub>InputX</sub>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>| <br>
-| <sub>InputY</sub>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
-| <sub>OutputX</sub>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub>| <br>
-| <sub>OutputY</sub>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| <br>
+| <sub>InputT</sub>| <sub>Gets or sets the input feature representing the timestamps of an online signature</sub>| 
+
+| <sub>InputX</sub>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>| 
+
+| <sub>InputY</sub>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| 
+
+| <sub>OutputX</sub>| <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub>| 
+
+| <sub>OutputY</sub>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| 
+
 
 
 ## Methods
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/NormalizeRotation-100663779.md) ( [`Signature`](./../../../Signature.md) )</sub>| <sub></sub>| <br>
+| <sub>[Transform](./Methods/NormalizeRotation-100663779.md) ( [`Signature`](./../../../Signature.md) )</sub>| <sub></sub>| 
+
 
 
