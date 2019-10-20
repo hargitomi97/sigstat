@@ -16,17 +16,13 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 | <sub>RelativeScale (  )</sub>| <sub></sub>| 
 
 
-
 ## Properties
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>InputFeature</sub>| <sub>Gets or sets the input feature.</sub>| 
-
 | <sub>OutputFeature</sub>| <sub>Gets or sets the output feature.</sub>| 
-
 | <sub>ReferenceFeature</sub>| <sub>Gets or sets the reference feature.</sub>| 
-
 
 
 ## Methods
@@ -34,6 +30,5 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/RelativeScale-100663815.md) ( [`Signature`](./../../../Signature.md) )</sub>| <sub></sub>| 
-
 
 

@@ -12,4 +12,3 @@ Assembly: SigStat.Common.dll
 | <sub>ClassifierDistanceLogState (  )</sub>| <sub></sub>| 
 
 
-

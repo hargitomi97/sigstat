@@ -16,4 +16,3 @@ Custom resolver for customizing the json serialization
 | <sub>VerifierResolver (  )</sub>| <sub></sub>| 
 
 
-

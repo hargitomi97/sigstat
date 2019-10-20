@@ -16,12 +16,10 @@ Extracts minimum and maximum values of given feature.  <br>Default Pipeline Outp
 | <sub>Extrema (  )</sub>| <sub></sub>| 
 
 
-
 ## Methods
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/Extrema-100663618.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| 
-
 
 

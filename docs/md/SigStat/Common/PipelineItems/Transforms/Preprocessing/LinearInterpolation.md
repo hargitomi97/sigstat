@@ -16,15 +16,12 @@ Performs linear interpolation on the input
 | <sub>LinearInterpolation (  )</sub>| <sub></sub>| 
 
 
-
 ## Properties
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>FeatureValues</sub>| <sub></sub>| 
-
 | <sub>TimeValues</sub>| <sub></sub>| 
-
 
 
 ## Methods
@@ -32,6 +29,5 @@ Performs linear interpolation on the input
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[GetValue](./Methods/LinearInterpolation-100663767.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub>| <sub>Gets the interpolated value at a given timestamp</sub>| 
-
 
 

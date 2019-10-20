@@ -14,16 +14,12 @@ Helper class for serializing distance functions
 | <sub>DistanceFunctionJsonConverter (  )</sub>| <sub></sub>| 
 
 
-
 ## Methods
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[CanConvert](./Methods/DistanceFunctionJsonConverter-100664153.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub>| <sub></sub>| 
-
 | <sub>[ReadJson](./Methods/DistanceFunctionJsonConverter-100664154.md) ( [`JsonReader`](./DistanceFunctionJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub>| <sub></sub>| 
-
 | <sub>[WriteJson](./Methods/DistanceFunctionJsonConverter-100664155.md) ( [`JsonWriter`](./DistanceFunctionJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub>| <sub></sub>| 
-
 
 

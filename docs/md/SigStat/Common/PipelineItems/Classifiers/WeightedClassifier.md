@@ -16,7 +16,6 @@ Classifies Signatures by weighing other Classifier results.
 | <sub>WeightedClassifier (  )</sub>| <sub></sub>| 
 
 
-
 ## Fields
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
@@ -24,18 +23,13 @@ Classifies Signatures by weighing other Classifier results.
 | <sub>Items</sub>| <sub>List of classifiers and belonging weights.</sub>| 
 
 
-
 ## Methods
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Add](./Methods/WeightedClassifier-100663912.md) ( [`ValueTuple`](https://docs.microsoft.com/en-us/dotnet/api/System.ValueTuple-2)\<[`IClassifier`](./../../Pipeline/IClassifier.md), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub>| <sub>Add a new classifier with given weight to the list of items.</sub>| 
-
 | <sub>[GetEnumerator](./Methods/WeightedClassifier-100663911.md) (  )</sub>| <sub></sub>| 
-
 | <sub>[Test](./Methods/WeightedClassifier-100663914.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub>| <sub></sub>| 
-
 | <sub>[Train](./Methods/WeightedClassifier-100663913.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub>| <sub></sub>| 
-
 
 

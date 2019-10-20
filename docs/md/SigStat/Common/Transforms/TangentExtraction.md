@@ -16,17 +16,13 @@ Extracts tangent values of the standard X, Y [Features](https://github.com/hargi
 | <sub>TangentExtraction (  )</sub>| <sub></sub>| 
 
 
-
 ## Properties
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>OutputTangent</sub>| <sub>Gets or sets the output feature representing the tangent angles of an online signature</sub>| 
-
 | <sub>X</sub>| <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub>| 
-
 | <sub>Y</sub>| <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub>| 
-
 
 
 ## Methods
@@ -34,6 +30,5 @@ Extracts tangent values of the standard X, Y [Features](https://github.com/hargi
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/TangentExtraction-100663598.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| 
-
 
 

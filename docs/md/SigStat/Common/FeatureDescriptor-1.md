@@ -14,4 +14,3 @@ Represents a feature with the type `T`
 | <sub>[Get](./Methods/FeatureDescriptor`1-100663424.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub>| <sub></sub>| 
 
 
-

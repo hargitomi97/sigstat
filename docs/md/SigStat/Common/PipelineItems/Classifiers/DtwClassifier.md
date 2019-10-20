@@ -14,9 +14,7 @@ Classifies Signatures with the [Dtw](https://github.com/hargitomi97/sigstat/blob
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>DtwClassifier (  )</sub>| <sub>Initializes a new instance of the [DtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md) class with the default Manhattan distance method.</sub>| 
-
 | <sub>DtwClassifier ( [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub>| <sub>Initializes a new instance of the [DtwClassifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md) class with a specified distance method.</sub>| 
-
 
 
 ## Properties
@@ -24,11 +22,8 @@ Classifies Signatures with the [Dtw](https://github.com/hargitomi97/sigstat/blob
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>DistanceFunction</sub>| <sub>The function used to calculate the distance between two data points during DTW calculation</sub>| 
-
 | <sub>Features</sub>| <sub>Gets or sets the features to consider during distance calculation</sub>| 
-
 | <sub>MultiplicationFactor</sub>| <sub>Gets or sets the multiplication factor to be used during threshold calculation</sub>| 
-
 
 
 ## Methods
@@ -36,8 +31,6 @@ Classifies Signatures with the [Dtw](https://github.com/hargitomi97/sigstat/blob
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Test](./Methods/DtwClassifier-100663900.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub>| <sub></sub>| 
-
 | <sub>[Train](./Methods/DtwClassifier-100663899.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub>| <sub></sub>| 
-
 
 

@@ -16,12 +16,10 @@ Generates a realistic looking image of the Signature based on standard features.
 | <sub>RealisticImageGenerator ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32), [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub>| <sub>Initializes a new instance of the [RealisticImageGenerator](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/RealisticImageGenerator.md) class with specified settings.</sub>| 
 
 
-
 ## Methods
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/RealisticImageGenerator-100663701.md) ( [`Signature`](./../Signature.md) )</sub>| <sub></sub>| 
-
 
 
