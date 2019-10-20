@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerable), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Sequential pipeline to reset time values to begin at 0.  The following Transforms are called: Extrema, Multiply, AddVector.    Default Pipeline Input: [T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)    Default Pipeline Output: [T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)
+Sequential pipeline to reset time values to begin at 0.  The following Transforms are called: Extrema, Multiply, AddVector.  <br>Default Pipeline Input: [T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) <br>Default Pipeline Output: [T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)
 
 ## Constructors
 
