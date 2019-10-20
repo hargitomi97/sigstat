@@ -29,7 +29,7 @@ This [IDistanceClassifier](https://github.com/hargitomi97/sigstat/blob/master/do
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Test](./Methods/OptimalDtwClassifier-Test.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub> | <sub></sub> | 
-| <sub>[Train](./Methods/OptimalDtwClassifier-Train.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub> | <sub></sub> | 
+| <sub>[Test](./Methods/OptimalDtwClassifier--Test.md) ( [`ISignerModel`](./../../Pipeline/ISignerModel.md), [`Signature`](./../../Signature.md) )</sub> | <sub></sub> | 
+| <sub>[Train](./Methods/OptimalDtwClassifier--Train.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../Signature.md)> )</sub> | <sub></sub> | 
 
 

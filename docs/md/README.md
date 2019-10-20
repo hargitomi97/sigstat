@@ -73,9 +73,9 @@ This is the root summary
 - [`ParallelTransformPipeline`](./SigStat/Common/Pipeline/ParallelTransformPipeline.md)
 	- Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the Item outputs.
 - [`PipelineInput`](./SigStat/Common/Pipeline/PipelineInput.md)
-	- Represents an input for a [PipelineItem](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md)
+	- Represents an input for a [PipelineItem](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineInput.md)
 - [`PipelineOutput`](./SigStat/Common/Pipeline/PipelineOutput.md)
-	- Represents an output for a [PipelineItem](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md)
+	- Represents an output for a [PipelineItem](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineOutput.md)
 - [`SequentialTransformPipeline`](./SigStat/Common/Pipeline/SequentialTransformPipeline.md)
 	- Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the last Item in the sequence.
 ### [SigStat.Common.Transforms](./SigStat/Common/Transforms/README.md)
@@ -227,7 +227,7 @@ This is the root summary
 - [`FeatureStreamingContextState`](./SigStat/Common/Helpers/Serialization/FeatureStreamingContextState.md)
 	- SerializationContext for serializing SigStat objects
 - [`RectangleFConverter`](./SigStat/Common/Helpers/Serialization/RectangleFConverter.md)
-	- Custom serializer for [System.Drawing.RectangleF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.RectangleF) objects
+	- Custom serializer for [RectangleF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.RectangleF) objects
 - [`VerifierResolver`](./SigStat/Common/Helpers/Serialization/VerifierResolver.md)
 	- Custom resolver for customizing the json serialization
 ### [SigStat.Common.Helpers.NetCoreSerialization](./SigStat/Common/Helpers/NetCoreSerialization/README.md)

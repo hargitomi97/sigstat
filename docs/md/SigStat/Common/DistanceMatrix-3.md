@@ -25,7 +25,7 @@ A Sparse Matrix representation of a distance graph.
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[ContainsKey](./Methods/DistanceMatrix`3-ContainsKey.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md) )</sub> | <sub></sub> | 
-| <sub>[TryGetValue](./Methods/DistanceMatrix`3-TryGetValue.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md), out [`TValue`](./DistanceMatrix-3.md) )</sub> | <sub></sub> | 
+| <sub>[ContainsKey](./Methods/DistanceMatrix`3--ContainsKey.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md) )</sub> | <sub></sub> | 
+| <sub>[TryGetValue](./Methods/DistanceMatrix`3--TryGetValue.md) ( [`TRowKey`](./DistanceMatrix-3.md), [`TColumnKey`](./DistanceMatrix-3.md), out [`TValue`](./DistanceMatrix-3.md) )</sub> | <sub></sub> | 
 
 

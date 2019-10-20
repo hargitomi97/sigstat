@@ -32,16 +32,16 @@ Represents a signature as a collection of features, containing the data that flo
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[GetAggregateFeature](./Methods/Signature-GetAggregateFeature.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`FeatureDescriptor`](./FeatureDescriptor.md)> )</sub> | <sub>Aggregate multiple features into one. Example: X, Y features -&gt; P.xy feature.  Use this for example at DTW algorithm input.</sub> | 
-| <sub>[GetEnumerator](./Methods/Signature-GetEnumerator.md) (  )</sub> | <sub>Returns an enumerator that iterates through the features.</sub> | 
-| <sub>[GetFeature](./Methods/Signature-GetFeature.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub> | <sub>Gets the specified feature.</sub> | 
-| <sub>[GetFeature](./Methods/Signature-GetFeature.md) ( [`FeatureDescriptor`](./FeatureDescriptor-1.md)\<[`T`](./Signature.md)> )</sub> | <sub>Gets the specified feature. This is the preferred way.</sub> | 
-| <sub>[GetFeature](./Methods/Signature-GetFeature.md) ( [`FeatureDescriptor`](./FeatureDescriptor.md) )</sub> | <sub>Gets the specified feature. This is the preferred way.</sub> | 
-| <sub>[GetFeatureDescriptors](./Methods/Signature-GetFeatureDescriptors.md) (  )</sub> | <sub>Gets a collection of [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md)s that are used in this signature.</sub> | 
-| <sub>[HasFeature](./Methods/Signature-HasFeature.md) ( [`FeatureDescriptor`](./FeatureDescriptor.md) )</sub> | <sub>Returns true if the signature contains the specified feature</sub> | 
-| <sub>[HasFeature](./Methods/Signature-HasFeature.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub> | <sub>Returns true if the signature contains the specified feature</sub> | 
-| <sub>[SetFeature](./Methods/Signature-SetFeature.md) ( [`FeatureDescriptor`](./FeatureDescriptor.md), [`T`](./Signature.md) )</sub> | <sub>Sets the specified feature.</sub> | 
-| <sub>[SetFeature](./Methods/Signature-SetFeature.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`T`](./Signature.md) )</sub> | <sub>Sets the specified feature.</sub> | 
-| <sub>[ToString](./Methods/Signature-ToString.md) (  )</sub> | <sub>Returns a string representation of the signature</sub> | 
+| <sub>[GetAggregateFeature](./Methods/Signature--GetAggregateFeature.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`FeatureDescriptor`](./FeatureDescriptor.md)> )</sub> | <sub>Aggregate multiple features into one. Example: X, Y features -&gt; P.xy feature.  Use this for example at DTW algorithm input.</sub> | 
+| <sub>[GetEnumerator](./Methods/Signature--GetEnumerator.md) (  )</sub> | <sub>Returns an enumerator that iterates through the features.</sub> | 
+| <sub>[GetFeature](./Methods/Signature--GetFeature.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub> | <sub>Gets the specified feature.</sub> | 
+| <sub>[GetFeature](./Methods/Signature--GetFeature.md) ( [`FeatureDescriptor`](./FeatureDescriptor-1.md)\<[`T`](./Signature.md)> )</sub> | <sub>Gets the specified feature. This is the preferred way.</sub> | 
+| <sub>[GetFeature](./Methods/Signature--GetFeature.md) ( [`FeatureDescriptor`](./FeatureDescriptor.md) )</sub> | <sub>Gets the specified feature. This is the preferred way.</sub> | 
+| <sub>[GetFeatureDescriptors](./Methods/Signature--GetFeatureDescriptors.md) (  )</sub> | <sub>Gets a collection of [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md)s that are used in this signature.</sub> | 
+| <sub>[HasFeature](./Methods/Signature--HasFeature.md) ( [`FeatureDescriptor`](./FeatureDescriptor.md) )</sub> | <sub>Returns true if the signature contains the specified feature</sub> | 
+| <sub>[HasFeature](./Methods/Signature--HasFeature.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub> | <sub>Returns true if the signature contains the specified feature</sub> | 
+| <sub>[SetFeature](./Methods/Signature--SetFeature.md) ( [`FeatureDescriptor`](./FeatureDescriptor.md), [`T`](./Signature.md) )</sub> | <sub>Sets the specified feature.</sub> | 
+| <sub>[SetFeature](./Methods/Signature--SetFeature.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`T`](./Signature.md) )</sub> | <sub>Sets the specified feature.</sub> | 
+| <sub>[ToString](./Methods/Signature--ToString.md) (  )</sub> | <sub>Returns a string representation of the signature</sub> | 
 
 

@@ -28,6 +28,6 @@ Adds a vector feature's elements to other features.  <br>Default Pipeline Output
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/AddVector-Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
+| <sub>[Transform](./Methods/AddVector--Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 
 

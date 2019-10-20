@@ -28,6 +28,6 @@ Maps values of a feature to a specified range.  <br>Pipeline Input type: List{do
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/Map-Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
+| <sub>[Transform](./Methods/Map--Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 
 

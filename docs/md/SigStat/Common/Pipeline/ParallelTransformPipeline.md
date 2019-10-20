@@ -35,8 +35,8 @@ Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the 
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Add](./Methods/ParallelTransformPipeline-Add.md) ( [`ITransformation`](./../ITransformation.md) )</sub> | <sub>Add new transform to the list.</sub> | 
-| <sub>[GetEnumerator](./Methods/ParallelTransformPipeline-GetEnumerator.md) (  )</sub> | <sub></sub> | 
-| <sub>[Transform](./Methods/ParallelTransformPipeline-Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub>Executes transform [Items](https://github.com/hargitomi97/sigstat/blob/master/docs/md/.md) parallel.  Passes input features for each.  Output is a range of all the Item outputs.</sub> | 
+| <sub>[Add](./Methods/ParallelTransformPipeline--Add.md) ( [`ITransformation`](./../ITransformation.md) )</sub> | <sub>Add new transform to the list.</sub> | 
+| <sub>[GetEnumerator](./Methods/ParallelTransformPipeline--GetEnumerator.md) (  )</sub> | <sub></sub> | 
+| <sub>[Transform](./Methods/ParallelTransformPipeline--Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub>Executes transform [Items](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/ParallelTransformPipeline.md) parallel.  Passes input features for each.  Output is a range of all the Item outputs.</sub> | 
 
 

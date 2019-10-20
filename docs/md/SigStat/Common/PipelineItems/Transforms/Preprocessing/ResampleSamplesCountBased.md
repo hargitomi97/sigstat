@@ -32,6 +32,6 @@ Resamples an online signature to a specific sample count using the specified [II
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/ResampleSamplesCountBased-Transform.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | 
+| <sub>[Transform](./Methods/ResampleSamplesCountBased--Transform.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | 
 
 

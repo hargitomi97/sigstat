@@ -19,6 +19,6 @@ Represents an interploation algorithm
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[GetValue](./Methods/IInterpolation-GetValue.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub> | <sub>Gets the interpolated value at a given timestamp</sub> | 
+| <sub>[GetValue](./Methods/IInterpolation--GetValue.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub> | <sub>Gets the interpolated value at a given timestamp</sub> | 
 
 

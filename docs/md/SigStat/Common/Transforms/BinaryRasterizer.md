@@ -30,6 +30,6 @@ Converts standard features to a binary raster.  <br>Default Pipeline Input: Stan
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/BinaryRasterizer-Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
+| <sub>[Transform](./Methods/BinaryRasterizer--Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 
 

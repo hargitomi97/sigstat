@@ -28,6 +28,6 @@ Adds a constant value to a feature. Works with collection features too.  <br>Def
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/AddConst-Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
+| <sub>[Transform](./Methods/AddConst--Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 
 

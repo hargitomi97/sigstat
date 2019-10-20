@@ -28,13 +28,13 @@ Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerOb
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[EnumerateSigners](./Methods/MCYTLoader-EnumerateSigners.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub> | <sub></sub> | 
+| <sub>[EnumerateSigners](./Methods/MCYTLoader--EnumerateSigners.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub> | <sub></sub> | 
 
 
 ## Static Methods
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[LoadSignature](./Methods/MCYTLoader-LoadSignature.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub> | <sub>Loads one signature from specified stream.</sub> | 
+| <sub>[LoadSignature](./Methods/MCYTLoader--LoadSignature.md) ( [`Signature`](./../Signature.md), [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub> | <sub>Loads one signature from specified stream.</sub> | 
 
 

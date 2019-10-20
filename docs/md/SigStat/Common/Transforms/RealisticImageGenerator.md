@@ -20,6 +20,6 @@ Generates a realistic looking image of the Signature based on standard features.
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/RealisticImageGenerator-Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
+| <sub>[Transform](./Methods/RealisticImageGenerator--Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 
 
