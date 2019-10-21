@@ -5,7 +5,7 @@ Namespace: [SigStat]() > [Common](./../README.md) > [Loaders](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Get the [Image](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) of a [Signature](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signature.md) and save it as png file.
+Get the [Image](../SigStat/Common/Features.md) of a [Signature](../SigStat/Common/Signature.md) and save it as png file.
 
 ## Static Methods
 

@@ -1,6 +1,6 @@
 # [Transform](./SequentialTransformPipeline--Transform.md)
 
-Executes transform [Items](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/SequentialTransformPipeline.md) in sequence.  Passes input features for each.  Output is the output of the last Item in the sequence.
+Executes transform [Items](../SigStat/Common/Pipeline/SequentialTransformPipeline.md) in sequence.  Passes input features for each.  Output is the output of the last Item in the sequence.
 
 | Return | Name | 
 | --- | --- | 
