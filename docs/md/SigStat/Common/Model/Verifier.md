@@ -7,15 +7,15 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md)
 
 ## Summary
-Uses pipelines to transform, train on, and classify [Signature](../../docs/md/SigStat/Common/Signature.md) objects.
+Uses pipelines to transform, train on, and classify [Signature](../../SigStat/Common/Signature.md) objects.
 
 ## Constructors
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>Verifier ( [`ILogger`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger) )</sub> | <sub>Initializes a new instance of the [Verifier](../../docs/md/SigStat/Common/Model/Verifier.md) class</sub> | 
-| <sub>Verifier (  )</sub> | <sub>Initializes a new instance of the [Verifier](../../docs/md/SigStat/Common/Model/Verifier.md) class.</sub> | 
-| <sub>Verifier ( [`Verifier`](./Verifier.md) )</sub> | <sub>Initializes a new instance of the [Verifier](../../docs/md/SigStat/Common/Model/Verifier.md) class based on another Verifier instance</sub> | 
+| <sub>Verifier ( [`ILogger`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.ILogger) )</sub> | <sub>Initializes a new instance of the [Verifier](../../SigStat/Common/Model/Verifier.md) class</sub> | 
+| <sub>Verifier (  )</sub> | <sub>Initializes a new instance of the [Verifier](../../SigStat/Common/Model/Verifier.md) class.</sub> | 
+| <sub>Verifier ( [`Verifier`](./Verifier.md) )</sub> | <sub>Initializes a new instance of the [Verifier](../../SigStat/Common/Model/Verifier.md) class based on another Verifier instance</sub> | 
 
 
 ## Properties

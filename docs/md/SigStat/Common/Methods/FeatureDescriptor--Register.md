@@ -1,6 +1,6 @@
 # [Register](./FeatureDescriptor--Register.md)
 
-Registers a new [FeatureDescriptor](../../docs/md/SigStat/Common/FeatureDescriptor.md) with a given key.  If the FeatureDescriptor is allready registered, this function will  return a reference to the originally registered FeatureDescriptor.  to the a
+Registers a new [FeatureDescriptor](../../SigStat/Common/FeatureDescriptor.md) with a given key.  If the FeatureDescriptor is allready registered, this function will  return a reference to the originally registered FeatureDescriptor.  to the a
 
 | Return | Name | 
 | --- | --- | 

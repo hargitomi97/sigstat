@@ -5,7 +5,7 @@ Namespace: [SigStat]() > [Common](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Contains the benchmark results of a single [Signer](../../docs/md/SigStat/Common/Signer.md)
+Contains the benchmark results of a single [Signer](../../SigStat/Common/Signer.md)
 
 ## Fields
 

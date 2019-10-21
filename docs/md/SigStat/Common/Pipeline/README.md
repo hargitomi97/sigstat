@@ -7,13 +7,13 @@
 - [`IDistanceClassifier`](./IDistanceClassifier.md)
 	- Trains classification models based on reference signatures, by calculating the distances between signature pairs
 - [`Input`](./Input.md)
-	- Annotates an input [FeatureDescriptor](../../docs/md/SigStat/Common/FeatureDescriptor.md) in a transformation pipeline
+	- Annotates an input [FeatureDescriptor](../../SigStat/Common/FeatureDescriptor.md) in a transformation pipeline
 - [`IPipelineIO`](./IPipelineIO.md)
-	- Supports the definition of [PipelineInput](../../docs/md/SigStat/Common/Pipeline/PipelineInput.md) and [PipelineOutput](../../docs/md/SigStat/Common/Pipeline/PipelineOutput.md)
+	- Supports the definition of [PipelineInput](../../SigStat/Common/Pipeline/PipelineInput.md) and [PipelineOutput](../../SigStat/Common/Pipeline/PipelineOutput.md)
 - [`ISignerModel`](./ISignerModel.md)
 	- Analyzes signatures based on their similiarity to the trained model
 - [`Output`](./Output.md)
-	- Annotates an output [FeatureDescriptor](../../docs/md/SigStat/Common/FeatureDescriptor.md) in a transformation pipeline
+	- Annotates an output [FeatureDescriptor](../../SigStat/Common/FeatureDescriptor.md) in a transformation pipeline
 - [`ParallelTransformPipeline`](./ParallelTransformPipeline.md)
 	- Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the Item outputs.
 - [`PipelineInput`](./PipelineInput.md)

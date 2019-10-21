@@ -1,6 +1,6 @@
 # [Get](./FeatureDescriptor--Get.md)
 
-Gets the [FeatureDescriptor-1](../../docs/md/SigStat/Common/FeatureDescriptor-1.md) specified by `key`.  If the key is not registered yet, a new [FeatureDescriptor-1](../../docs/md/SigStat/Common/FeatureDescriptor-1.md) is automatically created with the given key and type.
+Gets the [FeatureDescriptor-1](../../SigStat/Common/FeatureDescriptor-1.md) specified by `key`.  If the key is not registered yet, a new [FeatureDescriptor-1](../../SigStat/Common/FeatureDescriptor-1.md) is automatically created with the given key and type.
 
 | Return | Name | 
 | --- | --- | 

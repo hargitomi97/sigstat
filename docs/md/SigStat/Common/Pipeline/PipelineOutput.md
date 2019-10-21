@@ -11,7 +11,7 @@ Represents an output for a [PipelineItem](../../docs/md/SigStat/Common/Pipeline/
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub> | <sub>Initializes a new instance of the [PipelineOutput](../../docs/md/SigStat/Common/Pipeline/PipelineOutput.md) class.</sub> | 
+| <sub>PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub> | <sub>Initializes a new instance of the [PipelineOutput](../../SigStat/Common/Pipeline/PipelineOutput.md) class.</sub> | 
 
 
 ## Properties
