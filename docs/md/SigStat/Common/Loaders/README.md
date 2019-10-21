@@ -9,7 +9,7 @@
 - [`ImageLoader`](./ImageLoader.md)
 	- DataSetLoader for Image type databases.  Similar format to Svc2004Loader, but finds png images.
 - [`ImageSaver`](./ImageSaver.md)
-	- Get the [Image](./SigStat/Common/Features.md) of a [Signature](./SigStat/Common/Signature.md) and save it as png file.
+	- Get the [Image](../SigStat/Common/Features.md) of a [Signature](./SigStat/Common/Signature.md) and save it as png file.
 - [`MCYTLoader`](./MCYTLoader.md)
 	- [DataSetLoader](./SigStat/Common/Loaders/DataSetLoader.md) for the MCYT dataset
 - [`SigComp11ChineseLoader`](./SigComp11ChineseLoader.md)

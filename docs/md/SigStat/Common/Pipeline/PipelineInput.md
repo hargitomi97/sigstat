@@ -5,7 +5,7 @@ Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Represents an input for a [PipelineItem](./SigStat/Common/Pipeline/PipelineInput.md)
+Represents an input for a [PipelineItem](../SigStat/Common/Pipeline/PipelineInput.md)
 
 ## Constructors
 

@@ -22,7 +22,7 @@ This [IDistanceClassifier](./SigStat/Common/Pipeline/IDistanceClassifier.md) imp
 | --- | --- | 
 | <sub>DistanceFunction</sub> | <sub>The function used to calculate the distance between two data points during DTW calculation</sub> | 
 | <sub>Features</sub> | <sub>[FeatureDescriptor](./SigStat/Common/FeatureDescriptor.md)s to consider during classification</sub> | 
-| <sub>Sampler</sub> | <sub>[Sampler](./SigStat/Common/PipelineItems/Classifiers/OptimalDtwClassifier.md) used for selecting training and test sets during a benchmark</sub> | 
+| <sub>Sampler</sub> | <sub>[Sampler](../SigStat/Common/PipelineItems/Classifiers/OptimalDtwClassifier.md) used for selecting training and test sets during a benchmark</sub> | 
 
 
 ## Methods

@@ -15,7 +15,7 @@
 - [`CentroidExtraction`](./CentroidExtraction.md)
 	- Extracts the Centroid (aka. Center Of Gravity) of the input features.  <br> Default Pipeline Output: (List{double}) Centroid.
 - [`CentroidTranslate`](./CentroidTranslate.md)
-	- Sequential pipeline to translate X and Y [Features](./SigStat/Common/Features.md) to Centroid.  The following Transforms are called: [CentroidExtraction](./SigStat/Common/Transforms/CentroidExtraction.md), [Multiply](./SigStat/Common/Transforms/Multiply.md)(-1), [Translate](./SigStat/Common/Transforms/Translate.md)<br>Default Pipeline Input: [X](./SigStat/Common/Features.md), [Y](./SigStat/Common/Features.md) <br>Default Pipeline Output: (List{double}) Centroid
+	- Sequential pipeline to translate X and Y [Features](./SigStat/Common/Features.md) to Centroid.  The following Transforms are called: [CentroidExtraction](./SigStat/Common/Transforms/CentroidExtraction.md), [Multiply](./SigStat/Common/Transforms/Multiply.md)(-1), [Translate](./SigStat/Common/Transforms/Translate.md)<br>Default Pipeline Input: [X](../SigStat/Common/Features.md), [Y](../SigStat/Common/Features.md) <br>Default Pipeline Output: (List{double}) Centroid
 - [`ComponentExtraction`](./ComponentExtraction.md)
 	- Extracts unsorted components by tracing through the binary Skeleton raster.  <br>Default Pipeline Input: (bool[,]) Skeleton, (List{Point}) EndPoints, (List{Point}) CrossingPoints <br>Default Pipeline Output: (List{List{PointF}}) Components
 - [`ComponentSorter`](./ComponentSorter.md)
@@ -39,15 +39,15 @@
 - [`OnePixelThinning`](./OnePixelThinning.md)
 	- Iteratively thins the input binary raster with the [OnePixelThinningStep](./SigStat/Common/Algorithms/OnePixelThinningStep.md) algorithm.  <br>Pipeline Input type: bool[,] <br>Default Pipeline Output: (bool[,]) OnePixelThinningResult
 - [`RealisticImageGenerator`](./RealisticImageGenerator.md)
-	- Generates a realistic looking image of the Signature based on standard features. Uses blue ink and white paper. It does NOT save the image to file.  <br>Default Pipeline Input: X, Y, Button, Pressure, Azimuth, Altitude [Features](./SigStat/Common/Features.md) <br>Default Pipeline Output: [Image](./SigStat/Common/Features.md)
+	- Generates a realistic looking image of the Signature based on standard features. Uses blue ink and white paper. It does NOT save the image to file.  <br>Default Pipeline Input: X, Y, Button, Pressure, Azimuth, Altitude [Features](./SigStat/Common/Features.md) <br>Default Pipeline Output: [Image](../SigStat/Common/Features.md)
 - [`Resize`](./Resize.md)
 	- Resizes the image to a specified width and height
 - [`TangentExtraction`](./TangentExtraction.md)
 	- Extracts tangent values of the standard X, Y [Features](./SigStat/Common/Features.md)<br>Default Pipeline Input: X, Y [Features](./SigStat/Common/Features.md) <br>Default Pipeline Output: (List{double})  Tangent
 - [`TimeReset`](./TimeReset.md)
-	- Sequential pipeline to reset time values to begin at 0.  The following Transforms are called: Extrema, Multiply, AddVector.  <br>Default Pipeline Input: [T](./SigStat/Common/Features.md) <br>Default Pipeline Output: [T](./SigStat/Common/Features.md)
+	- Sequential pipeline to reset time values to begin at 0.  The following Transforms are called: Extrema, Multiply, AddVector.  <br>Default Pipeline Input: [T](../SigStat/Common/Features.md) <br>Default Pipeline Output: [T](../SigStat/Common/Features.md)
 - [`Translate`](./Translate.md)
-	- Sequential pipeline to translate X and Y [Features](./SigStat/Common/Features.md) by specified vector (constant or feature).  The following Transforms are called: [AddConst](./SigStat/Common/Transforms/AddConst.md) twice, or [AddVector](./SigStat/Common/Transforms/AddVector.md).  <br>Default Pipeline Input: [X](./SigStat/Common/Features.md), [Y](./SigStat/Common/Features.md) <br>Default Pipeline Output: [X](./SigStat/Common/Features.md), [Y](./SigStat/Common/Features.md)
+	- Sequential pipeline to translate X and Y [Features](./SigStat/Common/Features.md) by specified vector (constant or feature).  The following Transforms are called: [AddConst](./SigStat/Common/Transforms/AddConst.md) twice, or [AddVector](./SigStat/Common/Transforms/AddVector.md).  <br>Default Pipeline Input: [X](../SigStat/Common/Features.md), [Y](../SigStat/Common/Features.md) <br>Default Pipeline Output: [X](../SigStat/Common/Features.md), [Y](../SigStat/Common/Features.md)
 - [`Trim`](./Trim.md)
 	- Trims unnecessary empty space from a binary raster.  <br>Pipeline Input type: bool[,] <br>Default Pipeline Output: (bool[,]) Trimmed
 
