@@ -24,7 +24,7 @@ Represents a signature as a collection of features, containing the data that flo
 | <sub>ID</sub> | <sub>An identifier for the Signature. Keep it unique to be useful for logs.</sub> | 
 | <sub>Item [ [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ]</sub> | <sub>Gets or sets the specified feature.</sub> | 
 | <sub>Item [ [`FeatureDescriptor`](./FeatureDescriptor.md) ]</sub> | <sub>Gets or sets the specified feature.</sub> | 
-| <sub>Origin</sub> | <sub>Represents our knowledge on the origin of the signature. [Unknown](../SigStat/Common/Origin.md) may be used in practice before it is verified.</sub> | 
+| <sub>Origin</sub> | <sub>Represents our knowledge on the origin of the signature. [Unknown](././SigStat/Common/Origin.md) may be used in practice before it is verified.</sub> | 
 | <sub>Signer</sub> | <sub>A reference to the [Signer](./SigStat/Common/Signer.md) who this signature belongs to. (The origin is not constrained to be genuine.)</sub> | 
 
 

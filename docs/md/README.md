@@ -11,7 +11,7 @@ This is the root summary
 	- Helper methods for processing arrays
 - [`Baseline`](./SigStat/Common/Baseline.md)
 - [`BasicMetadataExtraction`](./SigStat/Common/BasicMetadataExtraction.md)
-	- Extracts basic statistical signature (like [Bounds](../SigStat/Common/Features.md) or [Cog](../SigStat/Common/Features.md)) information from an Image
+	- Extracts basic statistical signature (like [Bounds](././SigStat/Common/Features.md) or [Cog](././SigStat/Common/Features.md)) information from an Image
 - [`BenchmarkResults`](./SigStat/Common/BenchmarkResults.md)
 	- Contains the benchmark results of every [Signer](./SigStat/Common/Signer.md) and the summarized final results.
 - [`DistanceMatrix`](./SigStat/Common/DistanceMatrix-3.md)\<[`TRowKey`](./README.md), [`TColumnKey`](./README.md), [`TValue`](./README.md)>
@@ -45,7 +45,7 @@ This is the root summary
 - [`Signature`](./SigStat/Common/Signature.md)
 	- Represents a signature as a collection of features, containing the data that flows in the pipeline.
 - [`Signer`](./SigStat/Common/Signer.md)
-	- Represents a person as an [ID](../SigStat/Common/Signer.md) and a list of [Signatures](../SigStat/Common/Signer.md).
+	- Represents a person as an [ID](././SigStat/Common/Signer.md) and a list of [Signatures](././SigStat/Common/Signer.md).
 - [`SigStatEvents`](./SigStat/Common/SigStatEvents.md)
 	- Standard event identifiers used by the SigStat system
 - [`SimpleRenderingTransformation`](./SigStat/Common/SimpleRenderingTransformation.md)
@@ -73,9 +73,9 @@ This is the root summary
 - [`ParallelTransformPipeline`](./SigStat/Common/Pipeline/ParallelTransformPipeline.md)
 	- Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the Item outputs.
 - [`PipelineInput`](./SigStat/Common/Pipeline/PipelineInput.md)
-	- Represents an input for a [PipelineItem](../SigStat/Common/Pipeline/PipelineInput.md)
+	- Represents an input for a [PipelineItem](././SigStat/Common/Pipeline/PipelineInput.md)
 - [`PipelineOutput`](./SigStat/Common/Pipeline/PipelineOutput.md)
-	- Represents an output for a [PipelineItem](../SigStat/Common/Pipeline/PipelineOutput.md)
+	- Represents an output for a [PipelineItem](././SigStat/Common/Pipeline/PipelineOutput.md)
 - [`SequentialTransformPipeline`](./SigStat/Common/Pipeline/SequentialTransformPipeline.md)
 	- Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the last Item in the sequence.
 ### [SigStat.Common.Transforms](./SigStat/Common/Transforms/README.md)
@@ -93,7 +93,7 @@ This is the root summary
 - [`CentroidExtraction`](./SigStat/Common/Transforms/CentroidExtraction.md)
 	- Extracts the Centroid (aka. Center Of Gravity) of the input features.  <br> Default Pipeline Output: (List{double}) Centroid.
 - [`CentroidTranslate`](./SigStat/Common/Transforms/CentroidTranslate.md)
-	- Sequential pipeline to translate X and Y [Features](./SigStat/Common/Features.md) to Centroid.  The following Transforms are called: [CentroidExtraction](./SigStat/Common/Transforms/CentroidExtraction.md), [Multiply](./SigStat/Common/Transforms/Multiply.md)(-1), [Translate](./SigStat/Common/Transforms/Translate.md)<br>Default Pipeline Input: [X](../SigStat/Common/Features.md), [Y](../SigStat/Common/Features.md) <br>Default Pipeline Output: (List{double}) Centroid
+	- Sequential pipeline to translate X and Y [Features](./SigStat/Common/Features.md) to Centroid.  The following Transforms are called: [CentroidExtraction](./SigStat/Common/Transforms/CentroidExtraction.md), [Multiply](./SigStat/Common/Transforms/Multiply.md)(-1), [Translate](./SigStat/Common/Transforms/Translate.md)<br>Default Pipeline Input: [X](././SigStat/Common/Features.md), [Y](././SigStat/Common/Features.md) <br>Default Pipeline Output: (List{double}) Centroid
 - [`ComponentExtraction`](./SigStat/Common/Transforms/ComponentExtraction.md)
 	- Extracts unsorted components by tracing through the binary Skeleton raster.  <br>Default Pipeline Input: (bool[,]) Skeleton, (List{Point}) EndPoints, (List{Point}) CrossingPoints <br>Default Pipeline Output: (List{List{PointF}}) Components
 - [`ComponentSorter`](./SigStat/Common/Transforms/ComponentSorter.md)
@@ -117,15 +117,15 @@ This is the root summary
 - [`OnePixelThinning`](./SigStat/Common/Transforms/OnePixelThinning.md)
 	- Iteratively thins the input binary raster with the [OnePixelThinningStep](./SigStat/Common/Algorithms/OnePixelThinningStep.md) algorithm.  <br>Pipeline Input type: bool[,] <br>Default Pipeline Output: (bool[,]) OnePixelThinningResult
 - [`RealisticImageGenerator`](./SigStat/Common/Transforms/RealisticImageGenerator.md)
-	- Generates a realistic looking image of the Signature based on standard features. Uses blue ink and white paper. It does NOT save the image to file.  <br>Default Pipeline Input: X, Y, Button, Pressure, Azimuth, Altitude [Features](./SigStat/Common/Features.md) <br>Default Pipeline Output: [Image](../SigStat/Common/Features.md)
+	- Generates a realistic looking image of the Signature based on standard features. Uses blue ink and white paper. It does NOT save the image to file.  <br>Default Pipeline Input: X, Y, Button, Pressure, Azimuth, Altitude [Features](./SigStat/Common/Features.md) <br>Default Pipeline Output: [Image](././SigStat/Common/Features.md)
 - [`Resize`](./SigStat/Common/Transforms/Resize.md)
 	- Resizes the image to a specified width and height
 - [`TangentExtraction`](./SigStat/Common/Transforms/TangentExtraction.md)
 	- Extracts tangent values of the standard X, Y [Features](./SigStat/Common/Features.md)<br>Default Pipeline Input: X, Y [Features](./SigStat/Common/Features.md) <br>Default Pipeline Output: (List{double})  Tangent
 - [`TimeReset`](./SigStat/Common/Transforms/TimeReset.md)
-	- Sequential pipeline to reset time values to begin at 0.  The following Transforms are called: Extrema, Multiply, AddVector.  <br>Default Pipeline Input: [T](../SigStat/Common/Features.md) <br>Default Pipeline Output: [T](../SigStat/Common/Features.md)
+	- Sequential pipeline to reset time values to begin at 0.  The following Transforms are called: Extrema, Multiply, AddVector.  <br>Default Pipeline Input: [T](././SigStat/Common/Features.md) <br>Default Pipeline Output: [T](././SigStat/Common/Features.md)
 - [`Translate`](./SigStat/Common/Transforms/Translate.md)
-	- Sequential pipeline to translate X and Y [Features](./SigStat/Common/Features.md) by specified vector (constant or feature).  The following Transforms are called: [AddConst](./SigStat/Common/Transforms/AddConst.md) twice, or [AddVector](./SigStat/Common/Transforms/AddVector.md).  <br>Default Pipeline Input: [X](../SigStat/Common/Features.md), [Y](../SigStat/Common/Features.md) <br>Default Pipeline Output: [X](../SigStat/Common/Features.md), [Y](../SigStat/Common/Features.md)
+	- Sequential pipeline to translate X and Y [Features](./SigStat/Common/Features.md) by specified vector (constant or feature).  The following Transforms are called: [AddConst](./SigStat/Common/Transforms/AddConst.md) twice, or [AddVector](./SigStat/Common/Transforms/AddVector.md).  <br>Default Pipeline Input: [X](././SigStat/Common/Features.md), [Y](././SigStat/Common/Features.md) <br>Default Pipeline Output: [X](././SigStat/Common/Features.md), [Y](././SigStat/Common/Features.md)
 - [`Trim`](./SigStat/Common/Transforms/Trim.md)
 	- Trims unnecessary empty space from a binary raster.  <br>Pipeline Input type: bool[,] <br>Default Pipeline Output: (bool[,]) Trimmed
 ### [SigStat.Common.PipelineItems.Transforms.Preprocessing](./SigStat/Common/PipelineItems/Transforms/Preprocessing/README.md)
@@ -187,7 +187,7 @@ This is the root summary
 - [`ImageLoader`](./SigStat/Common/Loaders/ImageLoader.md)
 	- DataSetLoader for Image type databases.  Similar format to Svc2004Loader, but finds png images.
 - [`ImageSaver`](./SigStat/Common/Loaders/ImageSaver.md)
-	- Get the [Image](../SigStat/Common/Features.md) of a [Signature](./SigStat/Common/Signature.md) and save it as png file.
+	- Get the [Image](././SigStat/Common/Features.md) of a [Signature](./SigStat/Common/Signature.md) and save it as png file.
 - [`MCYTLoader`](./SigStat/Common/Loaders/MCYTLoader.md)
 	- [DataSetLoader](./SigStat/Common/Loaders/DataSetLoader.md) for the MCYT dataset
 - [`SigComp11ChineseLoader`](./SigStat/Common/Loaders/SigComp11ChineseLoader.md)
@@ -215,7 +215,7 @@ This is the root summary
 - [`HierarchyElement`](./SigStat/Common/Helpers/HierarchyElement.md)
 	- Hierarchical structure to store object
 - [`IProgress`](./SigStat/Common/Helpers/IProgress.md)
-	- Enables progress tracking by expsoing the [Progress](../SigStat/Common/Helpers/IProgress.md) property and the [ProgressChanged](../SigStat/Common/Helpers/IProgress.md) event.
+	- Enables progress tracking by expsoing the [Progress](././SigStat/Common/Helpers/IProgress.md) property and the [ProgressChanged](././SigStat/Common/Helpers/IProgress.md) event.
 - [`SerializationHelper`](./SigStat/Common/Helpers/SerializationHelper.md)
 	- Json serialization and deserialization using the custom resolver  [VerifierResolver](./SigStat/Common/Helpers/Serialization/VerifierResolver.md)
 - [`SimpleConsoleLogger`](./SigStat/Common/Helpers/SimpleConsoleLogger.md)

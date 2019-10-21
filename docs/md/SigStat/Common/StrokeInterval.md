@@ -20,6 +20,6 @@ Represents a stroke in an online signature
 | --- | --- | 
 | <sub>EndIndex</sub> | <sub>The index of the last element</sub> | 
 | <sub>StartIndex</sub> | <sub>The index of the firs element</sub> | 
-| <sub>StrokeType</sub> | <sub>The [StrokeType](../SigStat/Common/StrokeInterval.md) of the stroke.</sub> | 
+| <sub>StrokeType</sub> | <sub>The [StrokeType](././SigStat/Common/StrokeInterval.md) of the stroke.</sub> | 
 
 

@@ -15,6 +15,6 @@ Contains the benchmark results of a single [Signer](./SigStat/Common/Signer.md)
 | <sub>Far</sub> | <sub>False Acceptance Rate</sub> | 
 | <sub>Frr</sub> | <sub>False Rejection Rate</sub> | 
 | <sub>Model</sub> | <sub></sub> | 
-| <sub>Signer</sub> | <sub>Identifier of the [Signer](../SigStat/Common/Result.md)</sub> | 
+| <sub>Signer</sub> | <sub>Identifier of the [Signer](././SigStat/Common/Result.md)</sub> | 
 
 

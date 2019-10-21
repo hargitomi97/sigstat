@@ -11,7 +11,7 @@
 - [`HierarchyElement`](./HierarchyElement.md)
 	- Hierarchical structure to store object
 - [`IProgress`](./IProgress.md)
-	- Enables progress tracking by expsoing the [Progress](../SigStat/Common/Helpers/IProgress.md) property and the [ProgressChanged](../SigStat/Common/Helpers/IProgress.md) event.
+	- Enables progress tracking by expsoing the [Progress](././SigStat/Common/Helpers/IProgress.md) property and the [ProgressChanged](././SigStat/Common/Helpers/IProgress.md) event.
 - [`SerializationHelper`](./SerializationHelper.md)
 	- Json serialization and deserialization using the custom resolver  [VerifierResolver](./SigStat/Common/Helpers/Serialization/VerifierResolver.md)
 - [`SimpleConsoleLogger`](./SimpleConsoleLogger.md)

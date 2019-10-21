@@ -5,7 +5,7 @@ Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Represents an output for a [PipelineItem](../SigStat/Common/Pipeline/PipelineOutput.md)
+Represents an output for a [PipelineItem](././SigStat/Common/Pipeline/PipelineOutput.md)
 
 ## Constructors
 

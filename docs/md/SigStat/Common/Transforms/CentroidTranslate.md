@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerable), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Sequential pipeline to translate X and Y [Features](./SigStat/Common/Features.md) to Centroid.  The following Transforms are called: [CentroidExtraction](./SigStat/Common/Transforms/CentroidExtraction.md), [Multiply](./SigStat/Common/Transforms/Multiply.md)(-1), [Translate](./SigStat/Common/Transforms/Translate.md)<br>Default Pipeline Input: [X](../SigStat/Common/Features.md), [Y](../SigStat/Common/Features.md) <br>Default Pipeline Output: (List{double}) Centroid
+Sequential pipeline to translate X and Y [Features](./SigStat/Common/Features.md) to Centroid.  The following Transforms are called: [CentroidExtraction](./SigStat/Common/Transforms/CentroidExtraction.md), [Multiply](./SigStat/Common/Transforms/Multiply.md)(-1), [Translate](./SigStat/Common/Transforms/Translate.md)<br>Default Pipeline Input: [X](././SigStat/Common/Features.md), [Y](././SigStat/Common/Features.md) <br>Default Pipeline Output: (List{double}) Centroid
 
 ## Constructors
 
