@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ISignerModel](./../../Pipeline/ISignerModel.md)
 
 ## Summary
-Represents a trained model for [DtwClassifier](../SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md)
+Represents a trained model for [DtwClassifier](/SigStat/Common/PipelineItems/Classifiers/DtwClassifier.md)
 
 ## Constructors
 
