@@ -13,8 +13,8 @@ Loads SVC2004-format database from .zip
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>Svc2004Loader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub> | <sub>Initializes a new instance of the [Svc2004Loader](../../../../../docs/md/SigStat/Common/Loaders/Svc2004Loader.md) class with specified database.</sub> | 
-| <sub>Svc2004Loader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub> | <sub>Initializes a new instance of the [Svc2004Loader](../../../../../docs/md/SigStat/Common/Loaders/Svc2004Loader.md) class with specified database.</sub> | 
+| <sub>Svc2004Loader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub> | <sub>Initializes a new instance of the [Svc2004Loader](../../../docs/md/SigStat/Common/Loaders/Svc2004Loader.md) class with specified database.</sub> | 
+| <sub>Svc2004Loader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> )</sub> | <sub>Initializes a new instance of the [Svc2004Loader](../../../docs/md/SigStat/Common/Loaders/Svc2004Loader.md) class with specified database.</sub> | 
 
 
 ## Properties
@@ -23,7 +23,7 @@ Loads SVC2004-format database from .zip
 | --- | --- | 
 | <sub>DatabasePath</sub> | <sub>Gets or sets the database path.</sub> | 
 | <sub>SignerFilter</sub> | <sub>Ignores any signers during the loading, that do not match the predicate</sub> | 
-| <sub>StandardFeatures</sub> | <sub>Gets or sets a value indicating whether features are also loaded as [Features](../../../../../docs/md/SigStat/Common/Features.md)</sub> | 
+| <sub>StandardFeatures</sub> | <sub>Gets or sets a value indicating whether features are also loaded as [Features](../../../docs/md/SigStat/Common/Features.md)</sub> | 
 
 
 ## Methods

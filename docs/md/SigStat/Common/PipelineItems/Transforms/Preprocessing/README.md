@@ -21,7 +21,7 @@
 - [`RelativeScale`](./RelativeScale.md)
 	- Maps values of a feature to a specific range.  <br>InputFeature: feature to be scaled. <br>OutputFeature: output feature for scaled InputFeature
 - [`ResampleSamplesCountBased`](./ResampleSamplesCountBased.md)
-	- Resamples an online signature to a specific sample count using the specified [IInterpolation](../../../../../docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md) algorithm
+	- Resamples an online signature to a specific sample count using the specified [IInterpolation](../../../docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md) algorithm
 - [`SampleRate`](./SampleRate.md)
 	- Performs rotation normalization on the online signature
 - [`Scale`](./Scale.md)
