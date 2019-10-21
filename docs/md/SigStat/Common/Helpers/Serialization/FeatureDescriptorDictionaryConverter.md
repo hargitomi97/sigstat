@@ -5,7 +5,7 @@ Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Custom serializer for a Dictionary of [FeatureDescriptor](../../SigStat/Common/FeatureDescriptor.md)
+Custom serializer for a Dictionary of [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md)
 
 ## Constructors
 

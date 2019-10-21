@@ -5,13 +5,13 @@ Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Represents an input for a [PipelineItem](../../docs/md/SigStat/Common/Pipeline/PipelineInput.md)
+Represents an input for a [PipelineItem](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineInput.md)
 
 ## Constructors
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>PipelineInput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub> | <sub>Initializes a new instance of the [PipelineInput](../../SigStat/Common/Pipeline/PipelineInput.md) class.</sub> | 
+| <sub>PipelineInput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub> | <sub>Initializes a new instance of the [PipelineInput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineInput.md) class.</sub> | 
 
 
 ## Properties

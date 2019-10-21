@@ -11,8 +11,8 @@ Represents a loop in a signature
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>Loop (  )</sub> | <sub>Creates a [Loop](../../SigStat/Common/Loop.md) instance</sub> | 
-| <sub>Loop ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single), [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) )</sub> | <sub>Creates a [Loop](../../SigStat/Common/Loop.md) instance and initializes the [Center](../../docs/md/SigStat/Common/Loop.md) property</sub> | 
+| <sub>Loop (  )</sub> | <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance</sub> | 
+| <sub>Loop ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single), [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) )</sub> | <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance and initializes the [Center](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) property</sub> | 
 
 
 ## Properties

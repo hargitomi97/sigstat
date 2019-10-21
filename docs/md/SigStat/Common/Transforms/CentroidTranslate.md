@@ -7,13 +7,13 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerable), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Sequential pipeline to translate X and Y [Features](../../SigStat/Common/Features.md) to Centroid.  The following Transforms are called: [CentroidExtraction](../../SigStat/Common/Transforms/CentroidExtraction.md), [Multiply](../../SigStat/Common/Transforms/Multiply.md)(-1), [Translate](../../SigStat/Common/Transforms/Translate.md)<br>Default Pipeline Input: [X](../../docs/md/SigStat/Common/Features.md), [Y](../../docs/md/SigStat/Common/Features.md) <br>Default Pipeline Output: (List{double}) Centroid
+Sequential pipeline to translate X and Y [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) to Centroid.  The following Transforms are called: [CentroidExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidExtraction.md), [Multiply](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Multiply.md)(-1), [Translate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Translate.md)<br>Default Pipeline Input: [X](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md), [Y](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) <br>Default Pipeline Output: (List{double}) Centroid
 
 ## Constructors
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>CentroidTranslate (  )</sub> | <sub>Initializes a new instance of the [CentroidTranslate](../../SigStat/Common/Transforms/CentroidTranslate.md) class.</sub> | 
+| <sub>CentroidTranslate (  )</sub> | <sub>Initializes a new instance of the [CentroidTranslate](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/CentroidTranslate.md) class.</sub> | 
 
 
 ## Properties
