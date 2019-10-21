@@ -5,13 +5,13 @@ Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 Assembly: SigStat.Common.dll
 
 ## Summary
-Represents an output for a [PipelineItem](../../../docs/md/SigStat/Common/Pipeline/PipelineOutput.md)
+Represents an output for a [PipelineItem](../../../../../SigStat/Common/Pipeline/PipelineOutput.md)
 
 ## Constructors
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub> | <sub>Initializes a new instance of the [PipelineOutput](../../../docs/md/SigStat/Common/Pipeline/PipelineOutput.md) class.</sub> | 
+| <sub>PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub> | <sub>Initializes a new instance of the [PipelineOutput](../../../../../SigStat/Common/Pipeline/PipelineOutput.md) class.</sub> | 
 
 
 ## Properties

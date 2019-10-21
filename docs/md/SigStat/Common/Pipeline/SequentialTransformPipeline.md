@@ -37,6 +37,6 @@ Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the l
 | --- | --- | 
 | <sub>[Add](./Methods/SequentialTransformPipeline--Add.md) ( [`ITransformation`](./../ITransformation.md) )</sub> | <sub>Add new transform to the list.</sub> | 
 | <sub>[GetEnumerator](./Methods/SequentialTransformPipeline--GetEnumerator.md) (  )</sub> | <sub></sub> | 
-| <sub>[Transform](./Methods/SequentialTransformPipeline--Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub>Executes transform [Items](../../../docs/md/SigStat/Common/Pipeline/SequentialTransformPipeline.md) in sequence.  Passes input features for each.  Output is the output of the last Item in the sequence.</sub> | 
+| <sub>[Transform](./Methods/SequentialTransformPipeline--Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub>Executes transform [Items](../../../../../SigStat/Common/Pipeline/SequentialTransformPipeline.md) in sequence.  Passes input features for each.  Output is the output of the last Item in the sequence.</sub> | 
 
 

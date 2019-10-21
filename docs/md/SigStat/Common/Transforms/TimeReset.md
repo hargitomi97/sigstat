@@ -7,12 +7,12 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerable), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Sequential pipeline to reset time values to begin at 0.  The following Transforms are called: Extrema, Multiply, AddVector.  <br>Default Pipeline Input: [T](../../../docs/md/SigStat/Common/Features.md) <br>Default Pipeline Output: [T](../../../docs/md/SigStat/Common/Features.md)
+Sequential pipeline to reset time values to begin at 0.  The following Transforms are called: Extrema, Multiply, AddVector.  <br>Default Pipeline Input: [T](../../../../../SigStat/Common/Features.md) <br>Default Pipeline Output: [T](../../../../../SigStat/Common/Features.md)
 
 ## Constructors
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>TimeReset (  )</sub> | <sub>Initializes a new instance of the [TimeReset](../../../docs/md/SigStat/Common/Transforms/TimeReset.md) class.</sub> | 
+| <sub>TimeReset (  )</sub> | <sub>Initializes a new instance of the [TimeReset](../../../../../SigStat/Common/Transforms/TimeReset.md) class.</sub> | 
 
 
