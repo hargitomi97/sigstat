@@ -7,13 +7,13 @@ Assembly: SigStat.Common.dll
 Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerObject.md)
 
 ## Summary
-[DataSetLoader](../../docs/mdSigStat/Common/Loaders/DataSetLoader.md) for the MCYT dataset
+[DataSetLoader](../../docs/md/SigStat/Common/Loaders/DataSetLoader.md) for the MCYT dataset
 
 ## Constructors
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>MCYTLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub> | <sub>Initializes a new instance of the [MCYTLoader](../../docs/mdSigStat/Common/Loaders/MCYTLoader.md) class.</sub> | 
+| <sub>MCYTLoader ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub> | <sub>Initializes a new instance of the [MCYTLoader](../../docs/md/SigStat/Common/Loaders/MCYTLoader.md) class.</sub> | 
 
 
 ## Properties
@@ -21,7 +21,7 @@ Implements [IDataSetLoader](./IDataSetLoader.md), [ILoggerObject](./../ILoggerOb
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>DatabasePath</sub> | <sub>Gets or sets the database path.</sub> | 
-| <sub>StandardFeatures</sub> | <sub>Gets or sets a value indicating whether features are also loaded as [Features](../../docs/mdSigStat/Common/Features.md)</sub> | 
+| <sub>StandardFeatures</sub> | <sub>Gets or sets a value indicating whether features are also loaded as [Features](../../docs/md/SigStat/Common/Features.md)</sub> | 
 
 
 ## Methods

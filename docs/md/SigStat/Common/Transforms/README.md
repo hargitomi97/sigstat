@@ -11,23 +11,23 @@
 - [`Binarization`](./Binarization.md)
 	- Generates a binary raster version of the input image with the iterative threshold method.  <br>Pipeline Input type: Image{Rgba32} <br>Default Pipeline Output: (bool[,]) Binarized
 - [`BinaryRasterizer`](./BinaryRasterizer.md)
-	- Converts standard features to a binary raster.  <br>Default Pipeline Input: Standard [Features](../../docs/mdSigStat/Common/Features.md) <br>Default Pipeline Output: (bool[,]) Binarized
+	- Converts standard features to a binary raster.  <br>Default Pipeline Input: Standard [Features](../../docs/md/SigStat/Common/Features.md) <br>Default Pipeline Output: (bool[,]) Binarized
 - [`CentroidExtraction`](./CentroidExtraction.md)
 	- Extracts the Centroid (aka. Center Of Gravity) of the input features.  <br> Default Pipeline Output: (List{double}) Centroid.
 - [`CentroidTranslate`](./CentroidTranslate.md)
-	- Sequential pipeline to translate X and Y [Features](../../docs/mdSigStat/Common/Features.md) to Centroid.  The following Transforms are called: [CentroidExtraction](../../docs/mdSigStat/Common/Transforms/CentroidExtraction.md), [Multiply](../../docs/mdSigStat/Common/Transforms/Multiply.md)(-1), [Translate](../../docs/mdSigStat/Common/Transforms/Translate.md)<br>Default Pipeline Input: [X](../../docs/mdSigStat/Common/Features.md), [Y](../../docs/mdSigStat/Common/Features.md) <br>Default Pipeline Output: (List{double}) Centroid
+	- Sequential pipeline to translate X and Y [Features](../../docs/md/SigStat/Common/Features.md) to Centroid.  The following Transforms are called: [CentroidExtraction](../../docs/md/SigStat/Common/Transforms/CentroidExtraction.md), [Multiply](../../docs/md/SigStat/Common/Transforms/Multiply.md)(-1), [Translate](../../docs/md/SigStat/Common/Transforms/Translate.md)<br>Default Pipeline Input: [X](../../docs/md/SigStat/Common/Features.md), [Y](../../docs/md/SigStat/Common/Features.md) <br>Default Pipeline Output: (List{double}) Centroid
 - [`ComponentExtraction`](./ComponentExtraction.md)
 	- Extracts unsorted components by tracing through the binary Skeleton raster.  <br>Default Pipeline Input: (bool[,]) Skeleton, (List{Point}) EndPoints, (List{Point}) CrossingPoints <br>Default Pipeline Output: (List{List{PointF}}) Components
 - [`ComponentSorter`](./ComponentSorter.md)
 	- Sorts Component order by comparing each starting X value, and finding nearest components.  <br>Default Pipeline Input: (bool[,]) Components <br>Default Pipeline Output: (bool[,]) Components
 - [`ComponentsToFeatures`](./ComponentsToFeatures.md)
-	- Extracts standard [Features](../../docs/mdSigStat/Common/Features.md) from sorted Components.  <br>Default Pipeline Input: (List{List{PointF}}) Components <br>Default Pipeline Output: X, Y, Button [Features](../../docs/mdSigStat/Common/Features.md)
+	- Extracts standard [Features](../../docs/md/SigStat/Common/Features.md) from sorted Components.  <br>Default Pipeline Input: (List{List{PointF}}) Components <br>Default Pipeline Output: X, Y, Button [Features](../../docs/md/SigStat/Common/Features.md)
 - [`EndpointExtraction`](./EndpointExtraction.md)
 	- Extracts EndPoints and CrossingPoints from Skeleton.  <br>Default Pipeline Input: (bool[,]) Skeleton <br>Default Pipeline Output: (List{Point}) EndPoints, (List{Point}) CrossingPoints
 - [`Extrema`](./Extrema.md)
 	- Extracts minimum and maximum values of given feature.  <br>Default Pipeline Output: (List{double}) Min, (List{double}) Max
 - [`HSCPThinning`](./HSCPThinning.md)
-	- Iteratively thins the input binary raster with the [HSCPThinningStep](../../docs/mdSigStat/Common/Algorithms/HSCPThinningStep.md) algorithm.  <br>Pipeline Input type: bool[,] <br>Default Pipeline Output: (bool[,]) HSCPThinningResult
+	- Iteratively thins the input binary raster with the [HSCPThinningStep](../../docs/md/SigStat/Common/Algorithms/HSCPThinningStep.md) algorithm.  <br>Pipeline Input type: bool[,] <br>Default Pipeline Output: (bool[,]) HSCPThinningResult
 - [`ImageGenerator`](./ImageGenerator.md)
 	- Generates an image feature out of a binary raster.  Optionally, saves the image to a png file.  Useful for debugging pipeline steps.  <br>Pipeline Input type: bool[,] <br>Default Pipeline Output: (bool[,]) Input, (Image{Rgba32}) InputImage
 - [`Map`](./Map.md)
@@ -37,17 +37,17 @@
 - [`Normalize`](./Normalize.md)
 	- Maps values of a feature to 0.0 - 1.0 range.  <br>Pipeline Input type: List{double} <br>Default Pipeline Output: (List{double}) NormalizationResult
 - [`OnePixelThinning`](./OnePixelThinning.md)
-	- Iteratively thins the input binary raster with the [OnePixelThinningStep](../../docs/mdSigStat/Common/Algorithms/OnePixelThinningStep.md) algorithm.  <br>Pipeline Input type: bool[,] <br>Default Pipeline Output: (bool[,]) OnePixelThinningResult
+	- Iteratively thins the input binary raster with the [OnePixelThinningStep](../../docs/md/SigStat/Common/Algorithms/OnePixelThinningStep.md) algorithm.  <br>Pipeline Input type: bool[,] <br>Default Pipeline Output: (bool[,]) OnePixelThinningResult
 - [`RealisticImageGenerator`](./RealisticImageGenerator.md)
-	- Generates a realistic looking image of the Signature based on standard features. Uses blue ink and white paper. It does NOT save the image to file.  <br>Default Pipeline Input: X, Y, Button, Pressure, Azimuth, Altitude [Features](../../docs/mdSigStat/Common/Features.md) <br>Default Pipeline Output: [Image](../../docs/mdSigStat/Common/Features.md)
+	- Generates a realistic looking image of the Signature based on standard features. Uses blue ink and white paper. It does NOT save the image to file.  <br>Default Pipeline Input: X, Y, Button, Pressure, Azimuth, Altitude [Features](../../docs/md/SigStat/Common/Features.md) <br>Default Pipeline Output: [Image](../../docs/md/SigStat/Common/Features.md)
 - [`Resize`](./Resize.md)
 	- Resizes the image to a specified width and height
 - [`TangentExtraction`](./TangentExtraction.md)
-	- Extracts tangent values of the standard X, Y [Features](../../docs/mdSigStat/Common/Features.md)<br>Default Pipeline Input: X, Y [Features](../../docs/mdSigStat/Common/Features.md) <br>Default Pipeline Output: (List{double})  Tangent
+	- Extracts tangent values of the standard X, Y [Features](../../docs/md/SigStat/Common/Features.md)<br>Default Pipeline Input: X, Y [Features](../../docs/md/SigStat/Common/Features.md) <br>Default Pipeline Output: (List{double})  Tangent
 - [`TimeReset`](./TimeReset.md)
-	- Sequential pipeline to reset time values to begin at 0.  The following Transforms are called: Extrema, Multiply, AddVector.  <br>Default Pipeline Input: [T](../../docs/mdSigStat/Common/Features.md) <br>Default Pipeline Output: [T](../../docs/mdSigStat/Common/Features.md)
+	- Sequential pipeline to reset time values to begin at 0.  The following Transforms are called: Extrema, Multiply, AddVector.  <br>Default Pipeline Input: [T](../../docs/md/SigStat/Common/Features.md) <br>Default Pipeline Output: [T](../../docs/md/SigStat/Common/Features.md)
 - [`Translate`](./Translate.md)
-	- Sequential pipeline to translate X and Y [Features](../../docs/mdSigStat/Common/Features.md) by specified vector (constant or feature).  The following Transforms are called: [AddConst](../../docs/mdSigStat/Common/Transforms/AddConst.md) twice, or [AddVector](../../docs/mdSigStat/Common/Transforms/AddVector.md).  <br>Default Pipeline Input: [X](../../docs/mdSigStat/Common/Features.md), [Y](../../docs/mdSigStat/Common/Features.md) <br>Default Pipeline Output: [X](../../docs/mdSigStat/Common/Features.md), [Y](../../docs/mdSigStat/Common/Features.md)
+	- Sequential pipeline to translate X and Y [Features](../../docs/md/SigStat/Common/Features.md) by specified vector (constant or feature).  The following Transforms are called: [AddConst](../../docs/md/SigStat/Common/Transforms/AddConst.md) twice, or [AddVector](../../docs/md/SigStat/Common/Transforms/AddVector.md).  <br>Default Pipeline Input: [X](../../docs/md/SigStat/Common/Features.md), [Y](../../docs/md/SigStat/Common/Features.md) <br>Default Pipeline Output: [X](../../docs/md/SigStat/Common/Features.md), [Y](../../docs/md/SigStat/Common/Features.md)
 - [`Trim`](./Trim.md)
 	- Trims unnecessary empty space from a binary raster.  <br>Pipeline Input type: bool[,] <br>Default Pipeline Output: (bool[,]) Trimmed
 

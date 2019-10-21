@@ -24,8 +24,8 @@ Represents a signature as a collection of features, containing the data that flo
 | <sub>ID</sub> | <sub>An identifier for the Signature. Keep it unique to be useful for logs.</sub> | 
 | <sub>Item [ [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ]</sub> | <sub>Gets or sets the specified feature.</sub> | 
 | <sub>Item [ [`FeatureDescriptor`](./FeatureDescriptor.md) ]</sub> | <sub>Gets or sets the specified feature.</sub> | 
-| <sub>Origin</sub> | <sub>Represents our knowledge on the origin of the signature. [Unknown](../../docs/mdSigStat/Common/Origin.md) may be used in practice before it is verified.</sub> | 
-| <sub>Signer</sub> | <sub>A reference to the [Signer](../../docs/mdSigStat/Common/Signer.md) who this signature belongs to. (The origin is not constrained to be genuine.)</sub> | 
+| <sub>Origin</sub> | <sub>Represents our knowledge on the origin of the signature. [Unknown](../../docs/md/SigStat/Common/Origin.md) may be used in practice before it is verified.</sub> | 
+| <sub>Signer</sub> | <sub>A reference to the [Signer](../../docs/md/SigStat/Common/Signer.md) who this signature belongs to. (The origin is not constrained to be genuine.)</sub> | 
 
 
 ## Methods
@@ -37,7 +37,7 @@ Represents a signature as a collection of features, containing the data that flo
 | <sub>[GetFeature](./Methods/Signature--GetFeature.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub> | <sub>Gets the specified feature.</sub> | 
 | <sub>[GetFeature](./Methods/Signature--GetFeature.md) ( [`FeatureDescriptor`](./FeatureDescriptor-1.md)\<[`T`](./Signature.md)> )</sub> | <sub>Gets the specified feature. This is the preferred way.</sub> | 
 | <sub>[GetFeature](./Methods/Signature--GetFeature.md) ( [`FeatureDescriptor`](./FeatureDescriptor.md) )</sub> | <sub>Gets the specified feature. This is the preferred way.</sub> | 
-| <sub>[GetFeatureDescriptors](./Methods/Signature--GetFeatureDescriptors.md) (  )</sub> | <sub>Gets a collection of [FeatureDescriptor](../../docs/mdSigStat/Common/FeatureDescriptor.md)s that are used in this signature.</sub> | 
+| <sub>[GetFeatureDescriptors](./Methods/Signature--GetFeatureDescriptors.md) (  )</sub> | <sub>Gets a collection of [FeatureDescriptor](../../docs/md/SigStat/Common/FeatureDescriptor.md)s that are used in this signature.</sub> | 
 | <sub>[HasFeature](./Methods/Signature--HasFeature.md) ( [`FeatureDescriptor`](./FeatureDescriptor.md) )</sub> | <sub>Returns true if the signature contains the specified feature</sub> | 
 | <sub>[HasFeature](./Methods/Signature--HasFeature.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub> | <sub>Returns true if the signature contains the specified feature</sub> | 
 | <sub>[SetFeature](./Methods/Signature--SetFeature.md) ( [`FeatureDescriptor`](./FeatureDescriptor.md), [`T`](./Signature.md) )</sub> | <sub>Sets the specified feature.</sub> | 

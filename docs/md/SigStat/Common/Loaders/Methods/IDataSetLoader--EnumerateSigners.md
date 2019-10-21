@@ -1,6 +1,6 @@
 # [EnumerateSigners](./IDataSetLoader--EnumerateSigners.md)
 
-Enumerates all [Signer](../../docs/mdSigStat/Common/Signer.md)s that match the `signerFilter`.
+Enumerates all [Signer](../../docs/md/SigStat/Common/Signer.md)s that match the `signerFilter`.
 
 | Return | Name | 
 | --- | --- | 
