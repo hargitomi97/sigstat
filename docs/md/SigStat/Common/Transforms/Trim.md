@@ -20,8 +20,8 @@ Trims unnecessary empty space from a binary raster.  <br>Pipeline Input type: bo
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>Input</sub> | <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub> | 
-| <sub>Output</sub> | <sub>Output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) describing the trimed image of the signature</sub> | 
+| <sub>Input</sub> | <sub>Input [FeatureDescriptor](../../../../../docs/md/SigStat/Common/FeatureDescriptor.md) describing the image of the signature</sub> | 
+| <sub>Output</sub> | <sub>Output [FeatureDescriptor](../../../../../docs/md/SigStat/Common/FeatureDescriptor.md) describing the trimed image of the signature</sub> | 
 
 
 ## Methods

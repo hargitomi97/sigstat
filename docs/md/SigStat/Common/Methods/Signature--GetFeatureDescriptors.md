@@ -1,6 +1,6 @@
 # [GetFeatureDescriptors](./Signature--GetFeatureDescriptors.md)
 
-Gets a collection of [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md)s that are used in this signature.
+Gets a collection of [FeatureDescriptor](../../../../../docs/md/SigStat/Common/FeatureDescriptor.md)s that are used in this signature.
 
 | Return | Name | 
 | --- | --- | 
