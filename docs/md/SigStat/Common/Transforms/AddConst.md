@@ -13,7 +13,7 @@ Adds a constant value to a feature. Works with collection features too.  <br>Def
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub> | <sub>Initializes a new instance of the [AddConst](/SigStat/Common/Transforms/AddConst.md) class with specified settings.</sub> | 
+| <sub>AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub> | <sub>Initializes a new instance of the [AddConst](./SigStat/Common/Transforms/AddConst.md) class with specified settings.</sub> | 
 
 
 ## Properties

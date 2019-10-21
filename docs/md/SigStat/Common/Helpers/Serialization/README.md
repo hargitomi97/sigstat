@@ -5,9 +5,9 @@
 - [`DistanceFunctionJsonConverter`](./DistanceFunctionJsonConverter.md)
 	- Helper class for serializing distance functions
 - [`FeatureDescriptorDictionaryConverter`](./FeatureDescriptorDictionaryConverter.md)
-	- Custom serializer for a Dictionary of [FeatureDescriptor](/SigStat/Common/FeatureDescriptor.md)
+	- Custom serializer for a Dictionary of [FeatureDescriptor](./SigStat/Common/FeatureDescriptor.md)
 - [`FeatureDescriptorListJsonConverter`](./FeatureDescriptorListJsonConverter.md)
-	- Custom serializer for lists containing [FeatureDescriptor](/SigStat/Common/FeatureDescriptor.md) or  [FeatureDescriptor-1](/SigStat/Common/FeatureDescriptor-1.md) objects
+	- Custom serializer for lists containing [FeatureDescriptor](./SigStat/Common/FeatureDescriptor.md) or  [FeatureDescriptor-1](./SigStat/Common/FeatureDescriptor-1.md) objects
 - [`FeatureStreamingContextState`](./FeatureStreamingContextState.md)
 	- SerializationContext for serializing SigStat objects
 - [`RectangleFConverter`](./RectangleFConverter.md)
