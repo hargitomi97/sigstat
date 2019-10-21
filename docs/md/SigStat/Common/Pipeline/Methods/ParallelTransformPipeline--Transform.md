@@ -1,6 +1,6 @@
 # [Transform](./ParallelTransformPipeline--Transform.md)
 
-Executes transform [Items](../../../../../SigStat/Common/Pipeline/ParallelTransformPipeline.md) parallel.  Passes input features for each.  Output is a range of all the Item outputs.
+Executes transform [Items](../../SigStat/Common/Pipeline/ParallelTransformPipeline.md) parallel.  Passes input features for each.  Output is a range of all the Item outputs.
 
 | Return | Name | 
 | --- | --- | 

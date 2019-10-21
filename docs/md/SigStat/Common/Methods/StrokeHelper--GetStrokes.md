@@ -1,6 +1,6 @@
 # [GetStrokes](./StrokeHelper--GetStrokes.md)
 
-Gets the strokes from an online signature with standard features. Note that  the signature has to contain [T](../../../../../SigStat/Common/Features.md) and [Pressure](../../../../../SigStat/Common/Features.md)
+Gets the strokes from an online signature with standard features. Note that  the signature has to contain [T](../../SigStat/Common/Features.md) and [Pressure](../../SigStat/Common/Features.md)
 
 | Return | Name | 
 | --- | --- | 

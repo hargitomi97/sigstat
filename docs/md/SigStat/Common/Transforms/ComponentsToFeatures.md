@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Extracts standard [Features](../../../../../SigStat/Common/Features.md) from sorted Components.  <br>Default Pipeline Input: (List{List{PointF}}) Components <br>Default Pipeline Output: X, Y, Button [Features](../../../../../SigStat/Common/Features.md)
+Extracts standard [Features](../../SigStat/Common/Features.md) from sorted Components.  <br>Default Pipeline Input: (List{List{PointF}}) Components <br>Default Pipeline Output: X, Y, Button [Features](../../SigStat/Common/Features.md)
 
 ## Constructors
 

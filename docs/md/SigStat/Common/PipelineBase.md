@@ -13,7 +13,7 @@ TODO: Ideiglenes osztaly, C# 8.0 ban ezt atalakitani default implementacios inte
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>PipelineBase (  )</sub> | <sub>Initializes a new instance of the [PipelineBase](../../../../../SigStat/Common/PipelineBase.md) class.</sub> | 
+| <sub>PipelineBase (  )</sub> | <sub>Initializes a new instance of the [PipelineBase](../../SigStat/Common/PipelineBase.md) class.</sub> | 
 
 
 ## Properties
@@ -30,6 +30,6 @@ TODO: Ideiglenes osztaly, C# 8.0 ban ezt atalakitani default implementacios inte
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>ProgressChanged</sub> | <sub>The event is raised whenever the value of [Progress](../../../../../SigStat/Common/PipelineBase.md) changes</sub> | 
+| <sub>ProgressChanged</sub> | <sub>The event is raised whenever the value of [Progress](../../SigStat/Common/PipelineBase.md) changes</sub> | 
 
 
