@@ -18,8 +18,7 @@ Helper class for serializing distance functions
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[CanConvert](./Methods/DistanceFunctionJsonConverter--CanConvert.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub> | <sub></sub> | 
-| <sub>[ReadJson](./Methods/DistanceFunctionJsonConverter--ReadJson.md) ( [`JsonReader`](./DistanceFunctionJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub> | <sub></sub> | 
-| <sub>[WriteJson](./Methods/DistanceFunctionJsonConverter--WriteJson.md) ( [`JsonWriter`](./DistanceFunctionJsonConverter.md), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub> | <sub></sub> | 
+| <sub>[ReadJson](./Methods/DistanceFunctionJsonConverter--ReadJson.md) ( [`JsonReader`](./DistanceFunctionJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub> | <sub></sub> | 
+| <sub>[WriteJson](./Methods/DistanceFunctionJsonConverter--WriteJson.md) ( [`JsonWriter`](./DistanceFunctionJsonConverter.md), [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>, [`JsonSerializer`](./DistanceFunctionJsonConverter.md) )</sub> | <sub></sub> | 
 
 

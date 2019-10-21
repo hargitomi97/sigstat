@@ -8,6 +8,6 @@
 
 
 #### Parameters
-**`o`**  [`T`](./NetCoreSerializationHelper--Serialize.md)<br>The object
+
 #### Returns
 [String](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>

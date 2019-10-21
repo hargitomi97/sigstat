@@ -8,6 +8,6 @@
 
 
 #### Parameters
-**`value`**  [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)<br>New value for the array elements<br><br>**`options`**  [`JsonSerializerOptions`](https://docs.microsoft.com/en-us/dotnet/api/System.Text.Json.JsonSerializerOptions)<br>
+
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<br>

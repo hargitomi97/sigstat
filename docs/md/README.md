@@ -224,22 +224,16 @@ This is the root summary
 
 - [`DistanceFunctionJsonConverter`](./SigStat/Common/Helpers/Serialization/DistanceFunctionJsonConverter.md)
 	- Helper class for serializing distance functions
+- [`FeatureDescriptorDictionaryConverter`](./SigStat/Common/Helpers/Serialization/FeatureDescriptorDictionaryConverter.md)
+	- Custom serializer for a Dictionary of [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md)
+- [`FeatureDescriptorListJsonConverter`](./SigStat/Common/Helpers/Serialization/FeatureDescriptorListJsonConverter.md)
+	- Custom serializer for lists containing [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) or  [FeatureDescriptor-1](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor-1.md) objects
 - [`FeatureStreamingContextState`](./SigStat/Common/Helpers/Serialization/FeatureStreamingContextState.md)
 	- SerializationContext for serializing SigStat objects
 - [`RectangleFConverter`](./SigStat/Common/Helpers/Serialization/RectangleFConverter.md)
 	- Custom serializer for [RectangleF](https://docs.microsoft.com/en-us/dotnet/api/System.Drawing.RectangleF) objects
 - [`VerifierResolver`](./SigStat/Common/Helpers/Serialization/VerifierResolver.md)
 	- Custom resolver for customizing the json serialization
-### [SigStat.Common.Helpers.NetCoreSerialization](./SigStat/Common/Helpers/NetCoreSerialization/README.md)
-
-- [`NetCoreClassifierConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreClassifierConverter.md)
-- [`NetCoreFeatureDescriptorConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreFeatureDescriptorConverter.md)
-- [`NetCoreFeatureDescriptorDictionaryConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreFeatureDescriptorDictionaryConverter.md)
-- [`NetCoreFeatureDescriptorListConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreFeatureDescriptorListConverter.md)
-- [`NetCoreFeatureDescriptorTConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreFeatureDescriptorTConverter.md)
-- [`NetCoreObjectConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreObjectConverter.md)
-- [`NetCoreSamplerConverter`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreSamplerConverter.md)
-- [`NetCoreSerializationHelper`](./SigStat/Common/Helpers/NetCoreSerialization/NetCoreSerializationHelper.md)
 ### [SigStat.Common.Helpers.Excel](./SigStat/Common/Helpers/Excel/README.md)
 
 - [`Palette`](./SigStat/Common/Helpers/Excel/Palette.md)

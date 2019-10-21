@@ -4,10 +4,10 @@
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object)</sub> | <sub>[ReadJson](./DistanceFunctionJsonConverter--ReadJson.md) ( [`JsonReader`](./DistanceFunctionJsonConverter--ReadJson.md) reader, [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) existingValue, [`JsonSerializer`](./DistanceFunctionJsonConverter--ReadJson.md) serializer )</sub> | 
+| <sub>[Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)></sub> | <sub>[ReadJson](./DistanceFunctionJsonConverter--ReadJson.md) ( [`JsonReader`](./DistanceFunctionJsonConverter--ReadJson.md) reader, [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType, [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> existingValue, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) hasExistingValue, [`JsonSerializer`](./DistanceFunctionJsonConverter--ReadJson.md) serializer )</sub> | 
 
 
 #### Parameters
 
 #### Returns
-[Object](https://docs.microsoft.com/en-us/dotnet/api/System.Object)<br>
+[Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)><br>
