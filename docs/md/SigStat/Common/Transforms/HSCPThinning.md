@@ -7,7 +7,7 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../ILoggerObject.md), [IProgress](./../Helpers/IProgress.md), [IPipelineIO](./../Pipeline/IPipelineIO.md), [ITransformation](./../ITransformation.md)
 
 ## Summary
-Iteratively thins the input binary raster with the [HSCPThinningStep](../../SigStat/Common/Algorithms/HSCPThinningStep.md) algorithm.  <br>Pipeline Input type: bool[,] <br>Default Pipeline Output: (bool[,]) HSCPThinningResult
+Iteratively thins the input binary raster with the [HSCPThinningStep](../../docs/mdSigStat/Common/Algorithms/HSCPThinningStep.md) algorithm.  <br>Pipeline Input type: bool[,] <br>Default Pipeline Output: (bool[,]) HSCPThinningResult
 
 ## Constructors
 
@@ -20,8 +20,8 @@ Iteratively thins the input binary raster with the [HSCPThinningStep](../../SigS
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>Input</sub> | <sub>Input [FeatureDescriptor](../../SigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub> | 
-| <sub>Output</sub> | <sub>Output [FeatureDescriptor](../../SigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub> | 
+| <sub>Input</sub> | <sub>Input [FeatureDescriptor](../../docs/mdSigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub> | 
+| <sub>Output</sub> | <sub>Output [FeatureDescriptor](../../docs/mdSigStat/Common/FeatureDescriptor.md) for the binary image of the signature</sub> | 
 
 
 ## Methods

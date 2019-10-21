@@ -7,13 +7,13 @@ Assembly: SigStat.Common.dll
 Implements [ILoggerObject](./../../ILoggerObject.md), [IProgress](./../../Helpers/IProgress.md), [IPipelineIO](./../../Pipeline/IPipelineIO.md), [IDistanceClassifier](./../../Pipeline/IDistanceClassifier.md), [IClassifier](./../../Pipeline/IClassifier.md)
 
 ## Summary
-This [IDistanceClassifier](../../SigStat/Common/Pipeline/IDistanceClassifier.md) implementation will consider both test and  training samples and claculate the threshold to separate the original and forged  signatures to approximate EER. Note that this classifier is not applicable for  real world scenarios. It was developed to test the theoratical boundaries of  threshold based classification
+This [IDistanceClassifier](../../docs/mdSigStat/Common/Pipeline/IDistanceClassifier.md) implementation will consider both test and  training samples and claculate the threshold to separate the original and forged  signatures to approximate EER. Note that this classifier is not applicable for  real world scenarios. It was developed to test the theoratical boundaries of  threshold based classification
 
 ## Constructors
 
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>OptimalDtwClassifier ( [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub> | <sub>Initializes a new instance of the [OptimalDtwClassifier](../../SigStat/Common/PipelineItems/Classifiers/OptimalDtwClassifier.md) class.</sub> | 
+| <sub>OptimalDtwClassifier ( [Func](https://docs.microsoft.com/en-us/dotnet/api/System.Func-3)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[], [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub> | <sub>Initializes a new instance of the [OptimalDtwClassifier](../../docs/mdSigStat/Common/PipelineItems/Classifiers/OptimalDtwClassifier.md) class.</sub> | 
 
 
 ## Properties
@@ -21,8 +21,8 @@ This [IDistanceClassifier](../../SigStat/Common/Pipeline/IDistanceClassifier.md)
 | Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>DistanceFunction</sub> | <sub>The function used to calculate the distance between two data points during DTW calculation</sub> | 
-| <sub>Features</sub> | <sub>[FeatureDescriptor](../../SigStat/Common/FeatureDescriptor.md)s to consider during classification</sub> | 
-| <sub>Sampler</sub> | <sub>[Sampler](../../SigStat/Common/PipelineItems/Classifiers/OptimalDtwClassifier.md) used for selecting training and test sets during a benchmark</sub> | 
+| <sub>Features</sub> | <sub>[FeatureDescriptor](../../docs/mdSigStat/Common/FeatureDescriptor.md)s to consider during classification</sub> | 
+| <sub>Sampler</sub> | <sub>[Sampler](../../docs/mdSigStat/Common/PipelineItems/Classifiers/OptimalDtwClassifier.md) used for selecting training and test sets during a benchmark</sub> | 
 
 
 ## Methods
