@@ -1,6 +1,6 @@
 # [Palette](./Palette.md)
 
-Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md) > [Excel](./README.md)
+Namespace: [SigStat](../README.md) > [Common](./../../README.md) > [Helpers](./../README.md) > [Excel](./README.md)
 
 Assembly: SigStat.Common.dll
 

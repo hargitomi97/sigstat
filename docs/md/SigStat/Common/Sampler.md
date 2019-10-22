@@ -1,6 +1,6 @@
 # [Sampler](./Sampler.md)
 
-Namespace: [SigStat]() > [Common](./README.md)
+Namespace: [SigStat](../README.md) > [Common](./README.md)
 
 Assembly: SigStat.Common.dll
 
