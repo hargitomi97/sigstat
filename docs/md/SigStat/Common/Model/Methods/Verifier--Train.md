@@ -1,6 +1,6 @@
 # [Train](./Verifier--Train.md)
 
-Trains the verifier with a list of signatures. Uses the [Pipeline](././SigStat/Common/Model/Verifier.md) to extract features,  and [Classifier](././SigStat/Common/Model/Verifier.md) to find an optimized limit.
+Trains the verifier with a list of signatures. Uses the [Pipeline](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to extract features,  and [Classifier](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Model/Verifier.md) to find an optimized limit.
 
 | Return | Name | 
 | --- | --- | 
