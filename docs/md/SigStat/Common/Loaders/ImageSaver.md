@@ -9,7 +9,7 @@ Get the [Image](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigSt
 
 ## Static Methods
 
-| Name | Summary<div><a href="#"><img width=466></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [Save](./Methods/ImageSaver--Save.md) ( [`Signature`](./../Signature.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ) | Saves a png image file to the specified `path`. | 
 

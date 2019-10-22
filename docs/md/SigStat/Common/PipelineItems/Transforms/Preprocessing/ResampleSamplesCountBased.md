@@ -11,14 +11,14 @@ Resamples an online signature to a specific sample count using the specified [II
 
 ## Constructors
 
-| Name | Summary<div><a href="#"><img width=466></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | ResampleSamplesCountBased (  ) |  | 
 
 
 ## Properties
 
-| Name | Summary<div><a href="#"><img width=466></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | InputFeatures | Gets or sets the input features. | 
 | InterpolationType | Gets or sets the type of the interpolation. <seealso cref="T:SigStat.Common.PipelineItems.Transforms.Preprocessing.IInterpolation" /> | 
@@ -30,7 +30,7 @@ Resamples an online signature to a specific sample count using the specified [II
 
 ## Methods
 
-| Name | Summary<div><a href="#"><img width=466></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [Transform](./Methods/ResampleSamplesCountBased--Transform.md) ( [`Signature`](./../../../Signature.md) ) |  | 
 

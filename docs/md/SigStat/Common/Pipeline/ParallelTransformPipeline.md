@@ -11,21 +11,21 @@ Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the 
 
 ## Constructors
 
-| Name | Summary<div><a href="#"><img width=466></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | ParallelTransformPipeline (  ) |  | 
 
 
 ## Fields
 
-| Name | Summary<div><a href="#"><img width=466></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | Items | List of transforms to be run parallel. | 
 
 
 ## Properties
 
-| Name | Summary<div><a href="#"><img width=466></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | PipelineInputs | Gets the pipeline inputs. | 
 | PipelineOutputs | Gets the pipeline outputs. | 
@@ -33,7 +33,7 @@ Runs pipeline items in parallel.  <br>Default Pipeline Output: Range of all the 
 
 ## Methods
 
-| Name | Summary<div><a href="#"><img width=466></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [Add](./Methods/ParallelTransformPipeline--Add.md) ( [`ITransformation`](./../ITransformation.md) ) | Add new transform to the list. | 
 | [GetEnumerator](./Methods/ParallelTransformPipeline--GetEnumerator.md) (  ) |  | 

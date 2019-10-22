@@ -9,14 +9,14 @@ Custom serializer for [RectangleF](https://docs.microsoft.com/en-us/dotnet/api/S
 
 ## Constructors
 
-| Name | Summary<div><a href="#"><img width=466></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | RectangleFConverter (  ) |  | 
 
 
 ## Methods
 
-| Name | Summary<div><a href="#"><img width=466></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [CanConvert](./Methods/RectangleFConverter--CanConvert.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) ) | Tells if the current object is of the correct type | 
 | [ReadJson](./Methods/RectangleFConverter--ReadJson.md) ( [`JsonReader`](./RectangleFConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./RectangleFConverter.md) ) |  | 

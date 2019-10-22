@@ -9,7 +9,7 @@ Extension methods for common EPPlus tasks
 
 ## Static Methods
 
-| Name | Summary<div><a href="#"><img width=466></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [FormatAsTable](./Methods/ExcelHelper--FormatAsTable.md) ( [`ExcelRange`](./ExcelHelper.md), [`ExcelColor`](./Excel/ExcelColor.md), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) ) | Format cells in the range into a table | 
 | [FormatAsTableWithTitle](./Methods/ExcelHelper--FormatAsTableWithTitle.md) ( [`ExcelRange`](./ExcelHelper.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`ExcelColor`](./Excel/ExcelColor.md), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) ) | Format cells in the range into a table with possible title | 

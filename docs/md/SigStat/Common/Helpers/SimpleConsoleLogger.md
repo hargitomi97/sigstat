@@ -11,7 +11,7 @@ A easy-to-use class to log pipeline messages, complete with filtering levels and
 
 ## Constructors
 
-| Name | Summary<div><a href="#"><img width=466></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | SimpleConsoleLogger (  ) | Initializes a SimpleConsoleLogger instance with LogLevel set to LogLevel.Information | 
 | SimpleConsoleLogger ( [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel) ) | Initializes an instance of SimpleConsoleLogger with a custom LogLevel | 
@@ -19,14 +19,14 @@ A easy-to-use class to log pipeline messages, complete with filtering levels and
 
 ## Properties
 
-| Name | Summary<div><a href="#"><img width=466></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | LogLevel | All events below this level will be filtered | 
 
 
 ## Methods
 
-| Name | Summary<div><a href="#"><img width=466></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [BeginScope](./Methods/SimpleConsoleLogger--BeginScope.md) ( [`TState`](./SimpleConsoleLogger.md) ) |  | 
 | [IsEnabled](./Methods/SimpleConsoleLogger--IsEnabled.md) ( [`LogLevel`](https://docs.microsoft.com/en-us/dotnet/api/Microsoft.Extensions.Logging.LogLevel) ) |  | 
@@ -35,7 +35,7 @@ A easy-to-use class to log pipeline messages, complete with filtering levels and
 
 ## Events
 
-| Name | Summary<div><a href="#"><img width=466></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | Logged | Occurs when an error is logged | 
 
