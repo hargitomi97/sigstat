@@ -1,6 +1,6 @@
 # [FillPenUpDurations](./FillPenUpDurations.md)
 
-Namespace: [SigStat](../../) > [Common](./../../../README.md) > [PipelineItems](../../) > [Transforms](../../) > [Preprocessing](./README.md)
+Namespace: [SigStat]() > [Common](./../../../README.md) > [PipelineItems]() > [Transforms]() > [Preprocessing](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -11,14 +11,14 @@ This transformation will fill "holes" in the "Time" feature by interpolating the
 
 ## Constructors
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>FillPenUpDurations (  )</sub> | <sub></sub> | 
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>InputFeatures</sub> | <sub>Gets or sets the features of an online signature that need to be altered</sub> | 
 | <sub>InterpolationType</sub> | <sub>An implementation of [IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md)</sub> | 
@@ -29,7 +29,7 @@ This transformation will fill "holes" in the "Time" feature by interpolating the
 
 ## Methods
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/FillPenUpDurations--Transform.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | 
 

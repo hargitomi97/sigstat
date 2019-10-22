@@ -1,6 +1,6 @@
 # [Binarization](./Binarization.md)
 
-Namespace: [SigStat](../../) > [Common](./../README.md) > [Transforms](./README.md)
+Namespace: [SigStat]() > [Common](./../README.md) > [Transforms](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -11,7 +11,7 @@ Generates a binary raster version of the input image with the iterative threshol
 
 ## Constructors
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>Binarization (  )</sub> | <sub>Initializes a new instance of the [Binarization](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Binarization.md) class with default settings: Iterative threshold and [Dark](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Binarization/ForegroundType.md).</sub> | 
 | <sub>Binarization ( [`ForegroundType`](./Binarization.md), [`Nullable`](https://docs.microsoft.com/en-us/dotnet/api/System.Nullable-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)> )</sub> | <sub></sub> | 
@@ -19,7 +19,7 @@ Generates a binary raster version of the input image with the iterative threshol
 
 ## Properties
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>InputImage</sub> | <sub>Gets or sets the featuredescriptor of the input image.</sub> | 
 | <sub>OutputMask</sub> | <sub>Gets or sets the featuredescriptor of a the binarized image.</sub> | 
@@ -27,7 +27,7 @@ Generates a binary raster version of the input image with the iterative threshol
 
 ## Methods
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/Binarization--Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 

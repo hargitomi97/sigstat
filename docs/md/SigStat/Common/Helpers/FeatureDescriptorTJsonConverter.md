@@ -1,6 +1,6 @@
 # [FeatureDescriptorTJsonConverter](./FeatureDescriptorTJsonConverter.md)
 
-Namespace: [SigStat](../../) > [Common](./../README.md) > [Helpers](./README.md)
+Namespace: [SigStat]() > [Common](./../README.md) > [Helpers](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -9,14 +9,14 @@ Custom serializer for [FeatureDescriptor-1](https://github.com/hargitomi97/sigst
 
 ## Constructors
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>FeatureDescriptorTJsonConverter (  )</sub> | <sub></sub> | 
 
 
 ## Methods
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[CanConvert](./Methods/FeatureDescriptorTJsonConverter--CanConvert.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) )</sub> | <sub>Tells if the current object is of the correct type</sub> | 
 | <sub>[ReadJson](./Methods/FeatureDescriptorTJsonConverter--ReadJson.md) ( [`JsonReader`](./FeatureDescriptorTJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorTJsonConverter.md) )</sub> | <sub></sub> | 

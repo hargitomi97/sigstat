@@ -1,6 +1,6 @@
 # [CentroidExtraction](./CentroidExtraction.md)
 
-Namespace: [SigStat](../../) > [Common](./../README.md) > [Transforms](./README.md)
+Namespace: [SigStat]() > [Common](./../README.md) > [Transforms](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -11,14 +11,14 @@ Extracts the Centroid (aka. Center Of Gravity) of the input features.  <br> Defa
 
 ## Constructors
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>CentroidExtraction (  )</sub> | <sub></sub> | 
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>Inputs</sub> | <sub>List of features to process</sub> | 
 | <sub>OutputCentroid</sub> | <sub>List of centroid values</sub> | 
@@ -26,7 +26,7 @@ Extracts the Centroid (aka. Center Of Gravity) of the input features.  <br> Defa
 
 ## Methods
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/CentroidExtraction--Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 

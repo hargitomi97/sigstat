@@ -1,6 +1,6 @@
 # [ApproximateOnlineFeatures](./ApproximateOnlineFeatures.md)
 
-Namespace: [SigStat](../../) > [Common](./../README.md) > [Transforms](./README.md)
+Namespace: [SigStat]() > [Common](./../README.md) > [Transforms](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -11,14 +11,14 @@ init Pressure, Altitude, Azimuth features with default values.  <br>Default Pipe
 
 ## Constructors
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>ApproximateOnlineFeatures (  )</sub> | <sub></sub> | 
 
 
 ## Methods
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/ApproximateOnlineFeatures--Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 

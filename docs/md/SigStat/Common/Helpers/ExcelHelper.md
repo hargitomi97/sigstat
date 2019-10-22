@@ -1,6 +1,6 @@
 # [ExcelHelper](./ExcelHelper.md)
 
-Namespace: [SigStat](../../) > [Common](./../README.md) > [Helpers](./README.md)
+Namespace: [SigStat]() > [Common](./../README.md) > [Helpers](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -9,7 +9,7 @@ Extension methods for common EPPlus tasks
 
 ## Static Methods
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[FormatAsTable](./Methods/ExcelHelper--FormatAsTable.md) ( [`ExcelRange`](./ExcelHelper.md), [`ExcelColor`](./Excel/ExcelColor.md), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub> | <sub>Format cells in the range into a table</sub> | 
 | <sub>[FormatAsTableWithTitle](./Methods/ExcelHelper--FormatAsTableWithTitle.md) ( [`ExcelRange`](./ExcelHelper.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`ExcelColor`](./Excel/ExcelColor.md), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean), [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) )</sub> | <sub>Format cells in the range into a table with possible title</sub> | 

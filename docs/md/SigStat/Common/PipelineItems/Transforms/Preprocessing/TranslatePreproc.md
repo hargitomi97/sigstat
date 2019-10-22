@@ -1,6 +1,6 @@
 # [TranslatePreproc](./TranslatePreproc.md)
 
-Namespace: [SigStat](../../) > [Common](./../../../README.md) > [PipelineItems](../../) > [Transforms](../../) > [Preprocessing](./README.md)
+Namespace: [SigStat]() > [Common](./../../../README.md) > [PipelineItems]() > [Transforms]() > [Preprocessing](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -11,7 +11,7 @@ This transformations can be used to translate the coordinates of an online signa
 
 ## Constructors
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>TranslatePreproc (  )</sub> | <sub>Initializes a new instance of the [TranslatePreproc](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/TranslatePreproc.md) class.</sub> | 
 | <sub>TranslatePreproc ( [`OriginType`](./OriginType.md) )</sub> | <sub>Initializes a new instance of the [TranslatePreproc](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/TranslatePreproc.md) class.</sub> | 
@@ -19,7 +19,7 @@ This transformations can be used to translate the coordinates of an online signa
 
 ## Properties
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>GoalOrigin</sub> | <sub>Goal origin of the translation</sub> | 
 | <sub>InputFeature</sub> | <sub>Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) (e.g. [X](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md))</sub> | 
@@ -29,7 +29,7 @@ This transformations can be used to translate the coordinates of an online signa
 
 ## Methods
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/TranslatePreproc--Transform.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | 
 

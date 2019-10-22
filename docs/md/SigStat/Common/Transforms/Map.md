@@ -1,6 +1,6 @@
 # [Map](./Map.md)
 
-Namespace: [SigStat](../../) > [Common](./../README.md) > [Transforms](./README.md)
+Namespace: [SigStat]() > [Common](./../README.md) > [Transforms](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -11,14 +11,14 @@ Maps values of a feature to a specified range.  <br>Pipeline Input type: List{do
 
 ## Constructors
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>Map ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub> | <sub>Initializes a new instance of the [Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings.</sub> | 
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>Input</sub> | <sub>Input</sub> | 
 | <sub>Output</sub> | <sub>Output</sub> | 
@@ -26,7 +26,7 @@ Maps values of a feature to a specified range.  <br>Pipeline Input type: List{do
 
 ## Methods
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/Map--Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 

@@ -1,6 +1,6 @@
 # [NormalizeRotation](./NormalizeRotation.md)
 
-Namespace: [SigStat](../../) > [Common](./../../../README.md) > [PipelineItems](../../) > [Transforms](../../) > [Preprocessing](./README.md)
+Namespace: [SigStat]() > [Common](./../../../README.md) > [PipelineItems]() > [Transforms]() > [Preprocessing](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -11,14 +11,14 @@ Performs rotation normalization on the online signature
 
 ## Constructors
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>NormalizeRotation (  )</sub> | <sub></sub> | 
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>InputT</sub> | <sub>Gets or sets the input feature representing the timestamps of an online signature</sub> | 
 | <sub>InputX</sub> | <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub> | 
@@ -29,7 +29,7 @@ Performs rotation normalization on the online signature
 
 ## Methods
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/NormalizeRotation--Transform.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | 
 

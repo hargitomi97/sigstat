@@ -1,6 +1,6 @@
 # [PipelineOutput](./PipelineOutput.md)
 
-Namespace: [SigStat](../../) > [Common](./../README.md) > [Pipeline](./README.md)
+Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -9,14 +9,14 @@ Represents an output for a [PipelineItem](https://github.com/hargitomi97/sigstat
 
 ## Constructors
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub> | <sub>Initializes a new instance of the [PipelineOutput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineOutput.md) class.</sub> | 
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>Default</sub> | <sub>Gets the default value</sub> | 
 | <sub>FD</sub> | <sub>Gets or sets the fd.</sub> | 

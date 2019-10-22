@@ -1,6 +1,6 @@
 # [HierarchyElement](./HierarchyElement.md)
 
-Namespace: [SigStat](../../) > [Common](./../README.md) > [Helpers](./README.md)
+Namespace: [SigStat]() > [Common](./../README.md) > [Helpers](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -11,7 +11,7 @@ Hierarchical structure to store object
 
 ## Constructors
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>HierarchyElement (  )</sub> | <sub>Create an emty element</sub> | 
 | <sub>HierarchyElement ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) )</sub> | <sub>Create a new element with content</sub> | 
@@ -19,7 +19,7 @@ Hierarchical structure to store object
 
 ## Properties
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>Children</sub> | <sub>Gets the children.</sub> | 
 | <sub>Content</sub> | <sub>Gets or sets the content.</sub> | 
@@ -27,7 +27,7 @@ Hierarchical structure to store object
 
 ## Methods
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Add](./Methods/HierarchyElement--Add.md) ( [`HierarchyElement`](./HierarchyElement.md) )</sub> | <sub></sub> | 
 | <sub>[GetCount](./Methods/HierarchyElement--GetCount.md) (  )</sub> | <sub>Returns number of elements under this node and itself</sub> | 

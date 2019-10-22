@@ -1,6 +1,6 @@
 # [AddConst](./AddConst.md)
 
-Namespace: [SigStat](../../) > [Common](./../README.md) > [Transforms](./README.md)
+Namespace: [SigStat]() > [Common](./../README.md) > [Transforms](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -11,14 +11,14 @@ Adds a constant value to a feature. Works with collection features too.  <br>Def
 
 ## Constructors
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>AddConst ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) )</sub> | <sub>Initializes a new instance of the [AddConst](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddConst.md) class with specified settings.</sub> | 
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>Input</sub> | <sub>Input values for trasformation</sub> | 
 | <sub>Output</sub> | <sub>Output feature to store results</sub> | 
@@ -26,7 +26,7 @@ Adds a constant value to a feature. Works with collection features too.  <br>Def
 
 ## Methods
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/AddConst--Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 

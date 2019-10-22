@@ -1,6 +1,6 @@
 # [SequentialTransformPipeline](./SequentialTransformPipeline.md)
 
-Namespace: [SigStat](../../) > [Common](./../README.md) > [Pipeline](./README.md)
+Namespace: [SigStat]() > [Common](./../README.md) > [Pipeline](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -11,21 +11,21 @@ Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the l
 
 ## Constructors
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>SequentialTransformPipeline (  )</sub> | <sub></sub> | 
 
 
 ## Fields
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>Items</sub> | <sub>List of transforms to be run in sequence.</sub> | 
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>PipelineInputs</sub> | <sub>Gets the pipeline inputs.</sub> | 
 | <sub>PipelineOutputs</sub> | <sub>Gets the pipeline outputs.</sub> | 
@@ -33,7 +33,7 @@ Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the l
 
 ## Methods
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Add](./Methods/SequentialTransformPipeline--Add.md) ( [`ITransformation`](./../ITransformation.md) )</sub> | <sub>Add new transform to the list.</sub> | 
 | <sub>[GetEnumerator](./Methods/SequentialTransformPipeline--GetEnumerator.md) (  )</sub> | <sub></sub> | 

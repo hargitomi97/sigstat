@@ -1,6 +1,6 @@
 # [UniformScale](./UniformScale.md)
 
-Namespace: [SigStat](../../) > [Common](./../../../README.md) > [PipelineItems](../../) > [Transforms](../../) > [Preprocessing](./README.md)
+Namespace: [SigStat]() > [Common](./../../../README.md) > [PipelineItems]() > [Transforms]() > [Preprocessing](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -11,14 +11,14 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 ## Constructors
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>UniformScale (  )</sub> | <sub></sub> | 
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>BaseDimension</sub> | <sub>Gets or sets the base dimension.</sub> | 
 | <sub>BaseDimensionOutput</sub> | <sub>Gets or sets the output base dimension output.</sub> | 
@@ -31,7 +31,7 @@ Maps values of a feature to a specific range and another proportional.  <br>Base
 
 ## Methods
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/UniformScale--Transform.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | 
 

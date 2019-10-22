@@ -1,6 +1,6 @@
 # [TangentExtraction](./TangentExtraction.md)
 
-Namespace: [SigStat](../../) > [Common](./../README.md) > [Transforms](./README.md)
+Namespace: [SigStat]() > [Common](./../README.md) > [Transforms](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -11,14 +11,14 @@ Extracts tangent values of the standard X, Y [Features](https://github.com/hargi
 
 ## Constructors
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>TangentExtraction (  )</sub> | <sub></sub> | 
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>OutputTangent</sub> | <sub>Gets or sets the output feature representing the tangent angles of an online signature</sub> | 
 | <sub>X</sub> | <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub> | 
@@ -27,7 +27,7 @@ Extracts tangent values of the standard X, Y [Features](https://github.com/hargi
 
 ## Methods
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Transform](./Methods/TangentExtraction--Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
 

@@ -1,5 +1,5 @@
 # [ExcelColor](./ExcelColor.md)
-Namespace: [SigStat](../../) > [Common](./../../README.md) > [Helpers](./../README.md) > [Excel](./README.md)
+Namespace: [SigStat]() > [Common](./../../README.md) > [Helpers](./../README.md) > [Excel](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -8,7 +8,7 @@ Predefined color schemes for Excel
 
 ##	Enum
 
-| Value<div><a href="#"><img width=400></a></div> | Name<div><a href="#"><img width=475></a></div> | Summary<div><a href="#"><img width=400></a></div> | 
+| Value<div><a href="#"><img width=200></a></div> | Name<div><a href="#"><img width=475></a></div> | Summary<div><a href="#"><img width=200></a></div> | 
 | --- | --- | --- | 
 | 0 | Primary | Primary color | 
 | 1 | Secondary | Secondary color | 

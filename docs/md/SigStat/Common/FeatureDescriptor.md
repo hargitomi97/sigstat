@@ -1,6 +1,6 @@
 # [FeatureDescriptor](./FeatureDescriptor.md)
 
-Namespace: [SigStat](../../) > [Common](./README.md)
+Namespace: [SigStat]() > [Common](./README.md)
 
 Assembly: SigStat.Common.dll
 
@@ -9,7 +9,7 @@ Represents a feature with name and type.
 
 ## Properties
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>FeatureType</sub> | <sub>Gets or sets the type of the feature.</sub> | 
 | <sub>IsCollection</sub> | <sub>Gets whether the type of the feature is List.</sub> | 
@@ -19,14 +19,14 @@ Represents a feature with name and type.
 
 ## Methods
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[ToString](./Methods/FeatureDescriptor--ToString.md) (  )</sub> | <sub>Returns a string represenatation of the FeatureDescriptor</sub> | 
 
 
 ## Static Methods
 
-| Name<div><a href="#"><img width=400></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
 | <sub>[Get](./Methods/FeatureDescriptor--Get.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub> | <sub>Gets the [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) specified by `key`.  Throws [KeyNotFoundException](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.KeyNotFoundException-1) exception if there is no descriptor registered with the given key.</sub> | 
 | <sub>[Get](./Methods/FeatureDescriptor--Get.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub> | <sub>Gets the [FeatureDescriptor-1](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor-1.md) specified by `key`.  If the key is not registered yet, a new [FeatureDescriptor-1](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor-1.md) is automatically created with the given key and type.</sub> | 
