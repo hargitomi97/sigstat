@@ -1,6 +1,6 @@
 # [Map](./Map.md)
 
-Namespace: [SigStat](../README.md) > [Common](./../README.md) > [Transforms](./README.md)
+Namespace: [SigStat](../../) > [Common](./../README.md) > [Transforms](./README.md)
 
 Assembly: SigStat.Common.dll
 

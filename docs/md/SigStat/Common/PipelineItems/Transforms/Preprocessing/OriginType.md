@@ -1,5 +1,5 @@
 # [OriginType](./OriginType.md)
-Namespace: [SigStat](../README.md) > [Common](./../../../README.md) > [PipelineItems](../README.md) > [Transforms](../README.md) > [Preprocessing](./README.md)
+Namespace: [SigStat](../../) > [Common](./../../../README.md) > [PipelineItems](../../) > [Transforms](../../) > [Preprocessing](./README.md)
 
 Assembly: SigStat.Common.dll
 

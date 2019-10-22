@@ -1,6 +1,6 @@
 # [FeatureDescriptorDictionaryConverter](./FeatureDescriptorDictionaryConverter.md)
 
-Namespace: [SigStat](../README.md) > [Common](./../../README.md) > [Helpers](./../README.md) > [Serialization](./README.md)
+Namespace: [SigStat](../../) > [Common](./../../README.md) > [Helpers](./../README.md) > [Serialization](./README.md)
 
 Assembly: SigStat.Common.dll
 

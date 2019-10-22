@@ -1,6 +1,6 @@
 # [PipelineOutput](./PipelineOutput.md)
 
-Namespace: [SigStat](../README.md) > [Common](./../README.md) > [Pipeline](./README.md)
+Namespace: [SigStat](../../) > [Common](./../README.md) > [Pipeline](./README.md)
 
 Assembly: SigStat.Common.dll
 
