@@ -9,7 +9,7 @@ ILoggerObject extension methods for common scenarios.
 
 ## Static Methods
 
-| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [LogCritical](./Methods/ILoggerObjectExtensions--LogCritical.md) ( [`ILoggerObject`](./ILoggerObject.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[] ) | Formats and writes an critical error log message. | 
 | [LogDebug](./Methods/ILoggerObjectExtensions--LogDebug.md) ( [`ILoggerObject`](./ILoggerObject.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[] ) | Formats and writes an debug log message. | 
