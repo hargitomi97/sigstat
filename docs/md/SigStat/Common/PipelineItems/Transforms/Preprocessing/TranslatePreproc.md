@@ -11,7 +11,7 @@ This transformations can be used to translate the coordinates of an online signa
 
 ## Constructors
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | TranslatePreproc (  ) | Initializes a new instance of the [TranslatePreproc](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/TranslatePreproc.md) class. | 
 | TranslatePreproc ( [`OriginType`](./OriginType.md) ) | Initializes a new instance of the [TranslatePreproc](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/TranslatePreproc.md) class. | 
@@ -19,7 +19,7 @@ This transformations can be used to translate the coordinates of an online signa
 
 ## Properties
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | GoalOrigin | Goal origin of the translation | 
 | InputFeature | Input [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) (e.g. [X](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md)) | 
@@ -29,7 +29,7 @@ This transformations can be used to translate the coordinates of an online signa
 
 ## Methods
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | [Transform](./Methods/TranslatePreproc--Transform.md) ( [`Signature`](./../../../Signature.md) ) |  | 
 

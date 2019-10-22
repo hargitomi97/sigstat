@@ -9,7 +9,7 @@ Trains classification models based on reference signatures
 
 ## Methods
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | [Test](./Methods/IClassifier--Test.md) ( [`ISignerModel`](./ISignerModel.md), [`Signature`](./../Signature.md) ) |  | 
 | [Train](./Methods/IClassifier--Train.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../Signature.md)> ) | Trains a model based on the signatures and returns the trained model | 

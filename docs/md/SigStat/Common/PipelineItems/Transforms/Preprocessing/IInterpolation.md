@@ -9,7 +9,7 @@ Represents an interploation algorithm
 
 ## Properties
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | FeatureValues | Gets or sets the feature values. | 
 | TimeValues | Timestamps | 
@@ -17,7 +17,7 @@ Represents an interploation algorithm
 
 ## Methods
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | [GetValue](./Methods/IInterpolation--GetValue.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) ) | Gets the interpolated value at a given timestamp | 
 

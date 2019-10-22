@@ -9,21 +9,21 @@ HSCP thinning algorithm  http://www.ppgia.pucpr.br/~facon/Afinamento/1987holt.pd
 
 ## Constructors
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | HSCPThinningStep (  ) |  | 
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | ResultChanged | Gets whether the last [Scan](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Algorithms/Methods/Scan.md) call was effective. | 
 
 
 ## Methods
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | [Scan](./Methods/HSCPThinningStep--Scan.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] ) | Does one step of the thinning. Call it iteratively while ResultChanged. | 
 

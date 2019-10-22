@@ -9,14 +9,14 @@ Selects the first N signatures with odd index for training
 
 ## Constructors
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | OddNSampler ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) ) | Constructor | 
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | N | Count of signatures used for training | 
 

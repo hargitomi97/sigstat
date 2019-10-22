@@ -9,14 +9,14 @@ Custom serializer for lists containing [FeatureDescriptor](https://github.com/ha
 
 ## Constructors
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | FeatureDescriptorListJsonConverter (  ) |  | 
 
 
 ## Methods
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | [CanConvert](./Methods/FeatureDescriptorListJsonConverter--CanConvert.md) ( [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) ) | Tells if the current object is of the correct type | 
 | [ReadJson](./Methods/FeatureDescriptorListJsonConverter--ReadJson.md) ( [`JsonReader`](./FeatureDescriptorListJsonConverter.md), [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`JsonSerializer`](./FeatureDescriptorListJsonConverter.md) ) |  | 

@@ -11,14 +11,14 @@ Maps values of a feature to a specified range.  <br>Pipeline Input type: List{do
 
 ## Constructors
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | Map ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double), [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) ) | Initializes a new instance of the [Map](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/Map.md) class with specified settings. | 
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | Input | Input | 
 | Output | Output | 
@@ -26,7 +26,7 @@ Maps values of a feature to a specified range.  <br>Pipeline Input type: List{do
 
 ## Methods
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | [Transform](./Methods/Map--Transform.md) ( [`Signature`](./../Signature.md) ) |  | 
 

@@ -11,21 +11,21 @@ Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the l
 
 ## Constructors
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | SequentialTransformPipeline (  ) |  | 
 
 
 ## Fields
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | Items | List of transforms to be run in sequence. | 
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | PipelineInputs | Gets the pipeline inputs. | 
 | PipelineOutputs | Gets the pipeline outputs. | 
@@ -33,7 +33,7 @@ Runs pipeline items in a sequence.  <br>Default Pipeline Output: Output of the l
 
 ## Methods
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | [Add](./Methods/SequentialTransformPipeline--Add.md) ( [`ITransformation`](./../ITransformation.md) ) | Add new transform to the list. | 
 | [GetEnumerator](./Methods/SequentialTransformPipeline--GetEnumerator.md) (  ) |  | 

@@ -11,7 +11,7 @@ Generates an image feature out of a binary raster.  Optionally, saves the image 
 
 ## Constructors
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | ImageGenerator (  ) | Initializes a new instance of the [ImageGenerator](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ImageGenerator.md) class with default settings: skip file writing, Blue ink on white paper. | 
 | ImageGenerator ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) ) | Initializes a new instance of the [ImageGenerator](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ImageGenerator.md) class with default settings. | 
@@ -20,7 +20,7 @@ Generates an image feature out of a binary raster.  Optionally, saves the image 
 
 ## Properties
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | BackgroundColor | Gets or sets the color of the backgroung used to render the signature | 
 | ForegroundColor | Gets or sets the color of the foreground used to render the signature | 
@@ -31,7 +31,7 @@ Generates an image feature out of a binary raster.  Optionally, saves the image 
 
 ## Methods
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | [Transform](./Methods/ImageGenerator--Transform.md) ( [`Signature`](./../Signature.md) ) |  | 
 

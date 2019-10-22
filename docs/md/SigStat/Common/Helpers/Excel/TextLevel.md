@@ -8,7 +8,7 @@ Paragraph style setting
 
 ##	Enum
 
-| Value<div><a href="#"><img width=200></a></div> | Name<div><a href="#"><img width=475></a></div> | Summary<div><a href="#"><img width=200></a></div> | 
+| Value | Name<div><a href="#"><img width=466></a></div> | Summary | 
 | --- | --- | --- | 
 | 0 | Title | Main title | 
 | 1 | Heading1 | Level 1 heading | 

@@ -9,7 +9,7 @@ Standard set of features.
 
 ## Static Fields
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | All | Returns a readonly list of all [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md)s defined in [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) | 
 | Altitude | Altitude of an online signature as a function of [T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) | 

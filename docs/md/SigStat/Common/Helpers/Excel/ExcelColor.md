@@ -8,7 +8,7 @@ Predefined color schemes for Excel
 
 ##	Enum
 
-| Value<div><a href="#"><img width=200></a></div> | Name<div><a href="#"><img width=475></a></div> | Summary<div><a href="#"><img width=200></a></div> | 
+| Value | Name<div><a href="#"><img width=466></a></div> | Summary | 
 | --- | --- | --- | 
 | 0 | Primary | Primary color | 
 | 1 | Secondary | Secondary color | 

@@ -11,14 +11,14 @@ Performs rotation normalization on the online signature
 
 ## Constructors
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | OrthognalRotation (  ) |  | 
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | InputT | Gets or sets the input feature representing the timestamps of an online signature | 
 | InputX | Gets or sets the input feature representing the X coordinates of an online signature | 
@@ -29,7 +29,7 @@ Performs rotation normalization on the online signature
 
 ## Methods
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | [Transform](./Methods/OrthognalRotation--Transform.md) ( [`Signature`](./../../../Signature.md) ) |  | 
 

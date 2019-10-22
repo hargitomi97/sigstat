@@ -9,7 +9,7 @@ Represents a type, that contains an ILogger property that can be used to perform
 
 ## Properties
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | Logger | Gets or sets the ILogger implementation used to perform logging | 
 

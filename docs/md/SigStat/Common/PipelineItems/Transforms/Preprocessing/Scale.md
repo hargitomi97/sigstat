@@ -11,14 +11,14 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 
 ## Constructors
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | Scale (  ) |  | 
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | InputFeature | Gets or sets the input feature. | 
 | NewMaxValue | <br>NewMaxValue: upper bound of the interval, in which the input feature will be scaled | 
@@ -28,7 +28,7 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 
 ## Methods
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | [Transform](./Methods/Scale--Transform.md) ( [`Signature`](./../../../Signature.md) ) |  | 
 

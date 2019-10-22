@@ -9,7 +9,7 @@ Exposes a function to enable loading collections of [Signer](https://github.com/
 
 ## Methods
 
-| Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
+| Name | Summary<div><a href="#"><img width=466></a></div> | 
 | --- | --- | 
 | [EnumerateSigners](./Methods/IDataSetLoader--EnumerateSigners.md) (  ) | Enumerates all signers of the database | 
 | [EnumerateSigners](./Methods/IDataSetLoader--EnumerateSigners.md) ( [`Predicate`](https://docs.microsoft.com/en-us/dotnet/api/System.Predicate-1)\<[`Signer`](./../Signer.md)> ) | Enumerates all [Signer](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Signer.md)s that match the `signerFilter`. | 
