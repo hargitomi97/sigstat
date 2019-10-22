@@ -13,23 +13,23 @@ Extracts unsorted components by tracing through the binary Skeleton raster.  <br
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>ComponentExtraction ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) )</sub> | <sub>Initializes a new instance of the [ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution.</sub> | 
+| ComponentExtraction ( [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) ) | Initializes a new instance of the [ComponentExtraction](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/ComponentExtraction.md) class with specified sampling resolution. | 
 
 
 ## Properties
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>CrossingPoints</sub> | <sub>crossing points</sub> | 
-| <sub>EndPoints</sub> | <sub>endpoints</sub> | 
-| <sub>OutputComponents</sub> | <sub>Output components</sub> | 
-| <sub>Skeleton</sub> | <sub>binary representation of a signature image</sub> | 
+| CrossingPoints | crossing points | 
+| EndPoints | endpoints | 
+| OutputComponents | Output components | 
+| Skeleton | binary representation of a signature image | 
 
 
 ## Methods
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/ComponentExtraction--Transform.md) ( [`Signature`](./../Signature.md) )</sub> | <sub></sub> | 
+| [Transform](./Methods/ComponentExtraction--Transform.md) ( [`Signature`](./../Signature.md) ) |  | 
 
 

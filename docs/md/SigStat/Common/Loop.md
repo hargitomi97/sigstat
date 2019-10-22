@@ -11,23 +11,23 @@ Represents a loop in a signature
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>Loop (  )</sub> | <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance</sub> | 
-| <sub>Loop ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single), [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) )</sub> | <sub>Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance and initializes the [Center](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) property</sub> | 
+| Loop (  ) | Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance | 
+| Loop ( [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single), [`Single`](https://docs.microsoft.com/en-us/dotnet/api/System.Single) ) | Creates a [Loop](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) instance and initializes the [Center](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Loop.md) property | 
 
 
 ## Properties
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>Bounds</sub> | <sub>The bounding rectangle of the loop</sub> | 
-| <sub>Center</sub> | <sub>The geometrical center of the looop</sub> | 
-| <sub>Points</sub> | <sub>A list of defining points of the loop</sub> | 
+| Bounds | The bounding rectangle of the loop | 
+| Center | The geometrical center of the looop | 
+| Points | A list of defining points of the loop | 
 
 
 ## Methods
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[ToString](./Methods/Loop--ToString.md) (  )</sub> | <sub>Returns a string representation of the loop</sub> | 
+| [ToString](./Methods/Loop--ToString.md) (  ) | Returns a string representation of the loop | 
 
 

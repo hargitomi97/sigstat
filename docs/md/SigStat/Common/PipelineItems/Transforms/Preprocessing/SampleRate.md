@@ -13,25 +13,25 @@ Performs rotation normalization on the online signature
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>SampleRate (  )</sub> | <sub></sub> | 
+| SampleRate (  ) |  | 
 
 
 ## Properties
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>InputT</sub> | <sub>Gets or sets the input feature representing the timestamps of an online signature</sub> | 
-| <sub>InputX</sub> | <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub> | 
-| <sub>InputY</sub> | <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub> | 
-| <sub>OutputX</sub> | <sub>Gets or sets the output feature representing the X coordinates of an online signature</sub> | 
-| <sub>OutputY</sub> | <sub>Gets or sets the input feature representing the Y coordinates of an online signature</sub> | 
-| <sub>samplerate</sub> | <sub>Gets or sets the input feature representing the X coordinates of an online signature</sub> | 
+| InputT | Gets or sets the input feature representing the timestamps of an online signature | 
+| InputX | Gets or sets the input feature representing the X coordinates of an online signature | 
+| InputY | Gets or sets the input feature representing the Y coordinates of an online signature | 
+| OutputX | Gets or sets the output feature representing the X coordinates of an online signature | 
+| OutputY | Gets or sets the input feature representing the Y coordinates of an online signature | 
+| samplerate | Gets or sets the input feature representing the X coordinates of an online signature | 
 
 
 ## Methods
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/SampleRate--Transform.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | 
+| [Transform](./Methods/SampleRate--Transform.md) ( [`Signature`](./../../../Signature.md) ) |  | 
 
 

@@ -9,6 +9,6 @@ Assembly: SigStat.Common.dll
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>TransformLogState (  )</sub> | <sub></sub> | 
+| TransformLogState (  ) |  | 
 
 

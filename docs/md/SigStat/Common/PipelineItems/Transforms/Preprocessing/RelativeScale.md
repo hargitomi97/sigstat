@@ -13,22 +13,22 @@ Maps values of a feature to a specific range.  <br>InputFeature: feature to be s
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>RelativeScale (  )</sub> | <sub></sub> | 
+| RelativeScale (  ) |  | 
 
 
 ## Properties
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>InputFeature</sub> | <sub>Gets or sets the input feature.</sub> | 
-| <sub>OutputFeature</sub> | <sub>Gets or sets the output feature.</sub> | 
-| <sub>ReferenceFeature</sub> | <sub>Gets or sets the reference feature.</sub> | 
+| InputFeature | Gets or sets the input feature. | 
+| OutputFeature | Gets or sets the output feature. | 
+| ReferenceFeature | Gets or sets the reference feature. | 
 
 
 ## Methods
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/RelativeScale--Transform.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | 
+| [Transform](./Methods/RelativeScale--Transform.md) ( [`Signature`](./../../../Signature.md) ) |  | 
 
 

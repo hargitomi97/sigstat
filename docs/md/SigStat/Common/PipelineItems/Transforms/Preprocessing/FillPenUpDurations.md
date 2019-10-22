@@ -13,24 +13,24 @@ This transformation will fill "holes" in the "Time" feature by interpolating the
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>FillPenUpDurations (  )</sub> | <sub></sub> | 
+| FillPenUpDurations (  ) |  | 
 
 
 ## Properties
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>InputFeatures</sub> | <sub>Gets or sets the features of an online signature that need to be altered</sub> | 
-| <sub>InterpolationType</sub> | <sub>An implementation of [IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md)</sub> | 
-| <sub>OutputFeatures</sub> | <sub>Gets or sets the features of an online signature that were altered</sub> | 
-| <sub>TimeInputFeature</sub> | <sub>Gets or sets the feature representing the timestamps of an online signature</sub> | 
-| <sub>TimeOutputFeature</sub> | <sub>Gets or sets the feature representing the modified timestamps of an online signature</sub> | 
+| InputFeatures | Gets or sets the features of an online signature that need to be altered | 
+| InterpolationType | An implementation of [IInterpolation](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/PipelineItems/Transforms/Preprocessing/IInterpolation.md) | 
+| OutputFeatures | Gets or sets the features of an online signature that were altered | 
+| TimeInputFeature | Gets or sets the feature representing the timestamps of an online signature | 
+| TimeOutputFeature | Gets or sets the feature representing the modified timestamps of an online signature | 
 
 
 ## Methods
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Transform](./Methods/FillPenUpDurations--Transform.md) ( [`Signature`](./../../../Signature.md) )</sub> | <sub></sub> | 
+| [Transform](./Methods/FillPenUpDurations--Transform.md) ( [`Signature`](./../../../Signature.md) ) |  | 
 
 

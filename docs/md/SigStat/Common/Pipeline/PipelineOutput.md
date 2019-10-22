@@ -11,18 +11,18 @@ Represents an output for a [PipelineItem](https://github.com/hargitomi97/sigstat
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) )</sub> | <sub>Initializes a new instance of the [PipelineOutput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineOutput.md) class.</sub> | 
+| PipelineOutput ( [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object), [`PropertyInfo`](https://docs.microsoft.com/en-us/dotnet/api/System.Reflection.PropertyInfo) ) | Initializes a new instance of the [PipelineOutput](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/PipelineOutput.md) class. | 
 
 
 ## Properties
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>Default</sub> | <sub>Gets the default value</sub> | 
-| <sub>FD</sub> | <sub>Gets or sets the fd.</sub> | 
-| <sub>IsCollectionOfFeatureDescriptors</sub> | <sub>Gets a value indicating whether this instance is collection of feature descriptors.</sub> | 
-| <sub>IsTemporary</sub> | <sub>Gets a value indicating whether this instance is temporary.</sub> | 
-| <sub>PropName</sub> | <sub>Gets the name of the property.</sub> | 
-| <sub>Type</sub> | <sub>Gets the type of the property</sub> | 
+| Default | Gets the default value | 
+| FD | Gets or sets the fd. | 
+| IsCollectionOfFeatureDescriptors | Gets a value indicating whether this instance is collection of feature descriptors. | 
+| IsTemporary | Gets a value indicating whether this instance is temporary. | 
+| PropName | Gets the name of the property. | 
+| Type | Gets the type of the property | 
 
 

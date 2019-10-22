@@ -11,17 +11,17 @@ Json serialization and deserialization using the custom resolver  [VerifierResol
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>SerializationHelper (  )</sub> | <sub></sub> | 
+| SerializationHelper (  ) |  | 
 
 
 ## Static Methods
 
 | Name<div><a href="#"><img width=200></a></div> | Summary<div><a href="#"><img width=475></a></div> | 
 | --- | --- | 
-| <sub>[Deserialize](./Methods/SerializationHelper--Deserialize.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub> | <sub>Constructs object from strings that were serialized previously</sub> | 
-| <sub>[DeserializeFromFile](./Methods/SerializationHelper--DeserializeFromFile.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub> | <sub>Constructs object from file given by a path</sub> | 
-| <sub>[GetSettings](./Methods/SerializationHelper--GetSettings.md) (  )</sub> | <sub>Settings used for the serialization methods</sub> | 
-| <sub>[JsonSerialize](./Methods/SerializationHelper--JsonSerialize.md) ( [`T`](./SerializationHelper.md) )</sub> | <sub>Creates json string from object</sub> | 
-| <sub>[JsonSerializeToFile](./Methods/SerializationHelper--JsonSerializeToFile.md) ( [`T`](./SerializationHelper.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) )</sub> | <sub>Writes object to file to the given by path in json format</sub> | 
+| [Deserialize](./Methods/SerializationHelper--Deserialize.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ) | Constructs object from strings that were serialized previously | 
+| [DeserializeFromFile](./Methods/SerializationHelper--DeserializeFromFile.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ) | Constructs object from file given by a path | 
+| [GetSettings](./Methods/SerializationHelper--GetSettings.md) (  ) | Settings used for the serialization methods | 
+| [JsonSerialize](./Methods/SerializationHelper--JsonSerialize.md) ( [`T`](./SerializationHelper.md) ) | Creates json string from object | 
+| [JsonSerializeToFile](./Methods/SerializationHelper--JsonSerializeToFile.md) ( [`T`](./SerializationHelper.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ) | Writes object to file to the given by path in json format | 
 
 
