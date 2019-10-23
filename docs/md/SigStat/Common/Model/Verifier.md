@@ -1,6 +1,6 @@
 # [Verifier](./Verifier.md)
 
-Namespace: [SigStat](./) > [Common](./../README.md) > [Model](./README.md)
+Namespace: [SigStat](././) > [Common](./../README.md) > [Model](./README.md)
 
 Assembly: SigStat.Common.dll
 

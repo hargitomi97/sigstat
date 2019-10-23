@@ -1,6 +1,6 @@
 # [WeightedClassifier](./WeightedClassifier.md)
 
-Namespace: [SigStat](./) > [Common](./../../README.md) > [PipelineItems](./) > [Classifiers](./README.md)
+Namespace: [SigStat](././) > [Common](./../../README.md) > [PipelineItems](././) > [Classifiers](./README.md)
 
 Assembly: SigStat.Common.dll
 
