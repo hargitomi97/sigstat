@@ -11,14 +11,14 @@ Adds a vector feature's elements to other features.  <br>Default Pipeline Output
 
 ## Constructors
 
-| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | AddVector ( [`FeatureDescriptor`](./../FeatureDescriptor-1.md)\<[`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)>> ) | Initializes a new instance of the [AddVector](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Transforms/AddVector.md) class with a vector feature.  Don't forget to add as many Inputs as the vector's dimension. | 
 
 
 ## Properties
 
-| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | Inputs | Inputs | 
 | Outputs | Outputs | 
@@ -26,7 +26,7 @@ Adds a vector feature's elements to other features.  <br>Default Pipeline Output
 
 ## Methods
 
-| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [Transform](./Methods/AddVector--Transform.md) ( [`Signature`](./../Signature.md) ) |  | 
 

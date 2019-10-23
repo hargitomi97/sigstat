@@ -9,14 +9,14 @@ Represents a person as an [ID](https://github.com/hargitomi97/sigstat/blob/maste
 
 ## Constructors
 
-| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | Signer (  ) |  | 
 
 
 ## Properties
 
-| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | ID | An identifier for the Signer. Keep it unique to be useful for logs. | 
 | Signatures | List of signatures that belong to the signer.  (Their origin is not constrained to be genuine.) | 
@@ -24,7 +24,7 @@ Represents a person as an [ID](https://github.com/hargitomi97/sigstat/blob/maste
 
 ## Methods
 
-| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [ToString](./Methods/Signer--ToString.md) (  ) | Returns a string representation of a Signer | 
 

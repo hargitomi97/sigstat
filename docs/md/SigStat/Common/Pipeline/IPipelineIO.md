@@ -9,7 +9,7 @@ Supports the definition of [PipelineInput](https://github.com/hargitomi97/sigsta
 
 ## Properties
 
-| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | PipelineInputs | A collection of inputs for the pipeline elements | 
 | PipelineOutputs | A collection of outputs for the pipeline elements | 

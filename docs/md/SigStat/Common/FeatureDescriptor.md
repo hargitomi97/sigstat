@@ -9,7 +9,7 @@ Represents a feature with name and type.
 
 ## Properties
 
-| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | FeatureType | Gets or sets the type of the feature. | 
 | IsCollection | Gets whether the type of the feature is List. | 
@@ -19,14 +19,14 @@ Represents a feature with name and type.
 
 ## Methods
 
-| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [ToString](./Methods/FeatureDescriptor--ToString.md) (  ) | Returns a string represenatation of the FeatureDescriptor | 
 
 
 ## Static Methods
 
-| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [Get](./Methods/FeatureDescriptor--Get.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ) | Gets the [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) specified by `key`.  Throws [KeyNotFoundException](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.KeyNotFoundException-1) exception if there is no descriptor registered with the given key. | 
 | [Get](./Methods/FeatureDescriptor--Get.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ) | Gets the [FeatureDescriptor-1](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor-1.md) specified by `key`.  If the key is not registered yet, a new [FeatureDescriptor-1](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor-1.md) is automatically created with the given key and type. | 

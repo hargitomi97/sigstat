@@ -11,14 +11,14 @@ Represents a trained model for [DtwClassifier](https://github.com/hargitomi97/si
 
 ## Constructors
 
-| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | DtwSignerModel (  ) |  | 
 
 
 ## Fields
 
-| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | DistanceMatrix | DTW distance matrix of the genuine signatures | 
 | Threshold | A threshold, that will be used for classification. Signatures with  an average DTW distance from the genuines above this threshold will  be classified as forgeries | 
@@ -26,7 +26,7 @@ Represents a trained model for [DtwClassifier](https://github.com/hargitomi97/si
 
 ## Properties
 
-| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | GenuineSignatures | A list a of genuine signatures used for training | 
 

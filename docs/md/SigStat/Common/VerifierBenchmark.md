@@ -11,14 +11,14 @@ Benchmarking class to test error rates of a [Verifier](https://github.com/hargit
 
 ## Constructors
 
-| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | VerifierBenchmark (  ) | Initializes a new instance of the [VerifierBenchmark](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/VerifierBenchmark.md) class.  Sets the [Sampler](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Sampler.md) to the default [FirstNSampler](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Framework/Samplers/FirstNSampler.md). | 
 
 
 ## Properties
 
-| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | Loader | The loader that will provide the database for benchmarking | 
 | Logger | Gets or sets the attached [ILogger](https://github.com/hargitomi97/sigstat/blob/master/docs/md/Microsoft/Extensions/Logging/ILogger.md) object used to log messages. Hands it over to the verifier. | 
@@ -30,7 +30,7 @@ Benchmarking class to test error rates of a [Verifier](https://github.com/hargit
 
 ## Methods
 
-| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [Dump](./Methods/VerifierBenchmark--Dump.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`IEnumerable`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[`KeyValuePair`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.KeyValuePair-2)\<[`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)>> ) | Dumps the results of the benchmark in a file. | 
 | [Execute](./Methods/VerifierBenchmark--Execute.md) ( [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) ) | Execute the benchmarking process. | 
@@ -39,7 +39,7 @@ Benchmarking class to test error rates of a [Verifier](https://github.com/hargit
 
 ## Events
 
-| Name<span><div><a href="#"><img width=225></a></div></span> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | ProgressChanged |  | 
 
