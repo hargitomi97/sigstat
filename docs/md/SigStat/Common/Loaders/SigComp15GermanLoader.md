@@ -1,6 +1,6 @@
 # [SigComp15GermanLoader](./SigComp15GermanLoader.md)
 
-Namespace: [SigStat]() > [Common](./../README.md) > [Loaders](./README.md)
+Namespace: [SigStat](./) > [Common](./../README.md) > [Loaders](./README.md)
 
 Assembly: SigStat.Common.dll
 

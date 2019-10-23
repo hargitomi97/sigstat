@@ -1,6 +1,6 @@
 # [BenchmarkSignerLogState](./BenchmarkSignerLogState.md)
 
-Namespace: [SigStat]() > [Common](./../README.md) > [Logging](./README.md)
+Namespace: [SigStat](./) > [Common](./../README.md) > [Logging](./README.md)
 
 Assembly: SigStat.Common.dll
 
