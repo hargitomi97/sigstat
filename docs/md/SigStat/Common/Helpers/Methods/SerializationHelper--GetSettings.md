@@ -4,7 +4,7 @@ Settings used for the serialization methods
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[JsonSerializerSettings](./SerializationHelper--GetSettings.md)</sub> | <sub>[GetSettings](./SerializationHelper--GetSettings.md) (  )</sub> | 
+| [JsonSerializerSettings](./SerializationHelper--GetSettings.md) | [GetSettings](./SerializationHelper--GetSettings.md) (  ) | 
 
 
 #### Parameters

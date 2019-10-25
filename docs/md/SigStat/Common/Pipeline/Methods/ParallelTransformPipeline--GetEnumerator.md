@@ -4,7 +4,7 @@
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerator)</sub> | <sub>[GetEnumerator](./ParallelTransformPipeline--GetEnumerator.md) (  )</sub> | 
+| [IEnumerator](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.IEnumerator) | [GetEnumerator](./ParallelTransformPipeline--GetEnumerator.md) (  ) | 
 
 
 #### Parameters

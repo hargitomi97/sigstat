@@ -4,7 +4,7 @@
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[IDisposable](https://docs.microsoft.com/en-us/dotnet/api/System.IDisposable)</sub> | <sub>[BeginScope](./SimpleConsoleLogger--BeginScope.md) ( [`TState`](./SimpleConsoleLogger--BeginScope.md) state )</sub> | 
+| [IDisposable](https://docs.microsoft.com/en-us/dotnet/api/System.IDisposable) | [BeginScope](./SimpleConsoleLogger--BeginScope.md) ( [`TState`](./SimpleConsoleLogger--BeginScope.md) state ) | 
 
 
 #### Parameters

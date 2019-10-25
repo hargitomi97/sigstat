@@ -4,7 +4,7 @@ Gets the specified feature. This is the preferred way.
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[T](./Signature--GetFeature.md)</sub> | <sub>[GetFeature](./Signature--GetFeature.md) ( [`FeatureDescriptor`](./../FeatureDescriptor.md) featureDescriptor )</sub> | 
+| [T](./Signature--GetFeature.md) | [GetFeature](./Signature--GetFeature.md) ( [`FeatureDescriptor`](./../FeatureDescriptor.md) featureDescriptor ) | 
 
 
 #### Parameters

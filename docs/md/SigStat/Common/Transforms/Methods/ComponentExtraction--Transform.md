@@ -4,7 +4,7 @@
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub> | <sub>[Transform](./ComponentExtraction--Transform.md) ( [`Signature`](./../../Signature.md) signature )</sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./ComponentExtraction--Transform.md) ( [`Signature`](./../../Signature.md) signature ) | 
 
 
 #### Parameters

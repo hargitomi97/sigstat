@@ -4,7 +4,7 @@ Loads one signature from specified stream.
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub> | <sub>[LoadSignature](./SigComp11DutchLoader--LoadSignature.md) ( [`Signature`](./../../Signature.md) signature, [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream) stream, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures )</sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [LoadSignature](./SigComp11DutchLoader--LoadSignature.md) ( [`Signature`](./../../Signature.md) signature, [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream) stream, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | 
 
 
 #### Parameters

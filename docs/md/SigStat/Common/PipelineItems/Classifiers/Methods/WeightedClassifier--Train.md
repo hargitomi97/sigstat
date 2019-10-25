@@ -4,7 +4,7 @@
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[ISignerModel](./../../../Pipeline/ISignerModel.md)</sub> | <sub>[Train](./WeightedClassifier--Train.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../../Signature.md)> signatures )</sub> | 
+| [ISignerModel](./../../../Pipeline/ISignerModel.md) | [Train](./WeightedClassifier--Train.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`Signature`](./../../../Signature.md)> signatures ) | 
 
 
 #### Parameters

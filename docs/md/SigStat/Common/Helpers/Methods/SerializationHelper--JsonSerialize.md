@@ -4,7 +4,7 @@ Creates json string from object
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[String](https://docs.microsoft.com/en-us/dotnet/api/System.String)</sub> | <sub>[JsonSerialize](./SerializationHelper--JsonSerialize.md) ( [`T`](./SerializationHelper--JsonSerialize.md) o )</sub> | 
+| [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | [JsonSerialize](./SerializationHelper--JsonSerialize.md) ( [`T`](./SerializationHelper--JsonSerialize.md) o ) | 
 
 
 #### Parameters

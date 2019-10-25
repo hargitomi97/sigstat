@@ -4,7 +4,7 @@ Constructs object from strings that were serialized previously
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[T](./SerializationHelper--Deserialize.md)</sub> | <sub>[Deserialize](./SerializationHelper--Deserialize.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) s )</sub> | 
+| [T](./SerializationHelper--Deserialize.md) | [Deserialize](./SerializationHelper--Deserialize.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) s ) | 
 
 
 #### Parameters

@@ -4,7 +4,7 @@ Constructs object from file given by a path
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[T](./SerializationHelper--DeserializeFromFile.md)</sub> | <sub>[DeserializeFromFile](./SerializationHelper--DeserializeFromFile.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path )</sub> | 
+| [T](./SerializationHelper--DeserializeFromFile.md) | [DeserializeFromFile](./SerializationHelper--DeserializeFromFile.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path ) | 
 
 
 #### Parameters

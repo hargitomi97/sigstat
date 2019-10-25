@@ -4,7 +4,7 @@ Loads one signature from specified stream.
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub> | <sub>[LoadSignature](./Svc2004Loader--LoadSignature.md) ( [`Signature`](./../../Signature.md) signature, [`Stream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.Stream) stream, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures )</sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [LoadSignature](./Svc2004Loader--LoadSignature.md) ( [`Signature`](./../../Signature.md) signature, [`Stream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.Stream) stream, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures ) | 
 
 
 #### Parameters

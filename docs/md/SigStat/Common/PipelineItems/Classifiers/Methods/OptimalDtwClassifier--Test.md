@@ -4,7 +4,7 @@
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub> | <sub>[Test](./OptimalDtwClassifier--Test.md) ( [`ISignerModel`](./../../../Pipeline/ISignerModel.md) signerModel, [`Signature`](./../../../Signature.md) signature )</sub> | 
+| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | [Test](./OptimalDtwClassifier--Test.md) ( [`ISignerModel`](./../../../Pipeline/ISignerModel.md) signerModel, [`Signature`](./../../../Signature.md) signature ) | 
 
 
 #### Parameters

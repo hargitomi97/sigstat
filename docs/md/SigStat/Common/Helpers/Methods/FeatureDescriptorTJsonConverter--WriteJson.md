@@ -4,7 +4,7 @@
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub> | <sub>[WriteJson](./FeatureDescriptorTJsonConverter--WriteJson.md) ( [`JsonWriter`](./FeatureDescriptorTJsonConverter--WriteJson.md) writer, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) value, [`JsonSerializer`](./FeatureDescriptorTJsonConverter--WriteJson.md) serializer )</sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [WriteJson](./FeatureDescriptorTJsonConverter--WriteJson.md) ( [`JsonWriter`](./FeatureDescriptorTJsonConverter--WriteJson.md) writer, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object) value, [`JsonSerializer`](./FeatureDescriptorTJsonConverter--WriteJson.md) serializer ) | 
 
 
 #### Parameters

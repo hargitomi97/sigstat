@@ -4,7 +4,7 @@ Calculates distance between two points.  Distance method can be set in ctor.
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub> | <sub>[Distance](./Dtw--Distance.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] p1, [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] p2 )</sub> | 
+| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | [Distance](./Dtw--Distance.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] p1, [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] p2 ) | 
 
 
 #### Parameters

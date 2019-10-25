@@ -4,7 +4,7 @@ Enumerates all values in a two dimensional array
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[T](./ArrayExtension--GetValues.md)></sub> | <sub>[GetValues](./ArrayExtension--GetValues.md) ( [`T`](./ArrayExtension--GetValues.md)[] array )</sub> | 
+| [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[T](./ArrayExtension--GetValues.md)> | [GetValues](./ArrayExtension--GetValues.md) ( [`T`](./ArrayExtension--GetValues.md)[] array ) | 
 
 
 #### Parameters

@@ -4,7 +4,7 @@
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[FeatureDescriptor](./../FeatureDescriptor-1.md)\<[T](./FeatureDescriptor`1--Get.md)></sub> | <sub>[Get](./FeatureDescriptor`1--Get.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) key )</sub> | 
+| [FeatureDescriptor](./../FeatureDescriptor-1.md)\<[T](./FeatureDescriptor`1--Get.md)> | [Get](./FeatureDescriptor`1--Get.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) key ) | 
 
 
 #### Parameters

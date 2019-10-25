@@ -4,7 +4,7 @@
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub> | <sub>[Transform](./AddVector--Transform.md) ( [`Signature`](./../../Signature.md) signature )</sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./AddVector--Transform.md) ( [`Signature`](./../../Signature.md) signature ) | 
 
 
 #### Parameters

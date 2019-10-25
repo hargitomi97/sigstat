@@ -4,7 +4,7 @@ Executes the transform on the `signature` parameter.  This function gets called 
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub> | <sub>[Transform](./ITransformation--Transform.md) ( [`Signature`](./../Signature.md) signature )</sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./ITransformation--Transform.md) ( [`Signature`](./../Signature.md) signature ) | 
 
 
 #### Parameters

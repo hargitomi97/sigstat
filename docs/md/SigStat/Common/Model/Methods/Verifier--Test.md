@@ -4,7 +4,7 @@ Verifies the genuinity of `signature`.
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub> | <sub>[Test](./Verifier--Test.md) ( [`Signature`](./../../Signature.md) signature )</sub> | 
+| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | [Test](./Verifier--Test.md) ( [`Signature`](./../../Signature.md) signature ) | 
 
 
 #### Parameters

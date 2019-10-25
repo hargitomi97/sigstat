@@ -4,7 +4,7 @@ Creates a link to selected cells in given sheet
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub> | <sub>[InsertLink](./ExcelHelper--InsertLink.md) ( [`ExcelRange`](./ExcelHelper--InsertLink.md) range, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) sheet, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) cells )</sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [InsertLink](./ExcelHelper--InsertLink.md) ( [`ExcelRange`](./ExcelHelper--InsertLink.md) range, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) sheet, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) cells ) | 
 
 
 #### Parameters

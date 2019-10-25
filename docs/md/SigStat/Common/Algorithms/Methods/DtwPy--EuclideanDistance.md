@@ -4,7 +4,7 @@ Calculates the euclidean distance of two vectors
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub> | <sub>[EuclideanDistance](./DtwPy--EuclideanDistance.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] vector1, [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] vector2 )</sub> | 
+| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | [EuclideanDistance](./DtwPy--EuclideanDistance.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] vector1, [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] vector2 ) | 
 
 
 #### Parameters

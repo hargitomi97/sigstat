@@ -4,7 +4,7 @@ Formats and writes an debug log message.
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub> | <sub>[LogDebug](./ILoggerObjectExtensions--LogDebug.md) ( [`ILoggerObject`](./../ILoggerObject.md) obj, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) message, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[] args )</sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [LogDebug](./ILoggerObjectExtensions--LogDebug.md) ( [`ILoggerObject`](./../ILoggerObject.md) obj, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) message, [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[] args ) | 
 
 
 #### Parameters

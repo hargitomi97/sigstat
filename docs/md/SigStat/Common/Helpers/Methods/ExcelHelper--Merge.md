@@ -4,7 +4,7 @@ Merge all cells into one in the range.
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub> | <sub>[Merge](./ExcelHelper--Merge.md) ( [`ExcelRangeBase`](./ExcelHelper--Merge.md) range )</sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Merge](./ExcelHelper--Merge.md) ( [`ExcelRangeBase`](./ExcelHelper--Merge.md) range ) | 
 
 
 #### Parameters

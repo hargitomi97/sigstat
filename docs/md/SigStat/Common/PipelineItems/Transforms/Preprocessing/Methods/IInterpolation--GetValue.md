@@ -4,7 +4,7 @@ Gets the interpolated value at a given timestamp
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)</sub> | <sub>[GetValue](./IInterpolation--GetValue.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) timestamp )</sub> | 
+| [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | [GetValue](./IInterpolation--GetValue.md) ( [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) timestamp ) | 
 
 
 #### Parameters

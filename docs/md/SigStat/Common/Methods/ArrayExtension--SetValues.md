@@ -4,7 +4,7 @@ Sets all values in a two dimensional array to `value`
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[T](./ArrayExtension--SetValues.md)[]</sub> | <sub>[SetValues](./ArrayExtension--SetValues.md) ( [`T`](./ArrayExtension--SetValues.md)[] array, [`T`](./ArrayExtension--SetValues.md) value )</sub> | 
+| [T](./ArrayExtension--SetValues.md)[] | [SetValues](./ArrayExtension--SetValues.md) ( [`T`](./ArrayExtension--SetValues.md)[] array, [`T`](./ArrayExtension--SetValues.md) value ) | 
 
 
 #### Parameters

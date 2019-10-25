@@ -4,7 +4,7 @@
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub> | <sub>[Transform](./NormalizeRotation--Transform.md) ( [`Signature`](./../../../../Signature.md) signature )</sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./NormalizeRotation--Transform.md) ( [`Signature`](./../../../../Signature.md) signature ) | 
 
 
 #### Parameters

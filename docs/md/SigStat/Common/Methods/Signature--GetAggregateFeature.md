@@ -4,7 +4,7 @@ Aggregate multiple features into one. Example: X, Y features -&gt; P.xy feature.
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[]></sub> | <sub>[GetAggregateFeature](./Signature--GetAggregateFeature.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`FeatureDescriptor`](./../FeatureDescriptor.md)> fs )</sub> | 
+| [List](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[]> | [GetAggregateFeature](./Signature--GetAggregateFeature.md) ( [`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`FeatureDescriptor`](./../FeatureDescriptor.md)> fs ) | 
 
 
 #### Parameters

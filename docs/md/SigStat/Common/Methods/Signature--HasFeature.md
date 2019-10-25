@@ -4,7 +4,7 @@ Returns true if the signature contains the specified feature
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)</sub> | <sub>[HasFeature](./Signature--HasFeature.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) featureKey )</sub> | 
+| [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | [HasFeature](./Signature--HasFeature.md) ( [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) featureKey ) | 
 
 
 #### Parameters

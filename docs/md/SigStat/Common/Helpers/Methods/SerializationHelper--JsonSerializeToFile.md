@@ -4,7 +4,7 @@ Writes object to file to the given by path in json format
 
 | Return | Name | 
 | --- | --- | 
-| <sub>[Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)</sub> | <sub>[JsonSerializeToFile](./SerializationHelper--JsonSerializeToFile.md) ( [`T`](./SerializationHelper--JsonSerializeToFile.md) o, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path )</sub> | 
+| [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [JsonSerializeToFile](./SerializationHelper--JsonSerializeToFile.md) ( [`T`](./SerializationHelper--JsonSerializeToFile.md) o, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path ) | 
 
 
 #### Parameters
