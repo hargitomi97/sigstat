@@ -11,4 +11,4 @@ Registers a new [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/
 **`featureKey`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>The key for identifying the FeatureDescriptor<br><br>**`type`**  [`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type)<br>The type of the actual feature values represented by [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md)
 #### Returns
 [FeatureDescriptor](./../FeatureDescriptor.md)<br>
-A reference to the registered `SigStat.Common.FeatureDescriptor` instance
+A reference to the registered [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md) instance

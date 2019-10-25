@@ -11,4 +11,4 @@ Gets a collection of [FeatureDescriptor](https://github.com/hargitomi97/sigstat/
 
 #### Returns
 [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.IEnumerable-1)\<[FeatureDescriptor](./../FeatureDescriptor.md)><br>
-A collection of `SigStat.Common.FeatureDescriptor`s.
+A collection of [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md)s.
