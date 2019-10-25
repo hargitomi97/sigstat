@@ -8,6 +8,6 @@ Returns true if the signature contains the specified feature
 
 
 #### Parameters
-**`featureKey`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>The key to search for
+**`featureKey`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>
 #### Returns
 [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)<br>

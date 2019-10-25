@@ -8,7 +8,7 @@ Sets all values in a two dimensional array to `value`
 
 
 #### Parameters
-**`array`**  [`T`](./ArrayExtension--SetValues.md)[]<br>The array to enumerate<br><br>**`value`**  [`T`](./ArrayExtension--SetValues.md)<br>New value for the array elements
+**`array`**  [`T`](./ArrayExtension--SetValues.md)[]<br>Array<br><br>**`value`**  [`T`](./ArrayExtension--SetValues.md)<br>New value for the array elements
 #### Returns
 [T](./ArrayExtension--SetValues.md)[]<br>
 A reference to `array` (allows chaining)

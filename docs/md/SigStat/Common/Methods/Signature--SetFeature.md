@@ -8,6 +8,6 @@ Sets the specified feature.
 
 
 #### Parameters
-**`featureKey`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>The key to search for<br><br>**`feature`**  [`T`](./Signature--SetFeature.md)<br>The value to set.
+**`featureKey`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>The unique key of the feature.<br><br>**`feature`**  [`T`](./Signature--SetFeature.md)<br>The value to set.
 #### Returns
 [Signature](./../Signature.md)<br>

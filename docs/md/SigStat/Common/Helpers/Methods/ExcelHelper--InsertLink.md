@@ -8,6 +8,6 @@ Creates a link to selected cells in given sheet
 
 
 #### Parameters
-**`range`**  [`ExcelRange`](./ExcelHelper--InsertLink.md)<br>Cells to merge<br><br>**`sheet`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>Destination sheet's name<br><br>**`cells`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>Destination cells' address
+**`range`**  [`ExcelRange`](./ExcelHelper--InsertLink.md)<br>Cells to place the link in<br><br>**`sheet`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>Destination sheet's name<br><br>**`cells`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>Destination cells' address
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<br>
