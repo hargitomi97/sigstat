@@ -8,6 +8,6 @@ Draws a column chart for the given data
 
 
 #### Parameters
-
+**`ws`**  [`ExcelWorksheet`](./ExcelHelper--InsertColumnChart.md)<br>Worksheet in wich the graph is inserted<br><br>**`range`**  [`ExcelRange`](./ExcelHelper--InsertColumnChart.md)<br>Range containing the data (first row for x axis other rows for series)<br><br>**`row`**  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<br>The graph inserted starts at this row<br><br>
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<br>

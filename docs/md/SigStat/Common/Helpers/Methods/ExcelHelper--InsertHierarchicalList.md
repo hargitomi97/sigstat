@@ -8,6 +8,6 @@ Insert a hierarchical list in tree style into the worksheet
 
 
 #### Parameters
-
+**`ws`**  [`ExcelWorksheet`](./ExcelHelper--InsertHierarchicalList.md)<br>Worksheet in wich the list is inserted<br><br>**`row`**  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<br>Starting row of the list<br><br>**`col`**  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<br>Starting column of the list<br><br>
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<br>

@@ -8,6 +8,6 @@ Insert legend
 
 
 #### Parameters
-
+**`range`**  [`ExcelRange`](./ExcelHelper--InsertLegend.md)<br>Range of the legend<br><br>**`text`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>Text of the legend<br><br>**`title`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>Title of the legend (can be null)<br><br>
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<br>

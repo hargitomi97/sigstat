@@ -8,6 +8,6 @@ Inserts text into the defined cell, and format to match text level
 
 
 #### Parameters
-
+**`ws`**  [`ExcelWorksheet`](./ExcelHelper--InsertText.md)<br>Worksheet in wich the text is inserted<br><br>**`row`**  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<br>Row of the cell<br><br>**`col`**  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<br>Column of the cell<br><br>
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<br>

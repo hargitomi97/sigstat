@@ -8,7 +8,7 @@ Insert a table filled with data from an IEnumerable
 
 
 #### Parameters
-
+**`ws`**  [`ExcelWorksheet`](./ExcelHelper--InsertTable.md)<br>Worksheet in wich the table is created<br><br>**`row`**  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<br>Starting row of the table<br><br>**`col`**  [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<br>Starting column of the table<br><br>
 #### Returns
 [ExcelRange](./ExcelHelper--InsertTable.md)<br>
 Range of the inserted data

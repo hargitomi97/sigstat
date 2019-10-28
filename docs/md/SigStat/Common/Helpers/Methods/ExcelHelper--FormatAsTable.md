@@ -8,6 +8,6 @@ Format cells in the range into a table
 
 
 #### Parameters
-
+**`range`**  [`ExcelRange`](./ExcelHelper--FormatAsTable.md)<br>The table's cells<br><br>**`color`**  [`ExcelColor`](./../Excel/ExcelColor.md)<br>Color palette of the table<br><br>**`showColumnHeader`**  [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)<br>Defines if the table has column header<br><br>
 #### Returns
 [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void)<br>

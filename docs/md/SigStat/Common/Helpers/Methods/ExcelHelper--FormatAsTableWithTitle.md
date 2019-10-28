@@ -8,6 +8,6 @@ Format cells in the range into a table with possible title
 
 
 #### Parameters
-
+**`range`**  [`ExcelRange`](./ExcelHelper--FormatAsTableWithTitle.md)<br>The table's cells<br><br>**`title`**  [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)<br>The table's title, if null, the table won't have title<br><br>**`color`**  [`ExcelColor`](./../Excel/ExcelColor.md)<br>Color palette of the table<br><br>
 #### Returns
 [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)<br>
