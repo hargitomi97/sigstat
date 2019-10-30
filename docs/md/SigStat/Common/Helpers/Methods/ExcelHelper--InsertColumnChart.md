@@ -2,7 +2,7 @@
 
 Draws a column chart for the given data
 
-| Return<div><a href="#"><img width=375></a></div> | Name<div><a href="#"><img width=525></a></div> | 
+| <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Name | 
 | --- | --- | 
 | [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [InsertColumnChart](./ExcelHelper--InsertColumnChart.md) ([`ExcelWorksheet`](./ExcelHelper--InsertColumnChart.md) ws, [`ExcelRange`](./ExcelHelper--InsertColumnChart.md) range, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) row, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) col, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) name, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) xLabel, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) yLabel, [`ExcelRange`](./ExcelHelper--InsertColumnChart.md) serieLabels, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) width, [`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) height, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) title) | 
 

@@ -2,7 +2,7 @@
 
 Executes transform [Items](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/SequentialTransformPipeline.md) in sequence.  Passes input features for each.  Output is the output of the last Item in the sequence.
 
-| Return<div><a href="#"><img width=375></a></div> | Name<div><a href="#"><img width=525></a></div> | 
+| <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Name | 
 | --- | --- | 
 | [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./SequentialTransformPipeline--Transform.md) ([`Signature`](./../../Signature.md) signature) | 
 

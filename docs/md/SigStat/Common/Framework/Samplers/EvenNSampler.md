@@ -9,14 +9,14 @@ Selects the first N signatures with even index for training
 
 ## Constructors
 
-| Name<div><a href="#"><img width=375></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
+| <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
 | --- | --- | 
 | EvenNSampler ([`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32)) | Constructor | 
 
 
 ## Properties
 
-| Name<div><a href="#"><img width=375></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
+| <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
 | --- | --- | 
 | N | Count of signatures used for training | 
 

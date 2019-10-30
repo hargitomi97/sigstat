@@ -2,7 +2,7 @@
 
 Gets a dictionary of all registered feature descriptors
 
-| Return<div><a href="#"><img width=375></a></div> | Name<div><a href="#"><img width=525></a></div> | 
+| <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Name | 
 | --- | --- | 
 | [Dictionary](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.Dictionary-2)\<[String](https://docs.microsoft.com/en-us/dotnet/api/System.String), [FeatureDescriptor](./../FeatureDescriptor.md)> | [GetAll](./FeatureDescriptor--GetAll.md) () | 
 

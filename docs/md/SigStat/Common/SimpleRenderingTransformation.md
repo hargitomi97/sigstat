@@ -11,14 +11,14 @@ Renders an image of the signature based on the available online information (X,Y
 
 ## Constructors
 
-| Name<div><a href="#"><img width=375></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
+| <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
 | --- | --- | 
 | SimpleRenderingTransformation () |  | 
 
 
 ## Methods
 
-| Name<div><a href="#"><img width=375></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
+| <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
 | --- | --- | 
 | [Transform](./Methods/SimpleRenderingTransformation--Transform.md) ([`Signature`](./Signature.md)) |  | 
 

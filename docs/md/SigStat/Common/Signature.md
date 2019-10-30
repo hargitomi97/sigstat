@@ -11,7 +11,7 @@ Represents a signature as a collection of features, containing the data that flo
 
 ## Constructors
 
-| Name<div><a href="#"><img width=375></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
+| <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
 | --- | --- | 
 | Signature () | Initializes a signature instance | 
 | Signature ([`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Origin`](./Origin.md), [`Signer`](./Signer.md)) | Initializes a signature instance with the given properties | 
@@ -19,7 +19,7 @@ Represents a signature as a collection of features, containing the data that flo
 
 ## Properties
 
-| Name<div><a href="#"><img width=375></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
+| <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
 | --- | --- | 
 | ID | An identifier for the Signature. Keep it unique to be useful for logs. | 
 | Item [ [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) ] | Gets or sets the specified feature. | 
@@ -30,7 +30,7 @@ Represents a signature as a collection of features, containing the data that flo
 
 ## Methods
 
-| Name<div><a href="#"><img width=375></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
+| <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
 | --- | --- | 
 | [GetAggregateFeature](./Methods/Signature--GetAggregateFeature.md) ([`List`](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Generic.List-1)\<[`FeatureDescriptor`](./FeatureDescriptor.md)>) | Aggregate multiple features into one. Example: X, Y features -&gt; P.xy feature.  Use this for example at DTW algorithm input. | 
 | [GetEnumerator](./Methods/Signature--GetEnumerator.md) () | Returns an enumerator that iterates through the features. | 

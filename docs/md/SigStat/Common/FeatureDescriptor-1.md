@@ -9,7 +9,7 @@ Represents a feature with the type `T`
 
 ## Static Methods
 
-| Name<div><a href="#"><img width=375></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
+| <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
 | --- | --- | 
 | [Get](./Methods/FeatureDescriptor`1--Get.md) ([`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)) |  | 
 

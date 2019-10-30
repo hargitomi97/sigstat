@@ -2,7 +2,7 @@
 
 Execute the benchmarking process with a degree of parallelism.
 
-| Return<div><a href="#"><img width=375></a></div> | Name<div><a href="#"><img width=525></a></div> | 
+| <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Name | 
 | --- | --- | 
 | [BenchmarkResults](./../BenchmarkResults.md) | [Execute](./VerifierBenchmark--Execute.md) ([`Int32`](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) degreeOfParallelism) | 
 

@@ -2,7 +2,7 @@
 
 Merge all cells into one in the range.
 
-| Return<div><a href="#"><img width=375></a></div> | Name<div><a href="#"><img width=525></a></div> | 
+| <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Name | 
 | --- | --- | 
 | [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Merge](./ExcelHelper--Merge.md) ([`ExcelRangeBase`](./ExcelHelper--Merge.md) range) | 
 

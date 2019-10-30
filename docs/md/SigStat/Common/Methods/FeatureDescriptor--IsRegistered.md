@@ -2,7 +2,7 @@
 
 Returns true, if there is a FeatureDescriptor registered with the given key
 
-| Return<div><a href="#"><img width=375></a></div> | Name<div><a href="#"><img width=525></a></div> | 
+| <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Name | 
 | --- | --- | 
 | [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | [IsRegistered](./FeatureDescriptor--IsRegistered.md) ([`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) featureKey) | 
 

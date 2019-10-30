@@ -9,7 +9,7 @@ Extension methods for common IO operations
 
 ## Static Methods
 
-| Name<div><a href="#"><img width=375></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
+| <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
 | --- | --- | 
 | [GetPath](./Methods/IOExtensions--GetPath.md) ([`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)) | Gets the given relative or absolute path in a platform neutral form | 
 
