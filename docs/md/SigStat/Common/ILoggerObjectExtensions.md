@@ -10,7 +10,7 @@ ILoggerObject extension methods for common scenarios.
 ## Static Methods
 
 | <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
-| --- | --- | 
+| :--- | :--- | 
 | [LogCritical](./Methods/ILoggerObjectExtensions--LogCritical.md) ([`ILoggerObject`](./ILoggerObject.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[]) | Formats and writes an critical error log message. | 
 | [LogDebug](./Methods/ILoggerObjectExtensions--LogDebug.md) ([`ILoggerObject`](./ILoggerObject.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[]) | Formats and writes an debug log message. | 
 | [LogError](./Methods/ILoggerObjectExtensions--LogError.md) ([`ILoggerObject`](./ILoggerObject.md), [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String), [`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)[]) | Formats and writes an error log message. | 

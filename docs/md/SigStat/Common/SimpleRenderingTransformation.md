@@ -12,14 +12,14 @@ Renders an image of the signature based on the available online information (X,Y
 ## Constructors
 
 | <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
-| --- | --- | 
+| :--- | :--- | 
 | SimpleRenderingTransformation () |  | 
 
 
 ## Methods
 
 | <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
-| --- | --- | 
+| :--- | :--- | 
 | [Transform](./Methods/SimpleRenderingTransformation--Transform.md) ([`Signature`](./Signature.md)) |  | 
 
 

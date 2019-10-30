@@ -10,7 +10,7 @@ Represents a feature with the type `T`
 ## Static Methods
 
 | <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
-| --- | --- | 
+| :--- | :--- | 
 | [Get](./Methods/FeatureDescriptor`1--Get.md) ([`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)) |  | 
 
 

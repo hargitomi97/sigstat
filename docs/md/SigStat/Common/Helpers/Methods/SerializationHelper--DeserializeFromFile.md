@@ -3,7 +3,7 @@
 Constructs object from file given by a path
 
 | <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Name | 
-| --- | --- | 
+| :--- | :--- | 
 | [T](./SerializationHelper--DeserializeFromFile.md) | [DeserializeFromFile](./SerializationHelper--DeserializeFromFile.md) ([`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path) | 
 
 

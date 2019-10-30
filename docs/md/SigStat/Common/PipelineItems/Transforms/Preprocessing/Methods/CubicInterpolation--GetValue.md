@@ -3,7 +3,7 @@
 Gets the value.
 
 | <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Name | 
-| --- | --- | 
+| :--- | :--- | 
 | [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | [GetValue](./CubicInterpolation--GetValue.md) ([`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) timestamp) | 
 
 

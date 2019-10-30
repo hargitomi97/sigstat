@@ -3,7 +3,7 @@
 Add new transform to the list.
 
 | <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Name | 
-| --- | --- | 
+| :--- | :--- | 
 | [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Add](./ParallelTransformPipeline--Add.md) ([`ITransformation`](./../../ITransformation.md) newItem) | 
 
 

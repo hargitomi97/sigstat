@@ -3,7 +3,7 @@
 Loads one signature from specified stream.
 
 | <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Name | 
-| --- | --- | 
+| :--- | :--- | 
 | [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [LoadSignature](./SigComp19OnlineLoader--LoadSignature.md) ([`Signature`](./../../Signature.md) signature, [`MemoryStream`](https://docs.microsoft.com/en-us/dotnet/api/System.IO.MemoryStream) stream, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) standardFeatures) | 
 
 

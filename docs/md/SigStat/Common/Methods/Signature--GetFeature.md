@@ -3,7 +3,7 @@
 Gets the specified feature. This is the preferred way.
 
 | <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Name | 
-| --- | --- | 
+| :--- | :--- | 
 | [T](./Signature--GetFeature.md) | [GetFeature](./Signature--GetFeature.md) ([`FeatureDescriptor`](./../FeatureDescriptor.md) featureDescriptor) | 
 
 

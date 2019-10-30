@@ -10,7 +10,7 @@ Contains the benchmark results of a single [Signer](https://github.com/hargitomi
 ## Fields
 
 | <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
-| --- | --- | 
+| :--- | :--- | 
 | Aer | Average Error Rate | 
 | Far | False Acceptance Rate | 
 | Frr | False Rejection Rate | 

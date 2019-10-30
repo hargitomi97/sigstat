@@ -10,7 +10,7 @@ Standard set of features.
 ## Static Fields
 
 | <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
-| --- | --- | 
+| :--- | :--- | 
 | All | Returns a readonly list of all [FeatureDescriptor](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/FeatureDescriptor.md)s defined in [Features](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) | 
 | Altitude | Altitude of an online signature as a function of [T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) | 
 | Azimuth | Azimuth of an online signature as a function of [T](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Features.md) | 

@@ -3,7 +3,7 @@
 Executes the transform on the `signature` parameter.  This function gets called by the pipeline.
 
 | <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Name | 
-| --- | --- | 
+| :--- | :--- | 
 | [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./ITransformation--Transform.md) ([`Signature`](./../Signature.md) signature) | 
 
 

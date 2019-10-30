@@ -3,7 +3,7 @@
 Tells if the current object is of the correct type
 
 | <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Name | 
-| --- | --- | 
+| :--- | :--- | 
 | [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | [CanConvert](./FeatureDescriptorDictionaryConverter--CanConvert.md) ([`Type`](https://docs.microsoft.com/en-us/dotnet/api/System.Type) objectType) | 
 
 

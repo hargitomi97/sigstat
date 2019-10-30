@@ -3,7 +3,7 @@
 Executes transform [Items](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/ParallelTransformPipeline.md) parallel.  Passes input features for each.  Output is a range of all the Item outputs.
 
 | <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Name | 
-| --- | --- | 
+| :--- | :--- | 
 | [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Transform](./ParallelTransformPipeline--Transform.md) ([`Signature`](./../../Signature.md) signature) | 
 
 

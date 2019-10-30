@@ -10,7 +10,7 @@ Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/b
 ## Constructors
 
 | <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
-| --- | --- | 
+| :--- | :--- | 
 | Output ([`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)) | Initializes a new instance of the [Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class. | 
 | Output () | Initializes a new instance of the [Output](https://github.com/hargitomi97/sigstat/blob/master/docs/md/SigStat/Common/Pipeline/Output.md) class. | 
 
@@ -18,7 +18,7 @@ Annotates an output [FeatureDescriptor](https://github.com/hargitomi97/sigstat/b
 ## Fields
 
 | <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
-| --- | --- | 
+| :--- | :--- | 
 | Default | The default value for the property | 
 
 
