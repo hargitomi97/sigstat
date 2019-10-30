@@ -2,7 +2,7 @@
 
 Enumerates all values in a two dimensional array
 
-| Return&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Name | 
+| Return<div><a href="#"><img width=375></a></div> | Name<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/System.Collections.Ienumerable)\<[T](./ArrayExtension--GetValues.md)> | [GetValues](./ArrayExtension--GetValues.md) ([`T`](./ArrayExtension--GetValues.md)[] array) | 
 

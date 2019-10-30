@@ -2,7 +2,7 @@
 
 Gets the specified feature. This is the preferred way.
 
-| Return&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Name | 
+| Return<div><a href="#"><img width=375></a></div> | Name<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [T](./Signature--GetFeature.md) | [GetFeature](./Signature--GetFeature.md) ([`FeatureDescriptor`](./../FeatureDescriptor.md) featureDescriptor) | 
 
