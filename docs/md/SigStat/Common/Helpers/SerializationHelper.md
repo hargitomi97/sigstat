@@ -9,14 +9,14 @@ Json serialization and deserialization using the custom resolver  [VerifierResol
 
 ## Constructors
 
-| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Summary | 
 | --- | --- | 
 | SerializationHelper () |  | 
 
 
 ## Static Methods
 
-| Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
+| Name&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Summary | 
 | --- | --- | 
 | [Deserialize](./Methods/SerializationHelper--Deserialize.md) ([`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)) | Constructs object from strings that were serialized previously | 
 | [DeserializeFromFile](./Methods/SerializationHelper--DeserializeFromFile.md) ([`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String)) | Constructs object from file given by a path | 

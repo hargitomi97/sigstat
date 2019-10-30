@@ -2,7 +2,7 @@
 
 Match the 3x3 input with the 3x3 pattern.
 
-| Return<div><a href="#"><img width=225></a></div> | Name<div><a href="#"><img width=525></a></div> | 
+| Return&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Name | 
 | --- | --- | 
 | [Boolean](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) | [Match](./PatternMatching3x3--Match.md) ([`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean)[] input) | 
 

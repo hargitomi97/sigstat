@@ -2,7 +2,7 @@
 
 Format cells in the range into a table
 
-| Return<div><a href="#"><img width=225></a></div> | Name<div><a href="#"><img width=525></a></div> | 
+| Return&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Name | 
 | --- | --- | 
 | [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [FormatAsTable](./ExcelHelper--FormatAsTable.md) ([`ExcelRange`](./ExcelHelper--FormatAsTable.md) range, [`ExcelColor`](./../Excel/ExcelColor.md) color, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) showColumnHeader, [`Boolean`](https://docs.microsoft.com/en-us/dotnet/api/System.Boolean) showRowHeader) | 
 

@@ -2,7 +2,7 @@
 
 Saves a png image file to the specified `path`.
 
-| Return<div><a href="#"><img width=225></a></div> | Name<div><a href="#"><img width=525></a></div> | 
+| Return&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Name | 
 | --- | --- | 
 | [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [Save](./ImageSaver--Save.md) ([`Signature`](./../../Signature.md) signature, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path) | 
 

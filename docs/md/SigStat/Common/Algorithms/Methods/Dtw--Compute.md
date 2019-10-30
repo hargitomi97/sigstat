@@ -2,7 +2,7 @@
 
 
 
-| Return<div><a href="#"><img width=225></a></div> | Name<div><a href="#"><img width=525></a></div> | 
+| Return&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Name | 
 | --- | --- | 
 | [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | [Compute](./Dtw--Compute.md) ([`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] signature1, [`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double)[] signature2) | 
 

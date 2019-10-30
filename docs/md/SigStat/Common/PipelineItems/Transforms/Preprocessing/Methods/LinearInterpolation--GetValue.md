@@ -2,7 +2,7 @@
 
 Gets the interpolated value at a given timestamp
 
-| Return<div><a href="#"><img width=225></a></div> | Name<div><a href="#"><img width=525></a></div> | 
+| Return&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Name | 
 | --- | --- | 
 | [Double](https://docs.microsoft.com/en-us/dotnet/api/System.Double) | [GetValue](./LinearInterpolation--GetValue.md) ([`Double`](https://docs.microsoft.com/en-us/dotnet/api/System.Double) timestamp) | 
 
