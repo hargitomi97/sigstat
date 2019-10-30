@@ -11,7 +11,7 @@ Represents a person as an [ID](https://github.com/hargitomi97/sigstat/blob/maste
 
 | Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
-| Signer (  ) |  | 
+| Signer () |  | 
 
 
 ## Properties
@@ -26,6 +26,6 @@ Represents a person as an [ID](https://github.com/hargitomi97/sigstat/blob/maste
 
 | Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
-| [ToString](./Methods/Signer--ToString.md) (  ) | Returns a string representation of a Signer | 
+| [ToString](./Methods/Signer--ToString.md) () | Returns a string representation of a Signer | 
 
 

@@ -13,7 +13,7 @@ Removes samples based on a criteria from online signature time series
 
 | Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
-| FilterPoints (  ) |  | 
+| FilterPoints () |  | 
 
 
 ## Properties
@@ -31,6 +31,6 @@ Removes samples based on a criteria from online signature time series
 
 | Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
-| [Transform](./Methods/FilterPoints--Transform.md) ( [`Signature`](./../../../Signature.md) ) |  | 
+| [Transform](./Methods/FilterPoints--Transform.md) ([`Signature`](./../../../Signature.md)) |  | 
 
 

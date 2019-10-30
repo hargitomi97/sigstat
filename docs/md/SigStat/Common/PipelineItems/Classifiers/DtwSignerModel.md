@@ -13,7 +13,7 @@ Represents a trained model for [DtwClassifier](https://github.com/hargitomi97/si
 
 | Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
-| DtwSignerModel (  ) |  | 
+| DtwSignerModel () |  | 
 
 
 ## Fields

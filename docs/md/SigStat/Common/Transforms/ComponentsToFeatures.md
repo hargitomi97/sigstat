@@ -13,7 +13,7 @@ Extracts standard [Features](https://github.com/hargitomi97/sigstat/blob/master/
 
 | Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
-| ComponentsToFeatures (  ) |  | 
+| ComponentsToFeatures () |  | 
 
 
 ## Properties
@@ -30,6 +30,6 @@ Extracts standard [Features](https://github.com/hargitomi97/sigstat/blob/master/
 
 | Name<div><a href="#"><img width=225></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
-| [Transform](./Methods/ComponentsToFeatures--Transform.md) ( [`Signature`](./../Signature.md) ) |  | 
+| [Transform](./Methods/ComponentsToFeatures--Transform.md) ([`Signature`](./../Signature.md)) |  | 
 
 
