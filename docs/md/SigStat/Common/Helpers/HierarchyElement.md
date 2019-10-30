@@ -11,7 +11,7 @@ Hierarchical structure to store object
 
 ## Constructors
 
-| Name&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Summary | 
+| Name<div><a href="#"><img width=375></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | HierarchyElement () | Create an emty element | 
 | HierarchyElement ([`Object`](https://docs.microsoft.com/en-us/dotnet/api/System.Object)) | Create a new element with content | 
@@ -19,7 +19,7 @@ Hierarchical structure to store object
 
 ## Properties
 
-| Name&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Summary | 
+| Name<div><a href="#"><img width=375></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | Children | Gets the children. | 
 | Content | Gets or sets the content. | 
@@ -27,7 +27,7 @@ Hierarchical structure to store object
 
 ## Methods
 
-| Name&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Summary | 
+| Name<div><a href="#"><img width=375></a></div> | Summary<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [Add](./Methods/HierarchyElement--Add.md) ([`HierarchyElement`](./HierarchyElement.md)) |  | 
 | [GetCount](./Methods/HierarchyElement--GetCount.md) () | Returns number of elements under this node and itself | 

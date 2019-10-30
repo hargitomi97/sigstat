@@ -2,7 +2,7 @@
 
 
 
-| Return&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Name | 
+| Return<div><a href="#"><img width=375></a></div> | Name<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [Signature](./../../Signature.md) | [LoadSignature](./ImageLoader--LoadSignature.md) ([`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) file) | 
 

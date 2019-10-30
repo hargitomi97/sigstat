@@ -2,7 +2,7 @@
 
 Writes object to file to the given by path in json format
 
-| Return&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Name | 
+| Return<div><a href="#"><img width=375></a></div> | Name<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [Void](https://docs.microsoft.com/en-us/dotnet/api/System.Void) | [JsonSerializeToFile](./SerializationHelper--JsonSerializeToFile.md) ([`T`](./SerializationHelper--JsonSerializeToFile.md) o, [`String`](https://docs.microsoft.com/en-us/dotnet/api/System.String) path) | 
 

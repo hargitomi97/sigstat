@@ -2,7 +2,7 @@
 
 Creates json string from object
 
-| Return&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Name | 
+| Return<div><a href="#"><img width=375></a></div> | Name<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [String](https://docs.microsoft.com/en-us/dotnet/api/System.String) | [JsonSerialize](./SerializationHelper--JsonSerialize.md) ([`T`](./SerializationHelper--JsonSerialize.md) o) | 
 

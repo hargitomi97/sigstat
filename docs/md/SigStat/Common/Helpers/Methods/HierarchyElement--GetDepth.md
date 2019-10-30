@@ -2,7 +2,7 @@
 
 Return the hierarchy's depth from this node
 
-| Return&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Name | 
+| Return<div><a href="#"><img width=375></a></div> | Name<div><a href="#"><img width=525></a></div> | 
 | --- | --- | 
 | [Int32](https://docs.microsoft.com/en-us/dotnet/api/System.Int32) | [GetDepth](./HierarchyElement--GetDepth.md) () | 
 
