@@ -7,22 +7,6 @@ Assembly: SigStat.Common.dll
 ## Summary
 Represents a feature with name and type.
 
-## Properties
-
-| <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
-| :--- | :--- | 
-| FeatureType | Gets or sets the type of the feature. | 
-| IsCollection | Gets whether the type of the feature is List. | 
-| Key | Gets the unique key of the feature. | 
-| Name | Gets or sets a human readable name of the feature. | 
-
-
-## Methods
-
-| <span>Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> | Summary | 
-| :--- | :--- | 
-| [ToString](./Methods/FeatureDescriptor--ToString.md) () | Returns a string represenatation of the FeatureDescriptor | 
-
 
 ## Static Methods
 
